@@ -136,10 +136,16 @@ function retrieve(query, limit) {
   const qTokens = tokenize(query);
   const themes = detectThemes(qTokens);
   const byCandidate = new Map(STATE.candidates.map((c) => [c.id, []]));
+  let best = 0;
   for (const m of STATE.measures) {
     const s = scoreMeasure(m, qTokens, themes);
     if (s >= CONFIG.MIN_RELEVANCE) byCandidate.get(m.candidate_id)?.push({ measure: m, score: s });
+    if (s > best) best = s;
   }
+  /* Pertinence de chaque mesure pour cette recherche, relative à la meilleure mesure
+     trouvée tous candidats confondus (1 = aussi pertinente que la meilleure). */
+  STATE.relevance = new Map();
+  for (const list of byCandidate.values()) for (const x of list) STATE.relevance.set(x.measure.id, best ? x.score / best : 0);
   return shuffle(STATE.candidates).map((candidate) => ({
     candidate,
     measures: (byCandidate.get(candidate.id) || [])
@@ -250,12 +256,17 @@ function renderMeasure(measure) {
 
 /* ---------- Classement ---------- */
 
-/* Score d'un candidat pour une recherche : somme des indices de solidité des mesures
-   affichées (au plus MAX_PER_CANDIDATE), ramenée sur 100. Il combine donc le nombre de
-   mesures liées à la situation et leur solidité. Une mesure non notée compte pour 0.
-   À score égal, l'ordre reste tiré au hasard. */
+/* Score d'un candidat pour une recherche : pour chaque mesure affichée (au plus
+   MAX_PER_CANDIDATE), indice de solidité multiplié par sa pertinence pour la situation
+   (relative à la meilleure mesure trouvée, entre 0 et 1) ; somme ramenée sur 100.
+   Il combine donc le nombre de mesures, leur pertinence et leur solidité. Une mesure
+   non notée compte pour 0. À score égal, l'ordre reste tiré au hasard. */
+function measureRelevance(m) {
+  return STATE.relevance?.get(m.id) ?? 0;
+}
+
 function candidateScore(measures) {
-  const sum = measures.reduce((acc, m) => acc + (computeScore(m).value ?? 0), 0);
+  const sum = measures.reduce((acc, m) => acc + (computeScore(m).value ?? 0) * measureRelevance(m), 0);
   return Math.round(sum / CONFIG.MAX_PER_CANDIDATE);
 }
 
@@ -311,7 +322,7 @@ function renderBallots(selection, aiByCandidate) {
     node.classList.add("enter");
     node.querySelector(".ballot-rank").textContent = `${i + 1}`;
     node.querySelector(".ballot-score").textContent = `Score ${score}/100`;
-    node.querySelector(".ballot-score").title = "Somme des indices de solidité des mesures affichées, ramenée sur 100 (3 mesures au plus).";
+    node.querySelector(".ballot-score").title = "Pour chaque mesure affichée (3 au plus) : indice de solidité × pertinence pour votre situation. Somme ramenée sur 100.";
     node.querySelector(".ballot-name").textContent = candidate.name;
     node.querySelector(".ballot-party").textContent = candidate.party || "";
     const link = node.querySelector(".program-link");
@@ -492,7 +503,7 @@ function setResultsMeta(selection, ai) {
   const withHits = selection.filter((s) => s.measures.length).length;
   $("#results-meta").textContent =
     `${withHits} programme${withHits > 1 ? "s" : ""} sur ${selection.length} contien${withHits > 1 ? "nent" : "t"} des mesures liées à votre situation. ` +
-    `Candidats classés par score : nombre de mesures liées à votre situation (${CONFIG.MAX_PER_CANDIDATE} au plus) pondéré par leur indice de solidité. Égalités départagées au hasard. Ce score ne juge pas le fond des mesures.` +
+    `Candidats classés par score : pour chaque mesure affichée (${CONFIG.MAX_PER_CANDIDATE} au plus), pertinence pour votre situation × indice de solidité. Égalités départagées au hasard. Ce score ne juge pas le fond des mesures.` +
     (ai ? " Les explications sont générées par IA et peuvent contenir des erreurs : seul l'extrait du programme fait foi." : "");
 }
 

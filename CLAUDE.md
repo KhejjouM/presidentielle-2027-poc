@@ -4,7 +4,7 @@
 
 Site statique (GitHub Pages) qui aide un électeur à retrouver, dans chaque programme officiel de la présidentielle 2027, les mesures liées à sa situation. Chaque mesure affiche sa source exacte, un statut de vérification automatique sur le site du candidat, et un indice de solidité dont la grille est publique.
 
-Le site ne recommande jamais un candidat. C'est la contrainte qui prime sur toutes les autres. Les résultats sont classés par un score documentaire public (nombre de mesures pertinentes affichées pondéré par leur indice de solidité, voir METHODOLOGIE.md) : ne jamais y ajouter de critère qui juge le fond d'une mesure ou d'un candidat.
+Le site ne recommande jamais un candidat. C'est la contrainte qui prime sur toutes les autres. Les résultats sont classés par un score documentaire public (pour chaque mesure affichée : pertinence × indice de solidité, voir METHODOLOGIE.md) : ne jamais y ajouter de critère qui juge le fond d'une mesure ou d'un candidat.
 
 ## Règles non négociables
 
