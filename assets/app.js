@@ -248,15 +248,70 @@ function renderMeasure(measure) {
     </li>`;
 }
 
+/* ---------- Classement ---------- */
+
+/* Score d'un candidat pour une recherche : somme des indices de solidité des mesures
+   affichées (au plus MAX_PER_CANDIDATE), ramenée sur 100. Il combine donc le nombre de
+   mesures liées à la situation et leur solidité. Une mesure non notée compte pour 0.
+   À score égal, l'ordre reste tiré au hasard. */
+function candidateScore(measures) {
+  const sum = measures.reduce((acc, m) => acc + (computeScore(m).value ?? 0), 0);
+  return Math.round(sum / CONFIG.MAX_PER_CANDIDATE);
+}
+
+function rankSelection(selection) {
+  const withMeasures = selection
+    .filter((s) => s.measures.length)
+    .map((s) => ({ ...s, score: candidateScore(s.measures) }))
+    .sort((a, b) => b.score - a.score); /* tri stable : l'ordre aléatoire départage les égalités */
+  const without = selection.filter((s) => !s.measures.length);
+  return { ranked: withMeasures, without };
+}
+
+const NO_MEASURE_GROUPS = [
+  { key: "nomatch", title: "Leur programme ne contient pas de mesure intégrée liée à votre situation" },
+  { key: "aucun", title: "N'ont encore rien publié sur un site officiel" },
+  { key: "inaccessible", title: "Site officiel inaccessible à nos outils" },
+];
+
+function renderNoMeasureCard(without) {
+  if (!without.length) return null;
+  const groups = { nomatch: [], aucun: [], inaccessible: [] };
+  for (const { candidate } of without) {
+    const key = candidate.program_status === "aucun" || candidate.program_status === "inaccessible" ? candidate.program_status : "nomatch";
+    groups[key].push(candidate);
+  }
+  const byName = (a, b) => (a.sort_name || a.name.split(" ").slice(-1)[0]).localeCompare(b.sort_name || b.name.split(" ").slice(-1)[0], "fr");
+  const body = NO_MEASURE_GROUPS.filter((g) => groups[g.key].length).map((g) => `
+    <div class="none-group">
+      <h4>${escapeHTML(g.title)} <span class="none-count">(${groups[g.key].length})</span></h4>
+      <p>${groups[g.key].sort(byName).map((c) => c.program_url
+        ? `<a href="${escapeHTML(c.program_url)}" target="_blank" rel="noopener">${escapeHTML(c.name)}</a>`
+        : escapeHTML(c.name)).join(", ")}</p>
+    </div>`).join("");
+  const node = document.createElement("article");
+  node.className = "ballot-none";
+  node.innerHTML = `<h3>Ces candidats n'ont pas de mesure pour votre situation</h3>${body}
+    <p class="none-note">Cela ne signifie pas qu'ils n'ont rien prévu : seules les mesures publiées sur un site officiel et intégrées à l'outil sont prises en compte. Consultez la section <a href="#programmes">Programmes intégrés</a>.</p>`;
+  return node;
+}
+
 function renderBallots(selection, aiByCandidate) {
   const container = $("#ballots");
   container.innerHTML = "";
   const tpl = $("#ballot-template");
+  const { ranked, without } = rankSelection(selection);
 
-  selection.forEach(({ candidate, measures }, i) => {
+  const none = renderNoMeasureCard(without);
+  if (none) container.appendChild(none);
+
+  ranked.forEach(({ candidate, measures, score }, i) => {
     const node = tpl.content.firstElementChild.cloneNode(true);
     node.style.setProperty("--i", i);
     node.classList.add("enter");
+    node.querySelector(".ballot-rank").textContent = `${i + 1}`;
+    node.querySelector(".ballot-score").textContent = `Score ${score}/100`;
+    node.querySelector(".ballot-score").title = "Somme des indices de solidité des mesures affichées, ramenée sur 100 (3 mesures au plus).";
     node.querySelector(".ballot-name").textContent = candidate.name;
     node.querySelector(".ballot-party").textContent = candidate.party || "";
     const link = node.querySelector(".program-link");
@@ -270,14 +325,7 @@ function renderBallots(selection, aiByCandidate) {
       box.innerHTML = `<p class="ai-label">Explication générée par IA à partir des extraits ci-dessous</p><p>${escapeHTML(ai)}</p>`;
     }
 
-    const list = node.querySelector(".measures");
-    list.innerHTML = measures.length
-      ? measures.map(renderMeasure).join("")
-      : candidate.program_status === "inaccessible"
-        ? `<li class="empty">Le site officiel de ce candidat bloque les outils automatiques : ses mesures ne peuvent pas encore être intégrées ni vérifiées. Consultez directement son site.</li>`
-        : candidate.program_status === "aucun"
-        ? `<li class="empty">Ce candidat n'a pas encore publié de programme ou de propositions sur un site officiel.</li>`
-        : `<li class="empty">Aucune mesure intégrée de ce programme ne correspond à votre description. Consultez le programme complet pour vérifier.</li>`;
+    node.querySelector(".measures").innerHTML = measures.map(renderMeasure).join("");
     container.appendChild(node);
   });
 }
@@ -444,7 +492,7 @@ function setResultsMeta(selection, ai) {
   const withHits = selection.filter((s) => s.measures.length).length;
   $("#results-meta").textContent =
     `${withHits} programme${withHits > 1 ? "s" : ""} sur ${selection.length} contien${withHits > 1 ? "nent" : "t"} des mesures liées à votre situation. ` +
-    `Ordre des candidats tiré au hasard. ${CONFIG.MAX_PER_CANDIDATE} mesures au plus par candidat.` +
+    `Candidats classés par score : nombre de mesures liées à votre situation (${CONFIG.MAX_PER_CANDIDATE} au plus) pondéré par leur indice de solidité. Égalités départagées au hasard. Ce score ne juge pas le fond des mesures.` +
     (ai ? " Les explications sont générées par IA et peuvent contenir des erreurs : seul l'extrait du programme fait foi." : "");
 }
 

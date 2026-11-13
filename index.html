@@ -88,7 +88,7 @@
           <tbody id="programs-body"></tbody>
         </table>
       </div>
-      <p>Une mesure n'est intégrée que si son texte peut être copié mot pour mot depuis le site officiel du candidat ou de son parti. Les candidats sont classés par ordre alphabétique dans ce tableau ; dans les résultats, leur ordre est tiré au hasard.</p>
+      <p>Une mesure n'est intégrée que si son texte peut être copié mot pour mot depuis le site officiel du candidat ou de son parti. Les candidats sont classés par ordre alphabétique dans ce tableau ; dans les résultats, ils sont classés par score (voir la méthode).</p>
       <details id="programs-excluded" class="criteria" hidden><summary>Personnalités non retenues et pourquoi</summary><ul id="programs-excluded-list"></ul></details>
     </section>
 
@@ -97,7 +97,7 @@
       <p id="method-principle"></p>
       <div id="method-grid" class="method-grid"></div>
       <p>Chaque mesure est rattachée à un extrait mot pour mot du programme officiel. Un robot vérifie chaque jour que cet extrait figure toujours sur le site du candidat ou du parti, et archive la page.</p>
-      <p>L'ordre des candidats est tiré au hasard à chaque recherche. Chaque candidat a le même nombre maximal de mesures affichées.</p>
+      <p>Dans les résultats, les candidats sont classés par un score : la somme des indices de solidité de leurs mesures liées à votre situation (3 au plus par candidat), ramenée sur 100. Il récompense à la fois le nombre de mesures pertinentes et leur solidité ; il ne dit rien de leur contenu ni de leur intérêt. À score égal, l'ordre est tiré au hasard. Les candidats sans mesure correspondante sont regroupés dans un encadré unique.</p>
     </section>
 
     <section id="confidentialite" class="method" aria-labelledby="privacy-title">
@@ -115,6 +115,7 @@
   <template id="ballot-template">
     <article class="ballot">
       <header class="ballot-head">
+        <p class="ballot-meta"><span class="ballot-rank" aria-label="Rang"></span><span class="ballot-score"></span></p>
         <h3 class="ballot-name"></h3>
         <p class="ballot-party"></p>
       </header>

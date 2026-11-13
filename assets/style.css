@@ -10,6 +10,9 @@
   --empty: #dfe4e8;
   --warn-bg: #fff4d6;
   --warn-ink: #5b4300;
+  --alert-bg: #fdecec;
+  --alert-ink: #8a1c1c;
+  --alert-rule: #e9b4b4;
   --radius-slip: 2px;
   --radius-ctrl: 6px;
   --measure: 72ch;
@@ -32,6 +35,9 @@
     --empty: #2c3238;
     --warn-bg: #3a3014;
     --warn-ink: #f3dc9b;
+    --alert-bg: #3a1c1e;
+    --alert-ink: #f4b4b4;
+    --alert-rule: #6b2e31;
     color-scheme: dark;
   }
 }
@@ -302,3 +308,15 @@ blockquote.excerpt {
   .status-aucun, .status-inaccessible { color: #aaa; }
 }
 .visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* ---------- Classement et encadré des candidats sans mesure ---------- */
+.ballot-meta { display: flex; justify-content: space-between; align-items: center; margin: -0.5rem 0 0.6rem; font-size: 0.85rem; color: var(--muted); }
+.ballot-rank { display: inline-grid; place-items: center; min-width: 1.9rem; height: 1.9rem; border-radius: 999px; background: var(--stamp); color: var(--slip); font-weight: 700; }
+.ballot-score { font-variant-numeric: tabular-nums; }
+.ballot-none { grid-column: 1 / -1; background: var(--alert-bg); color: var(--alert-ink); border: 1px solid var(--alert-rule); border-radius: var(--radius-ctrl); padding: 1rem 1.25rem; }
+.ballot-none h3 { margin: 0 0 0.6rem; font-size: 1.1rem; }
+.ballot-none h4 { margin: 0.6rem 0 0.2rem; font-size: 0.92rem; }
+.ballot-none p { margin: 0; font-size: 0.95rem; line-height: 1.5; }
+.ballot-none a { color: inherit; }
+.none-count { font-weight: 400; }
+.ballot-none .none-note { margin-top: 0.75rem; font-size: 0.85rem; opacity: 0.85; }

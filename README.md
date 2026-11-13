@@ -6,7 +6,7 @@ POC d'un outil citoyen pour la présidentielle 2027 : l'utilisateur décrit sa s
 - un statut de vérification automatique (le texte figure-t-il toujours sur le site du candidat ou du parti ?) et une copie archivée ;
 - un indice de solidité de la mesure, dont chaque critère et chaque poids sont visibles par l'utilisateur.
 
-L'outil ne recommande aucun candidat. L'ordre des candidats est tiré au hasard et chacun a le même nombre maximal de mesures affichées.
+L'outil ne recommande aucun candidat. Les résultats sont classés par un score public et vérifiable (nombre de mesures liées à la situation, 3 au plus, pondéré par leur indice de solidité ; égalités tirées au hasard). Chaque candidat a le même nombre maximal de mesures affichées, et les candidats sans mesure pertinente sont regroupés dans un encadré unique.
 
 > **État actuel (13 novembre 2026) : candidats déclarés réels.** L'outil suit 34 personnes dont la candidature est rapportée par au moins deux médias nationaux, et intègre les mesures publiées sur leurs sites officiels (voir la section « Programmes intégrés » du site et `METHODOLOGIE.md`). La liste sera recalée sur la liste officielle du Conseil constitutionnel après le 12 mars 2027.
 
