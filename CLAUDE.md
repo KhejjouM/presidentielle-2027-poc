@@ -19,7 +19,7 @@ Le site ne recommande jamais un candidat. C'est la contrainte qui prime sur tout
 ## Structure
 
 ```
-index.html, assets/        site statique, sans build
+index.html, assets/        site statique, sans build ; changer le suffixe ?v= de style.css et app.js dans index.html à chaque modification (cache de GitHub Pages)
 data/candidates.json       candidats suivis (règle d'inclusion, sources de presse, statut du programme, domaines et documents officiels), personnes écartées
 data/research/             recensement brut des candidats (sources de la règle d'inclusion)
 data/measures/<id>.json    mesures d'un candidat
