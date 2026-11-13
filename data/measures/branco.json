@@ -1,0 +1,2449 @@
+{
+  "candidate_id": "branco",
+  "measures": [
+    {
+      "id": "branco-log-01",
+      "theme": "logement",
+      "title": "Créer des droits opposables au travail et au logement",
+      "summary": "Le projet prévoit des droits opposables au travail et au logement, accordés sur une durée limitée.",
+      "excerpt": "Droits opposables au travail et au logement sur une durée limitée.",
+      "tags": [
+        "logement",
+        "droit opposable",
+        "travail",
+        "dalo"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Social (p. 30)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-log-02",
+      "theme": "logement",
+      "title": "Supprimer les APL et aides au logement dans un plan contre la spéculation immobilière",
+      "summary": "Le projet associe un plan de lutte contre la spéculation immobilière à la suppression des APL, ALF, ALS, d'Action logement, de la garantie Visale et d'autres aides au logement.",
+      "excerpt": "Grand plan de lutte contre la spéculation immobilière couplé à une suppression des APL, ALF, ALS, primes au déménagement, PAH, Action logement, Garantie VISALE, LOCA-PASS, MOBILI-JEUNE, MOBILI-PASS, Ma prime adapt’…",
+      "tags": [
+        "apl",
+        "aides au logement",
+        "visale",
+        "spéculation immobilière"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Énergie, l'Écologie et les Logements (p. 53)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-log-03",
+      "theme": "logement",
+      "title": "Créer une garantie universelle des loyers",
+      "summary": "Le projet prévoit la création d'une garantie universelle des loyers.",
+      "excerpt": "Création d’une garantie universelle des loyers.",
+      "tags": [
+        "loyer",
+        "garantie",
+        "locataire",
+        "caution"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Énergie, l'Écologie et les Logements (p. 53)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-log-04",
+      "theme": "logement",
+      "title": "Imposer les transactions immobilières récurrentes",
+      "summary": "Le projet prévoit d'imposer les transactions immobilières récurrentes.",
+      "excerpt": "Imposition des transactions immobilières récurrentes.",
+      "tags": [
+        "immobilier",
+        "impôt",
+        "transaction",
+        "achat"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Énergie, l'Écologie et les Logements (p. 53)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-log-05",
+      "theme": "logement",
+      "title": "Abroger la loi ELAN et fusionner l'ANRU, l'ANAH et les OPH",
+      "summary": "Le projet prévoit l'abrogation de la loi ELAN et la fusion de l'ANRU, de l'ANAH et des OPH.",
+      "excerpt": "Abrogation de la loi ELAN, fusion de l’ANRU, l’ANAH, les OPH…",
+      "tags": [
+        "loi elan",
+        "anah",
+        "hlm",
+        "logement social"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Énergie, l'Écologie et les Logements (p. 53)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-log-06",
+      "theme": "logement",
+      "title": "Étatiser la gestion des logements sociaux et limiter la durée du bail",
+      "summary": "Le projet prévoit d'étatiser la gestion des logements sociaux, de réserver l'attribution aux plus défavorisés avec obligation d'attribution sous un an, de réviser les loyers tous les six mois selon revenu et patrimoine et de limiter le bail à 5 ans renouvelable une fois.",
+      "excerpt": "Étatisation de la gestion des logements sociaux, réforme et restriction des conditions d’attribution au profit des classes les plus défavorisées, obligation d’attribution d’un logement sous un an, contrôle fiscal avancé triennal concernant tout bénéficiaire de logement sociaux, actualisation semestrielle des loyers selon l’évolution du revenu et du patrimoine, limitation à 5 ans renouvelable une fois du bail d’occupation.",
+      "tags": [
+        "hlm",
+        "logement social",
+        "attribution",
+        "bail",
+        "loyer"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Énergie, l'Écologie et les Logements (p. 53)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "branco-log-07",
+      "theme": "logement",
+      "title": "Obliger à déclarer les logements inoccupés plus de douze mois",
+      "summary": "Le projet prévoit une obligation de déclarer les logements inoccupés depuis plus de douze mois, sous peine d'une amende calculée selon la façade, les niveaux et les années d'inoccupation.",
+      "excerpt": "Obligation de déclaration et de signalement des logements inoccupés pendant une période supérieure à douze mois, sous peine d’amende par mètre courant de façade, multiplié par le nombre de niveaux inoccupés et nombre d’années d’inoccupation.",
+      "tags": [
+        "logement vacant",
+        "inoccupé",
+        "amende",
+        "propriétaire"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Énergie, l'Écologie et les Logements (p. 53)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "branco-log-08",
+      "theme": "logement",
+      "title": "Instaurer une surtaxe visant les multipropriétaires",
+      "summary": "Le projet prévoit une surtaxe sur l'accaparement immobilier visant les 3 % de Français propriétaires de plusieurs logements, hors résidences principale et secondaire.",
+      "excerpt": "Surtaxe sur l’accaparement immobilier visant les 3% de Français polypropriétaires (hors résidence principale et secondaire)",
+      "tags": [
+        "propriétaire",
+        "surtaxe",
+        "multipropriétaire",
+        "immobilier"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Énergie, l'Écologie et les Logements (p. 53)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "branco-log-09",
+      "theme": "logement",
+      "title": "Moduler la taxe foncière selon le nombre de propriétés détenues",
+      "summary": "Le projet prévoit un coefficient modulant la taxe foncière selon le nombre de propriétés détenues dans le monde et une obligation déclarative unique des titres fonciers à usage non professionnel.",
+      "excerpt": "Création d’un coefficient modulant la taxe foncière selon le nombre de propriétés à l’échelle mondiale, et en place d’une obligation déclarative unique de toutes les détentions effectives de titres fonciers à usage non-professionnel, quelle que soit la forme juridique.",
+      "tags": [
+        "taxe foncière",
+        "propriétaire",
+        "impôt",
+        "immobilier"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Fiscalité et prélèvements (p. 28)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-log-10",
+      "theme": "logement",
+      "title": "Actualiser tous les trois ans l'évaluation cadastrale",
+      "summary": "Le projet prévoit une actualisation tous les trois ans de l'évaluation cadastrale servant aux taxes foncières, afin de la rapprocher des valeurs de marché.",
+      "excerpt": "Actualisation triennale de l’évaluation cadastrale des taxes foncières afin de coller aux valeurs de marché.",
+      "tags": [
+        "taxe foncière",
+        "cadastre",
+        "propriétaire",
+        "impôt"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Fiscalité et prélèvements (p. 28)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "branco-sante-01",
+      "theme": "santé",
+      "title": "Lancer un plan d'urgence contre les déserts médicaux",
+      "summary": "Le projet prévoit un plan d'urgence d'éradication des déserts médicaux.",
+      "excerpt": "Plan d’urgence d’éradication des déserts médicaux.",
+      "tags": [
+        "déserts médicaux",
+        "médecin",
+        "accès aux soins",
+        "campagne"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Santé (p. 40)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-sante-02",
+      "theme": "santé",
+      "title": "Mettre fin à la tarification à l'acte à l'hôpital",
+      "summary": "Le projet prévoit la fin de la tarification à l'acte et la création d'un corps de direction hospitalière composé de médecins.",
+      "excerpt": "Fin de la tarification à l’acte et de la diarchie hospitalière par la création d’un corps de direction hospitalière composé de médecins.",
+      "tags": [
+        "hôpital",
+        "tarification à l'acte",
+        "t2a",
+        "direction"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Santé (p. 40)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-sante-03",
+      "theme": "santé",
+      "title": "Supprimer un quart à la moitié des postes administratifs d'encadrement à l'hôpital",
+      "summary": "Le projet prévoit, après un audit, la suppression d'un quart à la moitié des postes d'encadrement administratif dans les hôpitaux.",
+      "excerpt": "Suppression, après un audit flash, d’un quart à la moitié des postes d’encadrement administratif dans les hôpitaux.",
+      "tags": [
+        "hôpital",
+        "administration",
+        "postes",
+        "audit"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Santé (p. 40)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "branco-sante-04",
+      "theme": "santé",
+      "title": "Organiser un référendum sur la suppression des dépassements d'honoraires",
+      "summary": "Le projet prévoit un encadrement renforcé des dépassements d'honoraires et un référendum sur leur suppression.",
+      "excerpt": "Encadrement renforcé du dépassement d’honoraires. - Référendum sur la suppression des dépassements d’honoraires.",
+      "tags": [
+        "dépassements d'honoraires",
+        "médecin",
+        "référendum",
+        "tarifs"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Santé (p. 40)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-sante-05",
+      "theme": "santé",
+      "title": "Supprimer les complémentaires santé et mutuelles au profit d'une sécurité sociale intégrale",
+      "summary": "Le projet prévoit d'abolir les complémentaires santé, mutuelles et institutions de prévoyance et de les absorber dans un système unique de sécurité sociale intégrale.",
+      "excerpt": "Abolition des complémentaires santé et mutuelles publiques et privées, institutions de prévoyance, complémentaires collectives, etc et absorption au sein d’un grand système unique de sécurité sociale intégrale de tous les dispositifs compensatoires (CSS, etc).",
+      "tags": [
+        "mutuelle",
+        "complémentaire santé",
+        "sécurité sociale",
+        "remboursement"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Santé (p. 40)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-sante-06",
+      "theme": "santé",
+      "title": "Remplacer forfaits, tickets modérateurs et franchises par un plafond annuel de reste à charge",
+      "summary": "Le projet fusionne la CSS, les dispositifs ALD et le 100 % Santé en un dispositif universel remplaçant forfaits hospitaliers, tickets modérateurs et franchises, avec une limite annuelle de frais à la charge de l'assuré liée au revenu et au patrimoine.",
+      "excerpt": "Fusion de la CSS, des dispositifs de couverture des ALD, du panier 100% Santé… en un dispositif universel, remplaçant tous les forfaits hospitaliers, tickets modérateurs, franchises, fixant une limite annuelle à la prise en charge par l’assuré des frais de santé, corrélatif au revenu et au patrimoine.",
+      "tags": [
+        "franchise médicale",
+        "ticket modérateur",
+        "reste à charge",
+        "remboursement"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Santé (p. 41)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-sante-07",
+      "theme": "santé",
+      "title": "Créer une industrie pharmaceutique publique",
+      "summary": "Le projet prévoit la création d'une industrie pharmaceutique publique rattachée à un pôle public de recherche universitaire, avec prise de participation forcée dans les laboratoires.",
+      "excerpt": "Création d’une industrie pharmaceutique publique à laquelle sera rattaché un pôle public de recherche universitaire national, prise de participation forcée dans les laboratoires de recherche.",
+      "tags": [
+        "médicament",
+        "pharmacie",
+        "industrie pharmaceutique",
+        "pénurie"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Santé (p. 41)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-sante-08",
+      "theme": "santé",
+      "title": "Interdire les visiteurs médicaux et la publicité sur les médicaments",
+      "summary": "Le projet prévoit d'interdire les visiteurs médicaux et toute publicité sur les médicaments, l'information des professionnels étant réservée aux institutions publiques.",
+      "excerpt": "Interdiction des visiteurs médicaux et de toute publicité en matière médicamenteuse, l’information des professionnels sur les nouveaux traitements étant réservée aux institutions étatiques et de recherche publique.",
+      "tags": [
+        "médicament",
+        "publicité",
+        "laboratoire",
+        "médecin"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Santé (p. 41)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-sante-09",
+      "theme": "santé",
+      "title": "Supprimer les Agences régionales de santé",
+      "summary": "Le projet prévoit la suppression des agences régionales de santé.",
+      "excerpt": "Suppression des Agences régionales de santé.",
+      "tags": [
+        "ars",
+        "agence régionale de santé",
+        "administration",
+        "hôpital"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Santé (p. 41)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-sante-10",
+      "theme": "santé",
+      "title": "Augmenter la rémunération des internes et généraliser des bourses en médecine",
+      "summary": "Le projet prévoit d'augmenter la rémunération des internes et de généraliser l'attribution de bourses avant l'inscription en études de médecine.",
+      "excerpt": "Augmentation de la rémunération des internes, et généralisation du système d’attribution de bourses préalable à l’inscription en études de médecine.",
+      "tags": [
+        "interne",
+        "études de médecine",
+        "bourse",
+        "médecin"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Santé (p. 41)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-sante-11",
+      "theme": "santé",
+      "title": "Mettre fin à l'intérim hospitalier",
+      "summary": "Le projet prévoit la fin de l'intérim hospitalier au profit de réquisitions et d'obligations de service public.",
+      "excerpt": "Fin de l’interim hospitalier, au profit de réquisitions et d’obligations de service public.",
+      "tags": [
+        "hôpital",
+        "intérim",
+        "soignant",
+        "service public"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Santé (p. 42)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-sante-12",
+      "theme": "santé",
+      "title": "Exproprier Doctolib et créer un dossier médical unique",
+      "summary": "Le projet prévoit l'expropriation de Doctolib et la création d'un dossier médical unique reposant sur une solution open source interopérable.",
+      "excerpt": "Expropriation de Doctolib et création d’un dossier médical unique, reposant sur une solution open source interopérable.",
+      "tags": [
+        "doctolib",
+        "dossier médical",
+        "rendez-vous",
+        "numérique"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Santé (p. 42)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-sante-13",
+      "theme": "santé",
+      "title": "Rembourser intégralement les soins dentaires",
+      "summary": "Le projet prévoit le remboursement intégral des soins dentaires et un renforcement des contrôles des praticiens.",
+      "excerpt": "Remboursement intégral des soins dentaires et renforcement des contrôles des praticiens.",
+      "tags": [
+        "dentiste",
+        "soins dentaires",
+        "remboursement",
+        "santé"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Santé (p. 42)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-sante-14",
+      "theme": "santé",
+      "title": "Rembourser intégralement les consultations chez le psychologue",
+      "summary": "Le projet prévoit le remboursement intégral des consultations chez le psychologue, l'accès à la profession étant conditionné à un examen national.",
+      "excerpt": "Remboursement intégral des consultations chez le psychologue, dont l’accès à la profession sera conditionné par un examen national et formera un corps spécifique.",
+      "tags": [
+        "psychologue",
+        "santé mentale",
+        "remboursement",
+        "consultation"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Santé (p. 42)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-sante-15",
+      "theme": "santé",
+      "title": "Rendre gratuites les protections périodiques et rembourser le traitement de la ménopause",
+      "summary": "Le projet prévoit la gratuité sans conditions des protections périodiques et le remboursement total du traitement hormonal de la ménopause.",
+      "excerpt": "Gratuité des protections périodiques sans conditions. - Remboursement de la totalité du traitement hormonal de la ménopause.",
+      "tags": [
+        "protections périodiques",
+        "ménopause",
+        "femmes",
+        "remboursement"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Santé (p. 42)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-pa-01",
+      "theme": "pouvoir d'achat",
+      "title": "Porter le SMIC à 1 500 euros net",
+      "summary": "Le projet prévoit de déconcentrer le SMIC et de relever le seuil minimal national à 1 500 euros net.",
+      "excerpt": "Déconcentration du SMIC, avec réhaussement du seuil minimal national à 1500 euros net.",
+      "tags": [
+        "smic",
+        "salaire",
+        "salaire minimum",
+        "1500 euros"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Travail (p. 30)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "branco-pa-02",
+      "theme": "pouvoir d'achat",
+      "title": "Baisser les prélèvements obligatoires sauf pour le dernier décile",
+      "summary": "Le projet vise à réduire la charge fiscale des foyers, notamment par une baisse des prélèvements obligatoires moyens pour toute la population à l'exception du dernier décile, dont l'imposition effective serait renforcée.",
+      "excerpt": "Réduction de la charge fiscale sur les foyers par une maîtrise de la politique budgétaire et un objectif d’excédent, un accroissement contrôlé de l’inflation, un changement de la politique allocative aux fins de baisse des dépenses, une baisse des prélèvements obligatoires moyens sur l’ensemble de la population à l’exception du dernier décile, faisant l’objet d’une imposition effective renforcée, et une purge partielle des dettes d’État.",
+      "tags": [
+        "impôt",
+        "prélèvements",
+        "fiscalité",
+        "ménages"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Fiscalité et prélèvements (p. 27)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-pa-03",
+      "theme": "pouvoir d'achat",
+      "title": "Supprimer les tickets restaurant, chèques vacances et chèques cadeaux",
+      "summary": "Le projet prévoit la suppression des niches fiscales liées au travail à coût de gestion élevé, comme les tickets restaurant, chèques vacances et chèques cadeaux.",
+      "excerpt": "Suppression des niches fiscales liées au travail ayant un coût de gestion élevé ou privatisé (tickets restaurant, chèques vacances, chèques cadeaux…)",
+      "tags": [
+        "tickets restaurant",
+        "chèques vacances",
+        "niche fiscale",
+        "salarié"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Fiscalité et prélèvements (p. 28)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-pa-04",
+      "theme": "pouvoir d'achat",
+      "title": "Supprimer les allocations scolaires et le chèque énergie",
+      "summary": "Le projet prévoit la suppression des allocations scolaires et du chèque énergie.",
+      "excerpt": "Suppression des allocations scolaires, chèque énergie…",
+      "tags": [
+        "chèque énergie",
+        "allocation de rentrée scolaire",
+        "aides",
+        "énergie"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Fiscalité et prélèvements (p. 28)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-pa-05",
+      "theme": "pouvoir d'achat",
+      "title": "Financer une baisse des cotisations sur les salaires par une TVA sociale",
+      "summary": "Le projet prévoit de réduire les cotisations sociales sur les salaires, financées par une TVA sociale sur les biens non essentiels.",
+      "excerpt": "Réduction des cotisations sociales sur les salaires financée par l’adoption d’une TVA sociale sur les bien non-essentiels afin de procéder à une dévaluation interne et l’organisation d’un transfert relatif de ressources des aînés vers les nouvelles générations.",
+      "tags": [
+        "cotisations",
+        "salaire",
+        "tva sociale",
+        "salaire net"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Fiscalité et prélèvements (p. 29)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-pa-06",
+      "theme": "pouvoir d'achat",
+      "title": "Augmenter de dix points la TVA sur le luxe et les aliments ultra-transformés",
+      "summary": "Le projet prévoit une hausse de dix points du taux de TVA sur les produits de luxe à coût unitaire élevé et sur les produits alimentaires les plus transformés.",
+      "excerpt": "Augmentation de dix points du taux de TVA sur les produits de luxe à coût unitaire élevé et sur les produits alimentaires les plus transformés.",
+      "tags": [
+        "tva",
+        "luxe",
+        "alimentation",
+        "prix"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Fiscalité et prélèvements (p. 29)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "branco-pa-07",
+      "theme": "pouvoir d'achat",
+      "title": "Supprimer les droits de succession pour 90 % des foyers",
+      "summary": "Le projet prévoit une réforme de la fiscalité de l'héritage avec la fin des droits de mutation à titre gratuit pour 90 % des foyers fiscaux.",
+      "excerpt": "Réforme radicale de la fiscalité de l’héritage. Fin des DMTG pour 90% des foyers fiscaux.",
+      "tags": [
+        "héritage",
+        "succession",
+        "droits de succession",
+        "impôt"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Fiscalité et prélèvements (p. 29)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "branco-pa-08",
+      "theme": "pouvoir d'achat",
+      "title": "Rétablir l'ISF",
+      "summary": "Le projet prévoit le rétablissement de l'ISF avec un mécanisme de précompte sur les droits de succession.",
+      "excerpt": "Rétablissement de l’ISF avec un mécanisme de précompte sur les droits de succession.",
+      "tags": [
+        "isf",
+        "impôt sur la fortune",
+        "patrimoine",
+        "impôt"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Fiscalité et prélèvements (p. 29)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-pa-09",
+      "theme": "pouvoir d'achat",
+      "title": "Attribuer automatiquement le RSA et les minima sociaux",
+      "summary": "Le projet prévoit de supprimer les conditions du RSA et d'attribuer automatiquement les minima sociaux.",
+      "excerpt": "Déconditionnalisation du RSA, attribution automatique des minima sociaux afin de sortir de la pauvreté ceux qui n’ont même pas les moyens de les réclamer.",
+      "tags": [
+        "rsa",
+        "minima sociaux",
+        "non-recours",
+        "allocation"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Social (p. 29)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-pa-10",
+      "theme": "pouvoir d'achat",
+      "title": "Ouvrir le RSA aux jeunes dès 18 ans",
+      "summary": "Le projet prévoit d'étendre le RSA aux jeunes à partir de 18 ans, sans condition de ressources, à condition de quitter le foyer fiscal familial.",
+      "excerpt": "Extension du RSA aux jeunes à partir de 18 ans, sans condition de ressources et à condition d’une dissociation du foyer fiscal familial.",
+      "tags": [
+        "rsa",
+        "jeunes",
+        "18 ans",
+        "allocation"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Social (p. 29)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "branco-pa-11",
+      "theme": "pouvoir d'achat",
+      "title": "Moduler les tarifs de l'énergie selon la consommation avec un minimum vital",
+      "summary": "Le projet prévoit de moduler les tarifs énergétiques selon le niveau de consommation et d'octroyer un minimum vital forfaitaire.",
+      "excerpt": "Modulation des tarifs énergétiques selon le niveau de consommation, et octroi d’un minima vital forfaitaire.",
+      "tags": [
+        "électricité",
+        "facture",
+        "tarif énergie",
+        "énergie"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Énergie, l'Écologie et les Logements (p. 52)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-pa-12",
+      "theme": "pouvoir d'achat",
+      "title": "Renforcer les services bancaires de base gratuits",
+      "summary": "Le projet prévoit de renforcer les services bancaires de base gratuits.",
+      "excerpt": "Renforcement des services bancaires de base gratuits.",
+      "tags": [
+        "banque",
+        "frais bancaires",
+        "gratuit",
+        "compte"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Marchés et système bancaire (p. 32)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-pa-13",
+      "theme": "pouvoir d'achat",
+      "title": "Réduire les délais d'attribution des allocations",
+      "summary": "Le projet prévoit de réduire les délais d'attribution des allocations.",
+      "excerpt": "Réduction des délais dans l’attribution des allocations.",
+      "tags": [
+        "allocation",
+        "délais",
+        "caf",
+        "aides"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Social (p. 29)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-emploi-01",
+      "theme": "emploi",
+      "title": "Créer un grand service public de l'emploi regroupant France Travail, AFPA et missions locales",
+      "summary": "Le projet prévoit un service public de l'emploi rassemblant missions locales, AFPA, GRETA, France Travail, France Compétences et les moyens de formation professionnelle de l'Éducation nationale.",
+      "excerpt": "Création d’un grand service public de l’emploi, rassemblant les ressources des missions locales, de l’AFPA, GRETA, France Travail, France Compétences et de l’Éducation nationale liées à la formation professionnelle et réformant leur mode de fonctionnement (suppression des formations administratives et commerciales, etc).",
+      "tags": [
+        "france travail",
+        "chômage",
+        "formation",
+        "service public de l'emploi"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Travail (p. 30)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-emploi-02",
+      "theme": "emploi",
+      "title": "Rendre les allocations chômage dégressives dès la première année",
+      "summary": "Le projet prévoit une dégressivité des allocations chômage dès la première année et une caisse de sécurité professionnelle remplaçant l'Unédic et France Travail.",
+      "excerpt": "Dégressivité des allocations chômage à partir de la première année, création d’une caisse de sécurité professionnelle remplaçant les UNEDIC/ASSEDIC/France Travail.",
+      "tags": [
+        "chômage",
+        "allocation chômage",
+        "dégressivité",
+        "unédic"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Travail (p. 30)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-emploi-03",
+      "theme": "emploi",
+      "title": "Soumettre à référendum un licenciement simple avec préavis",
+      "summary": "Le projet prévoit un référendum sur une réforme unifiant les statuts de travail et permettant un licenciement simple avec préavis.",
+      "excerpt": "Référendum proposant une réforme à la suisse unifiant les statuts de travail et créant la possibilité d’un licenciement simple avec préavis.",
+      "tags": [
+        "licenciement",
+        "contrat de travail",
+        "référendum",
+        "statut"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Travail (p. 30)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-emploi-04",
+      "theme": "emploi",
+      "title": "Ouvrir trois mois d'assurance chômage en cas de démission",
+      "summary": "Le projet prévoit l'ouverture de droits à l'assurance chômage de trois mois en cas de démission, une fois tous les cinq ans.",
+      "excerpt": "Ouverture de droits à l’assurance chômage de trois mois en cas de démission, avec limitation quinquennale.",
+      "tags": [
+        "démission",
+        "chômage",
+        "assurance chômage",
+        "salarié"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Travail (p. 30)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "branco-emploi-05",
+      "theme": "emploi",
+      "title": "Fixer un objectif de 1 800 heures travaillées par actif",
+      "summary": "Le projet fixe un objectif de 1 800 heures travaillées par actif et une hausse de 10 % du taux d'emploi des 15-24 ans.",
+      "excerpt": "Fixation d’un objectif de 1800 heures travaillées par actif et d’augmentation du taux d’emploi des 15-24 ans de 10%.",
+      "tags": [
+        "temps de travail",
+        "jeunes",
+        "taux d'emploi",
+        "heures"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Travail (p. 30)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "branco-emploi-06",
+      "theme": "emploi",
+      "title": "Recourir au tirage au sort pour les prud'hommes",
+      "summary": "Le projet prévoit une réforme des prud'hommes fondée sur le tirage au sort.",
+      "excerpt": "Réforme intégrale des prud’hommes au profit d’un tirage au sort.",
+      "tags": [
+        "prud'hommes",
+        "litige",
+        "travail",
+        "tirage au sort"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Travail (p. 30)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-emploi-07",
+      "theme": "emploi",
+      "title": "Créer un statut social unique pour indépendants et salariés",
+      "summary": "Le projet prévoit d'unifier les statuts des indépendants et des salariés dans un statut social unique des actifs reposant sur un socle commun de droits.",
+      "excerpt": "Unification des statuts des indépendants et salariés et achèvement des dispositions dérogatoires excluantes de l’assurance chômage (par exemple, ATI-F) et remplacement par un statut social unique des actifs, plus protecteur, reposant sur un socle commun de droits du travail.",
+      "tags": [
+        "indépendant",
+        "freelance",
+        "statut",
+        "assurance chômage"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Travail (p. 31)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-emploi-08",
+      "theme": "emploi",
+      "title": "Supprimer le CPF, les OPCO et les cotisations liées à la formation professionnelle",
+      "summary": "Le projet prévoit la suppression des cotisations et taxes liées à la formation professionnelle et des mécanismes associés, dont le CPF et les OPCO.",
+      "excerpt": "Suppression de tous les mécanismes associés : CPF, OPCO, ATI-F…",
+      "tags": [
+        "cpf",
+        "formation professionnelle",
+        "opco",
+        "reconversion"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Travail (p. 31)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-emploi-09",
+      "theme": "emploi",
+      "title": "Rendre obligatoire la représentation des salariés dans les conseils d'administration",
+      "summary": "Le projet prévoit une loi de participation et de représentation obligatoire des salariés au sein des conseils d'administration.",
+      "excerpt": "Loi de participation et de représentation obligatoire des salariés au sein des conseils d’administration.",
+      "tags": [
+        "salarié",
+        "entreprise",
+        "conseil d'administration",
+        "participation"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Social (p. 30)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-emploi-10",
+      "theme": "emploi",
+      "title": "Créer un droit de préemption des salariés en cas de vente ou fermeture d'entreprise",
+      "summary": "Le projet prévoit un droit de préemption de l'État et des salariés sur toute fermeture ou vente d'entreprise, sous forme de coopérative avec accompagnement de l'État.",
+      "excerpt": "Création d’un droit de préemption d’État et salarié sur toute fermeture ou vente d’entreprise. - Droit de préemption aux salariés en cas de vente de leur outil de travail, sous forme obligatoire de coopérative, avec accompagnement d’État.",
+      "tags": [
+        "salarié",
+        "fermeture d'entreprise",
+        "coopérative",
+        "rachat"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Social (p. 30)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-emploi-11",
+      "theme": "emploi",
+      "title": "Rendre la syndicalisation obligatoire",
+      "summary": "Le projet prévoit une obligation de syndicalisation pour tout travailleur et la fin des attributions sociales et culturelles des CSE.",
+      "excerpt": "Obligation de syndicalisation pour tout travailleur, abrogation des obligations de financement publiques, fin des attributions sociales et culturelles des CSE.",
+      "tags": [
+        "syndicat",
+        "cse",
+        "travailleur",
+        "salarié"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Social (p. 30)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-emploi-12",
+      "theme": "emploi",
+      "title": "Lancer un plan de formation aux métiers industriels",
+      "summary": "Le projet prévoit un plan de formation industrielle pour combler les manques de chaudronniers, soudeurs, magasiniers et électriciens.",
+      "excerpt": "Grand plan de formation industrielle, visant à combler les manques de chaudronniers, soudeurs, magasiniers, électriciens, poudriers…",
+      "tags": [
+        "formation",
+        "industrie",
+        "métiers",
+        "reconversion"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Industrie (p. 33)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-emploi-13",
+      "theme": "emploi",
+      "title": "Exonérer d'impôt les nouvelles entreprises pendant trois ans",
+      "summary": "Le projet prévoit un moratoire fiscal de trois ans pour les nouvelles entreprises, sous condition d'engagement de la responsabilité personnelle et actionnariale.",
+      "excerpt": "Adoption du « modèle singapourien » : moratoire impositif de trois ans pour les nouvelles entreprises, sous condition d’engagement de la responsabilité personnelle et actionnariale.",
+      "tags": [
+        "entreprise",
+        "création d'entreprise",
+        "impôt",
+        "entrepreneur"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Fiscalité et prélèvements (p. 27)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "branco-emploi-14",
+      "theme": "emploi",
+      "title": "Réduire à 30 jours le délai légal de paiement",
+      "summary": "Le projet prévoit de ramener le délai légal de paiement à 30 jours pour tous, contre 60 jours actuellement dans le privé.",
+      "excerpt": "Réduction du délai légal de paiement à 30 jours pour tous, contre 60 jours actuellement dans le secteur privé et 30 jours dans le public, en faisant débuter ce délai à la réception d’une ID numérique sécurisée et auditable.",
+      "tags": [
+        "délais de paiement",
+        "pme",
+        "entreprise",
+        "facture"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Commerce (p. 32)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "branco-emploi-15",
+      "theme": "emploi",
+      "title": "Réserver 75 % des appels d'offres publics aux entreprises nationales",
+      "summary": "Le projet prévoit d'obliger l'État et les collectivités à réserver au moins 75 % de leurs appels d'offres à des entreprises nationales.",
+      "excerpt": "Obligation pour l’État et les collectivités locales de réserver au moins 75% de leurs appels d’offres à des entreprises nationales.",
+      "tags": [
+        "marchés publics",
+        "entreprise",
+        "made in france",
+        "appels d'offres"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Industrie (p. 33)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "branco-etudes-01",
+      "theme": "études",
+      "title": "Rendre réellement gratuites les études universitaires",
+      "summary": "Le projet prévoit le rétablissement de la gratuité réelle des études universitaires pour tout résident français.",
+      "excerpt": "Rétablissement de la gratuité réelle des études universitaires pour tout résident Français.",
+      "tags": [
+        "université",
+        "frais d'inscription",
+        "gratuité",
+        "étudiant"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Instruction, Supérieur (p. 36)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-etudes-02",
+      "theme": "études",
+      "title": "Intégrer les classes préparatoires à l'université avec quotas de boursiers",
+      "summary": "Le projet prévoit la fusion des classes préparatoires dans des filières sélectives intégrées à l'université avec des quotas de boursiers.",
+      "excerpt": "Fusion des classes préparatoires au sein de filières sélectives intégrées à l’université avec quotas de boursiers.",
+      "tags": [
+        "prépa",
+        "classes préparatoires",
+        "université",
+        "boursier"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Instruction, Supérieur (p. 36)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-etudes-03",
+      "theme": "études",
+      "title": "Ramener les formations universitaires à 1 500 au maximum",
+      "summary": "Le projet prévoit la fusion des 14 000 licences et 25 000 formations universitaires avec un plafond de 1 500 formations.",
+      "excerpt": "Fusion des 14.000 licences universitaires et 25.000 formations avec plafond de 1.500 formations.",
+      "tags": [
+        "licence",
+        "université",
+        "formation",
+        "étudiant"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Instruction, Supérieur (p. 36)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "branco-etudes-04",
+      "theme": "études",
+      "title": "Augmenter de 30 % les budgets universitaires et de recherche",
+      "summary": "Le projet prévoit une hausse immédiate de 30 % des budgets de toutes les structures universitaires et de recherche publiques, financée par la suppression du crédit d'impôt recherche.",
+      "excerpt": "Augmentation immédiate de 30 % des budgets de toutes les structures universitaires et de recherche publiques françaises, financée par la suppression du CIR.",
+      "tags": [
+        "université",
+        "recherche",
+        "budget",
+        "cir"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Instruction, Supérieur (p. 36)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "branco-etudes-05",
+      "theme": "études",
+      "title": "Abroger la loi LRU",
+      "summary": "Le projet prévoit l'abrogation de la LRU et des RCE et la suppression des regroupements d'établissements jugés non cohérents.",
+      "excerpt": "Abrogation de la LRU et des RCE, suppression des regroupements d’établissements là où ils n’ont pas donné des ensembles cohérents et intégrés.",
+      "tags": [
+        "université",
+        "loi lru",
+        "autonomie",
+        "établissement"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Instruction, Supérieur (p. 36)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-etudes-06",
+      "theme": "études",
+      "title": "Revaloriser les enseignants débutants et rendre le brevet obligatoire pour entrer au lycée",
+      "summary": "Le projet prévoit une revalorisation salariale des enseignants en début de carrière et une baisse du nombre d'élèves par une sélection à l'entrée au lycée conditionnée à un brevet obligatoire.",
+      "excerpt": "Revalorisation salariale des enseignants en début de carrière et baisse du nombre d’élèves par un accroissement de la sélection à l’entrée en lycée, conditionnalisé à un brevet devenu obligatoire et centré sur la maîtrise des fondamentaux.",
+      "tags": [
+        "enseignant",
+        "salaire",
+        "lycée",
+        "brevet"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Instruction, Secondaire (p. 37)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-etudes-07",
+      "theme": "études",
+      "title": "Supprimer Parcoursup",
+      "summary": "Le projet prévoit la fin des MIG (ex-SNU) et de Parcoursup, avec une proposition d'admission pour tous les candidats aux formations universitaires avant les vacances d'été.",
+      "excerpt": "Fin des MIG (ex-SNU) et de Parcoursup. - Distribution finale d’une proposition d’admission à tous les candidats à des formations universitaires avant les vacances d’été.",
+      "tags": [
+        "parcoursup",
+        "université",
+        "admission",
+        "lycéen"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Instruction, Secondaire (p. 37)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-etudes-08",
+      "theme": "études",
+      "title": "Rétablir le baccalauréat classique",
+      "summary": "Le projet prévoit le rétablissement du baccalauréat classique, sa renationalisation et sa re-terminalisation.",
+      "excerpt": "Rétablissement du baccalauréat classique, renationalisation et re-terminalisation.",
+      "tags": [
+        "baccalauréat",
+        "bac",
+        "lycée",
+        "examen"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Instruction, Secondaire (p. 37)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-etudes-09",
+      "theme": "études",
+      "title": "Systématiser les classes bilingues dès la sixième",
+      "summary": "Le projet prévoit la systématisation des classes bilingues dès la sixième.",
+      "excerpt": "Systématisation des classes bilingues dès la sixième.",
+      "tags": [
+        "collège",
+        "langues",
+        "bilingue",
+        "sixième"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Instruction, Secondaire (p. 38)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-etudes-10",
+      "theme": "études",
+      "title": "Absorber l'enseignement privé et refondre la carte scolaire",
+      "summary": "Le projet prévoit la refonte de la carte scolaire et l'absorption du parc scolaire privé.",
+      "excerpt": "Refonte de la carte scolaire et absorption du parc scolaire privé, fin du système issue de « l’école libre ».",
+      "tags": [
+        "école privée",
+        "carte scolaire",
+        "collège",
+        "école"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Instruction, Secondaire (p. 38)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-etudes-11",
+      "theme": "études",
+      "title": "Mettre à disposition des fournitures scolaires de base",
+      "summary": "Le projet prévoit la mise à disposition de fournitures scolaires de base pour tout étudiant, fabriquées par une manufacture nationale.",
+      "excerpt": "Mise à disposition de fournitures scolaires de base pour tout étudiant, fabriqués par une manufacture nationale.",
+      "tags": [
+        "fournitures scolaires",
+        "rentrée",
+        "élève",
+        "école"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Fiscalité et prélèvements (p. 28)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-etudes-12",
+      "theme": "études",
+      "title": "Créer un examen d'entrée national en sixième",
+      "summary": "Le projet prévoit la création d'un examen d'entrée national en sixième.",
+      "excerpt": "Création d’un examen d’entrée national en sixième.",
+      "tags": [
+        "sixième",
+        "collège",
+        "examen",
+        "école primaire"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Instruction, Primaire et antéprimaire (p. 39)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-etudes-13",
+      "theme": "études",
+      "title": "Rétablir 13 heures et demie de français par semaine en CP",
+      "summary": "Le projet prévoit de rétablir un minimum de 13 heures et demie de français par semaine en CP et de généraliser l'enseignement plurilingue.",
+      "excerpt": "Rétablissement d’un minimum de 13 heures et demie de français par semaine en classe de CP et généralisation du principe de l’enseignement plurilingue.",
+      "tags": [
+        "cp",
+        "français",
+        "école primaire",
+        "lecture"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Instruction, Primaire et antéprimaire (p. 39)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "branco-etudes-14",
+      "theme": "études",
+      "title": "Exiger trois ans d'expérience avant une affectation en zone sensible",
+      "summary": "Le projet prévoit d'affecter les enseignants en zones sensibles seulement après au moins trois ans d'expérience.",
+      "excerpt": "Affectation des enseignants dans des établissements en zones sensibles après un minimum préalable trois ans d’expérience.",
+      "tags": [
+        "enseignant",
+        "affectation",
+        "rep",
+        "zone sensible"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Instruction, Secondaire (p. 39)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "branco-etudes-15",
+      "theme": "études",
+      "title": "Recruter les professeurs des écoles dès le baccalauréat",
+      "summary": "Le projet prévoit le rétablissement du recrutement des professeurs des écoles dès le baccalauréat.",
+      "excerpt": "Rétablissement du recrutement des professeur des écoles dès le baccalauréat.",
+      "tags": [
+        "professeur des écoles",
+        "recrutement",
+        "enseignant",
+        "concours"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Instruction, Primaire et antéprimaire (p. 39)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-famille-01",
+      "theme": "famille",
+      "title": "Créer un droit opposable à une place en crèche",
+      "summary": "Le projet prévoit un droit opposable à la place en crèche, à côté d'une revalorisation des enseignants et d'une baisse du nombre d'élèves.",
+      "excerpt": "Droit opposable à la place en crèche. - Revalorisation salariale des enseignants et baisse du nombre d’élèves.",
+      "tags": [
+        "crèche",
+        "garde d'enfant",
+        "droit opposable",
+        "petite enfance"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Instruction, Primaire et antéprimaire (p. 39)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-famille-02",
+      "theme": "famille",
+      "title": "Fusionner les prestations familiales et sociales en un revenu minimal universel",
+      "summary": "Le projet prévoit de fusionner de nombreuses prestations (allocations familiales, PAJE, AAH, RSA, ASPA...) en un système universel garantissant un revenu minimal modulé selon l'âge, le handicap et les personnes à charge, avec transfert de droits aux femmes au foyer en cas de divorce ou décès.",
+      "excerpt": "Fusion des AVPF, APJE, APE, PAJE, AJPP, CPA, AJPA, AAH, AEEH, APA, AVA, AAH, AF, ARS, CF, ASF, ASS, ASPA, RSA, Pass’colo, CFN, ASEJP, PreParE, SAAD… au profit d’un système universel garantissant un revenu minimal modulé selon des critères universels (âge, handicap, personnes à charge), avec notamment une garantie de transfert de droits aux femmes au foyer faisant face à des divorces, décès de conjoint, etc.",
+      "tags": [
+        "allocations familiales",
+        "paje",
+        "revenu minimal",
+        "prestations"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Fiscalité et prélèvements (p. 28)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-famille-03",
+      "theme": "famille",
+      "title": "Prendre en charge les enfants placés jusqu'à 25 ans",
+      "summary": "Le projet prévoit de contrôler l'interdiction du placement de mineurs à l'hôtel par l'ASE et d'obliger à prendre en charge les enfants placés jusqu'à 25 ans, notamment via des contrats jeune majeur.",
+      "excerpt": "Contrôle de l’application de l’interdiction du placement de mineurs dans des hôtels dans le cadre de l'Aide Sociale à l'Enfance (ASE) et obligation de prise en charge socio-économique des enfants placés jusque l’âge des 25 ans, notamment via des contrat jeune majeur.",
+      "tags": [
+        "ase",
+        "enfants placés",
+        "jeune majeur",
+        "protection de l'enfance"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Protection de l'enfance (p. 44)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "branco-famille-04",
+      "theme": "famille",
+      "title": "Privilégier l'intervention dans les familles plutôt que le placement",
+      "summary": "Le projet prévoit la fin de la politique systématique de placement au profit d'une intervention renforcée au sein des familles.",
+      "excerpt": "Fin de la politique systématique de placement, au profit d’une politique d’intervention renforcée au sein des familles.",
+      "tags": [
+        "placement",
+        "protection de l'enfance",
+        "ase",
+        "parents"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Protection de l'enfance (p. 44)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-famille-05",
+      "theme": "famille",
+      "title": "Interdire le placement d'enfants hors de leur département d'origine",
+      "summary": "Le projet prévoit de déjudiciariser le placement et d'interdire le placement en dehors du département d'origine.",
+      "excerpt": "Déjudiciarisation du placement, interdiction de placement en dehors du département d’origine.",
+      "tags": [
+        "placement",
+        "ase",
+        "enfant",
+        "département"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Protection de l'enfance (p. 44)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-famille-06",
+      "theme": "famille",
+      "title": "Placer sous tutelle de l'État les services de l'Aide sociale à l'enfance",
+      "summary": "Le projet prévoit la mise sous tutelle immédiate de l'ASE par l'État, des commissions citoyennes de contrôle et l'unification des conditions de prise en charge.",
+      "excerpt": "Mise sous tutelle immédiate par l’État des services de l’Aide Sociale à l’Enfance, création de commissions citoyennes de contrôle, unification des conditions de prise en charge et d’accompagnement, politique de réduction des politiques de placement.",
+      "tags": [
+        "ase",
+        "aide sociale à l'enfance",
+        "état",
+        "protection de l'enfance"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Protection de l'enfance (p. 44)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-famille-07",
+      "theme": "famille",
+      "title": "Financer de nouveaux foyers pour enfants protégés",
+      "summary": "Le projet prévoit le déblocage de fonds pour construire des foyers supplémentaires séparant les enfants par âge, préservant les fratries et accueillant les jeunes victimes d'agressions sexuelles.",
+      "excerpt": "Déblocage de fonds pour la construction des foyers supplémentaires permettant de séparer les enfants par tranches d'âge, préserver les fratries, protéger les jeunes victimes d'agressions sexuelles (en créant des centres de résilience), assurer des accueils d'urgence ponctuels, tout en prenant en compte une dimension de soin psycho-psychiatrique.",
+      "tags": [
+        "foyer",
+        "ase",
+        "fratrie",
+        "enfant"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Protection de l'enfance (p. 44)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-famille-08",
+      "theme": "famille",
+      "title": "Fixer un taux d'encadrement maximal des enfants protégés",
+      "summary": "Le projet prévoit de fixer un taux d'encadrement maximal d'enfants protégés.",
+      "excerpt": "Fixation d’un taux d’encadrement maximal d’enfants protégés.",
+      "tags": [
+        "encadrement",
+        "ase",
+        "enfant",
+        "protection de l'enfance"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Protection de l'enfance (p. 44)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-famille-09",
+      "theme": "famille",
+      "title": "Créer un Code de l'enfance",
+      "summary": "Le projet prévoit la création d'un Code de l'enfance regroupant les dispositions du code de l'action sociale et des familles, du code civil et du code pénal.",
+      "excerpt": "Création d’un Code de l’enfance, fusionnant toutes les dispositions applicables et dispersées dans le code de l’action sociale et des familles, dans le code civil et dans le code pénal.",
+      "tags": [
+        "code de l'enfance",
+        "enfant",
+        "droit",
+        "famille"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Protection de l'enfance (p. 44)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-famille-10",
+      "theme": "famille",
+      "title": "Créer un préfet délégué à la protection de l'enfance dans chaque département",
+      "summary": "Le projet prévoit un préfet délégué à la protection de l'enfance dans chaque département.",
+      "excerpt": "Création d’un préfet délégué à la protection de l’enfance dans chaque département.",
+      "tags": [
+        "préfet",
+        "protection de l'enfance",
+        "département",
+        "enfant"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Protection de l'enfance (p. 44)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-famille-11",
+      "theme": "famille",
+      "title": "Garantir des soins psychiatriques gratuits aux enfants placés",
+      "summary": "Le projet prévoit la gratuité et la garantie d'accès à des soins psycho-psychiatriques pour tout enfant placé ou suivi par une mesure éducative, et des programmes de détection des difficultés.",
+      "excerpt": "Gratuité et garantie d’accès à des soins psycho-psychiatriques pour tout enfant faisant l’objet d’un placement ou d’une mesure éducative, et de programmes de détection de difficultés scolaires ou psychologiques, sur le modèle du programme québécois « Agir tôt ».",
+      "tags": [
+        "enfant placé",
+        "psychiatrie",
+        "soins",
+        "santé mentale"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Protection de l'enfance (p. 45)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-famille-12",
+      "theme": "famille",
+      "title": "Appliquer les mesures d'aide éducative sous huit jours",
+      "summary": "Le projet prévoit l'application des mesures d'aide éducative à J+8.",
+      "excerpt": "Application des mesures d’aide éducative à J+8.",
+      "tags": [
+        "aide éducative",
+        "délai",
+        "enfant",
+        "protection de l'enfance"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Protection de l'enfance (p. 45)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "branco-famille-13",
+      "theme": "famille",
+      "title": "Créer un réseau public d'accueil de la petite enfance",
+      "summary": "Le projet prévoit un réseau public de structures d'accueil de la petite enfance et un plan de rattrapage pour la protection de l'enfance dans les outre-mer.",
+      "excerpt": "Création d’un réseau public de structures d’accueil de la petite enfance. Engagement d’un plan de rattrapage spécifique pour la protection de l’enfance dans les outre-mer en dotant chaque collectivité de structures adaptées et en formant le personnel aux problématiques locales.",
+      "tags": [
+        "crèche",
+        "petite enfance",
+        "garde d'enfant",
+        "outre-mer"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Protection de l'enfance (p. 45)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-famille-14",
+      "theme": "famille",
+      "title": "Réformer la justice aux affaires familiales",
+      "summary": "Le projet prévoit une réforme de la justice aux affaires familiales avec enregistrement des audiences, formations dédiées et droit d'appel devant un jury citoyen.",
+      "excerpt": "Réforme intégrale de la justice aux affaires familiales, systématisation de l’enregistrement des audiences, création de formations spécifiques dès l’ENM et droit d’appel auprès d’une instance juridictionnelle citoyenne (jury).",
+      "tags": [
+        "divorce",
+        "jaf",
+        "garde",
+        "justice familiale"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Protection de l'enfance (p. 45)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-famille-15",
+      "theme": "famille",
+      "title": "Étatiser les foyers d'accueil des femmes victimes de violences",
+      "summary": "Le projet prévoit l'étatisation des foyers et dispositifs associatifs accompagnant les femmes victimes de violences, avec des séjours plus longs et un suivi renforcé.",
+      "excerpt": "Étatisation des foyers et des dispositifs d’accompagnement associatifs appuyant les femmes victimes de violences, avec une extension des temps de séjour et un renforcement du suivi socio- éducatif.",
+      "tags": [
+        "violences conjugales",
+        "femmes",
+        "foyer",
+        "hébergement"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Protection de l'enfance (p. 45)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-retraite-01",
+      "theme": "retraite",
+      "title": "Aligner les régimes de retraite et fixer les taux selon l'espérance de vie",
+      "summary": "Le projet prévoit d'aligner les régimes de retraite et de fixer les taux selon l'espérance de vie par catégorie socioprofessionnelle, avec un taux de couverture régressif, une prise en compte du patrimoine et un renforcement des bas revenus.",
+      "excerpt": "Alignement des régimes de retraite et des taux de retour intra et intergénérationnel, fixation des taux selon l’espérance de vie par catégorie sociale et professionnelle, avec un taux de couverture régressif, une prise en compte du patrimoine et un renforcement des bas revenus.",
+      "tags": [
+        "retraite",
+        "régimes de retraite",
+        "pension",
+        "espérance de vie"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Travail (p. 30)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-retraite-02",
+      "theme": "retraite",
+      "title": "Faire apparaître la part de solidarité dans les pensions",
+      "summary": "Le projet prévoit de rendre visible la part non assurantielle, prise en charge par la solidarité nationale, dans le versement des retraites.",
+      "excerpt": "Visibilisation de la part non-assurantielle, prise en charge par la solidarité nationale, dans le versement des retraites.",
+      "tags": [
+        "retraite",
+        "pension",
+        "solidarité",
+        "cotisation"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Travail (p. 30)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-retraite-03",
+      "theme": "retraite",
+      "title": "Supprimer l'abattement fiscal de 10 % sur les retraites",
+      "summary": "Le projet prévoit la suppression de l'abattement fiscal de 10 % pour les retraites.",
+      "excerpt": "Suppression de l’abattement fiscal de 10% pour les retraites.",
+      "tags": [
+        "retraité",
+        "impôt",
+        "abattement",
+        "pension"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Économie, Travail (p. 30)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "branco-retraite-04",
+      "theme": "retraite",
+      "title": "Nationaliser la politique de dépendance des personnes âgées",
+      "summary": "Le projet prévoit un plan vieillesse nationalisant la politique de dépendance et incitant aux regroupements familiaux et au logement transgénérationnel.",
+      "excerpt": "Grand plan vieillesse nationalisant la politique de dépendance et incitant lourdement aux regroupements familiaux, ainsi qu’au logement transgénérationnel.",
+      "tags": [
+        "dépendance",
+        "personnes âgées",
+        "senior",
+        "logement intergénérationnel"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Santé (p. 42)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-retraite-05",
+      "theme": "retraite",
+      "title": "Étatiser progressivement les EHPAD",
+      "summary": "Le projet prévoit l'étatisation progressive des EHPAD, MAS et FAM et l'unification de la tutelle de l'État.",
+      "excerpt": "Étatisation progressive des EHPAD, MAS, FAM… et unification de la tutelle étatique.",
+      "tags": [
+        "ehpad",
+        "personnes âgées",
+        "senior",
+        "dépendance"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Santé (p. 42)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-retraite-06",
+      "theme": "retraite",
+      "title": "Déployer un réseau public de maisons de retraite",
+      "summary": "Le projet prévoit un réseau public de maisons de retraite couplé à des garderies et la fin progressive des financements privés.",
+      "excerpt": "Déploiement d’un réseau public de maisons de retraite, couplé à des garderies, et fin progressive des financements privés.",
+      "tags": [
+        "maison de retraite",
+        "ehpad",
+        "senior",
+        "personnes âgées"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "La Santé (p. 42)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-transport-01",
+      "theme": "transport",
+      "title": "Investir dans les lignes ferroviaires secondaires et mettre fin à la concurrence",
+      "summary": "Le projet prévoit la fin de la concurrence dans le ferroviaire et un plan d'investissement dans les lignes secondaires, dont 4 000 kilomètres de lignes menacées, et l'électrification des motrices diesel.",
+      "excerpt": "Fin de la concurrence dans le ferroviaire, lancement d’un grand plan d’investissement dans les lignes secondaires, notamment des 4000 kilomètres de lignes menacées d’effondrement, et d’électrification des motrices diesel.",
+      "tags": [
+        "train",
+        "sncf",
+        "petites lignes",
+        "ferroviaire",
+        "rural"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Énergie, l'Écologie et les Logements (p. 54)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "branco-transport-02",
+      "theme": "transport",
+      "title": "Investir dans le ferroutage et le cabotage",
+      "summary": "Le projet prévoit un plan d'investissement dans le ferroutage et le cabotage pour réduire les émissions du transport routier.",
+      "excerpt": "Grand plan d’investissement dans le ferroutage et le cabotage pour réduire les émissions liées au transport routier, financé par une conversion des dettes immobilières en titres d’investissement.",
+      "tags": [
+        "fret",
+        "ferroutage",
+        "camion",
+        "transport routier"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Énergie, l'Écologie et les Logements (p. 54)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-transport-03",
+      "theme": "transport",
+      "title": "Exproprier les sociétés d'autoroutes",
+      "summary": "Le projet prévoit l'expropriation des compagnies d'autoroutes.",
+      "excerpt": "Expropriation des compagnies d’autoroutes.",
+      "tags": [
+        "autoroute",
+        "péage",
+        "voiture",
+        "nationalisation"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Énergie, l'Écologie et les Logements (p. 54)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-transport-04",
+      "theme": "transport",
+      "title": "Créer un crédit citoyen du transport et financer les transports en commun",
+      "summary": "Le projet prévoit un crédit citoyen du transport, un plan de financement des transports en commun et un renforcement du pass rail.",
+      "excerpt": "Création d’un crédit citoyen du transport. - Lancement d’un grand plan de financement des transports en commun. - Renforcement du pass rail.",
+      "tags": [
+        "transports en commun",
+        "pass rail",
+        "bus",
+        "mobilité"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Énergie, l'Écologie et les Logements (p. 54)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-transport-05",
+      "theme": "transport",
+      "title": "Taxer le kérosène des vols intérieurs et les poids lourds internationaux",
+      "summary": "Le projet prévoit la fin de l'exemption de TICPE sur les vols intérieurs et une redevance sur les poids lourds internationaux.",
+      "excerpt": "Fin de l’exemption de TICPE sur les vols intérieurs. - Mise en place d’une redevance poids lourds internationaux.",
+      "tags": [
+        "avion",
+        "kérosène",
+        "poids lourds",
+        "camion"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Énergie, l'Écologie et les Logements (p. 54)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-transport-06",
+      "theme": "transport",
+      "title": "Supprimer les zones à faibles émissions",
+      "summary": "Le projet prévoit l'abolition des zones à faibles émissions.",
+      "excerpt": "Abolition des Zones à Faibles Émissions.",
+      "tags": [
+        "zfe",
+        "voiture",
+        "zones à faibles émissions",
+        "pollution"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Énergie, l'Écologie et les Logements (p. 54)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-transport-07",
+      "theme": "transport",
+      "title": "Intégrer l'apprentissage du permis de conduire au secondaire",
+      "summary": "Le projet prévoit d'intégrer l'apprentissage du permis de conduire dans les critères du secondaire.",
+      "excerpt": "Intégration de l’apprentissage du permis de conduire dans les critères du secondaire.",
+      "tags": [
+        "permis de conduire",
+        "lycée",
+        "jeunes",
+        "voiture"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Instruction, Secondaire (p. 38)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-env-01",
+      "theme": "environnement",
+      "title": "Construire 14 EPR 2",
+      "summary": "Le projet prévoit la construction de 14 réacteurs EPR 2 et le développement d'une filière intégrée de réacteurs à neutrons rapides.",
+      "excerpt": "Construction de 14 EPR 2, développement d’une filière intégrée RNR-NA.",
+      "tags": [
+        "nucléaire",
+        "epr",
+        "électricité",
+        "énergie"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Énergie, l'Écologie et les Logements (p. 52)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "branco-env-02",
+      "theme": "environnement",
+      "title": "Nationaliser la distribution d'électricité et sortir du marché européen",
+      "summary": "Le projet prévoit l'expropriation des acteurs privés et la nationalisation de la distribution d'électricité, puis la sortie du marché européen de l'électricité.",
+      "excerpt": "Expropriation des acteurs privés et nationalisation du marché de la distribution de l'électricité : fin de la concurrence dans le secteur énergétique. - Sortie du marché européen de l’électricité.",
+      "tags": [
+        "électricité",
+        "edf",
+        "marché européen",
+        "nationalisation"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Énergie, l'Écologie et les Logements (p. 52)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-env-03",
+      "theme": "environnement",
+      "title": "Réserver les aides au photovoltaïque aux sites déjà artificialisés",
+      "summary": "Le projet prévoit de concentrer les subventions photovoltaïques sur les emprises existantes (terrains militaires, gares, parkings) et de mettre fin à l'agrivoltaïsme hors de ces emprises.",
+      "excerpt": "Concentration des subventions photovoltaïques aux installations sur emprises déjà existantes (terrains militaires, gares, parkings…), renforcement de la conditionnalité des aides et fin de l’agro-voltaïque en dehors des emprises déjà existantes.",
+      "tags": [
+        "solaire",
+        "photovoltaïque",
+        "agrivoltaïsme",
+        "énergie"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Énergie, l'Écologie et les Logements (p. 52)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-env-04",
+      "theme": "environnement",
+      "title": "Électrifier les derniers usages fossiles",
+      "summary": "Le projet prévoit un plan d'électrification des derniers usages fossiles et le développement du stockage pour limiter l'écrêtement et les prix négatifs.",
+      "excerpt": "Développement de solution de stockage pour limiter l’écrêtement et les prix négatifs. - Plan d’électrification des derniers usages fossiles.",
+      "tags": [
+        "électrification",
+        "énergies fossiles",
+        "stockage",
+        "climat"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Énergie, l'Écologie et les Logements (p. 52)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-env-05",
+      "theme": "environnement",
+      "title": "Relancer l'exploration d'hydrocarbures en Guyane",
+      "summary": "Le projet prévoit de relancer l'exploration d'hydrocarbures en Guyane et un référendum sur leur exploitation dans l'Hexagone et les outre-mer.",
+      "excerpt": "Relance de l’exploration hydrocarbure en Guyane et référendum sur une exploitation dans l’hexagone et les outremers afin d’assurer la transition énergétique de façon souveraine.",
+      "tags": [
+        "pétrole",
+        "hydrocarbures",
+        "guyane",
+        "énergie"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Énergie, l'Écologie et les Logements (p. 52)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-env-06",
+      "theme": "environnement",
+      "title": "Renationaliser la distribution de l'eau",
+      "summary": "Le projet prévoit la renationalisation des entreprises de distribution de l'eau.",
+      "excerpt": "Renationalisation des entreprises de distribution de l’eau.",
+      "tags": [
+        "eau",
+        "distribution de l'eau",
+        "nationalisation",
+        "service public"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Énergie, l'Écologie et les Logements (p. 52)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-env-07",
+      "theme": "environnement",
+      "title": "Suspendre MaPrimeRénov' et réorienter vers l'électrification du chauffage",
+      "summary": "Le projet prévoit un moratoire sur les aides à l'isolation des logements, dont MaPrimeRénov', et leur réorientation vers l'électrification du chauffage et les rénovations globales.",
+      "excerpt": "Moratoire sur l’ensemble des dispositifs d’aide à l’isolation des logements (ma prime rénov’…), réorientation stricte sur l’électrification du chauffage et sur des rénovations globales.",
+      "tags": [
+        "maprimerénov",
+        "isolation",
+        "rénovation",
+        "chauffage"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Énergie, l'Écologie et les Logements (p. 53)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-env-08",
+      "theme": "environnement",
+      "title": "Durcir le ZAN et reconvertir les sols artificialisés",
+      "summary": "Le projet prévoit un plan d'arrêt et de reconversion des sols artificialisés durcissant le ZAN, d'écoconception des produits et de réorientation des friches industrielles.",
+      "excerpt": "Plan d’arrêt et de reconversion des sols artificialisés durcissant les ZAN, d’écoconception des produits de consommation et de réorientation massive des friches industrielles existantes.",
+      "tags": [
+        "zan",
+        "artificialisation",
+        "friches",
+        "biodiversité"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Énergie, l'Écologie et les Logements (p. 53)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-env-09",
+      "theme": "environnement",
+      "title": "Relever à 500 000 euros les amendes des installations classées",
+      "summary": "Le projet prévoit d'augmenter le nombre d'inspecteurs des installations classées et de relever le plafond des amendes à 500 000 euros contre 15 000 euros.",
+      "excerpt": "Augmentation du nombre d’inspecteurs des installations classées pour la protection de l’environnement (ICPE) et relèvement du plafond des amendes à 500 000 euros (contre 15 000 euros actuellement).",
+      "tags": [
+        "pollution",
+        "icpe",
+        "amende",
+        "industrie"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Énergie, l'Écologie et les Logements (p. 54)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "branco-env-10",
+      "theme": "environnement",
+      "title": "Interdire les contenants en plastique et créer des consignes",
+      "summary": "Le projet prévoit l'interdiction des contenants en plastique destinés à la consommation et la création de consignes pour les contenants liquides.",
+      "excerpt": "Interdiction des contenants en plastique aux fins de consommation et création de consignes pour les contenants liquides.",
+      "tags": [
+        "plastique",
+        "consigne",
+        "déchets",
+        "emballage"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Énergie, l'Écologie et les Logements (p. 54)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-env-11",
+      "theme": "environnement",
+      "title": "Interdire sous cinq ans les pesticides CMR de catégorie 1",
+      "summary": "Le projet prévoit l'interdiction à horizon de cinq ans des pesticides CMR de catégorie 1 et des perturbateurs endocriniens identifiés, et la réduction des CMR de catégorie 2.",
+      "excerpt": "Interdiction à horizon quinquennal des pesticides CMR de catégorie 1et perturbateurs endocriniens identifiés, et réduction des CMR de catégorie 2.",
+      "tags": [
+        "pesticides",
+        "perturbateurs endocriniens",
+        "agriculture",
+        "santé"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Agriculture, le Vivant et la Mer (p. 48)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-env-12",
+      "theme": "environnement",
+      "title": "Créer un fonds public d'assurance contre les risques climatiques pour les agriculteurs",
+      "summary": "Le projet prévoit un fonds assurantiel public couvrant universellement les risques climatiques, en remplacement des subventions aux assurances privées.",
+      "excerpt": "Création d’un fonds assurantiel public proposant une couverture universelle contre les risques climatiques en remplacement des subventions aux assurances privées, fondé sur une solidarité interprofessionnelle, avec dispositifs d’indemnisation rapide à partir d’un seuil de pertes et une dégressivité par taille d’exploitation permettant une transition vers les dispositifs privés.",
+      "tags": [
+        "agriculteur",
+        "climat",
+        "assurance",
+        "sécheresse"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Agriculture, le Vivant et la Mer (p. 46)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-env-13",
+      "theme": "environnement",
+      "title": "Réduire les coupes rases et rétablir l'Office national des forêts",
+      "summary": "Le projet prévoit un plan forêt réduisant les coupes rases, rétablissant l'ONF et organisant une politique industrielle de la filière bois.",
+      "excerpt": "Plan forêt amenant à la réduction des coupes rases, au rétablissement de l’Office National des Forêts et à la mise en œuvre d’une politique industrielle intégrée de la filière bois sous la direction de l’État.",
+      "tags": [
+        "forêt",
+        "coupes rases",
+        "onf",
+        "bois"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Agriculture, le Vivant et la Mer (p. 48)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-env-14",
+      "theme": "environnement",
+      "title": "Interdire progressivement les élevages en cage et l'élevage laitier intensif",
+      "summary": "Le projet prévoit l'interdiction progressive des élevages en cage et de l'élevage laitier intensif.",
+      "excerpt": "Interdiction progressive des élevages en cage et de l’élevage laitier intensif.",
+      "tags": [
+        "élevage",
+        "bien-être animal",
+        "cage",
+        "agriculture"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Agriculture, le Vivant et la Mer (p. 48)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "branco-env-15",
+      "theme": "environnement",
+      "title": "Indemniser les victimes des pesticides, dont le chlordécone",
+      "summary": "Le projet prévoit un plan d'indemnisation des victimes des pesticides, à commencer par le chlordécone.",
+      "excerpt": "Plan d’indemnisation des victimes des pesticides, à commencer par la Chlordécone.",
+      "tags": [
+        "pesticides",
+        "chlordécone",
+        "antilles",
+        "indemnisation"
+      ],
+      "source": {
+        "url": "https://ruches.org/projet-1784217879253.pdf",
+        "locator": "L'Agriculture, le Vivant et la Mer (p. 49)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    }
+  ]
+}

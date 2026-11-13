@@ -1,0 +1,759 @@
+{
+  "candidate_id": "cazeneuve",
+  "measures": [
+    {
+      "id": "cazeneuve-famille-01",
+      "theme": "famille",
+      "title": "Instaurer un cadre national unifié pour les professionnels de la petite enfance",
+      "summary": "Un cadre national unifié imposerait que toute personne en contact professionnel avec des enfants ait des compétences vérifiées, une formation et un suivi, avec des personnels formés et en nombre suffisant.",
+      "excerpt": "Nul ne devrait pouvoir être en contact avec des enfants dans un environnement professionnel, sans que ses compétences soient vérifiées, sa formation assurée et son suivi organisé, à la mesure de la confiance qu’on lui accorde. Il faut pour cela un cadre national unifié, avec des personnels formés et en nombre suffisant.",
+      "tags": [
+        "crèche",
+        "petite enfance",
+        "périscolaire",
+        "maltraitance",
+        "garde d'enfants"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 16, L’enfance d’abord"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-famille-02",
+      "theme": "famille",
+      "title": "Inspecter régulièrement tout établissement accueillant des enfants",
+      "summary": "Chaque établissement accueillant des enfants serait inspecté régulièrement selon des critères publics tenant compte de la parole des familles.",
+      "excerpt": "Et chaque établissement qui accueille des enfants doit être régulièrement inspecté, selon des critères publics, tenant grand compte de la parole des familles.",
+      "tags": [
+        "crèche",
+        "inspection",
+        "petite enfance",
+        "parents"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 16, L’enfance d’abord"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-famille-03",
+      "theme": "famille",
+      "title": "Créer un dispositif national d'alerte avec réponse obligatoire sous délai fixe",
+      "summary": "Un dispositif national de signalement imposerait une réponse obligatoire sous délai fixe et la traçabilité des suites données.",
+      "excerpt": "Un dispositif national, avec réponse obligatoire sous délai fixe et traçabilité des suites, responsabilisera les professionnels du secteur.",
+      "tags": [
+        "signalement",
+        "maltraitance",
+        "enfant",
+        "crèche"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 16, L’enfance d’abord"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-famille-04",
+      "theme": "famille",
+      "title": "Répondre à toute plainte pour violences sur enfant en rappelant des magistrats retraités",
+      "summary": "Aucune plainte pour violences faites à un enfant ne devrait rester sans réponse et des magistrats retraités volontaires seraient rappelés pour traiter les dossiers en attente.",
+      "excerpt": "Nous devons engager une mobilisation sans précédent pour la protection de l’enfance : qu’aucune plainte pour violences faites à un enfant ne reste demain sans réponse, et que les magistrats volontaires partis à la retraite soient rappelés, autant qu’il le faudra, pour reprendre, une à une, les paroles d’enfants que l’on a laissées dormir.",
+      "tags": [
+        "protection de l'enfance",
+        "violences",
+        "enfant",
+        "justice"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 17, L’enfance d’abord"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-famille-05",
+      "theme": "famille",
+      "title": "Refonder la politique familiale autour de la petite enfance",
+      "summary": "La politique familiale serait refondée pour ne plus pénaliser le choix d'élever des enfants, avec en priorité la prise en charge de la petite enfance.",
+      "excerpt": "Et refonder une politique familiale qui ne pénalise plus l’envie d’élever des enfants, avec au premier rang une prise en charge ambitieuse de la petite enfance.",
+      "tags": [
+        "politique familiale",
+        "petite enfance",
+        "enfant",
+        "famille"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 50, Travailler"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-sante-01",
+      "theme": "santé",
+      "title": "Faire de la santé mentale une grande cause nationale",
+      "summary": "La prise en charge de la santé mentale deviendrait une grande cause nationale, avec la formation des personnels de santé et de l'éducation.",
+      "excerpt": "Faire de la prise en charge des problèmes de santé mentale une grande cause nationale, former les personnels de santé et de l’éducation, relève d’un devoir de protection et de solidarité à l’égard des jeunes générations.",
+      "tags": [
+        "santé mentale",
+        "psychiatrie",
+        "jeunes",
+        "dépression"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 19, Protéger à chaque âge de la vie"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-retraite-01",
+      "theme": "retraite",
+      "title": "Garantir la soutenabilité financière de la dépendance pour les familles modestes",
+      "summary": "La prise en charge du grand âge, de la dépendance et du soutien aux aidants familiaux serait organisée en assurant sa soutenabilité financière pour les familles les plus modestes.",
+      "excerpt": "La prise en charge du grand âge, de la dépendance, du soutien aux aidants familiaux constitue un chantier considérable, dont il nous appartient d’assurer la soutenabilité financière pour les familles les plus modestes à moyen et long terme.",
+      "tags": [
+        "dépendance",
+        "aidants",
+        "grand âge",
+        "senior"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 19, Protéger à chaque âge de la vie"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-log-01",
+      "theme": "logement",
+      "title": "Engager un grand plan de construction et de rénovation de logements",
+      "summary": "Un plan de constructions et de rénovations, social et écologique, soutenu par des mécanismes d'accession à la propriété, serait engagé pour faire baisser les prix.",
+      "excerpt": "Pour que les prix baissent enfin, un grand plan de constructions et de rénovations, à la fois social et écologique, devra être engagé, soutenu par des mécanismes innovants d’accession à la propriété.",
+      "tags": [
+        "logement",
+        "construction",
+        "rénovation",
+        "accession à la propriété",
+        "logement social"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 22, La dignité garantie"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-pa-01",
+      "theme": "pouvoir d'achat",
+      "title": "Simplifier, unifier et automatiser les aides fondamentales",
+      "summary": "Les aides sociales fondamentales seraient simplifiées, unifiées et versées automatiquement.",
+      "excerpt": "Simplifier, unifier, automatiser les aides fondamentales relève désormais de l’urgence.",
+      "tags": [
+        "aides sociales",
+        "précarité",
+        "non-recours",
+        "allocation"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 23, La dignité garantie"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-retraite-02",
+      "theme": "retraite",
+      "title": "Agir sur la durée de cotisation plutôt que sur l'âge légal de départ",
+      "summary": "Plutôt que de reculer l'âge légal, la trajectoire d'allongement de la durée de cotisation engagée en 2014 serait reprise sur des bases nouvelles et négociées.",
+      "excerpt": "Plutôt que de reculer encore l’âge légal au prix d’un débat sans issue, il faut reprendre, sur des bases nouvelles et négociées, la trajectoire d’allongement engagée en 2014.",
+      "tags": [
+        "âge légal",
+        "durée de cotisation",
+        "trimestres",
+        "réforme des retraites"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 24, Sauver le modèle social"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-retraite-03",
+      "theme": "retraite",
+      "title": "Rétablir le départ anticipé pour pénibilité",
+      "summary": "Les travailleurs exposés aux postures contraignantes, au port de charges, aux vibrations et aux risques chimiques retrouveraient un droit au départ anticipé.",
+      "excerpt": "Les travailleurs exposés aux postures contraignantes, au port de charges, aux vibrations, aux risques chimiques, doivent retrouver le droit à un départ anticipé.",
+      "tags": [
+        "pénibilité",
+        "départ anticipé",
+        "port de charges",
+        "retraite"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 24, Sauver le modèle social"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-retraite-04",
+      "theme": "retraite",
+      "title": "Revoir le dispositif des carrières longues",
+      "summary": "Le dispositif de départ anticipé pour carrières longues serait revu pour retrouver sa cohérence.",
+      "excerpt": "Le dispositif des carrières longues, durci sans nécessité, doit retrouver sa cohérence.",
+      "tags": [
+        "carrières longues",
+        "départ anticipé",
+        "retraite",
+        "travail jeune"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 24, Sauver le modèle social"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-retraite-05",
+      "theme": "retraite",
+      "title": "Permettre de travailler aussi longtemps que souhaité",
+      "summary": "Les personnes qui le souhaitent et en ont la capacité pourraient continuer à travailler aussi longtemps qu'elles le désirent.",
+      "excerpt": "Nous donnerons aussi à celles et ceux qui le souhaitent, et qui en ont la capacité, la liberté de travailler aussi longtemps qu’ils le désirent : non comme une contrainte, mais comme un choix, et comme un élément de solidarité nationale, puisque chaque année ainsi travaillée renforce le système qui nous protège tous.",
+      "tags": [
+        "senior",
+        "cumul emploi retraite",
+        "travailler plus longtemps",
+        "retraite"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 25, Sauver le modèle social"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-emploi-01",
+      "theme": "emploi",
+      "title": "Supprimer deux normes pour toute norme créée",
+      "summary": "Une revue systématique des normes serait engagée avec une obligation de compensation de deux normes supprimées pour une norme créée.",
+      "excerpt": "Une revue systématique devrait être engagée, s’accompagnant d’une obligation de compensation (deux normes supprimées pour une norme créée).",
+      "tags": [
+        "normes",
+        "simplification",
+        "entreprise",
+        "administration"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 34, Servir, décentraliser, simplifier"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-pa-02",
+      "theme": "pouvoir d'achat",
+      "title": "Taxer davantage les très grandes fortunes et les hauts revenus du capital",
+      "summary": "La fiscalité viserait réellement les très grandes fortunes, les plus hauts revenus du capital et les rentes financières.",
+      "excerpt": "Une fiscalité qui atteint réellement les très grandes fortunes, les plus hauts revenus du capital, les rentes financières qui s’accumulent sans contribuer au financement de l’innovation et à l’investissement productif relève de l’équité et non de la démagogie.",
+      "tags": [
+        "impôt",
+        "grandes fortunes",
+        "capital",
+        "justice fiscale"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 35, L’impôt consenti, la dette maîtrisée"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-pa-03",
+      "theme": "pouvoir d'achat",
+      "title": "Rééquilibrer la taxation entre travail et capital",
+      "summary": "Le travail ne devrait pas être plus taxé que le capital, ce rééquilibrage étant présenté comme un chantier de long terme.",
+      "excerpt": "Le travail ne doit pas être davantage taxé que le capital. Le sentiment, largement répandu, que celui qui se lève tôt paie pour celui qui spécule, est corrosif pour le pacte républicain. Le nécessaire rééquilibrage sera un long chantier, sans doute ingrat, mais dont il serait illusoire de prétendre faire l’économie.",
+      "tags": [
+        "impôt",
+        "travail",
+        "capital",
+        "salaire"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 35, L’impôt consenti, la dette maîtrisée"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-pa-04",
+      "theme": "pouvoir d'achat",
+      "title": "Simplifier l'impôt en réduisant les niches fiscales",
+      "summary": "L'impôt serait simplifié avec moins de dérogations et moins de niches fiscales.",
+      "excerpt": "Simplifier l’impôt, avec moins de dérogations, moins de niches, moins de complexité, c’est aussi le rendre plus juste.",
+      "tags": [
+        "impôt",
+        "niches fiscales",
+        "simplification",
+        "taxe"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 35, L’impôt consenti, la dette maîtrisée"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-emploi-02",
+      "theme": "emploi",
+      "title": "Baisser les impôts de production en réduisant les aides fiscales",
+      "summary": "Une réduction des aides fiscales financerait une baisse des impôts sur la production.",
+      "excerpt": "De même, une réduction des aides fiscales financerait plus utilement une baisse des impôts pesant sur la production, plus élevés en France que chez nos principaux voisins.",
+      "tags": [
+        "impôts de production",
+        "entreprise",
+        "pme",
+        "industrie"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 36, L’impôt consenti, la dette maîtrisée"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-env-01",
+      "theme": "environnement",
+      "title": "Maintenir la filière nucléaire et planifier le renouvellement du parc",
+      "summary": "La filière électronucléaire serait maintenue, le renouvellement du parc planifié et les investissements dans les énergies renouvelables rationalisés pour favoriser l'électrification des usages.",
+      "excerpt": "Elle suppose d’assumer l’atout que représente pour la Nation la filière électronucléaire. Il serait irresponsable de s’en passer. Le renouvellement du parc impliquera une planification, et une rationalisation des investissements dans les énergies renouvelables, pour rendre attractive l’électrification des usages.",
+      "tags": [
+        "nucléaire",
+        "énergies renouvelables",
+        "électricité",
+        "climat"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 40, Produire"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-env-02",
+      "theme": "environnement",
+      "title": "Rénover massivement les logements et développer les transports collectifs",
+      "summary": "Une écologie planifiée prévoirait la rénovation massive des logements, le développement des transports collectifs dans les territoires qui en manquent, une agriculture protégeant les sols et une commande publique durable.",
+      "excerpt": "Cela signifie rénover massivement les logements en accomplissant un geste à la fois social et climatique, développer les transports collectifs dans les territoires qui en manquent, soutenir une agriculture qui protège aussi ses sols, rendre la commande publique réellement durable, avec des exigences sanitaires, sociales et environnementales qui contrebalancent la logique du « low-cost ».",
+      "tags": [
+        "rénovation",
+        "isolation",
+        "transports collectifs",
+        "écologie",
+        "commande publique"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 43, Produire"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-env-03",
+      "theme": "environnement",
+      "title": "Rénover les établissements scolaires sur dix ans avec le plan École-Climat-Solidarité",
+      "summary": "Le plan École-Climat-Solidarité, engagement sur dix ans, ferait des établissements scolaires des bâtiments rénovés et écologiques.",
+      "excerpt": "C’est l’objet du plan École-Climat-Solidarité : un engagement sur dix ans qui fera des établissements scolaires des bâtiments rénovés, écologiques et modernes, pensés depuis chaque territoire.",
+      "tags": [
+        "école",
+        "rénovation",
+        "canicule",
+        "îlots de fraîcheur",
+        "climat"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 44, Produire"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-env-04",
+      "theme": "environnement",
+      "title": "Créer une DATAR du climat rattachée au Premier ministre",
+      "summary": "Une délégation à l'aménagement du territoire, DATAR du climat, rattachée au Premier ministre, cartographierait les vulnérabilités de chaque région et organiserait l'effort public.",
+      "excerpt": "Pour le conduire, il faudra rétablir une délégation à l’aménagement du territoire, une DATAR du climat, rattachée au Premier ministre, chargée de cartographier les vulnérabilités de chaque région et d’y ordonner, dans la durée, l’effort public, et de le coordonner avec l’investissement privé.",
+      "tags": [
+        "adaptation",
+        "changement climatique",
+        "aménagement du territoire",
+        "datar"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 44, Produire"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-etudes-01",
+      "theme": "études",
+      "title": "Mieux former et mieux payer les enseignants",
+      "summary": "Les professeurs devraient être mieux formés, mieux payés et mieux considérés.",
+      "excerpt": "Ils doivent être mieux formés, mieux payés, mieux considérés.",
+      "tags": [
+        "enseignant",
+        "salaire enseignant",
+        "professeur",
+        "formation"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 45, Transmettre"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-etudes-02",
+      "theme": "études",
+      "title": "Enseigner l'esprit critique dès le collège et la philosophie dès la Seconde",
+      "summary": "Les programmes intégreraient l'éthique des données, l'esprit critique dès le collège et la philosophie dès la classe de Seconde.",
+      "excerpt": "Les savoirs de notre siècle doivent, par ailleurs, être repensés : l’éthique des données, l’esprit critique dès le collège, la philosophie dès la Seconde.",
+      "tags": [
+        "philosophie",
+        "collège",
+        "lycée",
+        "programmes"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 46, Transmettre"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-etudes-03",
+      "theme": "études",
+      "title": "Former massivement les enseignants au numérique et créer un service public de l'IA éducative",
+      "summary": "Les enseignants seraient formés massivement au numérique et un service public de l'intelligence artificielle éducative serait créé.",
+      "excerpt": "L’école doit enfin maîtriser les nouveaux outils en formant massivement les enseignants au numérique, en bâtissant un service public de l’intelligence artificielle éducative, en ouvrant des laboratoires où sciences et humanités se parlent.",
+      "tags": [
+        "numérique",
+        "intelligence artificielle",
+        "enseignant",
+        "école"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 46, Transmettre"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-etudes-04",
+      "theme": "études",
+      "title": "Verser au moins 2 000 euros d'aide supplémentaire aux étudiants boursiers",
+      "summary": "Chaque étudiant boursier recevrait au moins deux mille euros d'aide supplémentaire au cours de ses deux premières années.",
+      "excerpt": "Le deuxième donnera à chaque étudiant boursier, au cours de ses deux premières années, là où l’on décroche le plus, une aide supplémentaire d’au moins deux mille euros.",
+      "tags": [
+        "bourse",
+        "étudiant",
+        "boursier",
+        "université"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 48, Transmettre"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-emploi-03",
+      "theme": "emploi",
+      "title": "Créer une avance jeunesse de 3 000 euros pour les 18-24 ans sans diplôme ni emploi",
+      "summary": "Les jeunes de 18 à 24 ans sans diplôme ni emploi pourraient recevoir, sous conditions de ressources, une avance jeunesse de trois mille euros que les collectivités pourraient compléter.",
+      "excerpt": "Quant au troisième, il ouvrira aux jeunes de dix-huit à vingt-quatre ans, sans diplôme ni emploi, une avance jeunesse de trois mille euros, sous conditions de ressources, que les collectivités territoriales pourront compléter.",
+      "tags": [
+        "jeunes",
+        "avance jeunesse",
+        "sans diplôme",
+        "chômage",
+        "aide"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 48, Transmettre"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-pa-05",
+      "theme": "pouvoir d'achat",
+      "title": "Simplifier les aides destinées aux jeunes",
+      "summary": "Les aides destinées aux jeunes (bourses, aides au logement, contrat d'engagement, prestations familiales) seraient simplifiées et rationalisées.",
+      "excerpt": "Le premier simplifiera et rationalisera le labyrinthe des aides.",
+      "tags": [
+        "jeunes",
+        "aides",
+        "bourse",
+        "simplification"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 48, Transmettre"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-emploi-04",
+      "theme": "emploi",
+      "title": "Garantir la possibilité de se former tout au long de la vie",
+      "summary": "Face aux effets de l'intelligence artificielle sur l'emploi, chacun aurait la garantie de pouvoir se former tout au long de sa vie.",
+      "excerpt": "Elle n’appelle pas un discours rassurant, mais une garantie concrète : pouvoir se former tout au long de sa vie.",
+      "tags": [
+        "formation",
+        "reconversion",
+        "intelligence artificielle",
+        "emploi"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 49, Travailler"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-emploi-05",
+      "theme": "emploi",
+      "title": "Généraliser l'apprentissage dès la licence et encadrer les stages",
+      "summary": "L'apprentissage serait généralisé dès le premier cycle universitaire, le recours abusif aux stages encadré et le CDI redeviendrait la norme pour les jeunes.",
+      "excerpt": "Généraliser l’apprentissage dès le premier cycle universitaire, encadrer le recours abusif aux stages, redonner au CDI sa place de norme pour les jeunes.",
+      "tags": [
+        "apprentissage",
+        "stage",
+        "cdi",
+        "jeunes",
+        "université"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 50, Travailler"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-emploi-06",
+      "theme": "emploi",
+      "title": "Porter l'emploi des 55-64 ans au niveau de l'Allemagne",
+      "summary": "La lettre indique qu'atteindre pour les 55-64 ans le niveau d'emploi de l'Allemagne représenterait huit cent mille emplois et autant de cotisations.",
+      "excerpt": "Atteindre, pour les cinquante-cinq à soixante-quatre ans, le niveau d’emploi de l’Allemagne représenterait huit cent mille emplois, et autant de cotisations pour les retraites, les hôpitaux, les écoles.",
+      "tags": [
+        "seniors",
+        "emploi des seniors",
+        "55-64 ans",
+        "cotisations"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 49, Travailler"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-sante-02",
+      "theme": "santé",
+      "title": "Redonner sens aux métiers du soin à l'hôpital public",
+      "summary": "La lettre présente comme une urgence le fait de restituer aux soignants de l'hôpital public la vocation à l'origine de leur engagement.",
+      "excerpt": "La crise de l’hôpital public n’est pas seulement budgétaire ou organisationnelle. Les soignants se découragent d’avoir vu disparaître le sens profond de leur métier. Leur restituer la vocation qui fut à l’origine de leur engagement relève de l’urgence.",
+      "tags": [
+        "hôpital public",
+        "soignants",
+        "urgences",
+        "métiers du soin"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 19, Protéger à chaque âge de la vie"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-env-05",
+      "theme": "environnement",
+      "title": "Accompagner les agriculteurs vers des exploitations plus sobres",
+      "summary": "La lettre qualifie d'impasse la production intensive qui détruit l'environnement et prévoit d'accompagner les producteurs vers des exploitations plus sobres et plus sûres.",
+      "excerpt": "C’est admettre, aussi, que la production intensive qui détruit l’environnement et la biodiversité est une impasse. Les producteurs eux-mêmes en ont conscience, qui demandent à être accompagnés dans la mutation vers des exploitations plus sobres et plus sûres.",
+      "tags": [
+        "agriculture",
+        "biodiversité",
+        "transition agricole",
+        "agriculteurs"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 42, Produire"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "cazeneuve-pa-06",
+      "theme": "pouvoir d'achat",
+      "title": "Reconstruire le pouvoir d'achat par les salaires, les loyers, l'énergie et la fiscalité",
+      "summary": "La lettre prévoit de reconstruire le pouvoir d'achat par un ensemble d'orientations : travail qui paie, loyers soutenables, facture d'énergie, services publics et fiscalité.",
+      "excerpt": "Un travail qui paie. Un loyer qui laisse vivre. Une facture d’énergie qui ne soit plus l’angoisse des fins de mois. Des services publics qui allègent les dépenses contraintes. Une fiscalité qui cesse de peser au mauvais endroit.",
+      "tags": [
+        "pouvoir d'achat",
+        "loyer",
+        "énergie",
+        "fiscalité"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+        "locator": "Lettre aux Français (15 juillet 2026), page 60"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    }
+  ]
+}

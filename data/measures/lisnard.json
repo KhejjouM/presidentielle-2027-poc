@@ -1,0 +1,1412 @@
+{
+  "candidate_id": "lisnard",
+  "measures": [
+    {
+      "id": "lisnard-log-01",
+      "theme": "logement",
+      "title": "Supprimer l'article 55 de la loi SRU sur les quotas de logements sociaux",
+      "summary": "L'article 55 de la loi SRU, qui oblige les communes à disposer de 20 % puis 25 % de logements sociaux, serait supprimé.",
+      "excerpt": "Dans ce domaine une mesure essentielle sera la suppression de l’article 55 de la loi SRU du 13 décembre 2000 obligeant les communes à disposer de 20% et bientôt 25% de logements sociaux.",
+      "tags": [
+        "logement social",
+        "hlm",
+        "loi sru",
+        "commune"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+        "locator": "Réussir une nouvelle ambition française, La compétitivité de tous les territoires"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-log-02",
+      "theme": "logement",
+      "title": "Remplacer l'objectif de stock de logements sociaux par un objectif de flux plafonné",
+      "summary": "Un dispositif, éventuellement transitoire, pourrait remplacer l'objectif sur le stock de logements sociaux par un objectif plafonné sur le flux de constructions, fixé entre l'État et les collectivités.",
+      "excerpt": "Il faut libérer le marché du logement et, peut-être de façon transitoire, un nouveau dispositif pourrait remplacer l’objectif sur le stock par un objectif sur le flux des habitations construites, défini par une concertation entre l’Etat et les collectivités concernées et qui serait plafonné.",
+      "tags": [
+        "logement social",
+        "construction",
+        "logement",
+        "commune"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+        "locator": "Réussir une nouvelle ambition française, La compétitivité de tous les territoires"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-log-03",
+      "theme": "logement",
+      "title": "Permettre de débloquer l'épargne retraite pour acheter sa résidence principale",
+      "summary": "Une part capitalisée de l'épargne retraite pourrait être débloquée pour acheter sa résidence principale.",
+      "excerpt": "Il sera possible de débloquer une part capitalisée de cette épargne pour l’achat de la résidence principale.",
+      "tags": [
+        "acheter",
+        "résidence principale",
+        "propriétaire",
+        "épargne"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+        "locator": "Réussir une nouvelle ambition française, La réforme des retraites"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-log-04",
+      "theme": "logement",
+      "title": "Retirer le logement social et les aides sociales aux personnes condamnées pour délinquance",
+      "summary": "Les personnes condamnées pour délinquance perdraient l'accès au logement social et aux aides sociales, et les prestations non contributives ne seraient plus versées à l'étranger.",
+      "excerpt": "Le même discours de David Lisnard retire le logement social et les aides sociales aux personnes condamnées pour délinquance, et met fin au versement des prestations non contributives à l’étranger.",
+      "tags": [
+        "logement social",
+        "hlm",
+        "aides sociales",
+        "délinquance"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-regrouper-les-aides-sociales-en-une-allocation-unique/",
+        "locator": "Questions : Quel candidat veut regrouper les aides sociales en une allocation unique ? (Ce qui sort du champ)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-sante-01",
+      "theme": "santé",
+      "title": "Mieux rembourser les actes médicaux dans les zones sous-dotées",
+      "summary": "La Sécurité sociale rembourserait mieux les actes dans les zones sous-dotées que dans les zones saturées (conventionnement différencié).",
+      "excerpt": "Nous proposons un conventionnement différencié : la Sécurité sociale rembourse mieux les actes dans les zones sous-dotées que dans les zones saturées.",
+      "tags": [
+        "déserts médicaux",
+        "remboursement",
+        "médecin",
+        "sécurité sociale"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/sante/",
+        "locator": "Santé, 1. Garantir l'accès aux soins par la liberté"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-sante-02",
+      "theme": "santé",
+      "title": "Généraliser les maisons de santé dans chaque canton et l'accès direct aux paramédicaux",
+      "summary": "Les maisons de santé pluridisciplinaires seraient généralisées à l'échelle de chaque canton, avec un accès direct aux infirmiers, kinésithérapeutes et pharmaciens.",
+      "excerpt": "Nous défendons aussi la généralisation des maisons de santé pluridisciplinaires à l’échelle de chaque canton, et l’accès direct aux infirmiers, kinés, pharmaciens, pour désengorger les généralistes et fluidifier les parcours.",
+      "tags": [
+        "maison de santé",
+        "infirmier",
+        "pharmacie",
+        "généraliste"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/sante/",
+        "locator": "Santé, 1. Garantir l'accès aux soins par la liberté"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-sante-03",
+      "theme": "santé",
+      "title": "Supprimer les agences régionales de santé",
+      "summary": "Les ARS seraient supprimées, leurs responsabilités transférées aux préfets et aux élus, et les maires retrouveraient la présidence des conseils d'administration des hôpitaux.",
+      "excerpt": "Nous voulons supprimer les ARS, transférer les responsabilités aux préfets et aux élus, redonner aux maires la présidence des conseils d’administration des hôpitaux.",
+      "tags": [
+        "ars",
+        "hôpital",
+        "maire",
+        "administration"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/sante/",
+        "locator": "Santé, 2. En finir avec la bureaucratie sanitaire"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-sante-04",
+      "theme": "santé",
+      "title": "Revaloriser les soignants selon leurs responsabilités et assouplir les recrutements",
+      "summary": "Les salaires des soignants seraient revalorisés selon les responsabilités plutôt que les statuts, avec des recrutements contractuels et des passerelles public-privé, et une reconnaissance des compétences paramédicales.",
+      "excerpt": "Cela suppose une revalorisation salariale fondée sur les responsabilités, non sur les statuts, des recrutements contractuels souples, y compris passerelles public-privé, et la reconnaissance pleine des compétences paramédicales, dans une logique de coopération.",
+      "tags": [
+        "soignants",
+        "infirmier",
+        "salaire",
+        "hôpital"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/sante/",
+        "locator": "Santé, 3. Respecter les soignants, c'est leur rendre leur liberté"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-sante-05",
+      "theme": "santé",
+      "title": "Doubler le nombre d'étudiants en médecine d'ici 2030",
+      "summary": "Le nombre d'étudiants en médecine doublerait d'ici 2030, avec la suppression de Parcoursup, la simplification de la LAS/PASS, l'exercice sous supervision dès la 5e année et l'ouverture de tous les lieux de stage.",
+      "excerpt": "Nous voulons doubler le nombre d’étudiants en médecine d’ici 2030, supprimer Parcoursup, simplifier la LAS/PASS, autoriser l’exercice sous supervision dès la 5e année, et ouvrir tous les lieux de stage, publics comme privés.",
+      "tags": [
+        "études de médecine",
+        "médecin",
+        "parcoursup",
+        "étudiant"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/sante/",
+        "locator": "Santé, 3. Respecter les soignants, c'est leur rendre leur liberté"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "lisnard-sante-06",
+      "theme": "santé",
+      "title": "Créer un consortium pharmaceutique européen",
+      "summary": "Un consortium pharmaceutique européen, sur le modèle d'Airbus, mutualiserait la demande, garantirait des prix et relocaliserait la production.",
+      "excerpt": "Nous proposons la création d’un consortium pharmaceutique européen, sur le modèle d’Airbus, pour mutualiser la demande, garantir des prix, et relocaliser les chaînes de valeur.",
+      "tags": [
+        "médicaments",
+        "pénurie",
+        "pharmacie",
+        "europe"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/sante/",
+        "locator": "Santé, 4. Retrouver notre souveraineté sanitaire et investir dans l'innovation"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-sante-07",
+      "theme": "santé",
+      "title": "Réinvestir dans la recherche publique en santé",
+      "summary": "La recherche publique en santé bénéficierait de nouveaux investissements et des clusters français de biotechnologie et de médecine génomique seraient créés.",
+      "excerpt": "Nous proposons aussi de réinvestir dans la recherche publique en santé, et de créer des clusters français de biotechnologie et de médecine génomique.",
+      "tags": [
+        "recherche médicale",
+        "biotechnologie",
+        "santé",
+        "innovation"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/sante/",
+        "locator": "Santé, 4. Retrouver notre souveraineté sanitaire et investir dans l'innovation"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-sante-08",
+      "theme": "santé",
+      "title": "Mettre la Sécurité sociale en concurrence sur le modèle néerlandais",
+      "summary": "La Sécurité sociale serait mise en concurrence avec un panier de soins obligatoire que nul organisme ne peut refuser de rembourser et un libre choix de l'organisme par l'assuré.",
+      "excerpt": "Non. David Lisnard propose de mettre la Sécurité sociale en concurrence sur le modèle des Pays-Bas : un panier de soins obligatoire, qu’aucun organisme ne peut refuser de rembourser, et le libre choix de son organisme par l’assuré.",
+      "tags": [
+        "sécurité sociale",
+        "assurance maladie",
+        "mutuelle",
+        "remboursement"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/questions/david-lisnard-veut-il-supprimer-la-securite-sociale/",
+        "locator": "Questions : David Lisnard veut-il supprimer la Sécurité sociale ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-sante-09",
+      "theme": "santé",
+      "title": "Implanter des campus universitaires de santé dans les villes moyennes",
+      "summary": "Des campus universitaires seraient de nouveau implantés dans des villes moyennes pour que les étudiants formés y restent.",
+      "excerpt": "Il plaide pour que des campus universitaires soient de nouveau implantés dans des villes moyennes, afin que les étudiants qui y sont formés y restent une fois leur formation achevée.",
+      "tags": [
+        "déserts médicaux",
+        "ville moyenne",
+        "études de médecine",
+        "rural"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-ameliorer-l-acces-aux-soins-hors-des-grandes-villes/",
+        "locator": "Questions : Quel candidat veut améliorer l'accès aux soins hors des grandes villes ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-sante-10",
+      "theme": "santé",
+      "title": "Ne pas réguler l'installation des médecins",
+      "summary": "L'installation des médecins ne serait pas régulée par une obligation d'exercer en zone sous-dotée.",
+      "excerpt": "David Lisnard est opposé à la régulation de l’installation des médecins, c’est-à-dire à l’obligation d’exercer dans une zone sous-dotée.",
+      "tags": [
+        "déserts médicaux",
+        "installation",
+        "médecin",
+        "liberté d'installation"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/questions/comment-david-lisnard-compte-t-il-lutter-contre-les-deserts-medicaux/",
+        "locator": "Questions : Comment David Lisnard compte-t-il lutter contre les déserts médicaux ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-pa-01",
+      "theme": "pouvoir d'achat",
+      "title": "Rendre 120 milliards d'euros aux actifs en salaire net par la baisse des cotisations",
+      "summary": "Sur 200 milliards d'euros d'économies budgétaires, 120 milliards seraient rendus aux actifs en salaire net, soit environ 400 euros de plus par mois et par salarié, sans hausse du coût du travail.",
+      "excerpt": "Sur 200 milliards d’euros d’économies budgétaires, 120 milliards seraient rendus aux actifs en salaire net, soit environ 400 euros de plus par mois et par salarié, sans augmenter le coût du travail.",
+      "tags": [
+        "salaire net",
+        "cotisations",
+        "pouvoir d'achat",
+        "salaire"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/questions/que-propose-david-lisnard-pour-le-pouvoir-d-achat/",
+        "locator": "Questions : Que propose David Lisnard pour le pouvoir d'achat ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "lisnard-pa-02",
+      "theme": "pouvoir d'achat",
+      "title": "Suspendre six mois l'obligation de certificats d'économies d'énergie sur les carburants",
+      "summary": "L'obligation des certificats d'économies d'énergie sur les carburants serait suspendue pendant six mois, soit selon le candidat 17 centimes de baisse par litre.",
+      "excerpt": "David Lisnard propose de suspendre pendant six mois l’obligation des certificats d’économies d’énergie sur les carburants, soit selon lui 17 centimes par litre, une baisse immédiate pour tous et sans incidence budgétaire.",
+      "tags": [
+        "carburant",
+        "essence",
+        "prix à la pompe",
+        "voiture"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-faire-baisser-le-prix-du-carburant/",
+        "locator": "Questions : Quel candidat veut faire baisser le prix du carburant ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "lisnard-pa-03",
+      "theme": "pouvoir d'achat",
+      "title": "Aligner à la baisse la CSG des actifs sur celle des inactifs",
+      "summary": "La CSG des actifs (9,2 % selon le candidat) serait alignée par la baisse sur celle des inactifs (6,6 %), financée par la réduction d'organismes publics.",
+      "excerpt": "Lors de sa rentrée à Cannes, il juge impensable qu’un salarié ou un artisan paie plus de CSG qu’un inactif, avec des taux qu’il cite de mémoire : 9,2 % pour les actifs, 6,6 % pour les inactifs. Il en fait l’une de ses premières mesures, un alignement par la baisse financé par la réduction de moitié, d’abord d’un tiers, d’organismes publics qu’il juge inutiles.",
+      "tags": [
+        "csg",
+        "salaire",
+        "impôt",
+        "actifs"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-que-le-travail-paie-plus-que-l-assistanat/",
+        "locator": "Questions : Quel candidat veut que le travail paie plus que l'assistanat ? (Comment creuser l'écart ?)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "lisnard-pa-04",
+      "theme": "pouvoir d'achat",
+      "title": "Garantir un écart d'au moins 500 euros entre salaire à temps plein et revenu d'assistance",
+      "summary": "Le plus faible salaire à temps plein dépasserait d'au moins 500 euros le revenu d'assistance le plus élevé.",
+      "excerpt": "À Benfeld, il présente comme une proposition « déterminante » l’engagement que le plus faible salaire à temps plein dépasse d’au moins 500 euros le revenu d’assistance le plus élevé.",
+      "tags": [
+        "smic",
+        "salaire",
+        "aides sociales",
+        "rsa"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-que-le-travail-paie-plus-que-l-assistanat/",
+        "locator": "Questions : Quel candidat veut que le travail paie plus que l'assistanat ? (Que promet-il exactement ?)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "lisnard-pa-05",
+      "theme": "pouvoir d'achat",
+      "title": "Regrouper les aides sociales en une allocation unique plafonnée",
+      "summary": "L'ensemble des aides sociales serait regroupé en une allocation unique plafonnée à un pourcentage du SMIC.",
+      "excerpt": "David Lisnard propose de regrouper l’ensemble des aides sociales en une allocation unique, plafonnée à un pourcentage du SMIC.",
+      "tags": [
+        "aides sociales",
+        "allocation",
+        "rsa",
+        "smic"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-regrouper-les-aides-sociales-en-une-allocation-unique/",
+        "locator": "Questions : Quel candidat veut regrouper les aides sociales en une allocation unique ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-emploi-01",
+      "theme": "emploi",
+      "title": "Créer un contrat de travail unique fusionnant CDI et CDD",
+      "summary": "Les nouveaux emplois relèveraient d'un contrat de travail unique fusionnant CDI et CDD, avec des indemnités de licenciement progressives.",
+      "excerpt": "Une mesure essentielle sera l’instauration d’un contrat de travail unique pour les nouveaux emplois, fusionnant CDI et CDD avec des indemnités de licenciement qui seraient progressives.",
+      "tags": [
+        "cdi",
+        "cdd",
+        "contrat de travail",
+        "licenciement"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+        "locator": "Réussir une nouvelle ambition française, Pour revenir au plein-emploi"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-emploi-02",
+      "theme": "emploi",
+      "title": "Supprimer les charges des employeurs à domicile au niveau du SMIC",
+      "summary": "Les charges des particuliers employeurs à domicile seraient supprimées au niveau du SMIC.",
+      "excerpt": "Par ailleurs, les charges pour les employeurs à domicile au niveau du SMIC seront supprimées.",
+      "tags": [
+        "emploi à domicile",
+        "charges",
+        "smic",
+        "particulier employeur"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+        "locator": "Réussir une nouvelle ambition française, Pour revenir au plein-emploi"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-emploi-03",
+      "theme": "emploi",
+      "title": "Créer des charges patronales négatives pour l'embauche d'allocataires du RSA",
+      "summary": "Les embauches de personnes au RSA depuis plus de 2 ans donneraient lieu à des charges patronales négatives.",
+      "excerpt": "Un système de charges patronales négatives pour les embauches de personnes au RSA depuis plus de 2 ans sera créé.",
+      "tags": [
+        "rsa",
+        "embauche",
+        "charges",
+        "chômage"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+        "locator": "Réussir une nouvelle ambition française, Pour revenir au plein-emploi"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "lisnard-emploi-04",
+      "theme": "emploi",
+      "title": "Abaisser la limite d'âge pour l'apprentissage",
+      "summary": "La limite d'âge pour l'apprentissage serait revue à la baisse.",
+      "excerpt": "Enfin, la limite d’âge pour l’apprentissage sera revue à la baisse.",
+      "tags": [
+        "apprentissage",
+        "jeunes",
+        "formation",
+        "alternance"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+        "locator": "Réussir une nouvelle ambition française, Pour revenir au plein-emploi"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-emploi-05",
+      "theme": "emploi",
+      "title": "Confier aux accords d'entreprise la fixation du temps de travail",
+      "summary": "Les accords d'entreprise auraient la charge de libérer le temps de travail.",
+      "excerpt": "C’est aux accords d’entreprise qu’il confie le soin de libérer le temps de travail et la création de valeur, dans un appareil d’État qu’il veut « organisé, décentralisé, débureaucratisé ».",
+      "tags": [
+        "35 heures",
+        "temps de travail",
+        "accord d'entreprise",
+        "code du travail"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-assouplir-les-35-heures/",
+        "locator": "Questions : Quel candidat veut assouplir les 35 heures ? (Qui fixerait le temps de travail ?)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-emploi-06",
+      "theme": "emploi",
+      "title": "Rendre les allocations chômage dégressives",
+      "summary": "Les allocations chômage seraient dégressives, avec une formation des demandeurs d'emploi en difficulté.",
+      "excerpt": "David Lisnard est favorable à la dégressivité des allocations chômage, associée à une vraie formation des demandeurs d’emploi en difficulté.",
+      "tags": [
+        "chômage",
+        "allocation chômage",
+        "dégressivité",
+        "formation"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-reformer-l-assurance-chomage/",
+        "locator": "Questions : Quel candidat veut réformer l'assurance chômage ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-emploi-07",
+      "theme": "emploi",
+      "title": "Ne pas remplacer tous les départs de la fonction publique",
+      "summary": "Les quelque 500 000 départs annuels de la fonction publique ne seraient plus tous remplacés, en commençant par les fonctions administratives.",
+      "excerpt": "David Lisnard propose de ne plus remplacer l’ensemble des cinq cent mille départs annuels de la fonction publique, en commençant par les fonctions administratives.",
+      "tags": [
+        "fonctionnaire",
+        "fonction publique",
+        "postes",
+        "emploi public"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-reduire-le-nombre-de-fonctionnaires/",
+        "locator": "Questions : Quel candidat veut réduire le nombre de fonctionnaires ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-etudes-01",
+      "theme": "études",
+      "title": "Abroger la carte scolaire",
+      "summary": "La carte scolaire serait abrogée.",
+      "excerpt": "Il faut abroger la carte scolaire qui enferme les familles dans leur quartier, souvent contre leur gré, et laisse aux plus aisés le monopole de l’évitement.",
+      "tags": [
+        "carte scolaire",
+        "école",
+        "collège",
+        "choix de l'école"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+        "locator": "École, I. En finir avec l'égalitarisme bureaucratique"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-etudes-02",
+      "theme": "études",
+      "title": "Instaurer progressivement un chèque-éducation",
+      "summary": "Le libre choix de l'école serait garanti par la transparence des résultats et un chèque-éducation, financement public équivalent que la famille choisisse le public ou le privé.",
+      "excerpt": "Nous proposons un droit réel au libre choix de l’école, garanti par la transparence des résultats et l’instauration progressive d’un chèque-éducation : un financement public équivalent, que la famille choisisse l’enseignement public ou privé.",
+      "tags": [
+        "chèque éducation",
+        "école privée",
+        "choix de l'école",
+        "financement"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+        "locator": "École, I. En finir avec l'égalitarisme bureaucratique"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-etudes-03",
+      "theme": "études",
+      "title": "Donner aux chefs d'établissement la liberté de recruter et de gérer leur budget",
+      "summary": "Les chefs d'établissement pourraient recruter leurs équipes pédagogiques, choisir leurs méthodes, gérer leur budget et refuser les élèves qui nuisent au collectif.",
+      "excerpt": "Cela passe par la liberté donnée aux chefs d’établissement de recruter leurs équipes pédagogiques, d’appliquer leurs méthodes, de gérer leur budget, de refuser les élèves qui nuisent au collectif.",
+      "tags": [
+        "autonomie des établissements",
+        "chef d'établissement",
+        "recrutement",
+        "école"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+        "locator": "École, I. En finir avec l'égalitarisme bureaucratique"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-etudes-04",
+      "theme": "études",
+      "title": "Créer un certificat de fin de primaire conditionnant l'entrée au collège",
+      "summary": "Un certificat de fin de primaire serait instauré et sa validation conditionnerait l'entrée au collège.",
+      "excerpt": "Nous proposons l’instauration d’un certificat de fin de primaire, dont la validation conditionnera l’entrée au collège.",
+      "tags": [
+        "primaire",
+        "collège",
+        "examen",
+        "fondamentaux"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+        "locator": "École, II. Recentrer l'école sur sa mission : instruire"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-etudes-05",
+      "theme": "études",
+      "title": "Étendre l'initiation au grec, au latin et à la philosophie dès le primaire",
+      "summary": "L'initiation au grec, au latin et à la philosophie serait étendue dès le primaire.",
+      "excerpt": "L’initiation au grec, au latin, et à la philosophie sera étendu, dès le primaire, comme nous l’avons expérimenté avec succès à Cannes.",
+      "tags": [
+        "latin",
+        "grec",
+        "philosophie",
+        "primaire"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+        "locator": "École, II. Recentrer l'école sur sa mission : instruire"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-etudes-06",
+      "theme": "études",
+      "title": "Augmenter de 20 % la rémunération des enseignants en cinq ans",
+      "summary": "La rémunération des enseignants augmenterait de 20 % en cinq ans, en contrepartie d'une autonomie accrue, d'une présence renforcée, d'une formation continue obligatoire et d'une évaluation régulière.",
+      "excerpt": "Nous proposons une augmentation de 20 % des rémunérations en cinq ans, conditionnée à une réorganisation profonde : autonomie accrue, présence renforcée dans l’établissement, formation continue obligatoire, évaluation régulière.",
+      "tags": [
+        "enseignant",
+        "professeur",
+        "salaire",
+        "école"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+        "locator": "École, III. Redonner autorité et attractivité au métier d'enseignant"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "lisnard-etudes-07",
+      "theme": "études",
+      "title": "Créer un corps unique d'enseignants contractuels recrutés sur concours national",
+      "summary": "Un corps unique d'enseignants contractuels recrutés sur concours national serait progressivement mis en place.",
+      "excerpt": "Un corps unique d’enseignants contractuels, recrutés sur concours national, sera progressivement mis en place, avec des missions élargies et des perspectives de carrière attractives.",
+      "tags": [
+        "enseignant",
+        "concours",
+        "statut",
+        "recrutement"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+        "locator": "École, III. Redonner autorité et attractivité au métier d'enseignant"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-etudes-08",
+      "theme": "études",
+      "title": "Confier aux communes l'éveil des enfants de 1 à 6 ans",
+      "summary": "L'Éducation nationale serait recentrée sur les 6-16 ans et l'éveil des 1-6 ans confié aux communes.",
+      "excerpt": "L’Éducation nationale sera recentrée sur le tronc commun obligatoire (6-16 ans), l’éveil (1-6 ans) étant confié aux communes dans une logique de subsidiarité.",
+      "tags": [
+        "maternelle",
+        "commune",
+        "éducation nationale",
+        "petite enfance"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+        "locator": "École, III. Redonner autorité et attractivité au métier d'enseignant"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-etudes-09",
+      "theme": "études",
+      "title": "Renforcer les lycées professionnels et les CFA et décider localement des formations",
+      "summary": "Les lycées professionnels et les CFA seraient renforcés et liés aux entreprises, l'ouverture ou la fermeture des formations étant décidée localement selon les débouchés.",
+      "excerpt": "Nous renforcerons les lycées professionnels et les CFA, en les liant étroitement aux entreprises et aux besoins de l’économie locale. L’ouverture ou la fermeture des formations sera décidée au niveau local, en fonction des débouchés réels.",
+      "tags": [
+        "lycée professionnel",
+        "cfa",
+        "apprentissage",
+        "formation"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+        "locator": "École, IV. Faire des lycées professionnels et de l'apprentissage des voies d'excellence"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-etudes-10",
+      "theme": "études",
+      "title": "Créer des classes d'excellence en mathématiques et en sciences dans chaque académie",
+      "summary": "Des classes d'excellence en mathématiques et en sciences seraient créées dans chaque académie.",
+      "excerpt": "Des classes d’excellence en mathématiques et en sciences seront créées dans chaque académie, pour tirer vers le haut.",
+      "tags": [
+        "mathématiques",
+        "sciences",
+        "excellence",
+        "lycée"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+        "locator": "École, IV. Faire des lycées professionnels et de l'apprentissage des voies d'excellence"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-etudes-11",
+      "theme": "études",
+      "title": "Créer des externats d'excellence",
+      "summary": "Des externats d'excellence seraient créés pour des élèves bénéficiant du même encadrement que les internats d'excellence mais rentrant chez eux le soir.",
+      "excerpt": "Cette politique sera intensifiée par la création d’externats d’excellence pour des élèves qui bénéficieront des mêmes conditions d’encadrement et d’infrastructures que les internes, mais qui rentreront chez eux le soir après l’étude.",
+      "tags": [
+        "internat d'excellence",
+        "élève",
+        "mérite",
+        "collège"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/generer-un-renouveau-civique/",
+        "locator": "Générer un renouveau civique, La révolution de l'école de la démocratie"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-etudes-12",
+      "theme": "études",
+      "title": "Réviser les programmes autour d'un tronc commun horaire minimal",
+      "summary": "Les programmes seraient révisés autour d'un tronc commun à volume horaire minimal, le reste de l'emploi du temps relevant du projet de chaque école.",
+      "excerpt": "Le contenu des programmes sera révisé notamment autour d’un « tronc commun » représentant un volume minimal horaire et le reste de l’emploi du temps sera à disposition du projet de chaque école, ainsi que sa répartition sur la journée ou sur l’année.",
+      "tags": [
+        "programmes",
+        "emploi du temps",
+        "école",
+        "rythmes scolaires"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/generer-un-renouveau-civique/",
+        "locator": "Générer un renouveau civique, La révolution de l'école de la démocratie"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-etudes-13",
+      "theme": "études",
+      "title": "Vérifier l'efficacité de l'enseignement par des examens nationaux",
+      "summary": "Des examens nationaux vérifieraient l'efficacité de l'enseignement.",
+      "excerpt": "L’efficacité de l’enseignement sera vérifiée par des examens nationaux.",
+      "tags": [
+        "examen",
+        "évaluation",
+        "école",
+        "niveau"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/generer-un-renouveau-civique/",
+        "locator": "Générer un renouveau civique, La révolution de l'école de la démocratie"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-etudes-14",
+      "theme": "études",
+      "title": "Maintenir un réseau d'écoles publiques dans chaque ancien canton",
+      "summary": "Un réseau d'écoles publiques serait maintenu dans chaque ancien canton, avec des internats d'excellence et des professeurs appelés à devenir les mieux payés d'Europe.",
+      "excerpt": "Il annonce le maintien d’un réseau d’écoles publiques « dans chaque ancien canton », des internats d’excellence et des professeurs appelés à devenir « les mieux payés » d’Europe.",
+      "tags": [
+        "école publique",
+        "rural",
+        "canton",
+        "professeur"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-donner-leur-autonomie-aux-etablissements-scolaires/",
+        "locator": "Questions : Quel candidat veut donner leur autonomie aux établissements scolaires ? (L'école publique serait-elle abandonnée ?)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-etudes-15",
+      "theme": "études",
+      "title": "Permettre aux enseignants de choisir leur statut, public ou privé, et leur établissement",
+      "summary": "Les chefs d'établissement choisiraient les professeurs qu'ils accueillent et les enseignants choisiraient leur statut, public ou privé, et leur lieu d'enseignement.",
+      "excerpt": "Lors de sa rentrée politique, David Lisnard a décrit le fonctionnement qu’il vise : les chefs d’établissement décident des professeurs qu’ils accueillent, et les enseignants choisissent leur statut, public ou privé, ainsi que le lieu où ils enseignent.",
+      "tags": [
+        "enseignant",
+        "statut",
+        "mutation",
+        "chef d'établissement"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-donner-leur-autonomie-aux-etablissements-scolaires/",
+        "locator": "Questions : Quel candidat veut donner leur autonomie aux établissements scolaires ? (Qui recruterait les enseignants ?)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-retraite-01",
+      "theme": "retraite",
+      "title": "Fixer l'âge légal de départ à la retraite à 65 ans",
+      "summary": "L'âge légal de 65 ans serait la norme, préalable à une réforme combinant répartition et capitalisation.",
+      "excerpt": "Avant toute nouvelle option de réforme fondamentale, en l’occurrence une combinaison de la répartition avec la capitalisation, la norme de l’âge légal de 65 ans est un impératif national urgent pour des raisons d’équilibre financier.",
+      "tags": [
+        "âge de départ",
+        "65 ans",
+        "réforme des retraites"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+        "locator": "Réussir une nouvelle ambition française, La réforme des retraites"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "lisnard-retraite-02",
+      "theme": "retraite",
+      "title": "Garantir un socle de pension par répartition dès 65 ans et un minimum vieillesse de 1 000 euros",
+      "summary": "Un socle de pension minimale par répartition serait attribué à tous sans condition dès 65 ans, complété par un minimum vieillesse de 1 000 euros par mois.",
+      "excerpt": "conserver un socle de pension minimale par répartition pour tous les retraités, attribué à tous sans condition dès l’âge de 65 ans, complété par un minimum-vieillesse à hauteur de 1000 euros par mois.",
+      "tags": [
+        "minimum vieillesse",
+        "pension",
+        "petites retraites",
+        "répartition"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+        "locator": "Réussir une nouvelle ambition française, La réforme des retraites"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "lisnard-retraite-03",
+      "theme": "retraite",
+      "title": "Faire évoluer les régimes de retraite au-delà du socle vers la capitalisation",
+      "summary": "Les autres régimes évolueraient vers la capitalisation à partir des cotisations obligatoires, chaque Français choisissant un dispositif individuel pour les placer.",
+      "excerpt": "faire évoluer tous les autres régimes vers la capitalisation , à partir des cotisations obligatoires des salariés et des employeurs. Chaque Français pourra investir les contributions obligatoires dans un dispositif individuel de son choix.",
+      "tags": [
+        "capitalisation",
+        "cotisations",
+        "épargne retraite",
+        "pension"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+        "locator": "Réussir une nouvelle ambition française, La réforme des retraites"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-retraite-04",
+      "theme": "retraite",
+      "title": "Organiser la transition vers la capitalisation en environ huit tranches",
+      "summary": "La transition se ferait par environ 8 tranches pour atteindre une capitalisation évaluée à 116 milliards d'euros, soit environ 40 % du montant total des retraites.",
+      "excerpt": "La transition entre le système actuel et le nouveau se fera par tranches successives, soit environ 8 tranches, pour atteindre un montant de capitalisation évalué à 116 milliards d’euros, soit environ 40% du montant total des retraites.",
+      "tags": [
+        "capitalisation",
+        "transition",
+        "retraites",
+        "réforme"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+        "locator": "Réussir une nouvelle ambition française, La réforme des retraites"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "lisnard-retraite-05",
+      "theme": "retraite",
+      "title": "Créer une Agence centrale publique de retraite remplaçant les organismes actuels",
+      "summary": "Une Agence centrale publique de retraite gérerait l'ensemble du système et remplacerait tous les organismes actuels.",
+      "excerpt": "Une Agence Centrale Publique de Retraite sera en charge de l’ensemble de la gestion et remplacera tous les organismes actuels.",
+      "tags": [
+        "caisse de retraite",
+        "gestion",
+        "organismes",
+        "retraite"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+        "locator": "Réussir une nouvelle ambition française, La réforme des retraites"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-retraite-06",
+      "theme": "retraite",
+      "title": "Désindexer les pensions supérieures à environ 2 000 euros par mois",
+      "summary": "Les pensions au-delà d'environ 2 000 euros par mois ne seraient plus indexées et le différentiel financerait l'amorçage de la capitalisation.",
+      "excerpt": "Sa réponse est de ne plus indexer les pensions au-delà d’environ 2 000 euros par mois et d’orienter le différentiel vers l’amorçage du nouvel étage.",
+      "tags": [
+        "pension",
+        "indexation",
+        "retraité",
+        "capitalisation"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/questions/david-lisnard-est-il-favorable-a-la-retraite-par-capitalisation/",
+        "locator": "Questions : David Lisnard est-il favorable à la retraite par capitalisation ? (Comment il propose de l'amorcer)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "lisnard-retraite-07",
+      "theme": "retraite",
+      "title": "Instaurer une capitalisation obligatoire et collective négociée par branche",
+      "summary": "La retraite par capitalisation serait obligatoire, collective, négociée branche par branche et universelle.",
+      "excerpt": "Oui. David Lisnard la veut sous une forme précise : obligatoire et collective, négociée branche par branche, et universelle.",
+      "tags": [
+        "capitalisation",
+        "branche",
+        "épargne retraite",
+        "salarié"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/questions/david-lisnard-est-il-favorable-a-la-retraite-par-capitalisation/",
+        "locator": "Questions : David Lisnard est-il favorable à la retraite par capitalisation ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-famille-01",
+      "theme": "famille",
+      "title": "Relancer la politique familiale, dont le déplafonnement du quotient familial",
+      "summary": "La politique familiale serait relancée par des allocations, notamment le déplafonnement du quotient familial, des investissements dans les structures d'accueil et une politique du logement familial.",
+      "excerpt": "A l’instar d’autres pays européens, la France doit relancer sa politique familiale dans ses trois dimensions : des allocations financières, notamment par le déplafonnement du quotient familial, des investissements pour les structures d’accueil et une politique du logement familial.",
+      "tags": [
+        "quotient familial",
+        "allocations familiales",
+        "crèche",
+        "famille"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+        "locator": "Réussir une nouvelle ambition française, La nécessaire relance de la politique familiale"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-famille-02",
+      "theme": "famille",
+      "title": "Alléger les droits de succession et ramener leur taux marginal à 20 %",
+      "summary": "Le barème des droits de succession serait allégé, le taux marginal supérieur ramené à 20 % et les abattements unifiés quel que soit le lien de parenté, permettant à un grand-parent de transmettre jusqu'à 100 000 euros sans impôt à ses petits-enfants.",
+      "excerpt": "David Lisnard propose d’alléger substantiellement le barème en revalorisant les tranches, de ramener le taux marginal supérieur à 20 %, son niveau d’avant 1984, et d’unifier abattements et barèmes quel que soit le lien de parenté. Un grand-parent pourrait ainsi transmettre jusqu’à 100 000 euros en franchise d’impôt à ses petits-enfants, contre moins de 2 000 euros selon le livre.",
+      "tags": [
+        "succession",
+        "héritage",
+        "donation",
+        "petits-enfants"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-supprimer-les-droits-de-succession/",
+        "locator": "Questions : Quel candidat veut supprimer les droits de succession ? (Que changerait sa réforme ?)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "lisnard-transport-01",
+      "theme": "transport",
+      "title": "Investir dans les routes, le rail et le très haut débit contre l'enclavement",
+      "summary": "Un plan d'investissement dans les infrastructures routières et ferroviaires et le déploiement de la fibre ou de l'internet par satellite viserait les zones enclavées.",
+      "excerpt": "Pour ne plus dépendre trop largement de la métropolisation économique, la lutte contre l’enclavement de certaines zones géographiques à l’écart du développement doit passer par un plan d’investissement dans les infrastructures routières et ferroviaires ainsi que le déploiement du réseau FFTH ou/et l’internet par satellite.",
+      "tags": [
+        "route",
+        "train",
+        "rural",
+        "internet"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+        "locator": "Réussir une nouvelle ambition française, La compétitivité de tous les territoires"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-transport-02",
+      "theme": "transport",
+      "title": "Placer chaque zone rurale à moins de 20 minutes d'une ville moyenne",
+      "summary": "Chaque zone rurale serait à moins de 20 minutes d'une ville moyenne et chaque ville moyenne à moins d'1h30 d'une métropole régionale.",
+      "excerpt": "Chaque zone rurale sera à moins de 20 minutes d’une ville moyenne et chaque ville moyenne à moins d’1h30 d’une métropole régionale.",
+      "tags": [
+        "rural",
+        "trajet",
+        "ville moyenne",
+        "campagne"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/generer-un-renouveau-civique/",
+        "locator": "Générer un renouveau civique, Un nouveau schéma institutionnel avec l'instauration de Provinces"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "lisnard-transport-03",
+      "theme": "transport",
+      "title": "Supprimer les zones à faibles émissions par une loi",
+      "summary": "Les zones à faibles émissions seraient supprimées par une loi dès l'arrivée au pouvoir.",
+      "excerpt": "David Lisnard s’engage à supprimer les zones à faibles émissions par une loi dès son arrivée au pouvoir, après la censure d’une première suppression pour cavalier législatif.",
+      "tags": [
+        "zfe",
+        "voiture",
+        "crit'air",
+        "diesel"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-supprimer-les-zones-a-faibles-emissions-zfe/",
+        "locator": "Questions : Quel candidat veut supprimer les zones à faibles émissions (ZFE) ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-env-01",
+      "theme": "environnement",
+      "title": "Prolonger les réacteurs à 60 ans et construire des EPR et des mini-réacteurs",
+      "summary": "Les projets d'énergies renouvelables rentreraient dans le droit commun et les sommes économisées financeraient le nucléaire : traitement des déchets par laser, prolongation des réacteurs jusqu'à 60 ans, nouveaux EPR et mini-réacteurs.",
+      "excerpt": "Il faut mettre un terme à cette gabegie en faisant rentrer ces projets dans le droit commun et réinvestir les sommes ainsi économisées dans des projets d’avenir, en particulier les nouvelles technologies nucléaires : recherche et développement des technologies laser pour le traitement des déchets, prolongation de la durée de vie des réacteurs jusqu’à 60 ans, construction d’EPR de nouvelle génération, déploiement de mini-réacteurs nucléaires.",
+      "tags": [
+        "nucléaire",
+        "epr",
+        "énergie",
+        "renouvelables"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/generer-un-renouveau-civique/",
+        "locator": "Générer un renouveau civique, Favoriser la production d'énergie décarbonée en s'appuyant sur le nucléaire"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "lisnard-env-02",
+      "theme": "environnement",
+      "title": "Appliquer une fiscalité environnementale à prélèvements constants",
+      "summary": "La fiscalité environnementale se ferait à taxation totale constante, serait redistribuée aux perdants et aux acteurs qui réduisent les pollutions, et préserverait la compétitivité des entreprises.",
+      "excerpt": "Mais la fiscalité environnementale doit respecter trois règles : d’abord se faire à taxation totale constante, ensuite redistribuer les fruits de la taxation au bénéfice des « perdants » des nouvelles dispositions et aux acteurs vertueux qui contribuent à compenser ou amoindrir les pollutions, enfin préserver la compétitivité des entreprises.",
+      "tags": [
+        "taxe carbone",
+        "pollution",
+        "fiscalité verte",
+        "pollueur-payeur"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/generer-un-renouveau-civique/",
+        "locator": "Générer un renouveau civique, Le prix du carbone et la fiscalité verte pour facturer la pollution"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-env-03",
+      "theme": "environnement",
+      "title": "Engager la France dans un programme international de fixation du carbone",
+      "summary": "La France s'engagerait dans un programme international de fixation du carbone s'appuyant sur les pratiques agricoles, la forêt et les océans.",
+      "excerpt": "En particulier la France s’engagera dans un programme international de fixation du carbone, en s’appuyant sur nos pratiques culturales, la forêt, la mer et les océans.",
+      "tags": [
+        "carbone",
+        "forêt",
+        "océans",
+        "climat"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/generer-un-renouveau-civique/",
+        "locator": "Générer un renouveau civique, Multiplier les initiatives et bonnes pratiques de l'écologie « verte »"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-env-04",
+      "theme": "environnement",
+      "title": "Remplacer le principe de précaution constitutionnel par un principe de responsabilité",
+      "summary": "Le principe de précaution inscrit dans la Constitution en 2005 serait supprimé au profit d'un principe de responsabilité.",
+      "excerpt": "Il annonce aussi la suppression du principe de précaution, inscrit dans la Constitution en 2005, au profit d’« un principe de responsabilité ».",
+      "tags": [
+        "principe de précaution",
+        "constitution",
+        "environnement",
+        "innovation"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/questions/que-pense-david-lisnard-du-rechauffement-climatique/",
+        "locator": "Questions : Que pense David Lisnard du réchauffement climatique ? (Par quels moyens ?)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-env-05",
+      "theme": "environnement",
+      "title": "Autoriser les bassines lorsqu'elles sont justifiées et décidées localement",
+      "summary": "La gestion de l'eau agricole serait fondée sur la subsidiarité, avec des réserves d'eau autorisées lorsqu'elles sont techniquement justifiées et localement décidées, aux côtés d'un soutien à l'agriculture de précision et d'une politique des sols fondée sur la captation du carbone.",
+      "excerpt": "Cela passe par le soutien à l’agriculture de précision, aux capteurs connectés, à la robotisation, à l’usage de l’intelligence artificielle pour la gestion des cultures, par une politique des sols fondée sur la fertilité et la captation du carbone, et par une gestion de l’eau fondée sur la subsidiarité : oui aux bassines, lorsqu’elles sont techniquement justifiées et localement décidées.",
+      "tags": [
+        "eau",
+        "bassines",
+        "agriculture",
+        "sécheresse"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/agriculture/",
+        "locator": "Agriculture, 5. Innover, s'adapter, transmettre"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-env-06",
+      "theme": "environnement",
+      "title": "Rémunérer les services environnementaux rendus par les agriculteurs et forestiers",
+      "summary": "Une part des charges agricoles serait transférée vers la valeur ajoutée et les services environnementaux des agriculteurs et forestiers, comme le stockage du carbone, seraient rémunérés.",
+      "excerpt": "Nous proposons une réforme profonde du système de rémunération agricole : transfert d’une part des charges vers la valeur ajoutée pour améliorer les revenus nets et une juste rémunération des services environnementaux rendus par les agriculteurs et forestiers (stockage du carbone, entretien des écosystèmes).",
+      "tags": [
+        "agriculteur",
+        "forêt",
+        "carbone",
+        "biodiversité"
+      ],
+      "source": {
+        "url": "https://www.unenouvelleenergie.fr/notre-programme/agriculture/",
+        "locator": "Agriculture, 2. En finir avec la maltraitance économique des agriculteurs"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-sante-11",
+      "theme": "santé",
+      "title": "Permettre l'accès direct à tout professionnel de santé avec remboursement plein",
+      "summary": "Le livret propose le libre accès du patient à tout professionnel compétent (spécialiste, infirmier en pratique avancée, kinésithérapeute) avec remboursement plein.",
+      "excerpt": "Permettre le libre accès du patient à tout professionnel compétent (spécialiste, infirmier en pratique avancée, kinésithérapeute…) avec remboursement plein, pour fluidifier les parcours et réduire les délais.",
+      "tags": [
+        "accès direct",
+        "remboursement",
+        "infirmier",
+        "kinésithérapeute"
+      ],
+      "source": {
+        "url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/05/Livret-Sante-Nouvelle-Energie.pdf",
+        "locator": "Les carnets santé 2026, « Nos propositions santé », Lutter contre les déserts médicaux"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-sante-12",
+      "theme": "santé",
+      "title": "Exonérer de CFE les médecins libéraux en zone sous-dense",
+      "summary": "Le livret propose d'exonérer de cotisation foncière des entreprises les médecins libéraux en zone sous-dense, de réduire leurs prélèvements sociaux pendant les cinq premières années et d'accélérer la déductibilité des investissements.",
+      "excerpt": "Exonérer de cotisation foncière des entreprises les médecins libéraux en zone sous-dense, réduire les prélèvements sociaux pendant les cinq premières années et accélérer la déductibilité des investissements du cabinet.",
+      "tags": [
+        "déserts médicaux",
+        "médecins libéraux",
+        "fiscalité",
+        "installation"
+      ],
+      "source": {
+        "url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/05/Livret-Sante-Nouvelle-Energie.pdf",
+        "locator": "Les carnets santé 2026, « Nos propositions santé », Lutter contre les déserts médicaux"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "lisnard-sante-13",
+      "theme": "santé",
+      "title": "Mettre en place une stratégie nationale de santé mentale",
+      "summary": "Le livret propose une stratégie nationale de santé mentale : dépistage précoce, accès simplifié aux soins psychiques, renforcement de la pédopsychiatrie et coordination avec les acteurs de terrain.",
+      "excerpt": "Mettre en place une stratégie nationale de santé mentale : dépistage précoce, accès simplifié aux soins psychiques, renforcement massif de la pédopsychiatrie, coordination avec les acteurs de terrain.",
+      "tags": [
+        "santé mentale",
+        "pédopsychiatrie",
+        "psychiatrie",
+        "dépistage"
+      ],
+      "source": {
+        "url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/05/Livret-Sante-Nouvelle-Energie.pdf",
+        "locator": "Les carnets santé 2026, « Nos propositions santé », Prévention et santé mentale"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-sante-14",
+      "theme": "santé",
+      "title": "Lutter contre la fraude sociale avec une carte Vitale biométrique",
+      "summary": "Le livret propose de renforcer la lutte contre la fraude (actes fictifs, abus de prescriptions, arrêts de travail injustifiés) avec la carte Vitale biométrique et un contrôle automatisé ciblé.",
+      "excerpt": "Renforcer la lutte contre la fraude (actes fictifs, abus de prescriptions, arrêts de travail injustifiés) avec la Carte Vitale biométrique et un contrôle automatisé ciblé.",
+      "tags": [
+        "carte vitale",
+        "fraude",
+        "assurance maladie",
+        "arrêts de travail"
+      ],
+      "source": {
+        "url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/05/Livret-Sante-Nouvelle-Energie.pdf",
+        "locator": "Les carnets santé 2026, « Nos propositions santé », Moderniser le financement"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lisnard-sante-15",
+      "theme": "santé",
+      "title": "Rendre obligatoire l'alimentation du Dossier médical partagé",
+      "summary": "Le livret propose de rendre obligatoire l'alimentation du Dossier médical partagé par tous les professionnels et la prescription électronique, afin qu'aucun examen déjà réalisé ne soit prescrit une seconde fois.",
+      "excerpt": "Mettre fin à la gabegie des actes inutiles en rendant obligatoire l'alimentation du Dossier Médical Partagé par tous les professionnels de santé et l'utilisation systématique de la prescription électronique. Aucun examen déjà réalisé ne doit être prescrit une seconde fois, et chaque professionnel doit accèder en temps réel à l'historique complet du patient.",
+      "tags": [
+        "dossier médical partagé",
+        "prescription électronique",
+        "examens",
+        "numérique"
+      ],
+      "source": {
+        "url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/05/Livret-Sante-Nouvelle-Energie.pdf",
+        "locator": "Les carnets santé 2026, « Nos propositions santé », Moderniser le financement"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    }
+  ]
+}

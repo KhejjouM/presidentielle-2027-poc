@@ -251,7 +251,8 @@ function renderBallots(selection, aiByCandidate) {
     node.querySelector(".ballot-name").textContent = candidate.name;
     node.querySelector(".ballot-party").textContent = candidate.party || "";
     const link = node.querySelector(".program-link");
-    link.href = candidate.program_url;
+    if (candidate.program_url) link.href = candidate.program_url;
+    else link.remove();
 
     const ai = aiByCandidate?.get(candidate.id);
     if (ai) {
@@ -263,7 +264,11 @@ function renderBallots(selection, aiByCandidate) {
     const list = node.querySelector(".measures");
     list.innerHTML = measures.length
       ? measures.map(renderMeasure).join("")
-      : `<li class="empty">Aucune mesure de ce programme ne correspond à votre description. Consultez le programme complet pour vérifier.</li>`;
+      : candidate.program_status === "inaccessible"
+        ? `<li class="empty">Le site officiel de ce candidat bloque les outils automatiques : ses mesures ne peuvent pas encore être intégrées ni vérifiées. Consultez directement son site.</li>`
+        : candidate.program_status === "aucun"
+        ? `<li class="empty">Ce candidat n'a pas encore publié de programme ou de propositions sur un site officiel.</li>`
+        : `<li class="empty">Aucune mesure intégrée de ce programme ne correspond à votre description. Consultez le programme complet pour vérifier.</li>`;
     container.appendChild(node);
   });
 }
@@ -277,6 +282,54 @@ function renderMethod() {
       <div><h3>${escapeHTML(c.label)}</h3><p>${escapeHTML(c.question)}</p></div>
     </div>`).join("");
   $("#method-grid").innerHTML = rows;
+}
+
+const PROGRAM_STATUS = {
+  programme: "Programme publié",
+  propositions: "Propositions partielles",
+  aucun: "Rien de publié à ce jour",
+  inaccessible: "Site officiel inaccessible à nos outils",
+};
+
+function renderPrograms() {
+  const meta = STATE.meta;
+  if (meta.inclusion_rule) $("#programs-rule").textContent = meta.inclusion_rule;
+  const counts = new Map();
+  for (const m of STATE.measures) counts.set(m.candidate_id, (counts.get(m.candidate_id) || 0) + 1);
+  const verified = new Map();
+  for (const m of STATE.measures) if (verificationOf(m).status === "verifie") verified.set(m.candidate_id, (verified.get(m.candidate_id) || 0) + 1);
+
+  const lastName = (c) => (c.sort_name || c.name.split(" ").slice(-1)[0]).toLocaleLowerCase("fr");
+  const rows = STATE.candidates.slice().sort((a, b) => lastName(a).localeCompare(lastName(b), "fr")).map((c) => {
+    const status = c.program_status || "aucun";
+    const doc = c.program_url
+      ? `<a href="${escapeHTML(c.program_url)}" target="_blank" rel="noopener">${escapeHTML(c.program_title || "Programme officiel")}</a>`
+        + (c.program_date ? `<br><small>Publié le ${escapeHTML(formatDate(c.program_date))}</small>` : "")
+        + (c.ingested_at ? `<br><small>Consulté le ${escapeHTML(formatDate(c.ingested_at))}</small>` : "")
+      : "Aucun document officiel trouvé";
+    const n = counts.get(c.id) || 0;
+    const v = verified.get(c.id) || 0;
+    const declared = c.declared_on ? `<span class="party">Candidature déclarée le ${escapeHTML(formatDate(c.declared_on))}</span>` : "";
+    return `<tr>
+      <th scope="row">${escapeHTML(c.name)}<span class="party">${escapeHTML(c.party || "")}</span>${declared}</th>
+      <td><span class="status-pill status-${escapeHTML(status)}">${escapeHTML(PROGRAM_STATUS[status] || status)}</span></td>
+      <td>${doc}</td>
+      <td class="num">${n}${n ? `<br><small>${v} vérifiée${v > 1 ? "s" : ""} sur le site</small>` : ""}</td>
+    </tr>`;
+  }).join("");
+  $("#programs-body").innerHTML = rows;
+
+  const total = STATE.measures.length;
+  const withProgram = STATE.candidates.filter((c) => (counts.get(c.id) || 0) > 0).length;
+  $("#programs-summary").textContent =
+    `${STATE.candidates.length} candidats suivis, ${withProgram} avec des mesures intégrées, ${total} mesures au total.` +
+    (meta.updated_at ? ` Liste mise à jour le ${formatDate(meta.updated_at)}.` : "");
+
+  if (meta.excluded?.length) {
+    $("#programs-excluded").hidden = false;
+    $("#programs-excluded-list").innerHTML = meta.excluded.map((e) =>
+      `<li><strong>${escapeHTML(e.name)}</strong> : ${escapeHTML(e.reason)}${e.source ? ` <a href="${escapeHTML(e.source)}" target="_blank" rel="noopener">Source</a>` : ""}</li>`).join("");
+  }
 }
 
 function renderMeta() {
@@ -297,7 +350,8 @@ async function askClaude(query, selection) {
   /* Le Worker relit lui-même les extraits officiels : on n'envoie que le texte et les identifiants. */
   const body = {
     query,
-    selection: selection.map(({ candidate, measures }) => ({ id: candidate.id, measures: measures.map((m) => m.id) })),
+    /* Seuls les candidats ayant au moins une mesure pertinente sont envoyés : les autres affichent déjà un message factuel. */
+    selection: selection.filter(({ measures }) => measures.length).map(({ candidate, measures }) => ({ id: candidate.id, measures: measures.map((m) => m.id) })),
   };
   let res;
   try {
@@ -357,7 +411,7 @@ async function onSubmit(event) {
     } else {
       button.textContent = "Analyse en cours…";
       const wide = retrieve(query, CONFIG.AI_CONTEXT_PER_CANDIDATE);
-      const ai = await askClaude(query, wide);
+      const ai = wide.some(({ measures }) => measures.length) ? await askClaude(query, wide) : new Map();
       const selection = wide.map(({ candidate, measures }) => {
         const cited = ai.get(candidate.id)?.measures || [];
         const ordered = [...measures.filter((m) => cited.includes(m.id)), ...measures.filter((m) => !cited.includes(m.id))];
@@ -404,6 +458,7 @@ function init() {
     .then(() => {
       renderMethod();
       renderMeta();
+      renderPrograms();
     })
     .catch((err) => showError(`Les données n'ont pas pu être chargées : ${err.message}`));
 }

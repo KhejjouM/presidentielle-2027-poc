@@ -1,0 +1,2983 @@
+{
+  "candidate_id": "tondelier",
+  "measures": [
+    {
+      "id": "tondelier-log-01",
+      "theme": "logement",
+      "title": "Généraliser et pérenniser l'encadrement des loyers",
+      "summary": "Le programme prévoit de généraliser, d'améliorer et de pérenniser l'encadrement des loyers au nom du droit au logement.",
+      "excerpt": "Assurer le droit au logement par la généralisation, l’amélioration et la pérennisation de l’encadrement des loyers.",
+      "tags": [
+        "encadrement des loyers",
+        "loyer",
+        "locataire",
+        "logement"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 2 « Pouvoir se loger décemment », proposition 1 (page 20)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-log-02",
+      "theme": "logement",
+      "title": "Remplacer la garantie Visale par une garantie universelle des loyers",
+      "summary": "Le programme prévoit de remplacer la garantie Visale, destinée aux jeunes et aux salariés précaires, par une garantie universelle des loyers.",
+      "excerpt": "Remplacer la garantie Visale qui cible les jeunes et les salariés précaires par une garantie universelle des loyers.",
+      "tags": [
+        "garantie visale",
+        "caution",
+        "loyer",
+        "locataire"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 2 « Pouvoir se loger décemment », proposition 1 (page 20)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-log-03",
+      "theme": "logement",
+      "title": "Créer un droit opposable à des protections solaires aux fenêtres",
+      "summary": "Le programme prévoit un droit opposable à des protections solaires aux fenêtres et, à défaut, une réduction de loyer automatique.",
+      "excerpt": "Créer un droit opposable à des protections solaires aux fenêtres et en leur absence bénéficier d’une réduction de loyer automatique.",
+      "tags": [
+        "chaleur",
+        "canicule",
+        "loyer",
+        "volets",
+        "locataire"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 4 « Adapter la France à +4°C », proposition 1 (page 27)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-log-04",
+      "theme": "logement",
+      "title": "Interdire dans la loi les remises à la rue de familles avec enfants",
+      "summary": "Le livret prévoit d'inscrire dans la loi qu'aucun enfant ne sort d'un dispositif d'hébergement sans solution alternative de logement.",
+      "excerpt": "Mettre fin aux remises à la rue de familles avec enfants en inscrivant dans la loi un principe de protection inconditionnelle : aucun enfant ne doit sortir d’un dispositif d’hébergement sans solution alternative de logement.",
+      "tags": [
+        "expulsion",
+        "hébergement",
+        "enfants",
+        "sans-abri",
+        "famille"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+        "locator": "Partie « Sécuriser les conditions de vie dans tous les territoires » (page 22)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-log-05",
+      "theme": "logement",
+      "title": "Créer 10 000 places d'hébergement d'urgence pour les enfants pris en charge",
+      "summary": "Le livret prévoit la création immédiate de 10 000 places d'hébergement d'urgence supplémentaires pour les enfants pris en charge.",
+      "excerpt": "Créer immédiatement 10 000 places d’hébergement d’urgence supplémentaires pour les enfants pris en charge.",
+      "tags": [
+        "hébergement d'urgence",
+        "enfants",
+        "aide sociale à l'enfance",
+        "logement"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+        "locator": "Partie « Sécuriser les conditions de vie dans tous les territoires » (page 22)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-log-06",
+      "theme": "logement",
+      "title": "Développer l'intermédiation locative pour les familles en difficulté",
+      "summary": "Le livret prévoit un développement de l'intermédiation locative, par laquelle des associations louent des logements privés pour les mettre à disposition de familles en difficulté.",
+      "excerpt": "Garantir un parcours vers le logement pour chaque famille grâce au développement massif de l’intermédiation locative, qui permet à des associations de louer des logements du parc privé puis de les mettre à disposition de familles en difficulté.",
+      "tags": [
+        "intermédiation locative",
+        "logement",
+        "famille",
+        "association"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+        "locator": "Partie « Sécuriser les conditions de vie dans tous les territoires » (page 22)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-log-07",
+      "theme": "logement",
+      "title": "Bonifier MaPrimeRénov' en montagne",
+      "summary": "Le livret prévoit de bonifier MaPrimeRénov' en montagne pour les besoins d'isolation propres à l'altitude.",
+      "excerpt": "Bonifier Ma Prime Rénov en Montagne pour faire face aux besoins d’isolation spécifiques en altitude.",
+      "tags": [
+        "maprimerénov",
+        "rénovation",
+        "isolation",
+        "montagne"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/Livret-montagne.pdf",
+        "locator": "Partie « Favoriser le logement à l'année » (page 14)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-log-08",
+      "theme": "logement",
+      "title": "Augmenter la taxe sur les résidences secondaires sans toucher les habitants à l'année",
+      "summary": "Le livret prévoit de découpler les taux de la taxe foncière et de la taxe sur les résidences secondaires afin de pouvoir augmenter cette dernière.",
+      "excerpt": "Découpler les taux de la taxe foncière et de la taxe sur les résidences secondaires pour pouvoir augmenter cette dernière sans toucher les habitants à l’année.",
+      "tags": [
+        "résidence secondaire",
+        "taxe",
+        "montagne",
+        "logement"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/Livret-montagne.pdf",
+        "locator": "Partie 2 du livret (page 11)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-transport-01",
+      "theme": "transport",
+      "title": "Créer un leasing social d'un million de véhicules sur le quinquennat",
+      "summary": "Le programme prévoit une offre de location sociale d'un million de véhicules sur le quinquennat, en favorisant les véhicules européens.",
+      "excerpt": "Créer une offre de location sociale (leasing social) d’un million de véhicules sur le quinquennat en favorisant les véhicules européens.",
+      "tags": [
+        "leasing social",
+        "voiture électrique",
+        "location",
+        "véhicule"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 3 « Garantir la liberté de se déplacer autrement », proposition 1 (page 23)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "tondelier-transport-02",
+      "theme": "transport",
+      "title": "Maintenir l'objectif de 100 % de véhicules neufs zéro émission en 2035",
+      "summary": "Le programme prévoit de maintenir l'objectif de 100 % de véhicules zéro émission en 2035 pour les ventes de véhicules neufs.",
+      "excerpt": "Maintenir l’objectif de 100 % de véhicules zéro émission en 2035 pour les ventes de véhicules neufs.",
+      "tags": [
+        "voiture thermique",
+        "2035",
+        "véhicule électrique",
+        "voiture neuve"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 3 « Garantir la liberté de se déplacer autrement », proposition 1 (page 23)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "tondelier-transport-03",
+      "theme": "transport",
+      "title": "Créer un parc social de voitures bas carbone en milieu rural et périurbain",
+      "summary": "Le programme prévoit un parc social de voitures bas carbone en milieu rural et périurbain, appuyé sur l'autopartage et le marché de l'occasion.",
+      "excerpt": "Créer un parc social de voiture bas carbone en milieu rural et périurbain en s’appuyant sur les expériences d’autopartage et en développant le marché de l’occasion.",
+      "tags": [
+        "voiture",
+        "rural",
+        "autopartage",
+        "occasion"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 3 « Garantir la liberté de se déplacer autrement », proposition 1 (page 23)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-transport-04",
+      "theme": "transport",
+      "title": "Développer les bornes de recharge en priorité près des HLM",
+      "summary": "Le programme prévoit de développer les stations de recharge sur tout le territoire, en priorité dans les zones à forte concentration de HLM.",
+      "excerpt": "Développer les stations de recharge partout sur le territoire et en priorité dans les zones avec une forte concentration de HLM.",
+      "tags": [
+        "borne de recharge",
+        "voiture électrique",
+        "hlm",
+        "recharge"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 3 « Garantir la liberté de se déplacer autrement », proposition 1 (page 23)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-transport-05",
+      "theme": "transport",
+      "title": "Prendre en charge le permis de conduire des jeunes sans qualification",
+      "summary": "Le programme prévoit la prise en charge financière du permis de conduire pour les jeunes sortant sans qualification ou avec un niveau inférieur au baccalauréat.",
+      "excerpt": "Prendre en charge financièrement le permis de conduire pour tous les jeunes sortant sans qualification ou avec un niveau de qualification inférieur au baccalauréat.",
+      "tags": [
+        "permis de conduire",
+        "jeunes",
+        "financement permis",
+        "mobilité"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 35 « Soutenir l'émancipation des jeunes », proposition 1 (page 125)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-transport-06",
+      "theme": "transport",
+      "title": "Créer des plans de mobilité dédiés aux enfants",
+      "summary": "Le livret prévoit des plans de mobilité pour réduire les temps de transport des enfants et la généralisation de rues piétonnes et sécurisées pour les enfants.",
+      "excerpt": "Créer des plans de mobilité dédiés aux enfants pour réduire les temps de transport et généraliser les rues aux enfants, piétonnes, sécurisées, propices aux mobilités actives",
+      "tags": [
+        "rue aux enfants",
+        "trajet école",
+        "vélo",
+        "marche",
+        "mobilité"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+        "locator": "Mesures clés (page 15)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-transport-07",
+      "theme": "transport",
+      "title": "Rouvrir des gares et des lignes ferroviaires du quotidien en montagne",
+      "summary": "Le livret prévoit de renforcer le maillage ferroviaire, de rouvrir des gares et des lignes du quotidien et de développer les trains d'équilibre du territoire.",
+      "excerpt": "Renforcer le maillage ferroviaire, rouvrir gares et lignes du quotidien indispensables, développer les trains d’équilibre du territoire.",
+      "tags": [
+        "train",
+        "petites lignes",
+        "gare",
+        "rural",
+        "montagne"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/Livret-montagne.pdf",
+        "locator": "Partie 6 « La mobilité et l'accès à la montagne » (page 15)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-transport-08",
+      "theme": "transport",
+      "title": "Développer les transports collectifs à la demande en montagne",
+      "summary": "Le livret prévoit des transports collectifs de plus petit calibre et à la demande, comme les navettes, minibus et taxis partagés.",
+      "excerpt": "Développer les transports collectifs de plus petit calibre et à la demande (navettes, minibus, taxi partagés, etc).",
+      "tags": [
+        "transport à la demande",
+        "navette",
+        "bus",
+        "rural",
+        "montagne"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/Livret-montagne.pdf",
+        "locator": "Partie 6 « La mobilité et l'accès à la montagne » (page 15)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-env-01",
+      "theme": "environnement",
+      "title": "Porter la part des renouvelables à 44 % de l'électricité en 2030",
+      "summary": "Le programme prévoit de modifier la PPE3 pour que les énergies renouvelables atteignent 44 % de la consommation finale brute d'électricité en 2030.",
+      "excerpt": "Modifier les objectifs et les moyens financiers de la troisième Planification Pluriannuelle de l’Énergie (PPE3) pour que la part des ENR atteigne 44 % de la consommation finale brute d’électricité en 2030.",
+      "tags": [
+        "énergies renouvelables",
+        "électricité",
+        "climat",
+        "ppe"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 1 « Gagner la bataille du climat », proposition 1 (page 16)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "tondelier-env-02",
+      "theme": "environnement",
+      "title": "Adopter une loi de programmation énergie-climat",
+      "summary": "Le programme prévoit une loi de programmation climatique comprenant la sobriété, l'efficacité et les énergies renouvelables.",
+      "excerpt": "Adopter une loi de programmation climatique (dite « loi énergie-climat ») comprenant la sobriété, l’efficacité et les énergies renouvelables (EnR).",
+      "tags": [
+        "loi climat",
+        "énergie",
+        "sobriété",
+        "renouvelables"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 1 « Gagner la bataille du climat », proposition 1 (page 16)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-env-03",
+      "theme": "environnement",
+      "title": "Doter le plan d'adaptation au changement climatique de 7 milliards d'euros par an",
+      "summary": "Le programme prévoit de doter le Plan national d'adaptation au changement climatique de 7 milliards d'euros par an d'ici 2032.",
+      "excerpt": "Doter de 7 milliards d’euros par an d'ici 2032 le Plan national d’adaptation au changement climatique pour affronter les risques climatiques et protéger efficacement la population.",
+      "tags": [
+        "adaptation",
+        "climat",
+        "inondation",
+        "canicule",
+        "catastrophe naturelle"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 4 « Adapter la France à +4°C », proposition 1 (page 27)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "tondelier-env-04",
+      "theme": "environnement",
+      "title": "Décréter un moratoire sur les méga-bassines",
+      "summary": "Le programme prévoit un moratoire sur tous les projets de méga-bassines.",
+      "excerpt": "Décréter un moratoire sur tous les projets de méga- bassines.",
+      "tags": [
+        "méga-bassines",
+        "eau",
+        "irrigation",
+        "agriculture"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 9 « Sanctuariser l'accès à l'eau potable », proposition 1 (page 41)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-env-05",
+      "theme": "environnement",
+      "title": "Planifier la sortie des pesticides de synthèse à l'horizon 2050",
+      "summary": "Le livret prévoit de planifier la sortie progressive des pesticides de synthèse et des engrais azotés à l'horizon 2050, dans un nouveau pacte agricole.",
+      "excerpt": "Planifier la sortie progressive des pesticides de synthèse et des engrais azotés à l’horizon 2050 dans le cadre d’un nouveau pacte agricole entre l’Etat et les paysan·nes permettant une transition accompagnée et juste vers l’agroécologie.",
+      "tags": [
+        "pesticides",
+        "agriculture",
+        "engrais",
+        "agroécologie"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/Livret-sante-environnementale.pdf",
+        "locator": "Mesures clés (page 9)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-env-06",
+      "theme": "environnement",
+      "title": "Créer dès 2027 des zones sans certains pesticides à 200 mètres des habitations",
+      "summary": "Le livret prévoit dès 2027 des zones tampons excluant certains pesticides à moins de 200 mètres des habitations, écoles et hôpitaux, avec un accompagnement des agriculteurs.",
+      "excerpt": "Créer dès 2027 des zones tampons excluant l’usage de certains pesticides à moins de 200 mètres des habitations, des écoles et des hôpitaux, conditionnées par des mesures d’accompagnement des agriculteur·ices concerné·es.",
+      "tags": [
+        "pesticides",
+        "riverains",
+        "épandage",
+        "zones tampons"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/Livret-sante-environnementale.pdf",
+        "locator": "Partie « Transformer l'agriculture : pour un nouveau pacte agricole » (page 34)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "tondelier-env-07",
+      "theme": "environnement",
+      "title": "Interdire les pesticides de synthèse près des captages d'eau potable d'ici 2030",
+      "summary": "Le livret prévoit d'interdire d'ici 2030 les pesticides de synthèse et les engrais azotés dans les aires d'alimentation des captages d'eau potable.",
+      "excerpt": "Interdiction stricte des pesticides de synthèse et des engrais azotés au sein des aires d’alimentation de captages d’eau potable d’ici 2030.",
+      "tags": [
+        "eau potable",
+        "pesticides",
+        "captage",
+        "pollution de l'eau"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/Livret-sante-environnementale.pdf",
+        "locator": "Partie « Transformer l'agriculture : pour un nouveau pacte agricole » (page 34)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-env-08",
+      "theme": "environnement",
+      "title": "Atteindre 21 % d'agriculture bio en 2030 et 25 % en 2032",
+      "summary": "Le livret fixe l'objectif de 21 % d'agriculture biologique en 2030 et 25 % en 2032, avec un accompagnement de la conversion des fermes.",
+      "excerpt": "Atteindre l’objectif français de 21% d’agriculture bio en 2030 et 25% en 2032, en accompagnant la reprise et la conversion des fermes à l’agriculture biologique.",
+      "tags": [
+        "agriculture bio",
+        "bio",
+        "ferme",
+        "agriculture"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/Livret-sante-environnementale.pdf",
+        "locator": "Partie « Transformer l'agriculture : pour un nouveau pacte agricole » (page 33)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "tondelier-env-09",
+      "theme": "environnement",
+      "title": "Porter l'amende maximale des installations classées à 500 000 euros",
+      "summary": "Le livret prévoit davantage d'inspecteurs des installations classées et une amende maximale portée à 500 000 euros contre 15 000 euros actuellement.",
+      "excerpt": "Augmenter le nombre d’inspecteurs des Installations classées pour la protection de l’environnement (ICPE) et augmenter le seuil de l’amende maximale pour les ICPE à 500 000€ (contre 15 000€ actuellement)",
+      "tags": [
+        "pollution industrielle",
+        "usine",
+        "sanction",
+        "icpe"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/Livret-sante-environnementale.pdf",
+        "locator": "Partie « Protéger la santé des travailleur·euses » (page 27)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-env-10",
+      "theme": "environnement",
+      "title": "Sortir du plastique en 2050",
+      "summary": "Le livret prévoit de sortir du plastique en 2050 selon une trajectoire de réduction de la production et de la consommation.",
+      "excerpt": "Sortir du plastique en 2050 avec une trajectoire de réduction de la production et de la consommation.",
+      "tags": [
+        "plastique",
+        "déchets",
+        "pollution",
+        "emballages"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/Livret-sante-environnementale.pdf",
+        "locator": "Dernière partie des propositions (page 39)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-env-11",
+      "theme": "environnement",
+      "title": "Appliquer systématiquement le principe pollueur-payeur",
+      "summary": "Le livret prévoit une application élargie et systématique du principe pollueur-payeur, pour faire contribuer les industriels à la dépollution des nappes et des sols.",
+      "excerpt": "Appliquer de manière élargie et systématique le principe pollueur-payeur pour accroître le risque économique encouru par les industriels et faire en sorte qu’ils contribuent à la dépollution des nappes et des sols impactés ainsi qu’à la recherche sur les alternatives aux produits polluants.",
+      "tags": [
+        "pollueur-payeur",
+        "pollution",
+        "sols",
+        "industrie"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/Livret-sante-environnementale.pdf",
+        "locator": "Mesures clés (page 9)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-sante-01",
+      "theme": "santé",
+      "title": "Créer 2 000 centres de santé d'ici 2030",
+      "summary": "Le programme prévoit 2 000 nouveaux centres de santé d'ici 2030, notamment en zones rurales et en quartiers prioritaires, avec médecins généralistes, infirmiers, psychologues, kinésithérapeutes et dentistes.",
+      "excerpt": "Créer 2 000 nouveaux centres de santé d’ici 2030, notamment dans les zones rurales et les quartiers prioritaires. Inclure des permanences de médecins généralistes, infirmier·es, psychologues, kinésithérapeutes et dentistes.",
+      "tags": [
+        "centre de santé",
+        "désert médical",
+        "médecin",
+        "rural"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 30 « Rendre accessible une offre de soin de qualité », proposition 1 (page 114)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "tondelier-sante-02",
+      "theme": "santé",
+      "title": "Développer la prévention des cancers, de l'obésité et des troubles de santé mentale",
+      "summary": "Le programme prévoit de développer la prévention autour de priorités comme les cancers, l'obésité et la santé mentale.",
+      "excerpt": "Développer massivement la prévention autour de quelques priorités comme la prévention des cancers, la lutte contre l’obésité et la protection de la santé mentale.",
+      "tags": [
+        "prévention",
+        "cancer",
+        "obésité",
+        "santé mentale"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 29 « Améliorer la prévention et le parcours de soin », proposition 1 (page 111)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-sante-03",
+      "theme": "santé",
+      "title": "Pourvoir les postes vacants de médecins et psychologues scolaires",
+      "summary": "Le livret prévoit de pourvoir les 800 postes de médecins et les 1 000 postes de psychologues scolaires vacants.",
+      "excerpt": "Pourvoir les 800 postes de médecins et les 1000 postes de psychologues vacants.",
+      "tags": [
+        "santé scolaire",
+        "médecin scolaire",
+        "psychologue",
+        "école"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+        "locator": "Partie « Renforcer l'accès aux soins » (page 32)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-sante-04",
+      "theme": "santé",
+      "title": "Rembourser intégralement les soins liés à un psychotraumatisme",
+      "summary": "Le livret prévoit le remboursement intégral des soins liés à un psychotraumatisme, sans dépôt de plainte préalable.",
+      "excerpt": "Garantir le remboursement intégral des soins liés à un psychotraumatisme, sans nécessité de dépôt de plainte préalable.",
+      "tags": [
+        "remboursement",
+        "psychotraumatisme",
+        "santé mentale",
+        "victimes"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+        "locator": "Partie « Renforcer l'accès aux soins » (page 32)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-sante-05",
+      "theme": "santé",
+      "title": "Interdire les aliments ultra-transformés dans les cantines scolaires",
+      "summary": "Le livret prévoit d'interdire les aliments ultra-transformés dans les cantines scolaires et la publicité télévisée avant 21 h pour les produits trop sucrés et trop salés.",
+      "excerpt": "Protéger nos enfants de la malbouffe en interdisant les aliments ultra transformés dans les cantines scolaires et la publicité à la télévision pour les produits trop sucrés et trop salés avant 21 h.",
+      "tags": [
+        "malbouffe",
+        "cantine",
+        "publicité",
+        "sucre",
+        "enfants"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/Livret-sante-environnementale.pdf",
+        "locator": "Mesures clés (page 9)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-sante-06",
+      "theme": "santé",
+      "title": "Interdire les perturbateurs endocriniens dans les produits du quotidien",
+      "summary": "Le livret prévoit d'interdire les perturbateurs endocriniens dans les produits du quotidien, notamment ceux en contact avec l'alimentation, les textiles, les protections hygiéniques et les cosmétiques.",
+      "excerpt": "Mettre fin à l’exposition des femmes aux perturbateurs endocriniens en interdisant ces substances dans les produits du quotidien - notamment ceux en contact avec l’alimentation, les textiles, les protections hygiéniques et les produits de beauté - afin de limiter leurs effets sur la santé hormonale et reproductive.",
+      "tags": [
+        "perturbateurs endocriniens",
+        "produits toxiques",
+        "femmes",
+        "cosmétiques"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/Livret-sante-environnementale.pdf",
+        "locator": "Mesures clés (page 9)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-sante-07",
+      "theme": "santé",
+      "title": "Interdire l'ensemble des PFAS",
+      "summary": "Le livret prévoit d'interdire l'ensemble des PFAS, en particulier dans les produits en contact avec la nourriture, le textile et les produits de beauté.",
+      "excerpt": "Interdire l’ensemble des polluants éternels (PFAS), en particulier pour tous les produits entrant en contact avec la nourriture, le textile et les produits de beauté.",
+      "tags": [
+        "pfas",
+        "polluants éternels",
+        "eau",
+        "produits toxiques"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/Livret-sante-environnementale.pdf",
+        "locator": "Partie « Prévenir les risques sanitaires », stratégie « Zéro PFAS » (page 27)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-sante-08",
+      "theme": "santé",
+      "title": "Rembourser à 100 % le suivi médical des salariés exposés à des pollutions",
+      "summary": "Le livret prévoit des suivis médicaux remboursés à 100 % pour les salariés et anciens salariés exposés à des pollutions au travail.",
+      "excerpt": "Mise en place de suivis médicaux remboursés à 100% pour les salarié·es ou anciens salarié·es exposé·s à des pollutions au travail pour dépister au plus tôt les maladies professionnelles.",
+      "tags": [
+        "maladie professionnelle",
+        "dépistage",
+        "remboursement",
+        "salariés"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/Livret-sante-environnementale.pdf",
+        "locator": "Partie « Protéger la santé des travailleur·euses » (page 27)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-sante-09",
+      "theme": "santé",
+      "title": "Reconnaître le burn-out comme maladie professionnelle",
+      "summary": "Le livret prévoit de reconnaître le burn-out comme maladie professionnelle, avec une meilleure indemnisation, une protection face à l'employeur et des possibilités de reclassement.",
+      "excerpt": "Reconnaître le burn-out comme maladie professionnelle, permettant aux salarié·es concerné·es de bénéficier d’une meilleure indemnisation financière, d’une protection renforcée face à l’employeur et de possibilités de reclassement.",
+      "tags": [
+        "burn-out",
+        "épuisement",
+        "maladie professionnelle",
+        "santé au travail"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-travail.pdf",
+        "locator": "Partie 2 « Améliorer les conditions de travail » (page 23)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-sante-10",
+      "theme": "santé",
+      "title": "Créer un arrêt maladie pour menstruations incapacitantes",
+      "summary": "Le livret prévoit un arrêt maladie pour menstruations incapacitantes d'au maximum 13 jours par an, remboursé intégralement par la sécurité sociale.",
+      "excerpt": "Créer un congé menstruel : prévoir la mise en place d’un arrêt-maladie pour menstruations incapacitantes d’une durée maximum de 13 jours par an intégralement remboursé par la sécurité sociale",
+      "tags": [
+        "congé menstruel",
+        "règles",
+        "arrêt maladie",
+        "endométriose"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-travail.pdf",
+        "locator": "Partie 4 « Lutter contre toutes les discriminations au travail » (page 28)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-pa-01",
+      "theme": "pouvoir d'achat",
+      "title": "Porter le Smic à 2 000 euros brut par mois dès 2027",
+      "summary": "Le programme prévoit de passer le salaire minimum à 2 000 euros brut par mois dès 2027.",
+      "excerpt": "Passer le salaire minimum à 2000€ brut par mois dès 2027.",
+      "tags": [
+        "smic",
+        "salaire minimum",
+        "2000 euros",
+        "salaire"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 13 « Assurer des rémunérations dignes », proposition 1 (page 55)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "tondelier-pa-02",
+      "theme": "pouvoir d'achat",
+      "title": "Remplacer le RSA par une garantie d'autonomie égale à 50 % du Smic net",
+      "summary": "Le programme prévoit de remplacer le RSA par une garantie d'autonomie dont le montant serait porté à 50 % du Smic net et indexé sur son évolution.",
+      "excerpt": "Créer une garantie d’autonomie qui respecte la dignité et les droits des personnes allocataires en remplacement du Revenu de Solidarité Active (RSA). Augmenter son montant à 50 % du Smic net et l’indexer sur son évolution.",
+      "tags": [
+        "rsa",
+        "minima sociaux",
+        "garantie d'autonomie",
+        "pauvreté"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 32 « Lutter contre la pauvreté », proposition 1 (page 119)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-pa-03",
+      "theme": "pouvoir d'achat",
+      "title": "Supprimer la contrepartie de 15 heures d'activité pour le RSA",
+      "summary": "Le programme prévoit de supprimer la contrepartie de 15 heures d'activités hebdomadaires.",
+      "excerpt": "En finir avec la logique de stigmatisation en supprimant la contrepartie de 15 heures d’activités hebdomadaires.",
+      "tags": [
+        "rsa",
+        "15 heures",
+        "allocataires",
+        "minima sociaux"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 32 « Lutter contre la pauvreté », proposition 1 (page 119)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-pa-04",
+      "theme": "pouvoir d'achat",
+      "title": "Instaurer une taxe Zucman de 2 % sur les patrimoines au-delà de 100 millions d'euros",
+      "summary": "Le programme prévoit une taxe de 2 % sur les patrimoines au-delà de 100 millions d'euros.",
+      "excerpt": "Mettre en place une taxe Zucman de 2 % au-delà de 100 millions d’euros de patrimoine.",
+      "tags": [
+        "taxe zucman",
+        "impôt",
+        "riches",
+        "patrimoine"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 17 « Refonder le pacte fiscal », proposition 1 (page 66)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-pa-05",
+      "theme": "pouvoir d'achat",
+      "title": "Rétablir l'ISF avec une composante climatique",
+      "summary": "Le programme prévoit de rétablir l'impôt sur la fortune en lui ajoutant une composante climatique.",
+      "excerpt": "Rétablir l’Impôt sur la Fortune (ISF) en lui ajoutant une composante climatique pour orienter le patrimoine vers des actifs verts.",
+      "tags": [
+        "isf",
+        "impôt sur la fortune",
+        "impôt",
+        "patrimoine"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 17 « Refonder le pacte fiscal », proposition 1 (page 66)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-pa-06",
+      "theme": "pouvoir d'achat",
+      "title": "Indexer le point d'indice des fonctionnaires sur l'inflation",
+      "summary": "Le livret prévoit d'indexer le point d'indice sur l'inflation et de renégocier à la hausse la rémunération des agents de catégorie B et C, des enseignants et des chercheurs.",
+      "excerpt": "Améliorer le traitement des fonctionnaires par l’indexation du point d’indice sur l’inflation et la renégociation à la hausse de la rémunération des agents publics de catégorie B et C ainsi que des enseignant·es et des chercheur·ses.",
+      "tags": [
+        "fonctionnaires",
+        "point d'indice",
+        "salaire",
+        "inflation"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-travail.pdf",
+        "locator": "Partie 1 « Assurer des rémunérations dignes » (page 22)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-pa-07",
+      "theme": "pouvoir d'achat",
+      "title": "Augmenter les indemnités des stagiaires et le salaire des apprentis",
+      "summary": "Le livret prévoit d'augmenter les indemnités des stagiaires et le salaire des apprentis et alternants.",
+      "excerpt": "Augmenter les indemnités des stagiaires et le salaire des apprenti·es et des alternant·es.",
+      "tags": [
+        "stage",
+        "apprentissage",
+        "alternance",
+        "salaire"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-travail.pdf",
+        "locator": "Partie 1 « Assurer des rémunérations dignes » (page 22)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-pa-08",
+      "theme": "pouvoir d'achat",
+      "title": "Limiter l'écart de salaires de 1 à 20 dans les entreprises",
+      "summary": "Le livret prévoit une échelle des salaires de 1 à 20 entre dirigeants et salaire médian, condition de toute aide publique, et l'extension de la publication des écarts aux entreprises de plus de 50 salariés.",
+      "excerpt": "Limiter les écarts de salaires. Instaurer une échelle des salaires de 1 à 20 entre le salaire des dirigeant·es et le niveau de salaire médian et conditionner toute aide publique à cet objectif.",
+      "tags": [
+        "écart de salaire",
+        "patrons",
+        "rémunération",
+        "salaire"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-travail.pdf",
+        "locator": "Partie 1 « Assurer des rémunérations dignes » (page 22)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-pa-09",
+      "theme": "pouvoir d'achat",
+      "title": "Conditionner les exonérations de cotisations à la hausse des bas salaires",
+      "summary": "Le livret prévoit de conditionner les exonérations de cotisations sociales à l'augmentation des salariés gagnant moins de 2 000 euros net par mois ou à la revalorisation des grilles.",
+      "excerpt": "Soutenir l’augmentation des salaires et la mobilité professionnelle en conditionnant les exonérations de cotisations sociales à l’augmentation des salarié·es gagnant moins de 2000 € net/mois, à la revalorisation des grilles de rémunération ou aux branches qui font évoluer leur classification.",
+      "tags": [
+        "salaire",
+        "cotisations",
+        "augmentation",
+        "exonérations"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-travail.pdf",
+        "locator": "Partie 1 « Assurer des rémunérations dignes » (page 22)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-pa-10",
+      "theme": "pouvoir d'achat",
+      "title": "Instaurer une TVA verte selon l'impact des produits",
+      "summary": "Le livret prévoit une TVA différenciée selon l'impact environnemental et sanitaire des produits, plus élevée pour les plus polluants et nocifs.",
+      "excerpt": "Instaurer une TVA verte, différenciée selon l’impact environnemental et sanitaire des produits. Taxer davantage les produits les plus polluants et nocifs pour la santé.",
+      "tags": [
+        "tva",
+        "prix",
+        "taxe",
+        "consommation"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/Livret-sante-environnementale.pdf",
+        "locator": "Partie des propositions sur l'alimentation (page 19)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-emploi-01",
+      "theme": "emploi",
+      "title": "Passer à 32 heures dans les métiers pénibles et expérimenter la semaine de 4 jours",
+      "summary": "Le livret prévoit les 32 heures sans perte de salaire dans les métiers pénibles et de nuit, et une expérimentation de la semaine de 4 jours en 32 heures pendant 3 ans dans 200 entreprises volontaires.",
+      "excerpt": "Réduire la durée légale du travail à 32 heures sans perte de salaire dans les métiers pénibles et de nuit en y conditionnant les aides aux entreprises. Expérimenter, comme le fait l’Espagne, la semaine de 4 jours en 32 heures pendant 3 ans dans 200 entreprises volontaires avec un fonds de compensation dédié.",
+      "tags": [
+        "32 heures",
+        "semaine de 4 jours",
+        "temps de travail",
+        "travail de nuit"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-travail.pdf",
+        "locator": "Partie 2 « Améliorer les conditions de travail » (page 24)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-emploi-02",
+      "theme": "emploi",
+      "title": "Créer un congé climatique d'au moins 5 jours par an",
+      "summary": "Le livret prévoit un congé climatique d'au moins 5 jours par an face aux températures extrêmes ou aux catastrophes climatiques, financé par les employeurs et la sécurité sociale.",
+      "excerpt": "Créer un congé climatique de 5 jours minimum par an pour protéger les travailleur·ses face aux températures extrêmes ou à des situations de catastrophe climatique (inondation, incendies). Assurer un financement par les employeurs et la sécurité sociale.",
+      "tags": [
+        "congé climatique",
+        "canicule",
+        "chaleur",
+        "travail"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-travail.pdf",
+        "locator": "Partie 3 « Protéger les travailleur·ses face au dérèglement climatique » (page 26)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-emploi-03",
+      "theme": "emploi",
+      "title": "Viser zéro mort au travail en 2032",
+      "summary": "Le livret prévoit un plan « santé au travail » visant zéro mort au travail en 2032.",
+      "excerpt": "Adopter un plan « santé au travail » et viser le zéro mort au travail en 2032",
+      "tags": [
+        "accident du travail",
+        "santé au travail",
+        "sécurité",
+        "mort au travail"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-travail.pdf",
+        "locator": "Partie 2 « Améliorer les conditions de travail » (page 23)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "tondelier-emploi-04",
+      "theme": "emploi",
+      "title": "Créer 200 postes d'inspecteurs du travail",
+      "summary": "Le livret prévoit 200 nouveaux postes d'inspecteurs du travail pour contrôler le droit du travail, les règles de sécurité et les conditions d'accueil.",
+      "excerpt": "Créer 200 nouveaux postes d’inspecteur·ices du travail pour contrôler le droit du travail, le respect des règles de sécurité et les conditions d’accueil dans les entreprises.",
+      "tags": [
+        "inspection du travail",
+        "contrôle",
+        "droit du travail",
+        "sécurité"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-travail.pdf",
+        "locator": "Partie 2 « Améliorer les conditions de travail » (page 23)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-emploi-05",
+      "theme": "emploi",
+      "title": "Garantir le salaire pendant deux ans en cas de perte d'emploi liée à la transition",
+      "summary": "Le livret prévoit de garantir un salaire équivalent pendant deux ans en cas de perte d'emploi dans les secteurs les plus exposés à la transition écologique.",
+      "excerpt": "Garantir un salaire équivalent en cas de perte d’emploi pendant deux ans dans les secteurs les plus exposés",
+      "tags": [
+        "sécurité sociale professionnelle",
+        "licenciement",
+        "transition écologique",
+        "reconversion"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-travail.pdf",
+        "locator": "Partie 5 « Construire une sécurité sociale professionnelle » (page 29)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-emploi-06",
+      "theme": "emploi",
+      "title": "Porter à 6 mois de salaire les peines pour licenciement abusif",
+      "summary": "Le livret prévoit de porter les peines pour licenciement abusif à 6 mois de salaire.",
+      "excerpt": "Pénaliser les entreprises qui procèdent à des licenciements abusifs : porter les peines pour licenciement abusif à 6 mois de salaire",
+      "tags": [
+        "licenciement abusif",
+        "prud'hommes",
+        "indemnités",
+        "licenciement"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-travail.pdf",
+        "locator": "Partie 5 « Construire une sécurité sociale professionnelle » (page 30)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-emploi-07",
+      "theme": "emploi",
+      "title": "Instaurer une garantie d'emploi pour les chômeurs de 55 ans",
+      "summary": "Le livret prévoit une garantie d'emploi pour les chômeurs à 55 ans, via des entreprises à but d'emploi sur le modèle Territoire Zéro Chômeur de Longue Durée.",
+      "excerpt": "Instaurer une garantie d’emploi pour les chômeur·ses à 55 ans en essaimant le dispositif Territoire Zéro Chômeurs de Longue Durée via la création d’entreprises à but d’emploi",
+      "tags": [
+        "chômage senior",
+        "55 ans",
+        "garantie d'emploi",
+        "territoire zéro chômeur"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-travail.pdf",
+        "locator": "Partie 5 « Construire une sécurité sociale professionnelle » (page 30)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-emploi-08",
+      "theme": "emploi",
+      "title": "Pérenniser le financement de 100 000 postes d'insertion",
+      "summary": "Le livret prévoit de pérenniser les financements de l'insertion par l'activité économique pour préserver 100 000 postes ETP correspondant à 300 000 bénéficiaires.",
+      "excerpt": "Pérenniser les financements de l’IAE pour préserver les postes d’insertion (100 000 postes ETP, correspondant à 300 000 bénéficiaires accompagnés).",
+      "tags": [
+        "insertion",
+        "iae",
+        "emploi",
+        "chômage"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-travail.pdf",
+        "locator": "Partie 5 « Construire une sécurité sociale professionnelle » (page 30)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-emploi-09",
+      "theme": "emploi",
+      "title": "Garantir une formation rémunérée de 6 à 10 mois vers un métier de la transition",
+      "summary": "Le livret prévoit de garantir aux ouvriers et employés des TPE, PME et ETI des secteurs fragilisés une formation rémunérée de 6 à 10 mois vers un métier utile à la transition.",
+      "excerpt": "Mobiliser les opérateurs de compétences et les branches professionnelles pour garantir l’accès des ouvrier·es et employé·es des TPE, PME et ETI des secteurs fragilisés à une formation rémunérée de 6 à 10 mois vers un métier utile à la transition",
+      "tags": [
+        "formation",
+        "reconversion",
+        "ouvriers",
+        "transition écologique"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-travail.pdf",
+        "locator": "Partie 5 « Construire une sécurité sociale professionnelle » (page 30)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-emploi-10",
+      "theme": "emploi",
+      "title": "Créer un congé de reconversion universel",
+      "summary": "Le livret prévoit un congé de reconversion universel permettant à tout actif de suivre une formation longue et certifiante avec maintien de sa rémunération.",
+      "excerpt": "Créer un congé de reconversion universel permettant à tout actif de quitter temporairement son poste pour accéder à une formation longue et certifiante tout en bénéficiant d’un maintien de sa rémunération",
+      "tags": [
+        "reconversion",
+        "formation",
+        "congé",
+        "changer de métier"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-travail.pdf",
+        "locator": "Partie 5 « Construire une sécurité sociale professionnelle » (page 30)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-emploi-11",
+      "theme": "emploi",
+      "title": "Compenser financièrement les coupures horaires de plus de 2 heures",
+      "summary": "Le livret prévoit d'imposer par la loi une compensation financière des coupures horaires contraintes de plus de 2 heures.",
+      "excerpt": "Lutter contre les horaires atypiques en imposant par la loi une compensation financière des coupures horaires contraintes de plus de 2 heures.",
+      "tags": [
+        "horaires",
+        "coupure",
+        "temps partiel",
+        "travail"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-travail.pdf",
+        "locator": "Partie 2 « Améliorer les conditions de travail » (page 25)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-emploi-12",
+      "theme": "emploi",
+      "title": "Requalifier les travailleurs des plateformes en salariés",
+      "summary": "Le livret prévoit un revenu minimum et des droits sociaux pour les travailleurs des plateformes par la transposition de la directive sur la présomption de salariat.",
+      "excerpt": "Garantir aux travailleurs des plateformes un revenu minimum et des droits sociaux par la requalification en salariat à travers la transposition dans la loi française de la directive européenne sur la présomption de salariat pour les travailleurs des plateformes.",
+      "tags": [
+        "uber",
+        "livreurs",
+        "plateformes",
+        "indépendant",
+        "salariat"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-travail.pdf",
+        "locator": "Partie 2 « Améliorer les conditions de travail » (page 25)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-emploi-13",
+      "theme": "emploi",
+      "title": "Abaisser à 250 salariés le seuil de représentation des salariés dans les conseils d'administration",
+      "summary": "Le livret prévoit d'abaisser à 250 salariés le seuil à partir duquel la représentation des salariés est obligatoire dans les conseils d'administration et de surveillance.",
+      "excerpt": "Abaisser à 250 salarié·es le seuil minimum de salarié·es à partir duquel la représentation des salarié·es est obligatoire dans les conseils d’administration et de surveillance des entreprises",
+      "tags": [
+        "conseil d'administration",
+        "salariés",
+        "entreprise",
+        "démocratie"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-travail.pdf",
+        "locator": "Partie 6 « Démocratiser l'organisation du travail » (page 31)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-emploi-14",
+      "theme": "emploi",
+      "title": "Augmenter les sanctions liées à l'obligation d'emploi de 6 % de travailleurs handicapés",
+      "summary": "Le livret prévoit d'augmenter les sanctions financières en cas de non-respect de l'obligation d'emploi de 6 % de travailleurs handicapés.",
+      "excerpt": "Augmenter les sanctions financières en cas de non- respect de l’obligation d’emploi de 6% de travailleur·ses handicapé·es",
+      "tags": [
+        "handicap",
+        "obligation d'emploi",
+        "travailleurs handicapés",
+        "sanctions"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-travail.pdf",
+        "locator": "Partie 4 « Lutter contre toutes les discriminations au travail » (page 28)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-emploi-15",
+      "theme": "emploi",
+      "title": "Indexer les allocations chômage sur l'inflation",
+      "summary": "Le livret prévoit d'indexer le niveau des allocations chômage sur l'inflation.",
+      "excerpt": "Indexer le niveau des allocations sur l’inflation",
+      "tags": [
+        "assurance chômage",
+        "allocations",
+        "chômage",
+        "inflation"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-travail.pdf",
+        "locator": "Partie 5 « Construire une sécurité sociale professionnelle » (page 29)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-retraite-01",
+      "theme": "retraite",
+      "title": "Revenir à un âge minimum de départ à 62 ans",
+      "summary": "Le programme prévoit d'abroger l'âge légal de 64 ans pour revenir immédiatement à 62 ans, et de viser la retraite à 60 ans en priorité pour les carrières longues et pénibles.",
+      "excerpt": "Abroger l’âge légal de départ à la retraite à 64 ans (réforme Borne) pour revenir immédiatement à un âge minimum à 62 ans et viser une retraite à 60 ans en priorisant / réinstaurer la retraite à 60 ans pour les personnes ayant travaillé tôt et dans des conditions pénibles.",
+      "tags": [
+        "retraite à 62 ans",
+        "réforme borne",
+        "âge de départ",
+        "retraite à 60 ans"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 31 « Adopter une autre réforme des retraites », proposition 1 (page 116)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-retraite-02",
+      "theme": "retraite",
+      "title": "Réintroduire les 4 critères de pénibilité supprimés en 2017",
+      "summary": "Le livret prévoit de réintroduire les 4 facteurs de risques professionnels supprimés en 2017 : port de charges, vibrations, postures pénibles et agents chimiques.",
+      "excerpt": "Réintroduire les 4 facteurs de risques professionnels supprimés par les ordonnances Pénicaud de 2017 (port de charges, vibrations, postures pénibles et agents chimiques)",
+      "tags": [
+        "pénibilité",
+        "c2p",
+        "départ anticipé",
+        "retraite"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-travail.pdf",
+        "locator": "Partie 2 « Améliorer les conditions de travail », pénibilité (page 24)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-retraite-03",
+      "theme": "retraite",
+      "title": "Permettre aux branches de définir des métiers pénibles ouvrant un départ anticipé",
+      "summary": "Le livret prévoit que chaque branche puisse remplacer le compte prévention pénibilité par la qualification de métiers pénibles ouvrant un départ anticipé.",
+      "excerpt": "Ouvrir la possibilité pour chaque branche de remplacer le compte prévention pénibilité (C2P) par la qualification de métiers pénibles pouvant bénéficier d’un départ anticipé",
+      "tags": [
+        "métiers pénibles",
+        "départ anticipé",
+        "retraite",
+        "c2p"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-travail.pdf",
+        "locator": "Partie 2 « Améliorer les conditions de travail », pénibilité (page 24)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-retraite-04",
+      "theme": "retraite",
+      "title": "Rétablir la déclaration des expositions chimiques ouvrant un départ anticipé",
+      "summary": "Le livret prévoit de réintroduire l'obligation pour l'employeur de déclarer les expositions aux risques chimiques, afin que les salariés puissent faire valoir leurs droits au départ anticipé.",
+      "excerpt": "Réintroduire l’obligation pour l’employeur de déclarer les risques liés à l’exposition aux risques chimiques (agents chimiques dangereux, y compris poussières et fumées) pour permettre aux salariés concernés de faire valoir leur droits de départ anticipé à la retraite.",
+      "tags": [
+        "départ anticipé",
+        "produits chimiques",
+        "pénibilité",
+        "retraite"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/Livret-sante-environnementale.pdf",
+        "locator": "Partie « Protéger la santé des travailleur·euses » (page 27)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-famille-01",
+      "theme": "famille",
+      "title": "Aligner le congé d'accueil de l'enfant à 16 semaines pour les deux parents",
+      "summary": "Le livret prévoit un congé d'accueil de l'enfant obligatoire et aligné pour les deux parents, de 16 semaines rémunérées à 100 %, et un congé supplémentaire de naissance indemnisé à 80 % étendu à trois mois par parent.",
+      "excerpt": "Instaurer l’égalité des congés de parentalité : rendre obligatoire et aligner le congé d’accueil de l’enfant entre la mère et le second parent avec 16 semaines rémunérées à 100% du salaire mensuel de base. Relever l’indemnisation du congé supplémentaire de naissance à 80% du revenu et l’étendre à trois mois par parent.",
+      "tags": [
+        "congé paternité",
+        "congé maternité",
+        "congé parental",
+        "naissance"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-travail.pdf",
+        "locator": "Partie 4 « Lutter contre toutes les discriminations au travail » (page 28)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-famille-02",
+      "theme": "famille",
+      "title": "Verser des allocations familiales dès le premier enfant",
+      "summary": "Le livret prévoit d'attribuer un même montant d'allocations familiales dès le premier enfant et de simplifier les allocations.",
+      "excerpt": "Réformer les allocations familiales pour attribuer un même montant dès le premier enfant. Simplifier les différentes allocations afin de lutter contre le non-recours aux droits (Allocation de Rentrée Scolaire, Allocation de Soutien Familial...).",
+      "tags": [
+        "allocations familiales",
+        "premier enfant",
+        "caf",
+        "allocation"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+        "locator": "Partie « Accompagner les familles dès la petite enfance » (page 20)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-famille-03",
+      "theme": "famille",
+      "title": "Créer un statut de famille monoparentale",
+      "summary": "Le livret prévoit un statut de famille monoparentale ouvrant des droits spécifiques d'accès à des modes de garde aux horaires flexibles.",
+      "excerpt": "Instaurer un statut de famille monoparentale. Ouvrir des droits spécifiques dans l’accès à des modes de garde avec des horaires flexibles.",
+      "tags": [
+        "famille monoparentale",
+        "parent isolé",
+        "garde d'enfant",
+        "mère seule"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+        "locator": "Partie « Accompagner les familles dès la petite enfance » (page 20)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-famille-04",
+      "theme": "famille",
+      "title": "Défiscaliser les pensions alimentaires",
+      "summary": "Le livret prévoit de défiscaliser les pensions alimentaires pour les parents qui les perçoivent, avec un plafond par enfant et par an.",
+      "excerpt": "Défiscaliser les pensions alimentaires pour les parents qui les perçoivent avec un plafond par enfant et par an.",
+      "tags": [
+        "pension alimentaire",
+        "divorce",
+        "séparation",
+        "impôt"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+        "locator": "Partie « Accompagner les familles dès la petite enfance » (page 20)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-famille-05",
+      "theme": "famille",
+      "title": "Créer des maisons des familles et accompagner les 1000 premiers jours",
+      "summary": "Le livret prévoit des maisons des familles pour l'accompagnement à la parentalité et un protocole d'accompagnement des familles sur au moins les 1000 premiers jours de l'enfant.",
+      "excerpt": "Créer des maisons des familles regroupant des associations, des avocat·es, des travailleur·ses sociales et des thérapeutes pour offrir un soutien souple et pluriel dans l’accompagnement à la parentalité, y compris en prénatal. Généraliser un protocole pour accompagner les familles au moins sur les 1000 premiers jours de l’enfant.",
+      "tags": [
+        "parentalité",
+        "1000 premiers jours",
+        "bébé",
+        "maison des familles"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+        "locator": "Partie « Accompagner les familles dès la petite enfance » (page 20)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-famille-06",
+      "theme": "famille",
+      "title": "Expérimenter des crèches sociales",
+      "summary": "Le livret prévoit de développer l'aide à domicile et d'expérimenter des crèches sociales avec un accompagnement renforcé des familles fragilisées.",
+      "excerpt": "Renforcer la prévention dès la petite enfance en développant l’aide à domicile et en expérimentant des crèches sociales avec un accompagnement renforcé des familles fragilisées.",
+      "tags": [
+        "crèche",
+        "petite enfance",
+        "garde",
+        "famille"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+        "locator": "Partie « Accompagner les familles dès la petite enfance » (page 20)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-famille-07",
+      "theme": "famille",
+      "title": "Accompagner financièrement les jeunes sortant de l'aide sociale à l'enfance jusqu'à 25 ans",
+      "summary": "Le livret prévoit un accompagnement spécifique pour les jeunes sortants de l'aide sociale à l'enfance sans soutien familial jusqu'à leurs 25 ans.",
+      "excerpt": "Assurer des moyens financiers par un accompagnement spécifique pour les jeunes sortants du dispositif de l’aide sociale à l’enfance et sans soutien familial jusqu’à leurs 25 ans",
+      "tags": [
+        "aide sociale à l'enfance",
+        "ase",
+        "jeunes majeurs",
+        "enfants placés"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+        "locator": "Partie « Garantir une protection effective des enfants confiés » (page 21)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-famille-08",
+      "theme": "famille",
+      "title": "Interdire le secteur lucratif dans la protection de l'enfance",
+      "summary": "Le livret prévoit d'interdire le secteur lucratif dans la protection de l'enfance et de la petite enfance.",
+      "excerpt": "Interdire le secteur lucratif dans la protection de l’enfance et de la petite enfance.",
+      "tags": [
+        "protection de l'enfance",
+        "crèches privées",
+        "petite enfance",
+        "enfants"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+        "locator": "Mesures clés (page 15)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-famille-09",
+      "theme": "famille",
+      "title": "Garantir le droit aux vacances pour tous les enfants",
+      "summary": "Le livret prévoit de garantir le droit aux vacances pour tous les enfants.",
+      "excerpt": "Garantir le droit aux vacances pour tous les enfants",
+      "tags": [
+        "vacances",
+        "enfants",
+        "colonies",
+        "loisirs"
+      ],
+      "source": {
+        "url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+        "locator": "Mesures clés (page 15)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-etudes-01",
+      "theme": "études",
+      "title": "Réduire les classes de primaire à 19 élèves en 2032",
+      "summary": "Le programme prévoit de réduire la taille des classes du primaire à 19 élèves en 2032 et à 12 élèves en REP et REP+.",
+      "excerpt": "Faire de l’école primaire une priorité absolue en réduisant la taille des classes à 19 élèves en 2032 et à 12 élèves dans les établissements en réseau d’éducation prioritaire (REP et REP+).",
+      "tags": [
+        "école primaire",
+        "effectifs",
+        "classe",
+        "rep"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 23 « Viser la réussite de tous les élèves », proposition 1 (page 90)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "tondelier-etudes-02",
+      "theme": "études",
+      "title": "Augmenter le nombre d'enseignants en primaire",
+      "summary": "Le programme prévoit d'augmenter le nombre d'enseignants pour que chaque enfant sache lire, écrire, compter et commence une autre langue avant le collège.",
+      "excerpt": "Augmenter le nombre d’enseignant·es pour que chaque enfant sache lire, écrire, compter et commence l’apprentissage d’une autre langue avant d’arriver au collège.",
+      "tags": [
+        "enseignants",
+        "école primaire",
+        "lire écrire compter",
+        "langue"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 23 « Viser la réussite de tous les élèves », proposition 1 (page 90)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-etudes-03",
+      "theme": "études",
+      "title": "Abroger le « choc des savoirs »",
+      "summary": "Le programme prévoit d'abroger les groupes de niveaux en sixième et cinquième.",
+      "excerpt": "Abroger le « choc des savoirs » (groupes de niveaux en sixième et cinquième).",
+      "tags": [
+        "groupes de niveau",
+        "collège",
+        "choc des savoirs",
+        "sixième"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 23 « Viser la réussite de tous les élèves », proposition 12 (page 92)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-etudes-04",
+      "theme": "études",
+      "title": "Commencer les cours au collège à 9 heures",
+      "summary": "Le programme prévoit que les cours au collège commencent à 9 heures.",
+      "excerpt": "Commencer les cours au collège à 9 heures.",
+      "tags": [
+        "collège",
+        "rythmes scolaires",
+        "horaires",
+        "9 heures"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 23 « Viser la réussite de tous les élèves », proposition 14 (page 92)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-etudes-05",
+      "theme": "études",
+      "title": "Créer un budget pédagogique dans chaque établissement",
+      "summary": "Le programme prévoit un budget pédagogique dans chaque établissement.",
+      "excerpt": "Créer un budget pédagogique dans chaque établissement.",
+      "tags": [
+        "établissement",
+        "budget",
+        "pédagogie",
+        "école"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 23 « Viser la réussite de tous les élèves », proposition 12 (page 92)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-etudes-06",
+      "theme": "études",
+      "title": "Remplacer Parcoursup et MonMaster",
+      "summary": "Le programme prévoit de remplacer Parcoursup et MonMaster par une plateforme d'orientation permettant de hiérarchiser et sectoriser les vœux sans lettres de motivation ni mention du lycée d'origine.",
+      "excerpt": "Réhabiliter le droit à des études supérieures en remplaçant ParcourSup et MonMaster par une vraie plateforme d’orientation permettant de hiérarchiser et de sectoriser des vœux sans lettres de motivation ni mention du lycée d’origine.",
+      "tags": [
+        "parcoursup",
+        "monmaster",
+        "orientation",
+        "université"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 24 « Démocratiser l'enseignement supérieur », proposition 1 (page 93)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-etudes-07",
+      "theme": "études",
+      "title": "Intégrer des quotas de boursiers dans le supérieur",
+      "summary": "Le programme prévoit des quotas de boursiers dans les formations supérieures.",
+      "excerpt": "Intégrer des quotas de boursiers dans les formations supérieures.",
+      "tags": [
+        "boursiers",
+        "quotas",
+        "études supérieures",
+        "bourse"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 24 « Démocratiser l'enseignement supérieur », proposition 1 (page 93)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-etudes-08",
+      "theme": "études",
+      "title": "Ouvrir des places en BUT et BTS",
+      "summary": "Le programme prévoit d'ouvrir des places en BUT, en BTS et dans des formations certifiantes comme les CREPS.",
+      "excerpt": "Ouvrir des places en BUT, BTS et dans les formations certifiantes comme le Centres de Ressources, d’expertise et de Performance Sportive (CREPS).",
+      "tags": [
+        "bts",
+        "but",
+        "places",
+        "études supérieures"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 24 « Démocratiser l'enseignement supérieur », proposition 1 (page 93)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-etudes-09",
+      "theme": "études",
+      "title": "Imposer des administrateurs publics dans l'enseignement supérieur privé financé à plus de 20 % par des fonds publics",
+      "summary": "Le programme prévoit une présence d'administrateurs publics au conseil d'administration des groupes privés dont plus de 20 % des recettes sont publiques.",
+      "excerpt": "Imposer une présence d’administrateurs publics au Conseil d’administration en cas de part supérieure à 20 % de recettes publiques calculées au niveau du groupe.",
+      "tags": [
+        "enseignement privé",
+        "écoles privées",
+        "supérieur",
+        "contrôle"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 24 « Démocratiser l'enseignement supérieur », proposition 3 (page 94)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-log-09",
+      "theme": "logement",
+      "title": "Supprimer la réduction de loyer de solidarité pour relancer le logement social",
+      "summary": "Le programme prévoit de donner aux organismes HLM les moyens de construire et rénover, notamment en supprimant la réduction de loyer de solidarité et en diminuant la TVA sur la construction.",
+      "excerpt": "Donner les moyens aux organismes HLM pour mener de front constructions nouvelles et rénovation ambitieuse en supprimant notamment la Réduction Loyer Solidarité (RLS) et en diminuant la TVA sur la construction pour leur permettre d’investir.",
+      "tags": [
+        "logement social",
+        "hlm",
+        "construction",
+        "tva"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 2 « Pouvoir se loger décemment », proposition 2 (page 20)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-log-10",
+      "theme": "logement",
+      "title": "Renforcer les sanctions SRU et viser 30 % de logements sociaux en zone tendue d'ici 2035",
+      "summary": "Le programme prévoit de renforcer les sanctions contre les communes ne respectant pas l'objectif de 20 ou 25 % de logements sociaux, et un objectif de 30 % d'ici 2035 dans les communes les plus tendues.",
+      "excerpt": "Renforcer les sanctions financières et préfectorales en cas de manquement à l’obligation d’atteindre 20 ou 25 % de logements sociaux dans les communes conformément à la loi Solidarité et Renouvellement Urbain (SRU). Ajouter une obligation d’atteindre un objectif de 30 % de logements d’ici 2035 dans les communes aux marchés immobiliers les plus tendus.",
+      "tags": [
+        "loi sru",
+        "logement social",
+        "communes",
+        "zones tendues"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 2 « Pouvoir se loger décemment », proposition 3 (page 20)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "tondelier-log-11",
+      "theme": "logement",
+      "title": "Aligner les meublés touristiques sur les obligations de l'hôtellerie",
+      "summary": "Le programme prévoit de réguler les meublés touristiques en alignant fiscalement et réglementairement toute location de courte durée, hors résidence principale, sur les obligations du secteur hôtelier.",
+      "excerpt": "Réguler les meublés touristiques. Instaurer une unicité de statut alignant fiscalement et réglementairement toute location de courte durée sur les obligations du secteur hôtelier (hors résidence principale).",
+      "tags": [
+        "airbnb",
+        "meublés touristiques",
+        "location courte durée",
+        "fiscalité"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 2 « Pouvoir se loger décemment », proposition 5 (page 20)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-log-12",
+      "theme": "logement",
+      "title": "Utiliser le droit de réquisition contre les logements vacants",
+      "summary": "Le programme prévoit d'utiliser le droit de réquisition pour lutter contre les logements vacants.",
+      "excerpt": "Utiliser le droit de réquisition pour lutter contre les logements vacants.",
+      "tags": [
+        "logements vacants",
+        "réquisition",
+        "propriétaires",
+        "crise du logement"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 2 « Pouvoir se loger décemment », proposition 6 (page 20)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-log-13",
+      "theme": "logement",
+      "title": "Atteindre 500 000 rénovations performantes par an via MaPrimeRénov'",
+      "summary": "Le programme prévoit de sortir un million de personnes par an de la précarité énergétique en atteignant 500 000 rénovations performantes par an via MaPrimeRénov'.",
+      "excerpt": "Sortir un million de personnes chaque année de la précarité énergétique en atteignant 500 000 rénovations performantes par an via MaPrimeRénov’.",
+      "tags": [
+        "rénovation énergétique",
+        "maprimerénov",
+        "précarité énergétique",
+        "isolation"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 2 « Pouvoir se loger décemment », proposition 8 (page 21)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-log-14",
+      "theme": "logement",
+      "title": "Maintenir l'interdiction de louer les logements classés F en 2028 et E en 2034",
+      "summary": "Le programme prévoit de maintenir l'interdiction de louer les logements classés F en 2028 et E en 2034, avec des exceptions pour les petits propriétaires sous condition d'une baisse de loyer de 30 % et de travaux sous deux ans.",
+      "excerpt": "Maintenir l'interdiction de la remise en location des logements classés F en 2028 et E en 2034 et n’envisager des exceptions pour les petits propriétaires que sous réserve d’une baisse de loyer temporaire de 30 % et d’un engagement à réaliser des travaux de rénovation dans les deux ans.",
+      "tags": [
+        "dpe",
+        "passoires thermiques",
+        "location",
+        "propriétaires"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 2 « Pouvoir se loger décemment », proposition 8 (page 21)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "tondelier-log-15",
+      "theme": "logement",
+      "title": "Construire 150 000 places de logements étudiants et de foyers de jeunes travailleurs",
+      "summary": "Le programme prévoit de construire 150 000 places en logements étudiants et foyers de jeunes travailleurs sur le quinquennat et de rénover les anciens.",
+      "excerpt": "Construire 150 000 places en logements étudiants et foyers de jeunes travailleurs sur le quinquennat et rénover les anciens.",
+      "tags": [
+        "logement étudiant",
+        "crous",
+        "jeunes",
+        "foyers"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 35 « Soutenir l'émancipation des jeunes », proposition 6 (page 126)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "tondelier-transport-09",
+      "theme": "transport",
+      "title": "Abaisser à 110 km/h la vitesse maximale des véhicules thermiques sur autoroute",
+      "summary": "Le programme prévoit de réduire à 110 km/h la vitesse maximale des véhicules thermiques sur autoroute.",
+      "excerpt": "Diminuer les émissions des transports automobiles en réduisant la vitesse maximale des véhicules thermiques à 110km/h sur autoroute.",
+      "tags": [
+        "autoroute",
+        "vitesse",
+        "110 km/h",
+        "voiture"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 3 « Garantir la liberté de se déplacer autrement », proposition 2 (page 23)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-transport-10",
+      "theme": "transport",
+      "title": "Doubler les voies cyclables pour atteindre 120 000 km en 2032",
+      "summary": "Le programme prévoit de doubler le kilométrage de voies cyclables continues pour atteindre 120 000 km en 2032, par l'inscription obligatoire de voies piétonnes et cyclables dans les plans de mobilité.",
+      "excerpt": "Doubler le kilométrage de voies cyclables continues en 3 ans pour atteindre 120 000 km en 2032 par l’inscription obligatoire de voies piétonnes et cyclables dans les plans de mobilité (conformément à la loi LOM).",
+      "tags": [
+        "vélo",
+        "pistes cyclables",
+        "mobilité douce",
+        "aménagement"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 3 « Garantir la liberté de se déplacer autrement », proposition 3 (page 23)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "tondelier-transport-11",
+      "theme": "transport",
+      "title": "Instaurer un moratoire sur l'A69, le Lyon-Turin et le canal Seine-Nord",
+      "summary": "Le programme prévoit un moratoire sur de grands projets d'infrastructures, dont le canal Seine-Nord Europe, l'autoroute A69, le TGV Lyon-Turin et les extensions d'aéroport.",
+      "excerpt": "Adopter un moratoire sur les grands projets inutiles et imposés comme le canal Seine-Nord Europe, l’autoroute A69, le TGV Lyon-Turin et les extensions d’aéroport.",
+      "tags": [
+        "a69",
+        "lyon-turin",
+        "grands projets",
+        "aéroport"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 3 « Garantir la liberté de se déplacer autrement », proposition 4 (page 24)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-transport-12",
+      "theme": "transport",
+      "title": "Porter à 35 % la part du fret ferroviaire, fluvial et maritime en 2050",
+      "summary": "Le programme prévoit que 35 % du transport de marchandises soit assuré par le fret ferroviaire, fluvial et maritime en 2050.",
+      "excerpt": "Couvrir 35 % du transport de marchandise grâce au fret ferroviaire, fluvial et maritime en 2050.",
+      "tags": [
+        "fret ferroviaire",
+        "marchandises",
+        "camions",
+        "fluvial"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 3 « Garantir la liberté de se déplacer autrement », proposition 5 (page 24)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "tondelier-transport-13",
+      "theme": "transport",
+      "title": "Créer un ticket climat mensuel pour atteindre 25 % de part modale en 2030",
+      "summary": "Le programme prévoit d'atteindre 25 % de part modale des transports collectifs d'ici 2030 grâce à un ticket climat mensuel à tarif unique et à des gratuités ciblées pour les jeunes et les ménages précaires, hors TGV.",
+      "excerpt": "Atteindre 25 % de part modale dans les transports collectifs d’ici 2030 par un ticket climat mensuel avec un tarif unique permettant de garantir des tarifs accessibles et des mesures de gratuité ciblées aux jeunes et aux ménages précaires pour l’ensemble des transports en commun hors TGV.",
+      "tags": [
+        "ticket climat",
+        "transports en commun",
+        "abonnement",
+        "gratuité"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 3 « Garantir la liberté de se déplacer autrement », proposition 7 (page 24)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "tondelier-transport-14",
+      "theme": "transport",
+      "title": "Interdire les vols intra-européens remplaçables par moins de 4h30 de train",
+      "summary": "Le programme prévoit d'interdire les vols intra-européens lorsqu'une alternative en train de moins de 4h30 existe.",
+      "excerpt": "Interdire les vols intra-européens lorsqu’une alternative de moins de 4h30 en train existe.",
+      "tags": [
+        "avion",
+        "vols intérieurs",
+        "train",
+        "aérien"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 3 « Garantir la liberté de se déplacer autrement », proposition 9 (page 25)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-transport-15",
+      "theme": "transport",
+      "title": "Créer des lignes de train de nuit, dont Bordeaux-Lyon et Bordeaux-Nice",
+      "summary": "Le programme prévoit de créer des lignes de train de nuit, en particulier les transversales Bordeaux-Lyon et Bordeaux-Nice.",
+      "excerpt": "Créer des lignes de train de nuit en particulier les transversales Bordeaux-Lyon ou Bordeaux-Nice.",
+      "tags": [
+        "train de nuit",
+        "ferroviaire",
+        "sncf",
+        "lignes"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 3 « Garantir la liberté de se déplacer autrement », proposition 11 (page 25)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-env-12",
+      "theme": "environnement",
+      "title": "Mettre fin aux chauffages au fioul en 2032",
+      "summary": "Le programme prévoit la fin des chauffages au fioul en 2032, le changement de système de chauffage de 300 000 ménages par an et l'accompagnement du changement de chaudière à gaz pour 25 % des ménages en 2032.",
+      "excerpt": "En finir avec les chauffages au fioul en 2032. Viser le changement de système de chauffage de 300 000 ménages par an. Accompagner le changement des chaudières à gaz pour 25 % des ménages en 2032.",
+      "tags": [
+        "chauffage",
+        "fioul",
+        "chaudière",
+        "pompe à chaleur"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 2 « Pouvoir se loger décemment », proposition 9 (page 21)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "tondelier-env-13",
+      "theme": "environnement",
+      "title": "Planifier la sortie du nucléaire et arrêter les programmes EPR-2 et SMR",
+      "summary": "Le programme prévoit de planifier la sortie du nucléaire, de mettre fin aux programmes EPR-2 et SMR et d'étaler l'arrêt des centrales vieillissantes sur une vingtaine d'années.",
+      "excerpt": "Planifier la sortie du nucléaire. Mettre fin aux nouveaux programmes EPR-2 et SMR extrêmement dispendieux. Planifier l’arrêt progressif du parc constitué de centrales vieillissantes dont la mise hors service doit être étalée sur une vingtaine d’années.",
+      "tags": [
+        "nucléaire",
+        "epr",
+        "énergie",
+        "centrales"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 1 « Gagner la bataille du climat », proposition 7 (page 17)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-env-14",
+      "theme": "environnement",
+      "title": "Soutenir 10 000 communautés énergétiques renouvelables",
+      "summary": "Le programme prévoit de soutenir le déploiement de 10 000 communautés énergétiques renouvelables portées par des citoyens ou des collectivités locales.",
+      "excerpt": "Soutenir le déploiement de 10 000 communautés énergétiques renouvelables portés par des forces citoyennes ou des collectivités locales pour garantir une énergie locale, solidaire et décentralisée.",
+      "tags": [
+        "énergies renouvelables",
+        "communautés énergétiques",
+        "collectivités",
+        "énergie locale"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 1 « Gagner la bataille du climat », proposition 10 (page 17)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-env-15",
+      "theme": "environnement",
+      "title": "Créer un prêt à taux zéro pour les projets d'énergies renouvelables",
+      "summary": "Le programme prévoit un prêt à taux zéro de la Caisse des dépôts couvrant jusqu'à 60 % des devis pour les nouveaux projets individuels et collectifs d'énergies renouvelables.",
+      "excerpt": "Proposer un prêt à taux zéro de la Caisse des Dépôts et Consignations pour les nouveaux projets individuels et collectifs à hauteur de 60 % des devis.",
+      "tags": [
+        "énergies renouvelables",
+        "prêt à taux zéro",
+        "solaire",
+        "financement"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 1 « Gagner la bataille du climat », proposition 6 (page 17)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-pa-11",
+      "theme": "pouvoir d'achat",
+      "title": "Baisser la fiscalité de l'électricité et la TVA sur l'abonnement",
+      "summary": "Le programme prévoit de découpler le prix de l'électricité de celui des énergies fossiles et de diminuer la fiscalité sur l'électricité, notamment la TVA sur l'abonnement.",
+      "excerpt": "Découpler le prix de l’électricité du prix des énergies fossiles. Diminuer la fiscalité sur l’électricité en unifiant le socle de l’accise pour le gaz et l’électricité en diminuant la TVA sur l’abonnement électrique.",
+      "tags": [
+        "électricité",
+        "facture",
+        "tva",
+        "énergie"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 1 « Gagner la bataille du climat », proposition 3 (page 16)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-pa-12",
+      "theme": "pouvoir d'achat",
+      "title": "Réduire la part fixe de l'abonnement électrique et créer une tarification progressive",
+      "summary": "Le programme prévoit de refondre le tarif bleu, de réduire la part fixe de l'abonnement et de développer une tarification progressive de l'électricité.",
+      "excerpt": "Refondre le tarif bleu. Réduire la part fixe de l’abonnement et développer une tarification progressive.",
+      "tags": [
+        "tarif bleu",
+        "électricité",
+        "abonnement",
+        "facture"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 1 « Gagner la bataille du climat », proposition 3 (page 16)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-pa-13",
+      "theme": "pouvoir d'achat",
+      "title": "Revaloriser les APL de 10 %",
+      "summary": "Le programme prévoit de revaloriser les aides personnalisées au logement de 10 %, avec un mécanisme empêchant leur répercussion sur les loyers.",
+      "excerpt": "Revaloriser les APL de 10 % avec un mécanisme empêchant la répercussion sur les montants des loyers.",
+      "tags": [
+        "apl",
+        "aides au logement",
+        "loyer",
+        "allocations"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 32 « Lutter contre la pauvreté », proposition 2 (page 119)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-pa-14",
+      "theme": "pouvoir d'achat",
+      "title": "Remplacer le chèque énergie par un crédit d'impôt versé automatiquement",
+      "summary": "Le programme prévoit de remplacer les chèques énergie par un crédit d'impôt ciblé sur les personnes en situation de précarité et versé automatiquement.",
+      "excerpt": "Remplacer les chèques énergies par un crédit d’impôt ciblé vers l’ensemble des personnes en situation de précarité et versé automatiquement.",
+      "tags": [
+        "chèque énergie",
+        "crédit d'impôt",
+        "précarité",
+        "énergie"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 32 « Lutter contre la pauvreté », proposition 5 (page 119)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-pa-15",
+      "theme": "pouvoir d'achat",
+      "title": "Interdire les coupures d'électricité pour impayés",
+      "summary": "Le programme prévoit d'abolir les coupures d'électricité pour impayés en les remplaçant par une réduction de puissance.",
+      "excerpt": "Abolir les coupures d’électricité pour impayés en les remplaçant par une réduction de puissance.",
+      "tags": [
+        "électricité",
+        "impayés",
+        "coupures",
+        "précarité énergétique"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 32 « Lutter contre la pauvreté », proposition 5 (page 119)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-etudes-10",
+      "theme": "études",
+      "title": "Augmenter de 15 % en cinq ans le salaire des enseignants",
+      "summary": "Le programme prévoit d'augmenter les salaires des enseignants de 15 % en cinq ans.",
+      "excerpt": "Réhabiliter les métiers de l’Education nationale en augmentant les salaires des enseignant·es de 15 % en 5 ans.",
+      "tags": [
+        "enseignants",
+        "salaire",
+        "éducation nationale",
+        "revalorisation"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 23 « Viser la réussite de tous les élèves », proposition 2 (page 90)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "tondelier-etudes-11",
+      "theme": "études",
+      "title": "Intégrer l'écologie et des enseignements pratiques dans les programmes",
+      "summary": "Le programme prévoit d'intégrer l'enjeu écologique de la maternelle au lycée et d'introduire de nouveaux enseignements pratiques (réparation, construction, cuisine, jardinage).",
+      "excerpt": "Intégrer l’enjeu écologique dans les programmes de la maternelle au lycée. Introduire de nouveaux enseignements pratiques (réparation, construction, cuisine, jardinage…).",
+      "tags": [
+        "programmes scolaires",
+        "écologie",
+        "enseignements pratiques",
+        "école"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 23 « Viser la réussite de tous les élèves », proposition 3 (page 90)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-etudes-12",
+      "theme": "études",
+      "title": "Rétablir le baccalauréat professionnel en quatre ans",
+      "summary": "Le programme prévoit de rétablir le baccalauréat professionnel en quatre ans, d'abroger la réforme de la voie professionnelle et d'annuler la réduction des heures d'enseignement général en lycée professionnel.",
+      "excerpt": "Valoriser les lycées professionnels et techniques en rétablissant le baccalauréat professionnel en 4 ans, en abrogeant la réforme de la voie professionnelle et en annulant la réduction des heures d’enseignement général en lycée professionnel.",
+      "tags": [
+        "lycée professionnel",
+        "bac pro",
+        "voie professionnelle",
+        "réforme"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 23 « Viser la réussite de tous les élèves », proposition 6 (page 91)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-etudes-13",
+      "theme": "études",
+      "title": "Garantir un tuteur aux nouveaux enseignants et trois jours de formation par an",
+      "summary": "Le programme prévoit que chaque professeur ait un tuteur expérimenté pendant ses trois premières années et bénéficie d'au moins trois jours de formation par an en moyenne.",
+      "excerpt": "Faire en sorte que chaque professeur·e puisse avoir un·e tuteur·ice expérimenté·e pendant ses 3 premières années d’enseignement et bénéficie d’au moins 3 jours de formation par an (en moyenne).",
+      "tags": [
+        "enseignants",
+        "formation continue",
+        "tutorat",
+        "inspé"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 23 « Viser la réussite de tous les élèves », proposition 9 (page 91)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-etudes-14",
+      "theme": "études",
+      "title": "Quintupler Erasmus",
+      "summary": "Le programme prévoit de quintupler Erasmus pour que la moitié des étudiants étudient ou travaillent dans un autre pays européen.",
+      "excerpt": "Quintupler Erasmus pour que la moitié des étudiant·es étudient ou travaillent dans un autre pays européen.",
+      "tags": [
+        "erasmus",
+        "étudiants",
+        "mobilité",
+        "europe"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 24 « Démocratiser l'enseignement supérieur », proposition 5 (page 94)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-etudes-15",
+      "theme": "études",
+      "title": "Supprimer la contribution de vie étudiante et de campus (CVEC)",
+      "summary": "Le programme prévoit de supprimer la CVEC et de financer la vie étudiante par la solidarité nationale.",
+      "excerpt": "Supprimer la Contribution de Vie Étudiante et de Campus (CVEC) et financer la vie étudiante par la solidarité nationale.",
+      "tags": [
+        "cvec",
+        "étudiants",
+        "frais d'inscription",
+        "vie étudiante"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 35 « Soutenir l'émancipation des jeunes », proposition 3 (page 126)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-famille-10",
+      "theme": "famille",
+      "title": "Rétablir la majoration des allocations familiales dès 14 ans",
+      "summary": "Le programme prévoit de revenir à la majoration des allocations familiales dès 14 ans.",
+      "excerpt": "Revenir à la majoration des allocations familiales dès 14 ans.",
+      "tags": [
+        "allocations familiales",
+        "adolescents",
+        "caf",
+        "prestations"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 34 « Soutenir toutes les familles », proposition 2 (page 124)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-famille-11",
+      "theme": "famille",
+      "title": "Indemniser à 80 % le congé de naissance et l'étendre à trois mois par parent",
+      "summary": "Le programme prévoit de relever l'indemnisation du congé supplémentaire de naissance à 80 % du revenu et de l'étendre à trois mois par parent.",
+      "excerpt": "Relever l’indemnisation du congé supplémentaire de naissance à 80 % du revenu et l’étendre à trois mois par parents.",
+      "tags": [
+        "congé de naissance",
+        "congé parental",
+        "parents",
+        "naissance"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 34 « Soutenir toutes les familles », proposition 4 (page 124)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-famille-12",
+      "theme": "famille",
+      "title": "Garantir un mode de garde à proximité pour chaque parent qui reprend un emploi",
+      "summary": "Le programme prévoit de garantir un mode de garde adapté et à proximité pour chaque parent souhaitant reprendre un emploi et de revaloriser les métiers de la petite enfance.",
+      "excerpt": "Soutenir le service public de la petite enfance. Garantir un mode de garde adapté et à proximité pour chaque parent qui souhaite reprendre un emploi. Revaloriser les métiers de la petite enfance.",
+      "tags": [
+        "garde d'enfants",
+        "crèche",
+        "petite enfance",
+        "parents"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 34 « Soutenir toutes les familles », proposition 5 (page 124)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-famille-13",
+      "theme": "famille",
+      "title": "Publier chaque année des statistiques sur le travail domestique et la charge mentale",
+      "summary": "Le programme prévoit la publication annuelle de statistiques sur le travail invisible, la charge mentale et leurs inégalités sociales et genrées.",
+      "excerpt": "Publier chaque année des statistiques détaillées sur le travail invisible, la charge mentale et ses inégalités sociales et genrées.",
+      "tags": [
+        "travail domestique",
+        "charge mentale",
+        "égalité",
+        "statistiques"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 34 « Soutenir toutes les familles », proposition 6 (page 124)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-famille-14",
+      "theme": "famille",
+      "title": "Revoir la fiscalité des divorces et des prestations compensatoires",
+      "summary": "Le programme prévoit de revoir la fiscalité de la liquidation du régime matrimonial et des prestations compensatoires.",
+      "excerpt": "Revoir la fiscalité de la liquidation du régime matrimonial et des prestations compensatoires.",
+      "tags": [
+        "divorce",
+        "séparation",
+        "prestation compensatoire",
+        "fiscalité"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 34 « Soutenir toutes les familles », proposition 7 (page 124)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-famille-15",
+      "theme": "famille",
+      "title": "Ramener à 3 à 6 mois les délais de la justice familiale",
+      "summary": "Le programme prévoit de réduire les délais des décisions de justice familiale avec un objectif de 3 à 6 mois, grâce à des moyens renforcés.",
+      "excerpt": "Diminuer le délai de rendu des décisions en matière de justice familiale. Viser un objectif de 3 à 6 mois par un renforcement des moyens dédiés.",
+      "tags": [
+        "justice familiale",
+        "divorce",
+        "juge aux affaires familiales",
+        "délais"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 34 « Soutenir toutes les familles », proposition 7 (page 124)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-sante-11",
+      "theme": "santé",
+      "title": "Limiter les dépassements d'honoraires à 50 % du tarif de la Sécurité sociale",
+      "summary": "Le programme prévoit de limiter les dépassements d'honoraires des spécialistes à 50 % du tarif de la Sécurité sociale et de les interdire pour la moitié des ménages les moins aisés.",
+      "excerpt": "Encadrer les dépassements d’honoraires chez les spécialistes en limitant les dépassements d’honoraires à 50 % du tarif de la Sécurité Sociale et en interdisant les dépassements pour la moitié des ménages les moins aisés.",
+      "tags": [
+        "dépassements d'honoraires",
+        "spécialistes",
+        "sécurité sociale",
+        "remboursement"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 29 « Améliorer la prévention et le parcours de soin », proposition 5 (page 111)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-sante-12",
+      "theme": "santé",
+      "title": "Recruter 7 500 infirmiers scolaires",
+      "summary": "Le programme prévoit de recruter 7 500 infirmiers scolaires et d'augmenter les salaires dès le début de carrière de 500 euros.",
+      "excerpt": "Recruter 7500 infirmier·es scolaires. Augmenter les salaires dès le début de carrière (+500€).",
+      "tags": [
+        "infirmières scolaires",
+        "santé scolaire",
+        "recrutement",
+        "école"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 29 « Améliorer la prévention et le parcours de soin », proposition 6 (page 112)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-sante-13",
+      "theme": "santé",
+      "title": "Interdire la vente de tabac aux personnes nées à partir de 2014",
+      "summary": "Le programme prévoit d'interdire la vente de tabac à toute personne née en 2014 ou après.",
+      "excerpt": "Interdire la vente de tabac à toute personne née en 2014 et après sur le modèle britannique.",
+      "tags": [
+        "tabac",
+        "prévention",
+        "jeunes",
+        "addiction"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 29 « Améliorer la prévention et le parcours de soin », proposition 3 (page 111)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-sante-14",
+      "theme": "santé",
+      "title": "Supprimer les franchises médicales",
+      "summary": "Le programme prévoit de supprimer les franchises médicales et de concentrer la couverture des mutuelles sur les seuls soins optionnels.",
+      "excerpt": "Supprimer les franchises. Concentrer la couverture par les mutuelles aux seuls soins optionnels.",
+      "tags": [
+        "franchises médicales",
+        "remboursement",
+        "mutuelle",
+        "assurance maladie"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 29 « Améliorer la prévention et le parcours de soin », proposition 4 (page 111)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-sante-15",
+      "theme": "santé",
+      "title": "Transférer la dette des hôpitaux publics à la CADES",
+      "summary": "Le programme prévoit d'alléger les charges des hôpitaux publics en transférant leur dette à la CADES.",
+      "excerpt": "Alléger les charges des hôpitaux publics en transférant leur dette à la CADES.",
+      "tags": [
+        "hôpital public",
+        "dette",
+        "cades",
+        "financement"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 30 « Rendre accessible une offre de soin de qualité », proposition 4 (page 114)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-retraite-05",
+      "theme": "retraite",
+      "title": "Convoquer une conférence travail-retraite sur l'équilibre du régime",
+      "summary": "Le programme prévoit une conférence travail-retraite visant l'équilibre du régime général en 2050.",
+      "excerpt": "Convoquer une conférence travail-retraite visant l’équilibre du régime général en 2050.",
+      "tags": [
+        "conférence sociale",
+        "régime général",
+        "équilibre",
+        "retraite"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 31 « Adopter une autre réforme des retraites », proposition 2 (page 117)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-retraite-06",
+      "theme": "retraite",
+      "title": "Refuser la retraite par capitalisation et la retraite à points",
+      "summary": "Le programme refuse toute évolution vers une retraite par capitalisation, en particulier la retraite à points.",
+      "excerpt": "Refuser toute forme d’évolution vers une retraite par capitalisation en particulier la retraite à points.",
+      "tags": [
+        "capitalisation",
+        "retraite à points",
+        "répartition",
+        "retraite"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 31 « Adopter une autre réforme des retraites », proposition 2 (page 117)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-retraite-07",
+      "theme": "retraite",
+      "title": "Ajouter les risques psychosociaux aux critères de pénibilité",
+      "summary": "Le programme prévoit un nouveau critère de pénibilité reposant sur l'exposition aux risques psychosociaux et à l'épuisement professionnel.",
+      "excerpt": "Introduire un nouveau critère reposant sur l’exposition aux risques psychosociaux et à l’épuisement professionnel.",
+      "tags": [
+        "pénibilité",
+        "risques psychosociaux",
+        "burn-out",
+        "départ anticipé"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 31 « Adopter une autre réforme des retraites », proposition 3 (page 117)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-retraite-08",
+      "theme": "retraite",
+      "title": "Recenser les arrêts de travail répétés après 59 ans pour mesurer la pénibilité",
+      "summary": "Le programme prévoit de recenser les arrêts de travail répétitifs après 59 ans pour mieux mesurer la pénibilité réelle du travail.",
+      "excerpt": "Recenser les arrêts de travail répétitifs après 59 ans pour améliorer le recensement réel de la pénibilité du travail.",
+      "tags": [
+        "pénibilité",
+        "arrêts de travail",
+        "seniors",
+        "retraite"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 31 « Adopter une autre réforme des retraites », proposition 3 (page 117)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-retraite-09",
+      "theme": "retraite",
+      "title": "Porter progressivement le minimum contributif et l'ASPA au seuil de pauvreté",
+      "summary": "Le programme prévoit d'augmenter le minimum contributif et l'allocation spécifique aux personnes âgées (ASPA) pour atteindre progressivement le seuil de pauvreté.",
+      "excerpt": "Augmenter le minimum contributif (Mico) et l’allocation spécifique aux personnes âgées (ASPA) pour atteindre progressivement le seuil de pauvreté.",
+      "tags": [
+        "minimum vieillesse",
+        "aspa",
+        "petites retraites",
+        "pauvreté"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 31 « Adopter une autre réforme des retraites », proposition 4 (page 117)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-retraite-10",
+      "theme": "retraite",
+      "title": "Créer un rendez-vous retraite à 55 ans pour les futures petites pensions",
+      "summary": "Le programme prévoit un rendez-vous retraite et d'accès aux droits à 55 ans pour les assurés dont la pension estimée serait inférieure au seuil de pauvreté.",
+      "excerpt": "Mettre en place à 55 ans un rendez-vous retraite et accès aux droits pour les assuré·es dont les estimations de retraite seraient inférieures au seuil de pauvreté.",
+      "tags": [
+        "petites retraites",
+        "accès aux droits",
+        "pauvreté",
+        "information retraite"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 31 « Adopter une autre réforme des retraites », proposition 4 (page 117)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "tondelier-retraite-11",
+      "theme": "retraite",
+      "title": "Indexer les pensions de façon différenciée selon le coût de la vie",
+      "summary": "Le programme prévoit d'indexer les pensions de manière différenciée pour tenir compte du coût de la vie et des inégalités entre retraités.",
+      "excerpt": "Indexer le montant des pensions de manière juste et différenciée afin de prendre en compte l’évolution du coût de la vie et les inégalités entre retraités.",
+      "tags": [
+        "pensions",
+        "indexation",
+        "inflation",
+        "retraités"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 31 « Adopter une autre réforme des retraites », proposition 4 (page 117)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-retraite-12",
+      "theme": "retraite",
+      "title": "Soumettre l'épargne salariale et les actions gratuites aux cotisations retraite",
+      "summary": "Le programme prévoit d'étendre les cotisations à l'épargne salariale, à l'intéressement, à la participation et aux attributions gratuites d'actions.",
+      "excerpt": "Etendre les cotisations à l’épargne salariale, l’intéressement, la participation et l’attribution gratuite d’actions.",
+      "tags": [
+        "cotisations",
+        "épargne salariale",
+        "intéressement",
+        "financement des retraites"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 31 « Adopter une autre réforme des retraites », proposition 5 (page 117)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-retraite-13",
+      "theme": "retraite",
+      "title": "Augmenter les cotisations vieillesse de 0,2 point par an pendant le quinquennat",
+      "summary": "Le programme prévoit d'augmenter d'un point la cotisation retraite déplafonnée au-dessus du plafond de la Sécurité sociale et les cotisations vieillesse de 0,2 point par an pendant le quinquennat.",
+      "excerpt": "Augmenter d’un point la cotisation retraite déplafonnée pour les salaires supérieurs au plafond de la Sécurité Sociale. Augmenter les cotisations vieillesses de 0,2 point/an pendant le quinquennat.",
+      "tags": [
+        "cotisations",
+        "financement des retraites",
+        "hauts salaires",
+        "branche vieillesse"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 31 « Adopter une autre réforme des retraites », proposition 5 (page 117)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "tondelier-retraite-14",
+      "theme": "retraite",
+      "title": "Imposer des investissements responsables aux fonds de retraite",
+      "summary": "Le programme prévoit d'obliger les fonds de retraite, dont le Fonds de réserve des retraites et les régimes complémentaires, à adopter des investissements responsables en matière climatique et sociale.",
+      "excerpt": "Obliger les fonds de retraites à adopter des investissements responsables en matière climatique et social (green and social bonds) notamment pour le Fonds de Réserves des Retraites, les réserves des régimes complémentaires (Agirc-Arcco, ERAFP) et les assurances privées.",
+      "tags": [
+        "fonds de retraite",
+        "investissement responsable",
+        "climat",
+        "agirc-arrco"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 31 « Adopter une autre réforme des retraites », proposition 6 (page 117)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "tondelier-retraite-15",
+      "theme": "retraite",
+      "title": "Unifier les droits familiaux des caisses de retraite pour améliorer la retraite des femmes",
+      "summary": "Le programme prévoit d'unifier les droits familiaux et conjugaux des caisses de retraite publiques et privées (réversion, majorations) pour améliorer la retraite des femmes.",
+      "excerpt": "Unifier les droits familiaux et conjugaux des différentes caisses de retraites publiques et privées (pensions de réversion, majorations de pensions et de durées d’assurances) pour améliorer la retraite des femmes.",
+      "tags": [
+        "retraite des femmes",
+        "pension de réversion",
+        "droits familiaux",
+        "égalité"
+      ],
+      "source": {
+        "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+        "locator": "Chapitre 31 « Adopter une autre réforme des retraites », proposition 7 (page 117)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    }
+  ]
+}

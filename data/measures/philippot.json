@@ -1,0 +1,929 @@
+{
+  "candidate_id": "philippot",
+  "measures": [
+    {
+      "id": "philippot-pa-01",
+      "theme": "pouvoir d'achat",
+      "title": "Quitter le marché européen de l'électricité pour en diviser le prix par trois",
+      "summary": "Le projet indique qu'en quittant le marché européen de l'électricité, la France pourrait diviser par trois le prix de l'électricité.",
+      "excerpt": "En quittant le marché européen de l’électricité, la France pourra réduire le prix de l’électricité par trois, ce qui renforcera la profitabilité des entreprises.",
+      "tags": [
+        "électricité",
+        "facture",
+        "prix de l'énergie",
+        "marché européen"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Redresser les finances publiques (p. 16)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "philippot-env-01",
+      "theme": "environnement",
+      "title": "Rétablir le monopole public national d'EDF",
+      "summary": "Le projet prévoit le rétablissement du monopole public national d'EDF.",
+      "excerpt": "Rétablir le monopole public national d’EDF.",
+      "tags": [
+        "edf",
+        "électricité",
+        "énergie",
+        "nationalisation"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Énergie (p. 3)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-env-02",
+      "theme": "environnement",
+      "title": "Instaurer un moratoire sur les éoliennes et démanteler celles installées",
+      "summary": "Le projet prévoit un moratoire total et définitif sur l'éolien et un plan de démantèlement des éoliennes installées avec recyclage de leurs matériaux.",
+      "excerpt": "Il faut donc un moratoire total et définitif sur cette méthode de production d’électricité qui nous est là encore imposée par l’Union européenne. Il faut engager un plan de démantèlement des éoliennes installées et de recyclage des matériaux qui en sont issus.",
+      "tags": [
+        "éoliennes",
+        "énergie",
+        "moratoire",
+        "démantèlement"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Énergie (p. 3)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-env-03",
+      "theme": "environnement",
+      "title": "Investir dans le nucléaire de nouvelle génération et l'hydroélectricité",
+      "summary": "Le projet prévoit un plan d'investissement dans le nucléaire de nouvelle génération et les infrastructures hydroélectriques.",
+      "excerpt": "Il faut non seulement préserver cet avantage stratégique, mais aussi le renforcer par un plan d’investissement massif dans le nucléaire de nouvelle génération et les infrastructures hydroélectriques.",
+      "tags": [
+        "nucléaire",
+        "hydroélectricité",
+        "énergie",
+        "investissement"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Écologie et protection animale (p. 10)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-env-04",
+      "theme": "environnement",
+      "title": "Sanctuariser les espaces naturels et replanter les haies bocagères",
+      "summary": "Le projet prévoit de sanctuariser les espaces naturels, de replanter les haies bocagères, de renforcer les réserves écologiques et d'interdire les pratiques destructrices, avec un pilotage territorial.",
+      "excerpt": "Il est temps de sanctuariser les espaces naturels, de replanter les haies bocagères, de renforcer les réserves écologiques et d’interdire les pratiques destructrices. Ce plan doit être piloté au plus près des territoires, en lien avec les citoyens, les naturalistes et les agriculteurs.",
+      "tags": [
+        "biodiversité",
+        "haies",
+        "espaces naturels",
+        "réserves"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Écologie et protection animale (p. 10)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-env-05",
+      "theme": "environnement",
+      "title": "Promouvoir les circuits courts et le protectionnisme",
+      "summary": "Le projet prévoit de promouvoir les circuits courts et le protectionnisme comme levier de préservation de l'environnement.",
+      "excerpt": "Promouvoir les circuits courts et le protectionnisme pour une écologie concrète. Préserver l’environnement passe d’abord par le raccourcissement des circuits économiques, à rebours du modèle libre-échangiste mondialisé.",
+      "tags": [
+        "circuits courts",
+        "protectionnisme",
+        "commerce",
+        "écologie"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Écologie et protection animale (p. 10)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-env-06",
+      "theme": "environnement",
+      "title": "Soutenir les refuges pour animaux et refuser certaines expérimentations animales",
+      "summary": "Le projet prévoit de soutenir les structures d'accueil des animaux et de refuser les expérimentations médicales sur les animaux lorsqu'il existe des solutions de remplacement.",
+      "excerpt": "Développer le soutien aux structures d’accueil des animaux et refuser les expérimentations « médicales » sur les animaux quand il y a des solutions de remplacement.",
+      "tags": [
+        "animaux",
+        "refuges",
+        "expérimentation animale",
+        "protection animale"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Écologie et protection animale (p. 10)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-transport-01",
+      "theme": "transport",
+      "title": "Préserver la voiture thermique au-delà de 2035",
+      "summary": "Le projet prévoit de préserver la voiture thermique au-delà de 2035, date à laquelle l'Europe a décidé d'interdire la vente des voitures thermiques neuves.",
+      "excerpt": "Préserver la voiture thermique au-delà de 2035. Actuellement, l’Europe a décidé d’interdire la vente des voitures thermiques neuves à l’horizon 2035.",
+      "tags": [
+        "voiture thermique",
+        "automobile",
+        "2035",
+        "union européenne"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Énergie (p. 3)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-transport-02",
+      "theme": "transport",
+      "title": "Rétablir les monopoles publics dans le rail et l'énergie",
+      "summary": "Le projet prévoit de rétablir les monopoles publics dans le rail et l'énergie.",
+      "excerpt": "Rétablir les monopoles publics dans le rail et l’énergie. L’Union européenne, dont la vision ultra-libérale de l’économie est inscrite dans les Traités, ne reconnait pas le principe des services publics à la française.",
+      "tags": [
+        "rail",
+        "sncf",
+        "service public",
+        "monopole"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Modèle social et services publics (p. 6)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-sante-01",
+      "theme": "santé",
+      "title": "Supprimer les agences régionales de santé",
+      "summary": "Le projet prévoit de supprimer les agences régionales de santé (ARS).",
+      "excerpt": "Il faut supprimer les ARS (Agences régionales de santé).",
+      "tags": [
+        "ars",
+        "hôpital",
+        "bureaucratie",
+        "santé"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Santé (p. 8)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-sante-02",
+      "theme": "santé",
+      "title": "Créer des centres de santé locaux pour désengorger l'hôpital",
+      "summary": "Le projet prévoit d'investir dans les soins de proximité en créant des centres de santé locaux équipés pour les soins courants et les urgences non vitales.",
+      "excerpt": "Investir massivement dans les soins de proximité pour désengorger l’hôpital. Il est urgent de renforcer le maillage territorial en créant des centres de santé locaux dotés d’équipements modernes, capables de gérer les soins courants et les urgences non vitales.",
+      "tags": [
+        "centres de santé",
+        "soins de proximité",
+        "urgences",
+        "hôpital"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Santé (p. 8)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-sante-03",
+      "theme": "santé",
+      "title": "Recentrer l'hôpital sur les pathologies lourdes et redéployer les effectifs vers les soignants",
+      "summary": "Le projet prévoit de recentrer l'hôpital sur les pathologies lourdes, d'orienter les soins simples vers la médecine de ville et de redéployer les effectifs vers les postes soignants avec un ratio personnel/patients adapté.",
+      "excerpt": "L’hôpital doit se recentrer sur les pathologies lourdes et les actes complexes, tandis que les soins plus simples doivent être orientés vers la médecine de ville. Les effectifs hospitaliers doivent être redéployés en priorité vers les postes soignants, avec un ratio personnel/patients adapté aux besoins réels des services.",
+      "tags": [
+        "hôpital",
+        "médecine de ville",
+        "soignants",
+        "effectifs"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Santé (p. 8)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-sante-04",
+      "theme": "santé",
+      "title": "Garantir la liberté vaccinale des citoyens et des soignants",
+      "summary": "Le projet prévoit qu'aucune pression ne pèse sur les personnes refusant un traitement médical, y compris un vaccin, et qu'aucun soignant ne perde son emploi pour ce motif.",
+      "excerpt": "Assurer une liberté vaccinale pour tous les citoyens et les soignants. Aucune pression, discrimination ou menace ne doit peser sur ceux qui refusent un traitement médical, y compris un vaccin. Aucun soignant ne doit perdre son emploi pour avoir exercé ce droit élémentaire.",
+      "tags": [
+        "vaccination",
+        "soignants",
+        "liberté vaccinale",
+        "obligation vaccinale"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Santé (p. 8)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-sante-05",
+      "theme": "santé",
+      "title": "Sortir de l'OMS et dénoncer le traité mondial sur les pandémies",
+      "summary": "Le projet prévoit la sortie de la France de l'OMS et la dénonciation du traité mondial sur les pandémies.",
+      "excerpt": "Sortir de l’OMS et dénoncer le Traité mondial sur les pandémies.",
+      "tags": [
+        "oms",
+        "pandémie",
+        "traité",
+        "souveraineté"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Santé (p. 8)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-sante-06",
+      "theme": "santé",
+      "title": "Supprimer le Conseil de l'Ordre des médecins",
+      "summary": "Le projet prévoit de supprimer le Conseil de l'Ordre.",
+      "excerpt": "Il faut supprimer le Conseil de l’Ordre, aujourd’hui discrédité.",
+      "tags": [
+        "ordre des médecins",
+        "soignants",
+        "médecins",
+        "déontologie"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Santé (p. 8)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-sante-07",
+      "theme": "santé",
+      "title": "Renforcer l'offre de soins en santé mentale pour les personnes handicapées",
+      "summary": "Le projet prévoit de renforcer l'offre de soins en santé mentale, avec dépistage précoce, prise en charge continue et accompagnement adapté à chaque âge, notamment pour les troubles du spectre autistique.",
+      "excerpt": "Il est urgent de renforcer l’offre de soins en santé mentale, avec un dépistage précoce, une prise en charge continue, et un accompagnement adapté à chaque âge, notamment face à la progression inquiétante des troubles du spectre autistique.",
+      "tags": [
+        "santé mentale",
+        "handicap",
+        "autisme",
+        "dépistage"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Handicap (p. 9)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-sante-08",
+      "theme": "santé",
+      "title": "Créer en maison de retraite des unités pour personnes handicapées vieillissantes dès 55 ans",
+      "summary": "Le projet prévoit de créer, au sein des maisons de retraite, des unités spécifiques accessibles dès 55 ans pour les personnes handicapées vieillissantes.",
+      "excerpt": "Il faut créer des unités spécifiques au sein des maisons de retraite, accessibles dès 55 ans, pour assurer un accompagnement digne, médicalisé et adapté à leurs besoins spécifiques.",
+      "tags": [
+        "handicap",
+        "maison de retraite",
+        "ehpad",
+        "vieillissement"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Handicap (p. 9)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "philippot-famille-01",
+      "theme": "famille",
+      "title": "Accompagner vers l'autonomie chaque jeune sortant de l'ASE",
+      "summary": "Le projet prévoit que chaque jeune sortant de l'aide sociale à l'enfance dispose d'un accompagnement vers l'autonomie comprenant logement, suivi éducatif et sanitaire et parcours de formation ou d'insertion.",
+      "excerpt": "Chaque jeune sortant de l’ASE doit disposer d’un accompagnement vers l’autonomie comprenant une solution de logement, un suivi éducatif et sanitaire ainsi qu’un parcours de formation ou d’insertion professionnelle.",
+      "tags": [
+        "ase",
+        "aide sociale à l'enfance",
+        "jeunes majeurs",
+        "protection de l'enfance"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Protection de l'enfance (p. 7)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-famille-02",
+      "theme": "famille",
+      "title": "Confier la protection de l'enfance à l'État et renforcer les contrôles",
+      "summary": "Le projet prévoit que l'État reprenne la responsabilité de la protection de l'enfance, renforce le contrôle des établissements et familles d'accueil par des inspections régulières et inopinées et assure un suivi individuel de chaque enfant.",
+      "excerpt": "L’État doit donc reprendre toute sa responsabilité dans la politique de la protection de l’enfance. Il faut renforcer le contrôle des établissements et familles d’accueil, engager des inspections régulières et inopinées, et assurer un véritable suivi individuel de chaque enfant.",
+      "tags": [
+        "ase",
+        "protection de l'enfance",
+        "familles d'accueil",
+        "départements"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Protection de l'enfance (p. 7)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-famille-03",
+      "theme": "famille",
+      "title": "Créer des places de crèche adaptées aux enfants handicapés",
+      "summary": "Le projet prévoit de créer davantage de places en crèches aménagées pour les tout-petits handicapés, avec du personnel formé et des équipements adaptés.",
+      "excerpt": "Il faut créer davantage de places en crèches spécifiquement aménagées pour accueillir les tout-petits atteints de handicaps physiques, sensoriels ou cognitifs, avec du personnel formé et des équipements adaptés.",
+      "tags": [
+        "crèche",
+        "handicap",
+        "petite enfance",
+        "garde d'enfants"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Handicap (p. 9)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-emploi-01",
+      "theme": "emploi",
+      "title": "Soutenir les artisans et les TPE/PME par la fiscalité et la simplification",
+      "summary": "Le projet prévoit de soutenir artisans et TPE/PME par une politique sociale et fiscale avantageuse, des incitations au maintien et au retour en France et une simplification des procédures administratives.",
+      "excerpt": "Soutenir les créateurs en France : artisans, TPE/PME, par une politique sociale et fiscale très avantageuse, par des outils d’incitation au maintien et au retour en France, par une simplification drastique et réelle des procédures administratives.",
+      "tags": [
+        "artisans",
+        "tpe",
+        "pme",
+        "simplification"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Industrie, commerce et emploi (p. 4)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-emploi-02",
+      "theme": "emploi",
+      "title": "Rétablir des prix planchers pour le revenu des agriculteurs",
+      "summary": "Le projet prévoit de rétablir des prix planchers pour assurer un revenu décent aux agriculteurs.",
+      "excerpt": "Rétablir les prix planchers pour assurer un revenu décent pour nos agriculteurs.",
+      "tags": [
+        "agriculteurs",
+        "prix planchers",
+        "revenu agricole",
+        "agriculture"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Agriculture (p. 5)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-emploi-03",
+      "theme": "emploi",
+      "title": "Mettre fin à l'immigration de travail et au détachement de travailleurs",
+      "summary": "Le projet prévoit de mettre fin à l'immigration de travail et à la directive européenne sur les travailleurs détachés.",
+      "excerpt": "Mettre fin à l’immigration de travail et à la directive européenne des travailleurs détachés.",
+      "tags": [
+        "travailleurs détachés",
+        "immigration",
+        "emploi",
+        "salaires"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Immigration (p. 18)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-etudes-01",
+      "theme": "études",
+      "title": "Consacrer la moitié du temps scolaire en primaire au français",
+      "summary": "Le projet prévoit que la moitié du temps scolaire en primaire soit consacrée à la maîtrise du français.",
+      "excerpt": "La moitié du temps scolaire en primaire doit être consacrée à la maîtrise du français.",
+      "tags": [
+        "école primaire",
+        "français",
+        "lecture",
+        "savoirs fondamentaux"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "École (p. 12)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "philippot-etudes-02",
+      "theme": "études",
+      "title": "Mettre fin au collège unique avec des parcours différenciés dès 14 ans",
+      "summary": "Le projet prévoit de rompre avec le collège unique pour proposer dès 14 ans des parcours différenciés, y compris vers l'apprentissage, et de revaloriser la voie professionnelle.",
+      "excerpt": "Il faut rompre avec le dogme du collège unique, qui nivelle par le bas, pour proposer dès 14 ans des parcours différenciés, y compris vers l’apprentissage. La voie professionnelle doit être revalorisée, qualifiante et connectée aux besoins économiques réels du pays.",
+      "tags": [
+        "collège unique",
+        "voie professionnelle",
+        "apprentissage",
+        "orientation"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "École (p. 12)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "philippot-etudes-03",
+      "theme": "études",
+      "title": "Recentrer la formation des enseignants et revaloriser leur carrière",
+      "summary": "Le projet prévoit de recentrer la formation des enseignants sur les savoirs disciplinaires, de reconnaître leur autorité et de revaloriser leur carrière, notamment sur le plan salarial.",
+      "excerpt": "Leur formation doit être recentrée sur la maîtrise des savoirs disciplinaires, leur autorité pleinement reconnue et leur carrière revalorisée, notamment sur le plan salarial.",
+      "tags": [
+        "enseignants",
+        "salaire",
+        "formation",
+        "autorité"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "École (p. 12)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-etudes-04",
+      "theme": "études",
+      "title": "Mettre en place une éducation civique à tous les niveaux du secondaire",
+      "summary": "Le projet prévoit une éducation civique exigeante à tous les niveaux du secondaire.",
+      "excerpt": "Une éducation civique exigeante doit être mise en place à tous les niveaux du secondaire.",
+      "tags": [
+        "éducation civique",
+        "collège",
+        "lycée",
+        "laïcité"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "École (p. 12)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-etudes-05",
+      "theme": "études",
+      "title": "Revenir sur les restrictions à l'instruction en famille",
+      "summary": "Le projet prévoit de revenir sur les restrictions instaurées contre la possibilité de faire l'école à la maison.",
+      "excerpt": "Revenir sur les restrictions instaurées par Emmanuel Macron contre la possibilité de « faire l’école à la maison ».",
+      "tags": [
+        "instruction en famille",
+        "école à la maison",
+        "parents",
+        "liberté"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "École (p. 12)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-etudes-06",
+      "theme": "études",
+      "title": "Faire de l'école un lieu sans intelligence artificielle",
+      "summary": "Le projet prévoit que l'école demeure un lieu sans intelligence artificielle afin de protéger les capacités cognitives des enfants.",
+      "excerpt": "L’École devra demeurer un sanctuaire sans IA afin de protéger les capacités cognitives des enfants et leur aptitude à apprendre.",
+      "tags": [
+        "intelligence artificielle",
+        "école",
+        "numérique",
+        "enfants"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Souveraineté numérique (p. 11)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-pa-02",
+      "theme": "pouvoir d'achat",
+      "title": "Baisser le tarif de l'électricité par le retour à des règles nationales",
+      "summary": "Le projet indique que le retour à des règles nationales pour l'électricité ferait baisser immédiatement le tarif des particuliers et des entreprises.",
+      "excerpt": "Revenir à des règles nationales permettrait de faire baisser immédiatement le tarif des particuliers et des entreprises.",
+      "tags": [
+        "électricité",
+        "facture",
+        "tarif",
+        "marché européen"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Énergie (p. 3)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-pa-03",
+      "theme": "pouvoir d'achat",
+      "title": "Lutter contre la vie chère en outre-mer par l'encadrement des prix",
+      "summary": "Le projet prévoit, en outre-mer, des circuits courts, la production locale, le soutien au fret maritime, un encadrement plus strict des prix des produits de première nécessité, la lutte contre les monopoles et une révision de la fiscalité.",
+      "excerpt": "Il faut agir sur tous les leviers : création de circuits courts, développement de la production locale, soutien au fret maritime, encadrement plus strict des prix des produits de première nécessité, et lutte contre les monopoles. La fiscalité spécifique doit être revue pour alléger les charges des ménages et des entreprises locales.",
+      "tags": [
+        "outre-mer",
+        "vie chère",
+        "prix",
+        "fiscalité"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Outre-mer (p. 20)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-pa-04",
+      "theme": "pouvoir d'achat",
+      "title": "Alléger la fiscalité des classes moyennes, des indépendants et des petits héritages",
+      "summary": "Le projet énonce comme principes fiscaux le soulagement des classes moyennes, l'allègement des impôts des indépendants et petites entreprises, la lutte contre l'optimisation des grands groupes et une moindre taxation des petits héritages.",
+      "excerpt": "Les grands principes fiscaux d’un projet patriote sont : le rétablissement de la justice fiscale pour soulager les classes moyennes, l’allègement des taxes et impôts pour les indépendants et les petites entreprises, la lutte contre l’optimisation fiscale des grands groupes, une moindre taxation des petits héritages, un système fiscal favorable à la production nationale et qui taxe la concurrence internationale déloyale d’où qu’elle vienne.",
+      "tags": [
+        "impôts",
+        "classes moyennes",
+        "héritage",
+        "indépendants"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Redresser les finances publiques (p. 15)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-sante-09",
+      "theme": "santé",
+      "title": "Supprimer les réformes réduisant indemnités chômage, lits d'hôpital et remboursements",
+      "summary": "Hors de l'UE, les réformes récentes visant à réduire les indemnités chômage, à fermer des lits à l'hôpital ou à arrêter le remboursement de médicaments pourraient être supprimées.",
+      "excerpt": "Hors de l’UE, la France sera libre de rétablir et de préserver les grandes politiques de son « État-providence », qui ont toujours fait la spécificité du modèle français. Les réformes récentes, exigées par la Commission européenne, visant à raboter les indemnités chômage, à fermer des lits à l’hôpital ou à arrêter le remboursement des médicaments pourront être supprimées.",
+      "tags": [
+        "hôpital",
+        "médicaments",
+        "remboursement",
+        "chômage"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Modèle social et services publics (p. 6)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-sante-10",
+      "theme": "santé",
+      "title": "Protéger le secret médical et la confidentialité des données de santé",
+      "summary": "Le projet prévoit de protéger strictement le secret médical et la confidentialité des données de santé.",
+      "excerpt": "Protéger strictement le secret médical et la confidentialité des données de santé.",
+      "tags": [
+        "secret médical",
+        "données de santé",
+        "confidentialité",
+        "patient"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Santé (p. 8)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-sante-11",
+      "theme": "santé",
+      "title": "Simplifier la gestion hospitalière et supprimer les obligations inutiles",
+      "summary": "Le projet prévoit de simplifier la gestion hospitalière, de supprimer les obligations inutiles et de rétablir un climat de confiance fondé sur la compétence et l'autonomie médicale.",
+      "excerpt": "Il est impératif de simplifier la gestion hospitalière, de supprimer les obligations inutiles, et de rétablir un climat de confiance fondé sur la compétence et l’autonomie médicale.",
+      "tags": [
+        "hôpital",
+        "bureaucratie",
+        "soignants",
+        "simplification"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Santé (p. 8)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-sante-12",
+      "theme": "santé",
+      "title": "Soutenir des essais cliniques sur la réaffectation d'anciennes molécules",
+      "summary": "L'État aiderait à mettre en œuvre des essais cliniques testant la réaffectation d'anciennes molécules.",
+      "excerpt": "L’Etat doit aider à mettre en œuvre des essais cliniques testant la réaffectation des anciennes molécules.",
+      "tags": [
+        "médicaments",
+        "essais cliniques",
+        "recherche",
+        "molécules"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Santé (p. 8)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-sante-13",
+      "theme": "santé",
+      "title": "Cesser de diaboliser les thérapies non conventionnelles",
+      "summary": "Le projet prévoit de cesser de diaboliser par principe les thérapies dites non conventionnelles et ceux qui les pratiquent.",
+      "excerpt": "Cesser de diaboliser par principe les thérapies dites non conventionnelles et ceux qui les pratiquent.",
+      "tags": [
+        "thérapies",
+        "médecines alternatives",
+        "soins",
+        "praticiens"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Santé (p. 8)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-sante-14",
+      "theme": "santé",
+      "title": "Refuser toute incitation à l'euthanasie des personnes handicapées",
+      "summary": "Le projet refuse toute politique d'incitation à l'euthanasie, assumée ou déguisée, des personnes en situation de handicap.",
+      "excerpt": "Refuser toute politique d’incitation à l’euthanasie, assumée ou déguisée, des personnes en situation de handicap. Promouvoir le soin et la vie.",
+      "tags": [
+        "euthanasie",
+        "handicap",
+        "fin de vie",
+        "soin"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Handicap (p. 9)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-famille-04",
+      "theme": "famille",
+      "title": "Renforcer le contrôle du placement des enfants handicapés",
+      "summary": "Les placements d'enfants handicapés par la Protection de l'enfance devraient faire l'objet d'un suivi rigoureux et d'une évaluation continue de leur impact social, éducatif et affectif.",
+      "excerpt": "Renforcer le contrôle du placement des enfants handicapés. La Protection de l’enfance place parfois en institutions ou en familles d’accueil des enfants handicapés issus de milieux familiaux fragiles. Ces décisions doivent faire l’objet d’un suivi rigoureux, fondé sur l’intérêt supérieur de l’enfant, avec une évaluation continue de l’impact social, éducatif et affectif du placement.",
+      "tags": [
+        "enfant handicapé",
+        "placement",
+        "protection de l'enfance",
+        "famille d'accueil"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Handicap (p. 9)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-famille-05",
+      "theme": "famille",
+      "title": "Envisager la suspension des aides et du logement social pour les parents de mineurs récidivistes",
+      "summary": "La suspension des aides, la révision du droit au logement social et, dans les cas les plus graves, l'expulsion de la famille du territoire devraient pouvoir être envisagées comme leviers de dissuasion.",
+      "excerpt": "La suspension des aides et la révision du droit au logement social voire, dans les cas les plus graves, l’expulsion de l’ensemble de la famille du territoire doivent pouvoir être envisagés comme des leviers de dissuasion.",
+      "tags": [
+        "prestations sociales",
+        "logement social",
+        "délinquance des mineurs",
+        "parents"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Sécurité, justice (p. 19)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-env-07",
+      "theme": "environnement",
+      "title": "Empêcher la privatisation des barrages hydroélectriques",
+      "summary": "Le projet prévoit d'empêcher la privatisation de fait des barrages électriques.",
+      "excerpt": "Empêcher la privatisation de fait de nos barrages électriques.",
+      "tags": [
+        "barrages",
+        "hydroélectricité",
+        "EDF",
+        "énergie"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Énergie (p. 3)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippot-env-08",
+      "theme": "environnement",
+      "title": "Développer la permaculture et l'agriculture biologique locale",
+      "summary": "Le projet prévoit de développer la permaculture et l'agriculture biologique à l'échelle locale.",
+      "excerpt": "Développer la permaculture et l’agriculture biologique à l’échelle locale.",
+      "tags": [
+        "agriculture biologique",
+        "permaculture",
+        "agriculture",
+        "local"
+      ],
+      "source": {
+        "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "locator": "Écologie et protection animale (p. 10)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    }
+  ]
+}

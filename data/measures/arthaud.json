@@ -1,0 +1,138 @@
+{
+  "candidate_id": "arthaud",
+  "measures": [
+    {
+      "id": "arthaud-pa-01",
+      "theme": "pouvoir d'achat",
+      "title": "Porter le SMIC à 2 200 euros et indexer salaires et pensions sur l'inflation",
+      "summary": "Le dépliant de campagne demande l'augmentation des salaires, des retraites et des pensions, un SMIC à 2 200 euros et leur indexation sur l'inflation.",
+      "excerpt": "Exigeons L’AUGMENTATION des salaires, des retraites et des pensions, le SMIC à 2 200 € et leur INDEXATION sur l’inflation.",
+      "tags": [
+        "smic",
+        "salaire",
+        "inflation",
+        "pension",
+        "indexation"
+      ],
+      "source": {
+        "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/11/Depliant-NA-3nov.pdf",
+        "locator": "Dépliant de campagne (3 novembre 2026), rubrique « Contre les bas salaires et le chômage, prenons sur les profits ! »"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "arthaud-pa-02",
+      "theme": "pouvoir d'achat",
+      "title": "Augmenter de 400 ou 500 euros les salaires du privé et du public",
+      "summary": "L'éditorial de la candidate demande une augmentation de 400 ou 500 euros pour tous les travailleurs, du privé comme du public.",
+      "excerpt": "Les travailleurs ne font pas la manche : il faut une vraie augmentation pour tous les travailleurs, du privé comme du public, de 400 ou 500 euros.",
+      "tags": [
+        "salaire",
+        "augmentation",
+        "fonctionnaire",
+        "privé"
+      ],
+      "source": {
+        "url": "https://www.lutte-ouvriere.org/portail/editoriaux/pouvoir-dachat-faut-augmenter-salaires-209689.html",
+        "locator": "Éditorial « Pouvoir d’achat : il faut augmenter tous les salaires ! » (9 novembre 2026)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "arthaud-emploi-01",
+      "theme": "emploi",
+      "title": "Répartir le travail entre tous sans baisse de salaire ni licenciement",
+      "summary": "La candidate propose de répartir le travail entre tous sans diminution de salaire, en réduisant les horaires plutôt qu'en licenciant lorsque le travail diminue.",
+      "excerpt": "Alors, nous disons qu’il faut répartir le travail entre tous, sans diminution de salaire. S’il y a moins de travail dans une entreprise, si l’IA fait une partie de ce que l’on faisait, eh bien, on réduit les horaires de tous, mais on ne licencie personne et on maintient les salaires.",
+      "tags": [
+        "chômage",
+        "licenciement",
+        "temps de travail",
+        "salaire"
+      ],
+      "source": {
+        "url": "https://www.lutte-ouvriere.org/portail/brochures/meeting-26-septembre-2026-discours-nathalie-arthaud-197446.html",
+        "locator": "Discours du meeting du 26 septembre 2026 à Paris"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "arthaud-emploi-02",
+      "theme": "emploi",
+      "title": "Répartir le travail entre tous sans perte de salaire",
+      "summary": "Le dépliant de campagne demande, contre le chômage et la précarité, la répartition du travail entre tous sans perte de salaire.",
+      "excerpt": "Contre le chômage et la précarité, RÉPARTITION DU TRAVAIL ENTRE TOUS, sans perte de salaire !",
+      "tags": [
+        "chômage",
+        "temps de travail",
+        "précarité",
+        "salaire"
+      ],
+      "source": {
+        "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/11/Depliant-NA-3nov.pdf",
+        "locator": "Dépliant de campagne (3 novembre 2026), rubrique « Contre les bas salaires et le chômage, prenons sur les profits ! »"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "arthaud-pa-03",
+      "theme": "pouvoir d'achat",
+      "title": "Rendre publiques les comptabilités des entreprises et des fortunes privées",
+      "summary": "Le dépliant de campagne demande que les travailleurs contrôlent l'économie en rendant publiques les comptabilités des entreprises et des fortunes privées.",
+      "excerpt": "Les travailleurs doivent CONTRÔLER L’ÉCONOMIE en rendant publiques les comptabilités des entreprises et des fortunes privées.",
+      "tags": [
+        "comptabilité",
+        "entreprises",
+        "transparence",
+        "fortunes"
+      ],
+      "source": {
+        "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/11/Depliant-NA-3nov.pdf",
+        "locator": "Dépliant de campagne (3 novembre 2026), rubrique « Contre les bas salaires et le chômage, prenons sur les profits ! »"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "arthaud-pa-04",
+      "theme": "pouvoir d'achat",
+      "title": "Supprimer le secret commercial et bancaire",
+      "summary": "Le dépliant de campagne demande la suppression du secret commercial et bancaire afin de connaître les impôts payés et les dividendes versés par les grandes entreprises et les banques.",
+      "excerpt": "Si on avait accès aux comptes des grandes entreprises et des banques, on verrait combien d’impôts elles payent, à qui elles versent leurs dividendes, où va l’argent. Il faut supprimer le secret commercial et bancaire !",
+      "tags": [
+        "secret bancaire",
+        "secret commercial",
+        "dividendes",
+        "impôts"
+      ],
+      "source": {
+        "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/11/Depliant-NA-3nov.pdf",
+        "locator": "Dépliant de campagne (3 novembre 2026), rubrique « Contre les bas salaires et le chômage, prenons sur les profits ! »"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "candidate_id": "egger",
+  "measures": [
+    {
+      "id": "egger-sante-01",
+      "theme": "santé",
+      "title": "Soumettre à référendum les décisions de santé les plus importantes",
+      "summary": "Le programme prévoit que les décisions de santé les plus importantes, notamment l'investissement sur les systèmes de santé, soient soumises à référendum, dans le respect des droits fondamentaux et des engagements de la France.",
+      "excerpt": "Les décisions les plus importantes, notamment l’investissement sur les systèmes de santé, seront soumises à référendum, dans le respect des droits fondamentaux et des engagements de la France.",
+      "tags": [
+        "santé",
+        "référendum",
+        "hôpital",
+        "système de santé"
+      ],
+      "source": {
+        "url": "https://solutiondemocratique.fr/wp-content/uploads/2026/11/Programme-de-Solution-Democratique-a-lelection-presidentielle-2027.pdf",
+        "locator": "13. Santé, D (p. 25-26)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "egger-sante-02",
+      "theme": "santé",
+      "title": "Faire anticiper les crises sanitaires par le gouvernement",
+      "summary": "Le président veillerait à ce que le gouvernement anticipe les risques sanitaires, entretienne les capacités de réponse du système de santé et prépare la population aux situations d'urgence.",
+      "excerpt": "La préparation aux crises sanitaires constitue une responsabilité essentielle de l’État. Le président veillera à ce que le gouvernement anticipe les risques, entretienne les capacités de réponse du système de santé et prépare la population aux situations d’urgence.",
+      "tags": [
+        "crise sanitaire",
+        "épidémie",
+        "hôpital",
+        "prévention"
+      ],
+      "source": {
+        "url": "https://solutiondemocratique.fr/wp-content/uploads/2026/11/Programme-de-Solution-Democratique-a-lelection-presidentielle-2027.pdf",
+        "locator": "13. Santé, E (p. 26)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "egger-sante-03",
+      "theme": "santé",
+      "title": "Soumettre les mesures sanitaires d'urgence au contrôle des institutions et des citoyens",
+      "summary": "Les mesures prises en cas de crise sanitaire devraient être proportionnées aux risques, régulièrement réévaluées et soumises au contrôle des institutions et des citoyens.",
+      "excerpt": "Les mesures prises devront être proportionnées aux risques, régulièrement réévaluées et soumises au contrôle des institutions et des citoyens, afin que la protection de la santé publique ne devienne pas un prétexte à la concentration durable des pouvoirs.",
+      "tags": [
+        "crise sanitaire",
+        "libertés",
+        "contrôle",
+        "état d'urgence"
+      ],
+      "source": {
+        "url": "https://solutiondemocratique.fr/wp-content/uploads/2026/11/Programme-de-Solution-Democratique-a-lelection-presidentielle-2027.pdf",
+        "locator": "13. Santé, E (p. 26)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "egger-etudes-01",
+      "theme": "études",
+      "title": "Consulter les élus locaux sur la répartition des responsabilités éducatives",
+      "summary": "L'éducation serait l'un des thèmes prioritaires de la consultation des élus locaux, pour répartir entre les territoires les responsabilités en matière de qualité de l'enseignement.",
+      "excerpt": "Plusieurs aspects de l’éducation étant décentralisés, elle sera l’un des thèmes prioritaires de la consultation des élus locaux, afin que les responsabilités en matière de qualité de l’enseignement soient réparties entre les territoires de la manière la plus efficace et la plus juste.",
+      "tags": [
+        "école",
+        "éducation",
+        "élus locaux",
+        "décentralisation"
+      ],
+      "source": {
+        "url": "https://solutiondemocratique.fr/wp-content/uploads/2026/11/Programme-de-Solution-Democratique-a-lelection-presidentielle-2027.pdf",
+        "locator": "10. Éducation, D (p. 22)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "egger-retraite-01",
+      "theme": "retraite",
+      "title": "Soumettre à référendum les principales réformes des retraites",
+      "summary": "Le programme estime que le système de retraite doit être revu pour devenir durable ; le président veillerait à ce que les principales réformes soient expliquées et soumises à référendum.",
+      "excerpt": "Notre système de retraite doit être revu pour devenir durable, et les conflits récents montrent qu’aucune réforme ne tiendra sans l’adhésion des citoyens. Le président veillera donc à ce que les principales réformes soient systématiquement expliquées et soumises à référendum.",
+      "tags": [
+        "retraite",
+        "référendum",
+        "réforme des retraites",
+        "système de retraite"
+      ],
+      "source": {
+        "url": "https://solutiondemocratique.fr/wp-content/uploads/2026/11/Programme-de-Solution-Democratique-a-lelection-presidentielle-2027.pdf",
+        "locator": "6. Retraites, A (p. 18)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "egger-retraite-02",
+      "theme": "retraite",
+      "title": "Lancer des études et consultations sur l'avenir démographique",
+      "summary": "Le président lancerait une série d'études puis de consultations sur l'avenir démographique de la France, afin de dégager des orientations face au vieillissement de la population et à la faible natalité.",
+      "excerpt": "Le président lancera par ailleurs une série d’études, puis de consultations, sur l’avenir démographique de la France, afin de dégager de grandes orientations face au vieillissement de la population et à la faible natalité.",
+      "tags": [
+        "démographie",
+        "vieillissement",
+        "natalité",
+        "consultation"
+      ],
+      "source": {
+        "url": "https://solutiondemocratique.fr/wp-content/uploads/2026/11/Programme-de-Solution-Democratique-a-lelection-presidentielle-2027.pdf",
+        "locator": "6. Retraites, C (p. 18)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "egger-env-01",
+      "theme": "environnement",
+      "title": "Dresser un bilan des politiques de protection de l'environnement",
+      "summary": "Le président mobiliserait ses équipes et ses partenaires internationaux pour évaluer l'efficacité des politiques environnementales, identifier qui en supporte les coûts et analyser leur compatibilité avec la croissance économique.",
+      "excerpt": "Le président mobilisera ses équipes et ses partenaires internationaux pour dresser un bilan des politiques de protection de l’environnement : en déterminer l’efficacité, identifier qui en supporte les coûts et analyser leur compatibilité avec la croissance économique.",
+      "tags": [
+        "écologie",
+        "bilan",
+        "évaluation",
+        "climat"
+      ],
+      "source": {
+        "url": "https://solutiondemocratique.fr/wp-content/uploads/2026/11/Programme-de-Solution-Democratique-a-lelection-presidentielle-2027.pdf",
+        "locator": "7. Écologie, B (p. 19)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "egger-env-02",
+      "theme": "environnement",
+      "title": "Demander à des spécialistes français des voies de développement durable",
+      "summary": "Le président demanderait à des spécialistes français de proposer plusieurs voies de développement durable, y compris en l'absence d'accords internationaux.",
+      "excerpt": "Parallèlement, il demandera à des spécialistes français de proposer plusieurs voies de développement durable, y compris en l’absence d’accords internationaux.",
+      "tags": [
+        "développement durable",
+        "experts",
+        "écologie",
+        "climat"
+      ],
+      "source": {
+        "url": "https://solutiondemocratique.fr/wp-content/uploads/2026/11/Programme-de-Solution-Democratique-a-lelection-presidentielle-2027.pdf",
+        "locator": "7. Écologie, C (p. 19)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "egger-env-03",
+      "theme": "environnement",
+      "title": "Soumettre à référendum les principales politiques environnementales",
+      "summary": "Les principales politiques environnementales du gouvernement et du Parlement, ainsi que les traités dans ce domaine, seraient systématiquement soumises à référendum.",
+      "excerpt": "Les principales politiques environnementales du gouvernement et du Parlement, comme les traités dans ce domaine, seront systématiquement soumises à référendum.",
+      "tags": [
+        "écologie",
+        "référendum",
+        "traités",
+        "environnement"
+      ],
+      "source": {
+        "url": "https://solutiondemocratique.fr/wp-content/uploads/2026/11/Programme-de-Solution-Democratique-a-lelection-presidentielle-2027.pdf",
+        "locator": "7. Écologie, D (p. 19)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "egger-env-04",
+      "theme": "environnement",
+      "title": "Confier à une commission d'experts l'étude des stratégies énergétiques",
+      "summary": "Une fois la place du nucléaire clarifiée, le président chargerait une commission d'experts d'étudier plusieurs stratégies d'approvisionnement énergétique pour les cinquante ans à venir.",
+      "excerpt": "Une fois la place du nucléaire clarifiée, le président chargera une commission d’experts d’étudier les avantages et les inconvénients de plusieurs stratégies d’approvisionnement énergétique pour les cinquante ans à venir.",
+      "tags": [
+        "énergie",
+        "nucléaire",
+        "commission d'experts",
+        "approvisionnement"
+      ],
+      "source": {
+        "url": "https://solutiondemocratique.fr/wp-content/uploads/2026/11/Programme-de-Solution-Democratique-a-lelection-presidentielle-2027.pdf",
+        "locator": "8. Énergie, C (p. 20)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "egger-env-05",
+      "theme": "environnement",
+      "title": "Soumettre à référendum les grandes décisions énergétiques",
+      "summary": "Les grandes décisions énergétiques seraient soumises à référendum par le président, tant que les citoyens ne se sont pas dotés d'institutions pour le faire eux-mêmes.",
+      "excerpt": "Comme toute décision du Parlement qui engage durablement le pays, les grandes décisions énergétiques seront soumises à référendum par le président, tant que les citoyens ne se sont pas dotés d’institutions pour le faire eux-mêmes.",
+      "tags": [
+        "énergie",
+        "référendum",
+        "nucléaire",
+        "décision"
+      ],
+      "source": {
+        "url": "https://solutiondemocratique.fr/wp-content/uploads/2026/11/Programme-de-Solution-Democratique-a-lelection-presidentielle-2027.pdf",
+        "locator": "8. Énergie, D (p. 20)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "egger-sante-04",
+      "theme": "santé",
+      "title": "Faire dresser un bilan public régulier du système de santé",
+      "summary": "Le président demanderait au gouvernement un bilan régulier de l'efficacité du système de santé (accès aux soins, prévention, délais de prise en charge, répartition territoriale), rendu public.",
+      "excerpt": "Le président demandera au gouvernement de dresser un bilan régulier de l’efficacité du système de santé, notamment en matière d’accès aux soins, de prévention, de délais de prise en charge et de répartition territoriale des professionnels et des établissements. Ces évaluations seront rendues publiques afin que chaque citoyen puisse apprécier l’utilisation des ressources collectives et proposer, le cas échéant, les réformes nécessaires.",
+      "tags": [
+        "accès aux soins",
+        "déserts médicaux",
+        "évaluation",
+        "délais"
+      ],
+      "source": {
+        "url": "https://solutiondemocratique.fr/wp-content/uploads/2026/11/Programme-de-Solution-Democratique-a-lelection-presidentielle-2027.pdf",
+        "locator": "13. Santé, C (p. 25)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "egger-sante-05",
+      "theme": "santé",
+      "title": "Informer les citoyens sur les choix de politique de santé",
+      "summary": "Le président veillerait à ce que les citoyens disposent des informations nécessaires pour comprendre les choix de santé qui les concernent et en apprécier les conséquences.",
+      "excerpt": "Le président veillera à ce que les citoyens disposent des informations nécessaires pour comprendre les choix qui les concernent et en apprécier les conséquences.",
+      "tags": [
+        "santé",
+        "information",
+        "transparence",
+        "citoyens"
+      ],
+      "source": {
+        "url": "https://solutiondemocratique.fr/wp-content/uploads/2026/11/Programme-de-Solution-Democratique-a-lelection-presidentielle-2027.pdf",
+        "locator": "13. Santé, B (p. 25)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "egger-etudes-02",
+      "theme": "études",
+      "title": "Améliorer les instruments d'évaluation des politiques éducatives",
+      "summary": "Le président travaillerait avec le gouvernement à améliorer l'évaluation des politiques d'éducation : collecte et transparence des données, coopération internationale pour des comparaisons fiables.",
+      "excerpt": "Dans ce but, le président travaillera avec le gouvernement à améliorer les instruments d’évaluation des politiques d’éducation : collecte des données, transparence de celles-ci et coopération internationale pour des comparaisons fiables.",
+      "tags": [
+        "éducation",
+        "évaluation",
+        "données",
+        "école"
+      ],
+      "source": {
+        "url": "https://solutiondemocratique.fr/wp-content/uploads/2026/11/Programme-de-Solution-Democratique-a-lelection-presidentielle-2027.pdf",
+        "locator": "10. Éducation, C (p. 22)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "egger-etudes-03",
+      "theme": "études",
+      "title": "Créer une commission de spécialistes sur l'enseignement supérieur",
+      "summary": "Pour l'enseignement supérieur, les modèles étrangers les plus performants et inclusifs seraient étudiés et une commission de spécialistes français et étrangers serait créée pour formuler des propositions.",
+      "excerpt": "Pour l’enseignement supérieur, les modèles les plus performants et les plus inclusifs au monde seront étudiés, et une commission de spécialistes français et étrangers sera créée pour formuler des propositions.",
+      "tags": [
+        "université",
+        "enseignement supérieur",
+        "commission",
+        "études"
+      ],
+      "source": {
+        "url": "https://solutiondemocratique.fr/wp-content/uploads/2026/11/Programme-de-Solution-Democratique-a-lelection-presidentielle-2027.pdf",
+        "locator": "10. Éducation, E (p. 22)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    }
+  ]
+}

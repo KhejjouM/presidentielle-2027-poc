@@ -1,0 +1,1521 @@
+{
+  "candidate_id": "philippe",
+  "measures": [
+    {
+      "id": "philippe-log-01",
+      "theme": "logement",
+      "title": "Revoir l'assurance des maisons fissurées par la sécheresse",
+      "summary": "Le système d'assurance du risque climatique serait revu, notamment la prise en charge du retrait-gonflement des argiles qui fissure les maisons.",
+      "excerpt": "Édouard Philippe veut revoir le système d’assurance du risque climatique, et notamment la prise en charge du retrait-gonflement des argiles, qui fissure les maisons lors des sécheresses.",
+      "tags": [
+        "maison",
+        "fissures",
+        "assurance",
+        "sécheresse"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/adaptation-climatique",
+        "locator": "Adaptation climatique, Q-R : Que propose Édouard Philippe pour les maisons fissurées par la sécheresse ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-sante-01",
+      "theme": "santé",
+      "title": "Renforcer la santé mentale à l'école",
+      "summary": "Les élèves auraient accès à des tiers de confiance, à des conseils et à une meilleure détection en matière de santé mentale.",
+      "excerpt": "Édouard Philippe veut renforcer la santé à l’école. Les élèves auront accès à des tiers de confiance, à des conseils et à une meilleure détection en matière de santé mentale.",
+      "tags": [
+        "santé mentale",
+        "élève",
+        "école",
+        "psychologue"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/ecole",
+        "locator": "École, Q-R : Que propose Édouard Philippe pour la santé mentale des élèves ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-sante-02",
+      "theme": "santé",
+      "title": "Construire un deuxième hôpital de plein exercice à Mayotte",
+      "summary": "Un deuxième hôpital de plein exercice serait construit à Combani, avec maternité, services de médecine et de chirurgie et plateaux techniques.",
+      "excerpt": "Édouard Philippe veut un deuxième hôpital de plein exercice à Combani, et non une simple extension du centre hospitalier de Mayotte : avec une maternité, des services de médecine et de chirurgie et les plateaux techniques nécessaires.",
+      "tags": [
+        "hôpital",
+        "mayotte",
+        "maternité",
+        "outre-mer"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/outre-mer",
+        "locator": "Outre-mer, Q-R : Que propose Édouard Philippe pour l'hôpital à Mayotte ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-sante-03",
+      "theme": "santé",
+      "title": "Maintenir les dépenses de santé en misant sur la prévention",
+      "summary": "Les dépenses de santé ne seraient pas diminuées ; l'accent serait mis sur la prévention et les transformations technologiques.",
+      "excerpt": "Édouard Philippe ne veut pas diminuer les dépenses de santé, mais mieux dépenser. Il mise sur la prévention et sur les transformations technologiques.",
+      "tags": [
+        "dépenses de santé",
+        "prévention",
+        "assurance maladie",
+        "soins"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/comptes-publics",
+        "locator": "Finances publiques, Q-R : Édouard Philippe va-t-il réduire les dépenses de santé ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-pa-01",
+      "theme": "pouvoir d'achat",
+      "title": "Exonérer de cotisations et d'impôt les heures travaillées au-delà de 35 h",
+      "summary": "Lorsqu'une entreprise allonge le temps de travail, les heures au-dessus de 35 h seraient exonérées de cotisations sociales et d'impôt sur le revenu, soit environ 1 000 euros par an pour un salarié au SMIC travaillant deux heures de plus par semaine.",
+      "excerpt": "Quand une entreprise décide, après discussion interne, d’allonger le temps de travail, les heures au-dessus de 35 h seront exonérées de cotisations sociales et d’impôt sur le revenu. Pour un salarié au SMIC qui travaille deux heures de plus par semaine, cela représente un gain de pouvoir d’achat d’environ 1 000 € de plus par an.",
+      "tags": [
+        "heures supplémentaires",
+        "salaire",
+        "smic",
+        "impôt",
+        "cotisations"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/travail",
+        "locator": "Travail et salaires, Q-R : Que propose Édouard Philippe pour les salariés au SMIC ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "philippe-pa-02",
+      "theme": "pouvoir d'achat",
+      "title": "Financer la protection sociale autrement que par le travail",
+      "summary": "Changer le mode de financement de la protection sociale, aujourd'hui assis sur le travail, afin d'augmenter le salaire net.",
+      "excerpt": "Financer la protection sociale autrement que par le travail, pour augmenter le salaire net.",
+      "tags": [
+        "salaire net",
+        "cotisations",
+        "protection sociale",
+        "salaire"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/travail",
+        "locator": "Travail et salaires, Nos propositions phares"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-pa-03",
+      "theme": "pouvoir d'achat",
+      "title": "Ne créer aucun nouvel impôt pendant cinq ans",
+      "summary": "Aucun nouvel impôt ne serait créé pendant cinq ans.",
+      "excerpt": "Ne créer aucun nouvel impôt pendant cinq ans.",
+      "tags": [
+        "impôt",
+        "taxe",
+        "fiscalité",
+        "quinquennat"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/comptes-publics",
+        "locator": "Finances publiques, Nos propositions phares"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "philippe-pa-04",
+      "theme": "pouvoir d'achat",
+      "title": "Moderniser l'octroi de mer et ouvrir les transports ultramarins à la concurrence",
+      "summary": "Contre la vie chère outre-mer, moderniser l'octroi de mer et faire jouer la concurrence sur les liaisons extérieures et les transports en commun.",
+      "excerpt": "Édouard Philippe veut agir sur les prix plutôt que de promettre de l’argent public, devenu rare. Il propose de moderniser l’octroi de mer, une taxe dont personne ne connaît le coût réel sur les produits achetés, et de faire jouer la concurrence sur les mobilités, pour les liaisons vers l’extérieur comme pour les transports en commun.",
+      "tags": [
+        "outre-mer",
+        "vie chère",
+        "octroi de mer",
+        "prix",
+        "transport"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/outre-mer",
+        "locator": "Outre-mer, Q-R : Que propose Édouard Philippe contre la vie chère outre-mer ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-pa-05",
+      "theme": "pouvoir d'achat",
+      "title": "Accélérer la convergence du SMIC de Mayotte avec le SMIC national",
+      "summary": "Le SMIC de Mayotte, à 87,5 % du niveau national, convergerait plus vite jusqu'à l'égalité, de façon financée et avec un accompagnement des petites entreprises.",
+      "excerpt": "Le SMIC mahorais atteint 87,5 % du niveau national : il veut accélérer la convergence jusqu’à l’égalité, de façon maîtrisée et financée, en accompagnant les petites entreprises qui craignent la hausse du coût du travail.",
+      "tags": [
+        "mayotte",
+        "smic",
+        "salaire",
+        "outre-mer"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/outre-mer",
+        "locator": "Outre-mer, Q-R : Avec Édouard Philippe, le SMIC et les retraites de Mayotte rejoindront-ils ceux de l'Hexagone ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "philippe-emploi-01",
+      "theme": "emploi",
+      "title": "Limiter à 12 mois l'indemnisation chômage des moins de 50 ans",
+      "summary": "L'indemnisation chômage serait limitée à 12 mois au maximum, contre 18 mois aujourd'hui, pour les moins de 50 ans ; les plus de 50 ans ne seraient pas concernés.",
+      "excerpt": "Oui, pour les moins de 50 ans. Édouard Philippe propose de limiter l’indemnisation chômage à 12 mois au maximum, contre 18 mois aujourd’hui, comme en Allemagne. Les plus de 50 ans ne seront pas concernés.",
+      "tags": [
+        "chômage",
+        "allocation chômage",
+        "indemnisation",
+        "demandeur d'emploi"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/travail",
+        "locator": "Travail et salaires, Q-R : Édouard Philippe va-t-il réduire la durée des allocations chômage ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "philippe-emploi-02",
+      "theme": "emploi",
+      "title": "Instaurer trois jours de carence pour tous les actifs, privé et public",
+      "summary": "Trois jours de carence s'appliqueraient aux arrêts maladie de tous les actifs, dans le privé comme dans le public.",
+      "excerpt": "Trois. Édouard Philippe veut instaurer trois jours de carence pour tout le monde, dans le privé comme dans le public, pour limiter les abus et mettre fin à « l’open bar » des arrêts maladie. La même règle s’appliquera à tous les actifs.",
+      "tags": [
+        "arrêt maladie",
+        "jour de carence",
+        "fonctionnaire",
+        "salarié"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/travail",
+        "locator": "Travail et salaires, Q-R : Avec Édouard Philippe, combien de jours d'arrêt maladie ne seront pas payés ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "philippe-emploi-03",
+      "theme": "emploi",
+      "title": "Imposer un délai de 3 à 6 mois entre un arrêt maladie et une rupture conventionnelle",
+      "summary": "Une période incompressible de 3 à 6 mois séparerait un arrêt maladie d'une rupture conventionnelle.",
+      "excerpt": "Édouard Philippe veut créer une période incompressible de 3 à 6 mois entre un arrêt maladie et une rupture conventionnelle.",
+      "tags": [
+        "rupture conventionnelle",
+        "arrêt maladie",
+        "licenciement",
+        "contrat"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/travail",
+        "locator": "Travail et salaires, Q-R : Que fera Édouard Philippe contre le chantage à l'arrêt maladie ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "philippe-emploi-04",
+      "theme": "emploi",
+      "title": "Permettre aux entreprises de fixer leur temps de travail par accord d'entreprise",
+      "summary": "Les entreprises fixeraient leur temps de travail par accord d'entreprise ; les heures au-dessus de 35 h seraient exonérées pour le salarié et, au-delà de la 37e heure, l'entreprise ne paierait plus de cotisation patronale.",
+      "excerpt": "Édouard Philippe veut permettre aux entreprises de fixer librement leur temps de travail, par accord d’entreprise, de la manière la plus adaptée à leur activité, pour sortir des 35 heures. Les heures au-dessus de 35 h seront exonérées de cotisations sociales et d’impôt sur le revenu et au-delà de la 37e heure, l’entreprise ne paiera plus de cotisation patronale.",
+      "tags": [
+        "35 heures",
+        "temps de travail",
+        "entreprise",
+        "cotisations"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/travail",
+        "locator": "Travail et salaires, Q-R : Édouard Philippe veut-il supprimer les 35 heures ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "philippe-emploi-05",
+      "theme": "emploi",
+      "title": "Créer un droit à la reconversion pour les salariés dont le métier est menacé par l'IA",
+      "summary": "Adapter l'enseignement, le recrutement et la formation continue à l'intelligence artificielle, avec un droit à la reconversion pour les salariés dont le métier est menacé.",
+      "excerpt": "Édouard Philippe propose d’adapter l’enseignement, le recrutement et la formation continue à l’intelligence artificielle, avec un droit à la reconversion pour les salariés dont le métier est menacé par l’IA.",
+      "tags": [
+        "reconversion",
+        "formation",
+        "intelligence artificielle",
+        "salarié"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/intelligence-artificielle",
+        "locator": "Intelligence artificielle, Q-R : Que fera Édouard Philippe pour les emplois menacés par l'IA ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-emploi-06",
+      "theme": "emploi",
+      "title": "Former, recruter et accompagner les salariés de plus de 50 ans",
+      "summary": "Former, recruter et accompagner les salariés après 50 ans.",
+      "excerpt": "Édouard Philippe veut former, recruter et accompagner les salariés après 50 ans.",
+      "tags": [
+        "senior",
+        "emploi des seniors",
+        "formation",
+        "embauche"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/travail",
+        "locator": "Travail et salaires, Q-R : Que fera Édouard Philippe pour l'emploi des seniors ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-emploi-07",
+      "theme": "emploi",
+      "title": "Limiter la durée du RSA",
+      "summary": "Parmi les choix d'économies sur les dépenses sociales figure la limitation de la durée du RSA pour inciter à la reprise du travail, aux côtés de trois jours de carence et d'une indemnisation chômage limitée à 12 mois pour les moins de 50 ans.",
+      "excerpt": "Ses choix sont ciblés : réformer les retraites en travaillant plus de manière juste et en instaurant de la capitalisation, instaurer trois jours de carence pour tous, limiter l’indemnisation chômage à 12 mois pour les moins de 50 ans, limiter la durée du RSA pour inciter à la reprise du travail.",
+      "tags": [
+        "rsa",
+        "minima sociaux",
+        "reprise du travail",
+        "aides sociales"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/comptes-publics",
+        "locator": "Finances publiques, Q-R : Édouard Philippe va-t-il baisser les aides sociales ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-emploi-08",
+      "theme": "emploi",
+      "title": "Ne pas remplacer un fonctionnaire sur trois partant à la retraite",
+      "summary": "Un fonctionnaire sur trois partant à la retraite ne serait pas remplacé, soit plus de 250 000 postes sur le quinquennat.",
+      "excerpt": "Édouard Philippe propose de ne pas remplacer un fonctionnaire sur trois partant à la retraite, soit plus de 250 000 postes sur le quinquennat.",
+      "tags": [
+        "fonctionnaire",
+        "fonction publique",
+        "postes",
+        "emploi public"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/comptes-publics",
+        "locator": "Finances publiques, Q-R : Édouard Philippe va-t-il supprimer des postes de fonctionnaires ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "philippe-etudes-01",
+      "theme": "études",
+      "title": "Augmenter de 20 % en moyenne le salaire des enseignants pendant le quinquennat",
+      "summary": "Le salaire des enseignants augmenterait de 20 % en moyenne pendant le quinquennat.",
+      "excerpt": "Augmenter de 20 % en moyenne le salaire des enseignants pendant le quinquennat.",
+      "tags": [
+        "enseignant",
+        "professeur",
+        "salaire",
+        "école"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/ecole",
+        "locator": "École, Nos propositions phares"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "philippe-etudes-02",
+      "theme": "études",
+      "title": "Laisser les établissements adapter leur organisation et avancer la rentrée",
+      "summary": "Chaque établissement pourrait adapter ses méthodes, ses horaires et l'organisation de ses classes, et avancer la rentrée d'une à deux semaines pour les élèves qui en ont besoin.",
+      "excerpt": "Laisser chaque établissement libre d’adapter ses méthodes, ses horaires, l’organisation de ses classes et d’avancer la rentrée d’une à deux semaines pour les élèves qui en ont besoin.",
+      "tags": [
+        "autonomie des établissements",
+        "rentrée",
+        "école",
+        "collège"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/ecole",
+        "locator": "École, Nos propositions phares"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "philippe-etudes-03",
+      "theme": "études",
+      "title": "Créer un service public universel du soutien scolaire",
+      "summary": "Un service public universel du soutien scolaire associerait anciens professeurs, étudiants volontaires et un assistant d'intelligence artificielle personnalisé.",
+      "excerpt": "Oui. Édouard Philippe veut créer un service public universel du soutien scolaire. Il combinera des brigades d’anciens professeurs et d’étudiants volontaires et un assistant d’intelligence artificielle personnalisé.",
+      "tags": [
+        "soutien scolaire",
+        "élève",
+        "aide aux devoirs",
+        "école"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/ecole",
+        "locator": "École, Q-R : Édouard Philippe propose-t-il du soutien scolaire pour tous les élèves ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-etudes-04",
+      "theme": "études",
+      "title": "Généraliser les petits effectifs en maternelle, au CP et au CE1",
+      "summary": "Avec un million d'élèves en moins d'ici cinq ans, les petits effectifs seraient généralisés en maternelle, au CP et au CE1.",
+      "excerpt": "Oui, grâce à la démographie : avec un million d'élèves en moins d'ici cinq ans, la France peut généraliser les petits effectifs en maternelle, au CP et au CE1 et mieux payer ses professeurs, sans dégrader les finances publiques.",
+      "tags": [
+        "classe",
+        "effectifs",
+        "maternelle",
+        "primaire"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/questions-reponses/ecoles",
+        "locator": "L'école : vos questions, Enseigner : Peut-on réduire les effectifs sans embaucher massivement ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-etudes-05",
+      "theme": "études",
+      "title": "Généraliser l'apprentissage de la lecture dès la maternelle",
+      "summary": "L'apprentissage de la lecture serait généralisé dès la maternelle avec des tests de décodage, avec pour objectif la maîtrise de 2 500 mots à l'entrée au CP et un accompagnement des élèves qui ne l'atteignent pas.",
+      "excerpt": "Il propose également de faire un effort particulier sur la lecture, dès le plus jeune âge : l’apprentissage de la lecture sera généralisé dès la maternelle et des tests de décodage seront organisés pour repérer très tôt les élèves en difficulté. L’objectif pour chaque élève sera de maîtriser 2500 mots en arrivant au CP, et les élèves qui ne l’atteindront pas seront accompagnés pour éviter tout retard.",
+      "tags": [
+        "lecture",
+        "maternelle",
+        "cp",
+        "école"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/ecole",
+        "locator": "École, Q-R : Édouard Philippe veut-il recentrer l'école sur les savoirs fondamentaux ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "philippe-etudes-06",
+      "theme": "études",
+      "title": "Interdire le téléphone portable à l'école, au collège et au lycée",
+      "summary": "Le téléphone portable serait interdit à l'école primaire, au collège et au lycée, confisqué en cas d'usage et rendu aux parents.",
+      "excerpt": "Oui. Édouard Philippe veut interdire strictement le téléphone portable à l’école primaire, au collège et au lycée. En cas d’usage, il sera confisqué immédiatement et rendu uniquement aux parents.",
+      "tags": [
+        "portable",
+        "téléphone",
+        "collège",
+        "lycée"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/ecole",
+        "locator": "École, Q-R : Édouard Philippe va-t-il interdire le portable à l'école ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-etudes-07",
+      "theme": "études",
+      "title": "Publier les évaluations de performance des établissements scolaires",
+      "summary": "Les évaluations de performance des établissements scolaires seraient rendues publiques auprès des parents et des élus locaux.",
+      "excerpt": "Oui. Édouard Philippe veut rendre publiques, auprès des parents et des élus locaux, les évaluations de performance des établissements scolaires.",
+      "tags": [
+        "évaluation",
+        "école",
+        "résultats",
+        "parents"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/ecole",
+        "locator": "École, Q-R : Édouard Philippe veut-il publier les résultats de chaque école ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-etudes-08",
+      "theme": "études",
+      "title": "Créer une amende de responsabilisation scolaire pour certains parents",
+      "summary": "Une amende de responsabilisation scolaire viserait les parents d'enfants harceleurs, perturbateurs ou absentéistes, et les parents violents.",
+      "excerpt": "Édouard Philippe veut créer une « amende de responsabilisation scolaire », inspirée du modèle britannique, pour les parents d’enfants harceleurs, perturbateurs ou absentéistes, et pour les parents violents.",
+      "tags": [
+        "harcèlement",
+        "absentéisme",
+        "parents",
+        "amende"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/ecole",
+        "locator": "École, Q-R : Édouard Philippe va-t-il mettre une amende aux parents ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-etudes-09",
+      "theme": "études",
+      "title": "Commencer l'orientation dès la 5e et donner un tuteur à chaque élève",
+      "summary": "L'orientation commencerait dès la 5e avec un temps en classe consacré aux études supérieures et aux métiers, et chaque élève aurait un tuteur, ancien élève ou professionnel.",
+      "excerpt": "Édouard Philippe veut refonder l’orientation dès la 5e, avec un temps en classe consacré à la découverte des études supérieures et des métiers. Un vaste plan de tutorat donnera un tuteur à chaque élève, ancien élève de l’établissement ou professionnel, pour lutter contre l’autocensure des jeunes qui n’osent pas viser haut.",
+      "tags": [
+        "orientation",
+        "collège",
+        "tutorat",
+        "métiers"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/ecole",
+        "locator": "École, Q-R : Que propose Édouard Philippe pour l'orientation des élèves ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-etudes-10",
+      "theme": "études",
+      "title": "Former 100 000 ingénieurs par an d'ici cinq ans",
+      "summary": "Le nombre d'ingénieurs formés chaque année passerait de 40 000 à 100 000 en cinq ans.",
+      "excerpt": "Oui. Édouard Philippe veut faire passer le nombre d’ingénieurs formés chaque année de 40 000 à 100 000 en cinq ans.",
+      "tags": [
+        "ingénieur",
+        "études supérieures",
+        "formation",
+        "école d'ingénieurs"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/intelligence-artificielle",
+        "locator": "Intelligence artificielle, Q-R : Édouard Philippe veut-il former plus d'ingénieurs ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "philippe-etudes-11",
+      "theme": "études",
+      "title": "Encadrer l'usage de l'intelligence artificielle à l'école par paliers",
+      "summary": "Aucune IA avant le collège, une sensibilisation à son usage au collège et une inscription progressive dans la pédagogie au lycée ; l'IA serait encouragée pour la préparation des cours des professeurs.",
+      "excerpt": "C’est pourquoi Édouard Philippe propose une approche par paliers : zéro IA avant le collège pour bien former les élèves, une sensibilisation à l’usage responsable de l’IA au collège et son inscription progressive dans la pédagogie au lycée, notamment à l’appui du soutien scolaire. En revanche, pour les professeurs, l’IA sera encouragée pour la préparation des cours.",
+      "tags": [
+        "intelligence artificielle",
+        "école",
+        "collège",
+        "lycée"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/ecole",
+        "locator": "École, Q-R : Que fera Édouard Philippe de l'intelligence artificielle à l'école ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-etudes-12",
+      "theme": "études",
+      "title": "Faire compter les notes de juin dans le bulletin de l'année suivante",
+      "summary": "Les notes du mois de juin compteraient pour le bulletin de l'année suivante.",
+      "excerpt": "Il veut aussi réorganiser la fin d’année pour que le mois de juin ne soit plus sacrifié : les notes du mois de juin compteront donc pour le bulletin de l’année suivante, pour maintenir l’engagement des élèves.",
+      "tags": [
+        "notes",
+        "bulletin",
+        "fin d'année",
+        "lycée"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/ecole",
+        "locator": "École, Q-R : Édouard Philippe va-t-il raccourcir les vacances d'été ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-etudes-13",
+      "theme": "études",
+      "title": "Former chaque jeune aux premiers secours avant sa majorité",
+      "summary": "Chaque jeune serait formé aux gestes de premiers secours avant sa majorité, avec une reconnaissance dans Parcoursup, et chaque élève apprendrait un usage responsable de l'IA à partir du collège.",
+      "excerpt": "Deux évolutions sont prévues : chaque jeune Français sera formé aux gestes de premiers secours avant sa majorité, une formation reconnue dans Parcoursup et les études supérieures ; et à partir du collège, chaque élève apprendra un usage responsable et éclairé de l'IA.",
+      "tags": [
+        "premiers secours",
+        "parcoursup",
+        "collège",
+        "programmes"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/questions-reponses/ecoles",
+        "locator": "L'école : vos questions, Apprendre : Faut-il adapter les programmes aux enjeux de demain ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-etudes-14",
+      "theme": "études",
+      "title": "Créer des groupes de 5 à 6 élèves en difficulté ou en avance",
+      "summary": "Des groupes de 5 à 6 élèves en difficulté ou en avance recevraient des enseignements adaptés en plus des cours.",
+      "excerpt": "Édouard Philippe propose également que soient construits des groupes de 5 à 6 élèves qui soit rencontrent des difficultés, soit sont en avance sur les autres, et que des enseignements adaptés à leurs besoins leur soient proposés en plus des cours.",
+      "tags": [
+        "petits groupes",
+        "élève",
+        "soutien",
+        "excellence"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/questions-reponses/ecoles",
+        "locator": "L'école : vos questions, Apprendre : Et les élèves qui maîtrisent déjà les fondamentaux ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "philippe-etudes-15",
+      "theme": "études",
+      "title": "Réformer l'école par ordonnances dès l'été 2027",
+      "summary": "L'école ferait partie des trois services publics, avec la justice et la santé, à réformer par ordonnances dès l'été 2027.",
+      "excerpt": "L'école est, avec la justice et la santé, l'un des trois services publics à réformer vite et en profondeur, par ordonnances dès l'été 2027.",
+      "tags": [
+        "réforme",
+        "école",
+        "ordonnances",
+        "éducation nationale"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/questions-reponses/ecoles",
+        "locator": "L'école : vos questions, Organiser : Quelle vision pour l'école de demain ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-retraite-01",
+      "theme": "retraite",
+      "title": "Porter l'âge de départ à 65 ans et la durée de cotisation à 45 ans en moins de dix ans",
+      "summary": "L'âge de départ serait porté progressivement à 65 ans et la durée de cotisation à 45 ans, en moins de dix ans, pour ceux qui le peuvent.",
+      "excerpt": "Porter progressivement l’âge de départ à 65 ans et la durée de cotisation à 45 ans en moins de dix ans, pour ceux qui le peuvent.",
+      "tags": [
+        "âge de départ",
+        "65 ans",
+        "cotisation",
+        "réforme des retraites"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/retraites",
+        "locator": "Retraites, Nos propositions phares"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "philippe-retraite-02",
+      "theme": "retraite",
+      "title": "Maintenir les âges de départ actuels pour handicap, incapacité permanente et invalidité",
+      "summary": "Les âges de départ resteraient fixés à 55 ans en situation de handicap, 60 ans en cas d'incapacité permanente et 62 ans en cas d'invalidité.",
+      "excerpt": "Non. Édouard Philippe maintient leur âge de départ actuel : 55 ans pour les personnes en situation de handicap, 60 ans en cas d’incapacité permanente et 62 ans en cas d’invalidité.",
+      "tags": [
+        "handicap",
+        "invalidité",
+        "départ anticipé",
+        "âge de départ"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/retraites",
+        "locator": "Retraites, Q-R : Avec Édouard Philippe, les personnes handicapées ou invalides devront-elles travailler jusqu'à 65 ans ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "philippe-retraite-03",
+      "theme": "retraite",
+      "title": "Maintenir les départs anticipés pour carrières longues",
+      "summary": "Les départs anticipés pour carrières longues seraient maintenus pour ceux qui ont commencé à travailler tôt.",
+      "excerpt": "Oui. Édouard Philippe maintient les départs anticipés pour carrières longues. Ceux qui ont commencé à travailler tôt pourront toujours partir avant les autres.",
+      "tags": [
+        "carrière longue",
+        "départ anticipé",
+        "retraite anticipée"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/retraites",
+        "locator": "Retraites, Q-R : Édouard Philippe garde-t-il les départs anticipés à la retraite pour carrière longue ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-retraite-04",
+      "theme": "retraite",
+      "title": "Faire négocier les critères de pénibilité par les partenaires sociaux",
+      "summary": "La définition des critères de pénibilité serait négociée avec les partenaires sociaux.",
+      "excerpt": "Édouard Philippe veut que la définition des critères de pénibilité soit négociée avec les partenaires sociaux, qui connaissent le mieux la réalité des métiers.",
+      "tags": [
+        "pénibilité",
+        "partenaires sociaux",
+        "métier pénible",
+        "syndicats"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/retraites",
+        "locator": "Retraites, Q-R : Que prévoit Édouard Philippe pour la retraite des personnes ayant exercé un métier pénible ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-retraite-05",
+      "theme": "retraite",
+      "title": "Confier la gestion du système de retraites aux partenaires sociaux",
+      "summary": "La gestion du système de retraites serait confiée aux partenaires sociaux une fois les retraites revenues à l'équilibre.",
+      "excerpt": "Confier la gestion du système de retraites aux partenaires sociaux une fois les retraites revenues à l’équilibre.",
+      "tags": [
+        "partenaires sociaux",
+        "gestion des retraites",
+        "syndicats"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/retraites",
+        "locator": "Retraites, Nos propositions phares"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-retraite-06",
+      "theme": "retraite",
+      "title": "Généraliser la retraite par capitalisation collective à tous les salariés",
+      "summary": "La retraite par capitalisation collective, existant pour les fonctionnaires, serait étendue à tous les salariés, et un plan d'épargne retraite serait ouvert à chaque Français.",
+      "excerpt": "Oui. Édouard Philippe veut généraliser à tous les salariés la retraite par capitalisation collective, qui existe et fonctionne déjà très bien pour les fonctionnaires, et ouvrir un plan d’épargne retraite à chaque Français.",
+      "tags": [
+        "capitalisation",
+        "épargne retraite",
+        "salarié",
+        "pension"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/retraites",
+        "locator": "Retraites, Q-R : Édouard Philippe veut-il la retraite par capitalisation ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-retraite-07",
+      "theme": "retraite",
+      "title": "Ouvrir un plan d'épargne retraite abondé de 500 euros par l'État au premier emploi",
+      "summary": "Chaque Français disposerait d'un plan d'épargne retraite, avec un premier versement de 500 euros par l'État dès le premier emploi.",
+      "excerpt": "Édouard Philippe veut ouvrir un plan d’épargne retraite à chaque Français, avec un premier versement de 500 € par l’État dès le premier emploi.",
+      "tags": [
+        "épargne retraite",
+        "premier emploi",
+        "jeune",
+        "capitalisation"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/retraites",
+        "locator": "Retraites, Q-R : C'est quoi les 500 € pour la retraite proposés par Édouard Philippe ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "philippe-retraite-08",
+      "theme": "retraite",
+      "title": "Ne pas augmenter les cotisations retraite",
+      "summary": "La réforme des retraites se ferait sans hausse des cotisations.",
+      "excerpt": "Non. Édouard Philippe s’engage à sauver nos retraites sans hausse des cotisations.",
+      "tags": [
+        "cotisation",
+        "cotisations retraite",
+        "actifs"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/retraites",
+        "locator": "Retraites, Q-R : Édouard Philippe va-t-il augmenter les cotisations retraite ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-retraite-09",
+      "theme": "retraite",
+      "title": "Exclure une baisse générale des pensions",
+      "summary": "Aucune baisse générale des pensions ne serait appliquée.",
+      "excerpt": "Non. Édouard Philippe exclut toute baisse générale des pensions.",
+      "tags": [
+        "pension",
+        "retraité",
+        "montant de la retraite"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/retraites",
+        "locator": "Retraites, Q-R : Édouard Philippe va-t-il baisser les pensions des retraités ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-retraite-10",
+      "theme": "retraite",
+      "title": "Développer le cumul emploi-retraite et la retraite progressive",
+      "summary": "Le cumul emploi-retraite et la retraite progressive seraient développés pour permettre de travailler en touchant sa pension ou de réduire son activité avant de s'arrêter.",
+      "excerpt": "Oui. Édouard Philippe veut développer le cumul emploi-retraite et la retraite progressive. Ceux qui le souhaitent pourront continuer à travailler en touchant leur pension, ou réduire leur activité en douceur avant de s’arrêter.",
+      "tags": [
+        "cumul emploi-retraite",
+        "retraite progressive",
+        "senior",
+        "pension"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/retraites",
+        "locator": "Retraites, Q-R : Avec Édouard Philippe, pourra-t-on travailler tout en touchant sa retraite ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-famille-01",
+      "theme": "famille",
+      "title": "Créer une allocation familiale unique de 350 euros dès le premier enfant",
+      "summary": "Une allocation familiale unique de 350 euros dès le premier enfant remplacerait les aides existantes et serait dégressive avec le revenu.",
+      "excerpt": "Édouard Philippe veut créer une allocation familiale unique de 350 € dès le premier enfant. Elle remplacera des aides aujourd’hui trop complexes et trop éparpillées, accordées souvent à partir du deuxième ou troisième enfant, et elle sera dégressive avec le revenu.",
+      "tags": [
+        "allocations familiales",
+        "premier enfant",
+        "caf",
+        "aide aux familles"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/famille",
+        "locator": "Famille, Q-R : C'est quoi l'allocation familiale de 350 € proposée par Édouard Philippe ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "philippe-famille-02",
+      "theme": "famille",
+      "title": "Supprimer l'impôt sur le revenu des classes moyennes pendant les trois premières années de l'enfant",
+      "summary": "Pendant les trois premières années de l'enfant, les ménages du 4e au 6e décile et du début du 7e ne paieraient pas d'impôt sur le revenu ; les familles plus aisées qui travaillent auraient une réduction d'impôt de 3 000 euros par an.",
+      "excerpt": "Pendant les trois premières années de l’enfant, Édouard Philippe veut supprimer l’impôt sur le revenu des ménages des classes moyennes, du 4e au 6e décile et au début du 7e. Les familles plus aisées qui travaillent auront droit à 3 000 € de réduction d’impôt par an.",
+      "tags": [
+        "impôt sur le revenu",
+        "naissance",
+        "classes moyennes",
+        "parent"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/famille",
+        "locator": "Famille, Q-R : Édouard Philippe veut-il supprimer l'impôt des parents de jeunes enfants ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "philippe-famille-03",
+      "theme": "famille",
+      "title": "Accorder un prêt à taux zéro à chaque naissance",
+      "summary": "Un prêt à taux zéro serait accordé à chaque naissance, notamment pour permettre aux parents de déménager.",
+      "excerpt": "Oui. Édouard Philippe veut accorder un prêt à taux zéro à chaque naissance. Quand la famille s’agrandit et qu’il faut déménager, les parents pourront le faire dans de bonnes conditions.",
+      "tags": [
+        "prêt à taux zéro",
+        "naissance",
+        "déménager",
+        "logement"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/famille",
+        "locator": "Famille, Q-R : Édouard Philippe propose-t-il un prêt à taux zéro à chaque naissance ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-famille-04",
+      "theme": "famille",
+      "title": "Créer un temps partiel parental à 80 % payé 100 % pendant deux mois",
+      "summary": "Après un congé parental, le parent pourrait travailler à 80 % en étant payé 100 % pendant deux mois.",
+      "excerpt": "Édouard Philippe propose un temps partiel parental : après un congé parental, le parent pourra travailler à 80 % tout en étant payé 100 % pendant deux mois.",
+      "tags": [
+        "congé parental",
+        "temps partiel",
+        "reprise du travail",
+        "parent"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/famille",
+        "locator": "Famille, Q-R : Que fera Édouard Philippe pour le retour au travail après un congé parental ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "philippe-famille-05",
+      "theme": "famille",
+      "title": "Doubler les plafonds de donation aux enfants et petits-enfants",
+      "summary": "Les plafonds de donation du vivant aux enfants et petits-enfants seraient doublés pendant les trois premières années du quinquennat.",
+      "excerpt": "Oui. Édouard Philippe veut doubler les plafonds de donation du vivant aux enfants et aux petits-enfants pendant les trois premières années du quinquennat.",
+      "tags": [
+        "donation",
+        "petits-enfants",
+        "transmission",
+        "héritage"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/famille",
+        "locator": "Famille, Q-R : Édouard Philippe va-t-il faciliter les donations aux enfants et petits-enfants ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "philippe-famille-06",
+      "theme": "famille",
+      "title": "Lancer un plan national pour la garde d'enfants",
+      "summary": "Un « plan Marshall » pour la garde d'enfants serait lancé afin de faciliter l'accès des jeunes parents à un mode de garde.",
+      "excerpt": "Édouard Philippe veut lancer un plan Marshall pour la garde d’enfants. Trouver un mode de garde ne doit plus être un parcours du combattant pour les jeunes parents.",
+      "tags": [
+        "garde d'enfants",
+        "crèche",
+        "mode de garde",
+        "parent"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/famille",
+        "locator": "Famille, Q-R : Que propose Édouard Philippe pour la garde d'enfants ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-famille-07",
+      "theme": "famille",
+      "title": "Créer un droit pour les parents de faire vérifier les antécédents d'un adulte proche de leur enfant",
+      "summary": "Les parents pourraient demander à la police de vérifier qu'une personne en contact avec leur enfant n'a pas d'antécédents.",
+      "excerpt": "Inspiré de la « Sarah’s law » britannique, le « droit de savoir » proposé par Édouard Philippe permettra aux parents de demander à la police de vérifier qu’une personne en contact avec leur enfant n’a pas d’antécédents.",
+      "tags": [
+        "protection de l'enfance",
+        "parent",
+        "antécédents",
+        "enfant"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/protection-de-l-enfance",
+        "locator": "Protection de l'enfance, Q-R : C'est quoi le « droit de savoir » proposé par Édouard Philippe ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-famille-08",
+      "theme": "famille",
+      "title": "Créer une Inspection nationale de l'enfance contrôlant les lieux d'accueil tous les trois ans",
+      "summary": "Une Inspection nationale de l'enfance contrôlerait tous les lieux accueillant des mineurs au moins tous les trois ans, contre tous les dix ans aujourd'hui.",
+      "excerpt": "Oui. Édouard Philippe veut créer une Inspection nationale de l’enfance qui contrôlera tous les lieux accueillant des mineurs au moins tous les trois ans, contre tous les dix ans aujourd’hui.",
+      "tags": [
+        "crèche",
+        "colonie",
+        "contrôle",
+        "enfant"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/protection-de-l-enfance",
+        "locator": "Protection de l'enfance, Q-R : Édouard Philippe va-t-il contrôler plus souvent les crèches et les colonies ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "philippe-famille-09",
+      "theme": "famille",
+      "title": "Généraliser les certificats d'honorabilité pour les adultes encadrant des enfants",
+      "summary": "Les certificats d'honorabilité, qui vérifient les antécédents des adultes encadrant des enfants, seraient déployés partout.",
+      "excerpt": "Oui. Édouard Philippe veut déployer partout les certificats d’honorabilité, qui permettent de vérifier les antécédents des adultes qui encadrent des enfants.",
+      "tags": [
+        "périscolaire",
+        "animateur",
+        "antécédents",
+        "enfant"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/protection-de-l-enfance",
+        "locator": "Protection de l'enfance, Q-R : Édouard Philippe va-t-il vérifier le passé de tous les animateurs ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-transport-01",
+      "theme": "transport",
+      "title": "Verser la même aide pour une voiture électrique d'occasion que pour une neuve",
+      "summary": "L'aide à l'achat d'une voiture électrique d'occasion serait identique à celle accordée pour une voiture neuve.",
+      "excerpt": "Édouard Philippe veut verser la même aide pour l’achat d’une voiture électrique d’occasion que pour une neuve. Beaucoup de Français achètent d’occasion : ils doivent eux aussi pouvoir passer à l’électrique.",
+      "tags": [
+        "voiture électrique",
+        "occasion",
+        "bonus",
+        "voiture"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/energie",
+        "locator": "Énergie, Q-R : Que propose Édouard Philippe pour aider à acheter une voiture électrique ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-transport-02",
+      "theme": "transport",
+      "title": "Construire une nouvelle piste d'aéroport sur Grande-Terre à Mayotte",
+      "summary": "Une nouvelle piste d'aéroport serait construite sur Grande-Terre plutôt que d'allonger celle de Petite-Terre.",
+      "excerpt": "Oui. Édouard Philippe veut construire une nouvelle piste sur Grande-Terre plutôt que d’allonger celle de Petite-Terre, ce qui priverait l’île de tout accès aérien pendant les travaux.",
+      "tags": [
+        "aéroport",
+        "mayotte",
+        "avion",
+        "outre-mer"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/outre-mer",
+        "locator": "Outre-mer, Q-R : Édouard Philippe va-t-il construire la nouvelle piste de l'aéroport de Mayotte ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-transport-03",
+      "theme": "transport",
+      "title": "Développer le ferroviaire à La Réunion et en Guyane",
+      "summary": "Le ferroviaire serait développé à La Réunion et en Guyane en repensant les projets, sans engagement à ce stade sur le financement.",
+      "excerpt": "Oui. Édouard Philippe est convaincu qu’il est dans l’intérêt général de développer le ferroviaire à La Réunion et en Guyane, en repensant les projets.",
+      "tags": [
+        "train",
+        "la réunion",
+        "guyane",
+        "ferroviaire"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/outre-mer",
+        "locator": "Outre-mer, Q-R : Édouard Philippe veut-il développer le train à La Réunion et en Guyane ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-env-01",
+      "theme": "environnement",
+      "title": "Lancer 8 réacteurs EPR supplémentaires",
+      "summary": "Huit réacteurs EPR seraient lancés en plus des six déjà prévus, soit quatorze nouveaux réacteurs.",
+      "excerpt": "Édouard Philippe propose de lancer 8 EPR supplémentaires, en plus des 6 déjà prévus, soit 14 nouveaux réacteurs.",
+      "tags": [
+        "nucléaire",
+        "epr",
+        "électricité",
+        "énergie"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/energie",
+        "locator": "Énergie, Q-R : Combien de réacteurs nucléaires Édouard Philippe veut-il construire ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "philippe-env-02",
+      "theme": "environnement",
+      "title": "Électrifier les usages pour sortir du pétrole et du gaz",
+      "summary": "Les usages seraient électrifiés massivement pour sortir du pétrole et du gaz.",
+      "excerpt": "Électrifier massivement nos usages pour sortir du pétrole et du gaz.",
+      "tags": [
+        "électrification",
+        "pétrole",
+        "gaz",
+        "climat"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/energie",
+        "locator": "Énergie, Nos propositions phares"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-env-03",
+      "theme": "environnement",
+      "title": "Décarboner l'industrie lourde et investir dans la capture de carbone",
+      "summary": "La décarbonation de l'industrie lourde serait accélérée, avec des investissements dans la capture de carbone et un prix du carbone aux frontières européennes.",
+      "excerpt": "Il propose d’accélérer sa décarbonation, d’investir massivement dans la capture de carbone et de la protéger par un prix du carbone aux frontières européennes.",
+      "tags": [
+        "industrie",
+        "carbone",
+        "émissions",
+        "taxe carbone"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/energie",
+        "locator": "Énergie, Q-R : Comment Édouard Philippe veut-il réduire les émissions de l'industrie ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-env-04",
+      "theme": "environnement",
+      "title": "Créer un fonds d'adaptation au changement climatique de 2 milliards d'euros par an",
+      "summary": "Un fonds d'adaptation au changement climatique doté de 2 milliards d'euros par an réunirait le fonds Barnier et le Fonds vert.",
+      "excerpt": "Édouard Philippe veut créer un fonds d’adaptation au changement climatique doté de 2 milliards d’euros par an. Il réunira le fonds Barnier et le Fonds vert, et financera des investissements dont l’impact devra être mesurable.",
+      "tags": [
+        "adaptation",
+        "climat",
+        "fonds vert",
+        "catastrophe naturelle"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/adaptation-climatique",
+        "locator": "Adaptation climatique, Q-R : Combien Édouard Philippe veut-il consacrer à l'adaptation au climat ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "philippe-env-05",
+      "theme": "environnement",
+      "title": "Créer un opérateur public unique d'adaptation fusionnant quatre agences",
+      "summary": "Un opérateur public unique, issu de la fusion de quatre agences existantes, accompagnerait les territoires dans leur adaptation au climat.",
+      "excerpt": "Il souhaite aussi mettre en place un fonds d’adaptation de 2 milliards d’euros par an, et un opérateur public unique, fusionnant quatre agences existantes, pour accompagner les territoires dans leur adaptation.",
+      "tags": [
+        "adaptation",
+        "climat",
+        "agences",
+        "territoires"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/adaptation-climatique",
+        "locator": "Adaptation climatique, Q-R : Comment Édouard Philippe veut-il adapter la France au réchauffement climatique ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "philippe-env-06",
+      "theme": "environnement",
+      "title": "Réutiliser 10 % des eaux usées traitées",
+      "summary": "10 % des eaux usées traitées seraient réutilisées pour les usages ne nécessitant pas d'eau potable, contre moins de 1 % aujourd'hui.",
+      "excerpt": "Il veut aussi réutiliser 10 % des eaux usées traitées pour les usages qui ne demandent pas d’eau potable, contre moins de 1 % aujourd’hui.",
+      "tags": [
+        "eau",
+        "sécheresse",
+        "eaux usées",
+        "recyclage"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/adaptation-climatique",
+        "locator": "Adaptation climatique, Q-R : Que fera Édouard Philippe contre le manque d'eau ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "philippe-env-07",
+      "theme": "environnement",
+      "title": "Accélérer le stockage de l'eau agricole",
+      "summary": "Le stockage de l'eau agricole serait accéléré.",
+      "excerpt": "Édouard Philippe veut accélérer le stockage de l’eau agricole, en plaçant « la protection avant la procédure ».",
+      "tags": [
+        "eau",
+        "agriculture",
+        "bassines",
+        "sécheresse"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/adaptation-climatique",
+        "locator": "Adaptation climatique, Q-R : Que fera Édouard Philippe contre le manque d'eau ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-env-08",
+      "theme": "environnement",
+      "title": "Climatiser les lieux accueillant des personnes fragiles et soutenir les réseaux de froid",
+      "summary": "Les lieux accueillant des personnes fragiles seraient climatisés et le fonds chaleur soutiendrait les réseaux de froid pour rafraîchir notamment les EHPAD et les logements sociaux.",
+      "excerpt": "Oui. Édouard Philippe veut climatiser massivement les lieux qui accueillent des personnes fragiles. Il veut aussi étendre le soutien du fonds chaleur aux réseaux de froid, pour rafraîchir notamment les EHPAD et les logements sociaux.",
+      "tags": [
+        "canicule",
+        "climatisation",
+        "ehpad",
+        "logement social"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/adaptation-climatique",
+        "locator": "Adaptation climatique, Q-R : Édouard Philippe veut-il climatiser les EHPAD ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-env-09",
+      "theme": "environnement",
+      "title": "Planter des arbres en ville et assouplir les règles d'urbanisme freinant l'adaptation",
+      "summary": "Les plantations d'arbres en ville seraient multipliées et les règles d'urbanisme freinant l'adaptation des espaces publics et des logements à la chaleur seraient levées.",
+      "excerpt": "Oui. Édouard Philippe veut multiplier les plantations d’arbres pour donner de l’ombre à nos villes, et lever les règles d’urbanisme qui freinent l’adaptation des espaces publics et des logements à la chaleur.",
+      "tags": [
+        "arbres",
+        "ville",
+        "canicule",
+        "urbanisme"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/adaptation-climatique",
+        "locator": "Adaptation climatique, Q-R : Édouard Philippe veut-il planter plus d'arbres en ville ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-env-10",
+      "theme": "environnement",
+      "title": "Lancer un plan baignade national pour les rivières",
+      "summary": "Un plan baignade national viserait à rendre baignables toutes les rivières et à rénover les piscines.",
+      "excerpt": "Oui. Édouard Philippe veut lancer un plan baignade national pour rendre baignables toutes nos rivières et rénover nos piscines.",
+      "tags": [
+        "rivière",
+        "baignade",
+        "piscine",
+        "eau"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/adaptation-climatique",
+        "locator": "Adaptation climatique, Q-R : Édouard Philippe veut-il qu'on puisse se baigner dans les rivières ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-env-11",
+      "theme": "environnement",
+      "title": "Construire des Canadairs en France et créer des réserves communales de volontaires",
+      "summary": "Des avions bombardiers d'eau seraient construits en France, des réserves de citoyens volontaires créées dans les communes et une journée nationale d'alerte organisée chaque année.",
+      "excerpt": "Il propose de construire en France nos propres « Canadairs » contre les incendies, de créer dans les communes des réserves de citoyens volontaires formés et d’organiser chaque année une journée nationale d’alerte, comme en Allemagne.",
+      "tags": [
+        "incendies",
+        "canadair",
+        "catastrophe naturelle",
+        "sécurité civile"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/adaptation-climatique",
+        "locator": "Adaptation climatique, Q-R : Que propose Édouard Philippe contre les incendies et les catastrophes naturelles ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-env-12",
+      "theme": "environnement",
+      "title": "Garantir jusqu'en 2032 les financements de l'eau à Mayotte",
+      "summary": "Les financements de l'eau à Mayotte seraient garantis jusqu'en 2032 et la création de retenues collinaires serait accélérée à La Réunion.",
+      "excerpt": "Édouard Philippe veut d’abord garantir dans la durée, jusqu’en 2032, les financements de l’eau à Mayotte, où l’accès à une eau de qualité et en quantité suffisante reste un enjeu de santé publique. À La Réunion, il veut accélérer la création de retenues collinaires pour stocker l’eau qui tombe.",
+      "tags": [
+        "eau",
+        "mayotte",
+        "la réunion",
+        "outre-mer"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/outre-mer",
+        "locator": "Outre-mer, Q-R : Que fera Édouard Philippe en matière de gestion de l'eau dans les territoires d'outre-mer ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-env-13",
+      "theme": "environnement",
+      "title": "Renforcer le prix du carbone aux frontières européennes",
+      "summary": "Les mécanismes de prix du carbone aux frontières européennes seraient renforcés.",
+      "excerpt": "Oui. Édouard Philippe veut un renforcement des mécanismes de prix du carbone aux frontières européennes.",
+      "tags": [
+        "taxe carbone",
+        "frontières",
+        "industrie",
+        "climat"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/energie",
+        "locator": "Énergie, Q-R : Édouard Philippe est-il pour une taxe carbone aux frontières ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-env-14",
+      "theme": "environnement",
+      "title": "Inscrire le développement agricole dans la Charte de l'environnement",
+      "summary": "Le développement agricole serait inscrit dans la Charte de l'environnement et le stockage de l'eau accéléré.",
+      "excerpt": "Il veut inscrire le développement agricole dans la Charte de l’environnement et accélérer le stockage de l’eau en plaçant « la protection avant la procédure ».",
+      "tags": [
+        "agriculture",
+        "charte de l'environnement",
+        "constitution",
+        "eau"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/adaptation-climatique",
+        "locator": "Adaptation climatique, Q-R : Pour Édouard Philippe, faut-il choisir entre écologie et agriculture ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "philippe-env-15",
+      "theme": "environnement",
+      "title": "Intégrer un volet environnemental au futur service national",
+      "summary": "Le futur service national comporterait un volet environnemental avec des missions de débroussaillage, d'entretien des forêts ou de sensibilisation du public.",
+      "excerpt": "Oui. Édouard Philippe veut intégrer un volet environnemental au futur service national. Les jeunes pourront participer à des missions de débroussaillage, d’entretien des forêts ou de sensibilisation du public.",
+      "tags": [
+        "service national",
+        "jeunes",
+        "forêt",
+        "environnement"
+      ],
+      "source": {
+        "url": "https://www.edouardphilippe.fr/programme/adaptation-climatique",
+        "locator": "Adaptation climatique, Q-R : Édouard Philippe veut-il faire participer les jeunes à la protection de l'environnement ?"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1908 @@
+{
+  "candidate_id": "ruffin",
+  "measures": [
+    {
+      "id": "ruffin-log-01",
+      "theme": "logement",
+      "title": "Généraliser l'encadrement des loyers à tout le territoire",
+      "summary": "Le cahier propose d'étendre l'encadrement des loyers à toutes les agglomérations puis à l'ensemble du territoire.",
+      "excerpt": "3 / En plus d’étendre cet encadrement des loyers à l’ensemble des agglomérations, nous proposons de le généraliser à l’ensemble du territoire.",
+      "tags": [
+        "encadrement des loyers",
+        "loyer",
+        "locataire",
+        "location"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+        "locator": "Cahier de campagne n°6, Face à la crise du logement, 1. Encadrer les loyers, Proposition 1"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-log-02",
+      "theme": "logement",
+      "title": "Doubler le montant du prêt à taux zéro",
+      "summary": "Le PTZ moyen passerait d'environ 60 000 à 120 000 euros, soit un avantage supplémentaire pouvant atteindre 30 000 euros sur 15 à 25 ans selon le cahier.",
+      "excerpt": "Avec un PTZ moyen passant d’environ 60 000 euros actuellement à 120 000 euros, l’avantage supplémentaire peut atteindre 30 000 euros étalés sur 15 à 25 ans, soit un gain de pouvoir d’achat de 1 000 à 2 000 euros par an.",
+      "tags": [
+        "prêt à taux zéro",
+        "ptz",
+        "acheter",
+        "propriétaire",
+        "accession"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+        "locator": "Cahier de campagne n°6, Face à la crise du logement, 1. Encadrer les loyers et les prix, Proposition 2"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-log-03",
+      "theme": "logement",
+      "title": "Supprimer l'abattement pour durée de détention sur les plus-values immobilières hors résidence principale",
+      "summary": "Le cahier propose de supprimer l'abattement progressif sur les plus-values des logements et terrains autres que les résidences principales, avec au moins 3 milliards d'euros de recettes annuelles attendues.",
+      "excerpt": "Cette suppression de l’abattement sur les plus-values ne concerne pas les résidences principales, mais l’ensemble des autres logements et terrains et donc principalement les multipropriétaires les plus aisés. Cette réforme fiscale permettrait à la fois de lutter contre la rétention foncière et l’injustice fiscale, tout en rapportant au moins 3 milliards d’euros par an de recettes publiques supplémentaires .",
+      "tags": [
+        "plus-value",
+        "immobilier",
+        "impôt",
+        "résidence secondaire"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+        "locator": "Cahier de campagne n°6, Face à la crise du logement, 1. Encadrer les loyers et les prix, Proposition 3"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-log-04",
+      "theme": "logement",
+      "title": "Imposer les locations touristiques au moins deux fois plus qu'actuellement",
+      "summary": "Le cahier propose d'imposer les locations occasionnelles au moins deux fois plus qu'aujourd'hui et de réduire l'imposition des locations pérennes abordables.",
+      "excerpt": "Pour faciliter cette régulation renforcée des usages, les logements abordables ne doivent pas seulement être moins imposés : ils doivent devenir plus rentables que les locations occasionnelles, en imposant les usages occasionnels au moins deux fois plus qu’actuellement, tout en réduisant l’imposition des locations pérennes abordables.",
+      "tags": [
+        "meublé touristique",
+        "airbnb",
+        "location",
+        "impôt"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+        "locator": "Cahier de campagne n°6, Face à la crise du logement, 2. Assurer que le logement sert à loger, Proposition 1"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-log-05",
+      "theme": "logement",
+      "title": "Financer par l'État des effectifs socles de police intercommunale du logement",
+      "summary": "L'État garantirait des moyens humains socles de contrôle du logement sur tout le territoire, par exemple en finançant 75 % du besoin d'ETP.",
+      "excerpt": "C’est pourquoi nous proposons que l’État garantisse des moyens humains « socles » partout sur le territoire , modulés selon les enjeux en termes d’habitat indigne, de loyers excessifs et d’invasion des locations touristiques. Par exemple avec un financement de 75% du besoin d’ETP « socles », complété par des formations et un accompagnement des référents locaux par les ARS qui sont en charge des procédures d’insalubrité les plus graves.",
+      "tags": [
+        "habitat indigne",
+        "marchand de sommeil",
+        "contrôle",
+        "logement insalubre"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+        "locator": "Cahier de campagne n°6, Face à la crise du logement, 2. Assurer que le logement sert à loger, Proposition 2"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-log-06",
+      "theme": "logement",
+      "title": "Porter les sanctions à au moins deux fois les gains illégaux",
+      "summary": "Le cahier propose que les sanctions en matière de régulation du logement soient systématiquement au moins deux fois supérieures aux gains illégaux constatés.",
+      "excerpt": "En complément, les sanctions doivent devenir systématiquement au moins 2 fois supérieures aux gains illégaux constatés afin d’être dissuasives (et non 2 à 5 fois inférieures comme actuellement).",
+      "tags": [
+        "sanction",
+        "amende",
+        "meublé touristique",
+        "loyer"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+        "locator": "Cahier de campagne n°6, Face à la crise du logement, 2. Assurer que le logement sert à loger, Proposition 2"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-log-07",
+      "theme": "logement",
+      "title": "Abroger la loi Kasbarian-Bergé",
+      "summary": "Le cahier inscrit en priorité d'un nouveau plan quinquennal contre le sans-abrisme l'abrogation de la loi Kasbarian-Bergé.",
+      "excerpt": "Un nouveau plan quinquennal est à concevoir avec les acteurs associatifs et professionnels concernés, articulé autour des priorités suivantes : d’abord il est urgent d’abroger la loi « Kasbarian-Bergé » qui a fait exploser le nombre d’expulsions en abandonnant la prévention et en brutalisant la relation bailleur/locataire.",
+      "tags": [
+        "expulsion",
+        "locataire",
+        "sans-abri",
+        "kasbarian"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+        "locator": "Cahier de campagne n°6, Face à la crise du logement, 2. Assurer que le logement sert à loger, Proposition 3"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-log-08",
+      "theme": "logement",
+      "title": "Ouvrir 8 000 places d'hébergement d'urgence supplémentaires par an",
+      "summary": "Le cahier prévoit l'ouverture de 8 000 places d'hébergement d'urgence supplémentaires chaque année dans les zones tendues.",
+      "excerpt": "Ensuite, pour répondre à la hausse des demandes, l’ouverture de 8 000 places d’hébergement d’urgence supplémentaires chaque année dans les zones tendues.",
+      "tags": [
+        "hébergement d'urgence",
+        "115",
+        "sans-abri",
+        "sans domicile"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+        "locator": "Cahier de campagne n°6, Face à la crise du logement, 2. Assurer que le logement sert à loger, Proposition 3"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-log-09",
+      "theme": "logement",
+      "title": "Produire 200 000 logements publics par an",
+      "summary": "L'objectif est de produire chaque année 200 000 logements à loyer réglementé, dont 40 000 pour les étudiants et jeunes travailleurs.",
+      "excerpt": "L’objectif est donc de produire chaque année 200 000 logements, dont 40 000 spécifiquement pour les étudiants et les jeunes travailleurs.",
+      "tags": [
+        "logement social",
+        "hlm",
+        "construction",
+        "logement public"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+        "locator": "Cahier de campagne n°6, Face à la crise du logement, 3. Produire 200 000 nouveaux logements publics par an"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-log-10",
+      "theme": "logement",
+      "title": "Créer 200 000 places de logement pour étudiants et jeunes actifs d'ici 2032",
+      "summary": "Le plan logement des jeunes fixe 200 000 places d'ici 2032, dont 150 000 pour étudiants et 50 000 pour jeunes actifs, dans les métropoles les plus exposées.",
+      "excerpt": "Pour répondre à ces tensions, le plan fixe un objectif ambitieux de 200 000 places d’ici 2032 (150 000 étudiantes dont 75 000 en complément du programme AGiLE et 50 000 jeunes actifs), concentrées dans les métropoles les plus exposées, avec davantage de colocations et des implantations au plus près des transports structurants et des lieux d’enseignement, à l’image des campus scandinaves.",
+      "tags": [
+        "logement étudiant",
+        "crous",
+        "jeunes actifs",
+        "colocation"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+        "locator": "Cahier de campagne n°6, Face à la crise du logement, 3. Produire, Proposition 1"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "ruffin-log-11",
+      "theme": "logement",
+      "title": "Créer 25 000 places par an en résidences autonomie et habitat partagé pour seniors",
+      "summary": "Le cahier propose un plan de 25 000 nouvelles places annuelles en résidences autonomie, habitat inclusif et habitat partagé pour seniors en perte d'autonomie légère.",
+      "excerpt": "Un plan de développement des résidences autonomie (113 000 places en France actuellement), habitat inclusif et habitat partagé à hauteur de 25 000 nouvelles places annuelles permettrait d’accueillir les seniors en perte d’autonomie légère, afin de recentrer les Ehpad sur les cas les plus lourds (GIR 1 & 2).",
+      "tags": [
+        "senior",
+        "résidence autonomie",
+        "ehpad",
+        "personnes âgées"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+        "locator": "Cahier de campagne n°6, Face à la crise du logement, 3. Produire, Proposition 2"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-log-12",
+      "theme": "logement",
+      "title": "Augmenter de 2 à 3 milliards d'euros par an les aides aux bailleurs sociaux",
+      "summary": "Le cahier juge nécessaire un retour au niveau de soutien d'avant 2018, soit 2 à 3 milliards d'euros de plus par an, amplifié progressivement.",
+      "excerpt": "Un retour à la situation d’avant 2018 (soit +2 à 3 milliards d’euros par an) est nécessaire à court terme et devra être amplifié progressivement.",
+      "tags": [
+        "logement social",
+        "hlm",
+        "bailleur social"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+        "locator": "Cahier de campagne n°6, Face à la crise du logement, 3. Produire, Proposition 3"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-log-13",
+      "theme": "logement",
+      "title": "Produire un million de logements à loyer réduit en 5 ans",
+      "summary": "Le cahier propose au total un million de nouveaux logements à loyer réduit en 5 ans, en incluant les logements jeunes et les résidences seniors.",
+      "excerpt": "Ajoutés aux 200 000 logements publics pour les jeunes et aux résidences séniors, nous proposons un total d’un million de nouveaux logements à loyer réduit en 5 ans qui permettront de réduire de 1 000 à 3 000 euros par an le coût du logement pour des jeunes, familles et séniors.",
+      "tags": [
+        "loyer",
+        "logement social",
+        "construction",
+        "logement abordable"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+        "locator": "Cahier de campagne n°6, Face à la crise du logement, 3. Produire, Proposition 3"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "ruffin-log-14",
+      "theme": "logement",
+      "title": "Réhabiliter 60 000 puis 80 000 logements vacants dégradés par an",
+      "summary": "Le cahier vise progressivement 60 000 puis 80 000 réhabilitations de logements vacants dégradés par an, financées par environ 15 % du plan rénovation de 15 milliards d'euros par an.",
+      "excerpt": "Avec la perspective d’atteindre progressivement 60 000 puis 80 000 réhabilitations de logements vacants dégradés par an (contre moins de 10 000 par an actuellement, sans donnée précise sur ce sujet), qui mobiliseront environ 15% du plan de 15 Mds/an prévus pour l’ensemble des logements à rénover.",
+      "tags": [
+        "logement vacant",
+        "réhabilitation",
+        "rénovation"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+        "locator": "Cahier de campagne n°6, Face à la crise du logement, 4. Rénover massivement, Proposition 3"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-log-15",
+      "theme": "logement",
+      "title": "Ouvrir le 1 % logement aux salariés des entreprises de moins de 10 salariés et y prioriser les travailleurs essentiels",
+      "summary": "Le cahier propose de supprimer la condition des 10 salariés et plus pour l'accès au 1 % patronal et de prioriser les travailleurs essentiels dans ses aides.",
+      "excerpt": "1 / La suppression de la condition des « 10 salariés et plus » pour permettre aux travailleuses et travailleurs essentiels d’avoir accès aux services du 1 % patronal. 2 / Une priorisation des travailleuses et travailleurs essentiels dans l’accès aux dispositifs et aux aides financées par le 1 % patronal.",
+      "tags": [
+        "1% logement",
+        "action logement",
+        "salarié",
+        "travailleurs essentiels"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+        "locator": "Cahier de campagne n°1, Statut des travailleurs essentiels, Logements, Proposition 2"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-sante-01",
+      "theme": "santé",
+      "title": "Prendre en charge à 100 % 12 séances de psychologue pour les habitants des zones sinistrées",
+      "summary": "Le plan prévoit 12 séances d'accompagnement psychologique remboursées à 100 % en accès direct pour les habitants des zones sinistrées, et 12 séances supplémentaires après consultation d'un médecin.",
+      "excerpt": "Nous proposons une prise en charge à 100 % et un accès direct de 12 séances pour les habitants des zones sinistrées , avec la possibilité d’accéder à 12 séances supplémentaires prises en charge après consultation d’un médecin .",
+      "tags": [
+        "psychologue",
+        "santé mentale",
+        "remboursement",
+        "catastrophe naturelle"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/plan-urgence-climat/",
+        "locator": "Plan urgence climat, Partie I, 2. Soutenir les victimes des incendies"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-sante-02",
+      "theme": "santé",
+      "title": "Créer un pôle public du médicament",
+      "summary": "Le cahier propose un pôle public du médicament combinant une production publique de produits de base critiques et une participation majoritaire dans des pôles dédiés aux médicaments innovants.",
+      "excerpt": "C’est notamment le cas pour la proposition de pôle public du médicament à « 2 étages » : une production publique à court terme pour les produits de base critiques et une participation majoritaire dans des pôles d’entreprises dédiés aux médicaments innovants pour le moyen terme.",
+      "tags": [
+        "médicament",
+        "pénurie",
+        "pharmacie",
+        "production publique"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/pour-proteger-notre-industrie-relocaliser-100-produits-strategiques/",
+        "locator": "Cahier de campagne n°7, Industrie, 3. Réorienter les soutiens, Proposition 2"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-sante-03",
+      "theme": "santé",
+      "title": "Assurer au moins un infirmier et un psychologue scolaire par établissement du second degré",
+      "summary": "Le cahier prévoit au moins un infirmier et un psychologue scolaire par établissement du second degré et par bassin du premier degré, et un RASED complet par circonscription.",
+      "excerpt": "Nous assurerons la présence effective d’au moins un infirmier et un psychologue scolaire par établissement du second degré et par bassin du premier degré, et d’un RASED au complet dans chaque circonscription.",
+      "tags": [
+        "infirmier scolaire",
+        "psychologue",
+        "santé",
+        "école"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+        "locator": "Cahier de campagne n°8, Éducation, 3. Proposition 2"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-sante-04",
+      "theme": "santé",
+      "title": "Créer un service unifié de santé scolaire par rectorat",
+      "summary": "Le cahier prévoit de regrouper médecins, infirmiers, assistants sociaux et psychologues dans une structure par rectorat assurant des visites médicales annuelles pour enseignants et élèves.",
+      "excerpt": "3 / Installer une véritable médecine du travail et des services unifiés de santé scolaire, en regroupant médecins, infirmiers, assistants sociaux et psychologues au sein d’une structure unique par rectorat. Ce service garantira des visites médicales annuelles pour les enseignants et les élèves, mettra en place des cellules d’écoute et organisera un suivi de terrain, afin qu’aucun signalement d’enseignant en danger ne reste sans réponse.",
+      "tags": [
+        "médecine scolaire",
+        "visite médicale",
+        "santé",
+        "élève"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+        "locator": "Cahier de campagne n°8, Éducation, 4. Proposition 3"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-pa-01",
+      "theme": "pouvoir d'achat",
+      "title": "Indexer les salaires sur l'inflation",
+      "summary": "Le cahier prévoit d'indexer les salaires sur l'inflation, comme jusqu'en 1982.",
+      "excerpt": "Pour en finir avec cette érosion du pouvoir d’achat, nous indexerons les salaires sur l’inflation, comme cela a existé jusqu’en 1982.",
+      "tags": [
+        "salaire",
+        "inflation",
+        "indexation",
+        "pouvoir d'achat"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+        "locator": "Cahier de campagne n°1, Statut des travailleurs essentiels, Salaires, Proposition 1"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-pa-02",
+      "theme": "pouvoir d'achat",
+      "title": "Porter le SMIC à 1 600 euros",
+      "summary": "La responsable du programme situe celui-ci dans la continuité du Nouveau Front populaire et cite le SMIC à 1 600 euros parmi ses mesures.",
+      "excerpt": "La première : nous avons besoin d’un programme ancré dans la continuité des acquis du Nouveau Front Populaire . Du commun, du collectif, pour nous présenter unis devant les électrices et électeurs et l’emporter. Des mesures fortes, concrètes, comme le SMIC à 1 600€ ou la retraite à 60 ans, qui revalorisent le travail.",
+      "tags": [
+        "smic",
+        "salaire minimum",
+        "salaire",
+        "1600"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+        "locator": "Cahier de campagne n°1, Statut des travailleurs essentiels, Mot de la fin"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-pa-03",
+      "theme": "pouvoir d'achat",
+      "title": "Revaloriser les grilles de classification salariale",
+      "summary": "Le cahier prévoit de revaloriser les grilles de classification pour supprimer les minima de branche inférieurs au SMIC et permettre plus de progression.",
+      "excerpt": "Pour en finir avec les grilles salariales en dessous du SMIC et permettre plus de progression au cours de la carrière, nous revaloriserons les grilles de classification.",
+      "tags": [
+        "salaire",
+        "smic",
+        "branche",
+        "grille salariale"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+        "locator": "Cahier de campagne n°1, Statut des travailleurs essentiels, Salaires, Proposition 2"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-pa-04",
+      "theme": "pouvoir d'achat",
+      "title": "Instaurer une taxe flottante sur les carburants",
+      "summary": "Le plan propose d'ajuster l'accise pour garantir un prix prévisible des carburants, par exemple autour de 2 euros le litre en 2027 jusqu'à 2,2 euros en 2032.",
+      "excerpt": "Instaurer une taxe flottante sur les carburants pour limiter leur impact sur le pouvoir d’achat et les finances publiques . L’objectif serait d’ajuster l’accise sur les carburants pour garantir un prix prévisible et légèrement progressif dans le temps, afin de diriger les investissements vers les moyens de transports décarbonés (ex. autour de 2€/litre en 2027 jusqu’à 2,2€/litre en 2032).",
+      "tags": [
+        "carburant",
+        "essence",
+        "prix à la pompe",
+        "taxe",
+        "diesel"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/plan-de-redressement/",
+        "locator": "Plan de redressement, 3.6"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://nouspresident.fr/plan-de-redressement/",
+          "note": "Le plan de redressement chiffre la taxe flottante et la réforme des aides aux déplacements à 0,5 Md€ en 2027 et 0,5 Md€ par an en moyenne sur 5 ans (annexe 2), en regard des économies et recettes de l'annexe 1. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "ruffin-pa-05",
+      "theme": "pouvoir d'achat",
+      "title": "Créer un crédit d'impôt pour les trajets domicile-travail en voiture",
+      "summary": "Le plan propose de remettre à plat les avantages fiscaux sur les véhicules et d'instaurer un crédit d'impôt couvrant un pourcentage uniforme des trajets domicile-travail.",
+      "excerpt": "Remettre à plat les avantages fiscaux sur les véhicules et instaurer un crédit d’impôt couvrant un pourcentage uniforme des déplacements automobiles domicile-travail. Cela permettrait d’éviter les effets de seuil injustes des aides actuelles et de protéger davantage ceux qui sont contraints d’effectuer de longs déplacements pour aller travailler.",
+      "tags": [
+        "crédit d'impôt",
+        "voiture",
+        "trajet",
+        "frais kilométriques",
+        "carburant"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/plan-de-redressement/",
+        "locator": "Plan de redressement, 3.6"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://nouspresident.fr/plan-de-redressement/",
+          "note": "Le plan de redressement indique un coût public net n'excédant pas 500 millions d'euros par an, financé en quasi-totalité par la réduction d'avantages fiscaux existants. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "ruffin-pa-06",
+      "theme": "pouvoir d'achat",
+      "title": "Fixer les prix de l'électricité sur les coûts de production",
+      "summary": "Le cahier prévoit de supprimer la concurrence sur la vente d'électricité aux consommateurs et de baser les prix de vente sur les coûts réels de production.",
+      "excerpt": "1 / Nous supprimerons la concurrence sur la vente d’électricité aux consommateurs : fini la spéculation et le démarchage téléphonique abusif, retour à un service public dont les prix de vente seront basés sur les coûts réels de production.",
+      "tags": [
+        "électricité",
+        "facture",
+        "prix de l'énergie",
+        "edf"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/travaillisme-ecologique/",
+        "locator": "Cahier de campagne n°5, Travaillisme écologique, 3. Proposition 5"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-pa-07",
+      "theme": "pouvoir d'achat",
+      "title": "Lisser les réductions de cotisations près du SMIC",
+      "summary": "Le cahier propose des réductions de cotisations moins fortes au voisinage du SMIC et plus progressives, afin de limiter le blocage des salaires.",
+      "excerpt": "Des réductions un peu moins fortes à proximité du Smic et plus progressives permettront à la fois de « désmicardiser » les salaires et de davantage centrer les soutiens publics sur l’industrie où les salaires sont plus élevés.",
+      "tags": [
+        "cotisations",
+        "smic",
+        "salaire",
+        "allègements"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/pour-proteger-notre-industrie-relocaliser-100-produits-strategiques/",
+        "locator": "Cahier de campagne n°7, Industrie, 3. Proposition 1"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-emploi-01",
+      "theme": "emploi",
+      "title": "Créer une majoration pour les heures en horaires atypiques",
+      "summary": "Le cahier prévoit une nouvelle catégorie d'horaires atypiques dans le code du travail, assortie d'une majoration des heures concernées.",
+      "excerpt": "Il nous faut ainsi protéger ces travailleuses et travailleurs en créant une nouvelle catégorie d’horaires dans le code du travail, et instaurer une majoration significative pour les heures réalisées en horaires atypiques pour dissuader les employeurs d’y recourir, lorsque cette organisation n’est pas justifiée par la continuité du service.",
+      "tags": [
+        "horaires atypiques",
+        "majoration",
+        "code du travail",
+        "travail du soir"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+        "locator": "Cahier de campagne n°1, Statut des travailleurs essentiels, Horaires, Proposition 1"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-emploi-02",
+      "theme": "emploi",
+      "title": "Rémunérer les coupures de plus de 2 heures et le temps de trajet entre interventions",
+      "summary": "Le cahier prévoit la rémunération forfaitaire des coupures de plus de 2 heures imposées, une durée de service minimale et la prise en compte des trajets entre interventions comme temps de travail.",
+      "excerpt": "Systématiser la rémunération forfaitaire des coupures de plus de 2 h imposées par l’employeur. ● Instaurer le principe d’une durée de service minimale. ● Ajouter du temps rémunéré à toute prise de poste. ● Compter le temps de transport entre deux interventions comme du temps de travail effectif.",
+      "tags": [
+        "temps de travail",
+        "aide à domicile",
+        "coupure",
+        "trajet"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+        "locator": "Cahier de campagne n°1, Statut des travailleurs essentiels, Horaires, Proposition 2"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-emploi-03",
+      "theme": "emploi",
+      "title": "Sanctionner les temps partiels inférieurs à 24 heures par semaine",
+      "summary": "Le cahier propose de limiter les dérogations conventionnelles à la durée minimale de travail et de sanctionner les entreprises qui y recourent.",
+      "excerpt": "C’est pourquoi nous voulons limiter les possibilités de dérogations conventionnelles à la durée minimale du travail et sanctionner les entreprises qui y ont recours (actuellement, aucune sanction n’est fixée par le code du travail en cas d’infraction à la durée minimale de 24 heures).",
+      "tags": [
+        "temps partiel",
+        "durée du travail",
+        "24 heures",
+        "contrat"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+        "locator": "Cahier de campagne n°1, Statut des travailleurs essentiels, Horaires, Proposition 3"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-emploi-04",
+      "theme": "emploi",
+      "title": "Créer un droit opposable à la formation jusqu'au niveau bac après 5 ans dans un métier essentiel",
+      "summary": "Le cahier prévoit un droit opposable à se former, avec maintien du salaire, pour atteindre le niveau bac après 5 ans dans un métier essentiel.",
+      "excerpt": "En rendant plus ferme l’obligation de formation des employeurs à travers un droit opposable à se former avec maintien intégral du salaire pour acquérir le niveau Bac après 5 ans au sein d’un métier essentiel.",
+      "tags": [
+        "formation",
+        "reconversion",
+        "bac",
+        "salarié"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+        "locator": "Cahier de campagne n°1, Statut des travailleurs essentiels, Carrières, Proposition 2"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-emploi-05",
+      "theme": "emploi",
+      "title": "Aligner les droits des salariés sous-traitants sur ceux du donneur d'ordre",
+      "summary": "Le cahier propose une obligation légale d'appliquer aux salariés sous-traitants le régime le plus favorable entre celui de leur entreprise et celui du donneur d'ordre.",
+      "excerpt": "Nous voulons que les salariés sous-traitants puissent bénéficier des mêmes droits que les salariés de l’entreprise donneuse d’ordre (portabilité des droits). Afin de contraindre le dumping social lié au recours à la sous-traitance, nous voulons créer une obligation légale de faveur , visant à appliquer le régime le plus favorable entre le régime de l’entreprise sous-traitante ou le régime de l’entreprise donneuse d’ordre.",
+      "tags": [
+        "sous-traitance",
+        "salarié",
+        "droits",
+        "dumping social"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+        "locator": "Cahier de campagne n°1, Statut des travailleurs essentiels, Contrats, Proposition 1"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-emploi-06",
+      "theme": "emploi",
+      "title": "Contrôler et pénaliser le recours abusif à l'intérim",
+      "summary": "Le cahier propose de contrôler et de menacer de pénalités les entreprises qui renouvellent sans cesse des contrats d'intérim, et de recruter des inspecteurs du travail.",
+      "excerpt": "Il s’agit de contrôler et menacer de pénalités les entreprises (surtout dans l’industrie) qui renouvellent incessamment les contrats d’intérim de 3×6 mois. La loi existe mais il faut la rendre effective, notamment en recrutant un nombre suffisant d’inspecteurs du travail.",
+      "tags": [
+        "intérim",
+        "inspection du travail",
+        "contrat",
+        "précarité"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+        "locator": "Cahier de campagne n°1, Statut des travailleurs essentiels, Contrats, Proposition 2"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-emploi-07",
+      "theme": "emploi",
+      "title": "Généraliser Territoires zéro chômeur de longue durée",
+      "summary": "Le cahier prévoit de généraliser le dispositif Territoires zéro chômeur de longue durée à tous les territoires.",
+      "excerpt": "Nous Président, nous généraliserons le dispositif « Territoires zéro chômeur de longue durée » (TZCLD) dans tous les territoires. Ce dispositif permet aux personnes en recherche d’emploi depuis plus d’un an de bénéficier d’un emploi à durée indéterminée et à temps choisi, dans des structures dites « à but d’emploi ».",
+      "tags": [
+        "chômage",
+        "chômeur longue durée",
+        "tzcld",
+        "emploi"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/travaillisme-ecologique/",
+        "locator": "Cahier de campagne n°5, Travaillisme écologique, 1. Proposition 1"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-emploi-08",
+      "theme": "emploi",
+      "title": "Présenter avant l'été 2027 une loi sur le travail pendant les fortes chaleurs",
+      "summary": "Une loi sur l'adaptation du travail aux vagues de chaleur et aux risques climatiques serait soumise au Parlement avant l'été 2027, avec des contrôles et sanctions renforcés sur la prévention par les employeurs.",
+      "excerpt": "Une loi dédiée à l’adaptation du travail aux vagues de chaleur et aux risques climatiques (inondations, tempêtes, pluies intenses) sera soumise au Parlement avant l’été 2027 pour protéger les travailleuses et les travailleurs des fortes chaleurs : Nous renforcerons les contrôles et sanctions concernant la mise en œuvre des mesures de prévention par les employeurs.",
+      "tags": [
+        "canicule",
+        "chaleur",
+        "conditions de travail",
+        "chômage technique"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/travaillisme-ecologique/",
+        "locator": "Cahier de campagne n°5, Travaillisme écologique, 1. Proposition 3"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-emploi-09",
+      "theme": "emploi",
+      "title": "Fixer des seuils de température imposant l'arrêt du travail",
+      "summary": "Pour les métiers les plus exposés, le cahier prévoit des seuils de température au-delà desquels l'arrêt de travail devient obligatoire.",
+      "excerpt": "Pour les métiers les plus exposés, nous inscrirons des seuils de température à partir desquels l’arrêt de travail est obligatoire, dépendant des conditions de travail et des conditions météorologiques (humidité notamment).",
+      "tags": [
+        "canicule",
+        "température",
+        "arrêt de travail",
+        "chaleur"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/travaillisme-ecologique/",
+        "locator": "Cahier de campagne n°5, Travaillisme écologique, 1. Proposition 3"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-emploi-10",
+      "theme": "emploi",
+      "title": "Créer 60 000 contrats aidés pour les associations",
+      "summary": "Le cahier prévoit 60 000 postes en contrats aidés pris en charge par l'État pour les associations, mutualisés à l'échelle des communes et intercommunalités.",
+      "excerpt": "Nous rétablirons des contrats aidés dédiés, avec l’embauche de 60 000 postes pris en charge par l’État pour épauler les associations dans leurs démarches administratives, mutualisés à l’échelle des communes et intercommunalités.",
+      "tags": [
+        "contrats aidés",
+        "association",
+        "emploi aidé"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/temps-loisirs/",
+        "locator": "Cahier de campagne n°3, Temps des loisirs, 1. Proposition 3"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-emploi-11",
+      "theme": "emploi",
+      "title": "Doubler les postes FONJEP et porter l'aide à 15 000 euros par poste",
+      "summary": "Le cahier prévoit de doubler le nombre de postes FONJEP et de porter l'aide à 15 000 euros par poste.",
+      "excerpt": "En plus des emplois aidés, nous doublerons le nombre de postes FONJEP et nous porterons l’aide à 15 000 € par poste.",
+      "tags": [
+        "fonjep",
+        "association",
+        "éducation populaire"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/temps-loisirs/",
+        "locator": "Cahier de campagne n°3, Temps des loisirs, 1. Proposition 3"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-emploi-12",
+      "theme": "emploi",
+      "title": "Créer un congé bénévole rémunéré d'une demi-journée par mois",
+      "summary": "Le cahier prévoit un congé bénévole ouvert à tous sans perte de revenus, permettant aux salariés des grandes entreprises de s'engager une demi-journée par mois.",
+      "excerpt": "2/ Nous créerons un véritable congé bénévole, ouvert à toutes et tous, y compris sans mandat statutaire, et sans perte de revenus, ce qui permettra aux salariés des grandes entreprises de s’engager dans l’association de leur choix une demi-journée par mois sur le modèle du mécénat de compétences.",
+      "tags": [
+        "bénévolat",
+        "congé",
+        "association",
+        "salarié"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/temps-loisirs/",
+        "locator": "Cahier de campagne n°3, Temps des loisirs, 1. Proposition 1"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-emploi-13",
+      "theme": "emploi",
+      "title": "Doubler le nombre de formations de reconversion financées",
+      "summary": "Le cahier propose de doubler le nombre de formations de reconversion bénéficiant d'un financement public.",
+      "excerpt": "C’est pourquoi nous proposons de doubler le nombre de formations de reconversions bénéficiant d’un financement public , afin de rendre possible les mutations professionnelles liées à la réindustrialisation et aux autres chantiers écologiques.",
+      "tags": [
+        "reconversion",
+        "formation",
+        "transition pro"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/pour-proteger-notre-industrie-relocaliser-100-produits-strategiques/",
+        "locator": "Cahier de campagne n°7, Industrie, 5. Proposition 2"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-emploi-14",
+      "theme": "emploi",
+      "title": "Créer un droit à un congé rémunéré de retour aux études",
+      "summary": "Tout actif jamais diplômé du supérieur pourrait bénéficier une fois dans sa carrière d'un congé rémunéré pour suivre une formation diplômante.",
+      "excerpt": "Dans le supérieur, nous généraliserons les dispositifs de réorientation intra et inter-filières (semestres rebond, passerelles vers BUT ou écoles) et créerons un droit universel au « retour aux études » : comme pour tous les travailleurs essentiels du pays, tout actif n’ayant jamais été diplômé du supérieur pourra bénéficier, une fois dans sa carrière, d’un congé rémunéré pour suivre une formation diplômante adaptée à ses contraintes.",
+      "tags": [
+        "reprise d'études",
+        "formation",
+        "congé",
+        "diplôme"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+        "locator": "Cahier de campagne n°8, Éducation, 2. Proposition 3"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-emploi-15",
+      "theme": "emploi",
+      "title": "Rendre le BAFA gratuit",
+      "summary": "Le cahier prévoit la gratuité du BAFA, dont le coût est aujourd'hui de 700 à 1 300 euros.",
+      "excerpt": "Nous rendrons le BAFA gratuit. Le BAFA coûte aujourd’hui entre 700 et 1 300 euros.",
+      "tags": [
+        "bafa",
+        "animateur",
+        "jeunes",
+        "formation"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/temps-loisirs/",
+        "locator": "Cahier de campagne n°3, Temps des loisirs, 2. Proposition 1"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-etudes-01",
+      "theme": "études",
+      "title": "Convoquer des États généraux de l'Éducation dès 2027",
+      "summary": "Des États généraux de l'Éducation seraient convoqués dès 2027 pour définir les objectifs et les moyens à horizon de 5 à 10 ans.",
+      "excerpt": "Et nous convoquerons des États généraux de l’Éducation dès 2027, dont le travail définira à horizon de 5-10 ans les objectifs à atteindre et les moyens d’y parvenir.",
+      "tags": [
+        "école",
+        "éducation nationale",
+        "réforme",
+        "enseignant"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+        "locator": "Cahier de campagne n°8, Éducation, Notre projet"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-etudes-02",
+      "theme": "études",
+      "title": "Attendre au moins deux ans avant de généraliser une réforme éducative",
+      "summary": "Le cahier fixe comme règle d'attendre au moins deux ans après la promulgation d'une réforme avant son déploiement à grande échelle.",
+      "excerpt": "Attendre au moins deux ans après la promulgation d’une réforme pour la déployer à grande échelle.",
+      "tags": [
+        "réforme",
+        "école",
+        "éducation"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+        "locator": "Cahier de campagne n°8, Éducation, 1. Proposition 1"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-etudes-03",
+      "theme": "études",
+      "title": "Créer au collège un enseignement de savoirs techniques et pratiques",
+      "summary": "Le cahier propose une discipline de savoirs techniques et pratiques au collège, autour de l'artisanat et des savoirs ménagers.",
+      "excerpt": "1 / Réparer, jardiner, cuisiner : créer au collège un enseignement disciplinaire des « Savoirs Techniques et Pratiques » , articulé autour de l’artisanat (menuiserie, mécanique, jardinage) et des savoirs ménagers (cuisine, couture, entretien).",
+      "tags": [
+        "collège",
+        "enseignement pratique",
+        "programme scolaire",
+        "élève"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+        "locator": "Cahier de campagne n°8, Éducation, 2. Proposition 1"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-etudes-04",
+      "theme": "études",
+      "title": "Allonger le CAP à 3 ans et le bac professionnel à 4 ans",
+      "summary": "Le cahier propose de repasser le CAP en formation initiale à 3 ans et le bac professionnel à 4 ans.",
+      "excerpt": "1 / Repasser la durée d’un CAP en formation initiale à 3 ans (2 aujourd’hui), et celle d’un Bac professionnel à 4 ans (3 aujourd’hui).",
+      "tags": [
+        "bac pro",
+        "cap",
+        "lycée professionnel",
+        "voie professionnelle"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+        "locator": "Cahier de campagne n°8, Éducation, 2. Proposition 2"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-etudes-05",
+      "theme": "études",
+      "title": "Engager la réflexion sur un lycée unique à horizon de 10 ans ou plus",
+      "summary": "Le cahier prévoit une réflexion sur le rapprochement des voies générale et professionnelle en lycée unique, avec une application visée à horizon de 10 ans ou plus.",
+      "excerpt": "Nous lancerons une réflexion sur cet objectif, en visant une application à horizon de 10 ans ou plus.",
+      "tags": [
+        "lycée",
+        "voie professionnelle",
+        "lycée unique"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+        "locator": "Cahier de campagne n°8, Éducation, 2. Proposition 3"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-etudes-06",
+      "theme": "études",
+      "title": "Supprimer la mention du lycée d'origine dans les dossiers Parcoursup",
+      "summary": "Le cahier propose de retirer le lycée d'origine des dossiers de candidature et de réfléchir à l'harmonisation nationale du contrôle continu.",
+      "excerpt": "3 / Supprimer la mention du lycée d’origine dans le dossier des candidats. Lancer une réflexion sur l’harmonisation du contrôle continu au niveau national, pour que la sélection puisse se faire sur des bases justes.",
+      "tags": [
+        "parcoursup",
+        "lycée",
+        "orientation",
+        "dossier"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+        "locator": "Cahier de campagne n°8, Éducation, 2. Proposition 4"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-etudes-07",
+      "theme": "études",
+      "title": "Donner la priorité au classement des vœux des élèves dans l'algorithme d'affectation",
+      "summary": "Le cahier propose de remplacer l'algorithme d'appariement de Parcoursup pour donner la priorité au classement des vœux des élèves.",
+      "excerpt": "6 / Remplacer l’algorithme d’appariement pour donner la priorité au classement des vœux des élèves. Non seulement cela mettrait fin à l’attente interminable des résultats, mais cela éviterait l’autocensure : aucun élève ne devrait se résigner à accepter son 10 e vœu début juin car il craint de ne pas obtenir mieux.",
+      "tags": [
+        "parcoursup",
+        "vœux",
+        "affectation",
+        "bac"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+        "locator": "Cahier de campagne n°8, Éducation, 2. Proposition 4"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-etudes-08",
+      "theme": "études",
+      "title": "Créer des commissions d'appel dans les établissements du supérieur",
+      "summary": "Un élève refusé alors que son dossier est proche des critères pourrait demander un entretien avec une commission d'appel de l'établissement.",
+      "excerpt": "7 / Créer des commissions d’appel dans les établissements : un élève refusé par une formation alors que son dossier est proche des critères requis peut demander un entretien en personne avec cette commission, pour faire évaluer sa candidature par des humains.",
+      "tags": [
+        "parcoursup",
+        "refus",
+        "université",
+        "orientation"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+        "locator": "Cahier de campagne n°8, Éducation, 2. Proposition 4"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-etudes-09",
+      "theme": "études",
+      "title": "Consacrer au moins 50 % de la formation des enseignants à la pédagogie",
+      "summary": "Le cahier vise au moins 50 % du temps de formation aux métiers de l'éducation consacré aux compétences pédagogiques, notamment en supprimant le mémoire traditionnel.",
+      "excerpt": "2 / Viser un minimum de 50% du temps de formation dédié aux connaissances et compétences pédagogiques au sein de toutes les formations aux métiers de l’éducation, notamment en supprimant la rédaction du mémoire traditionnel.",
+      "tags": [
+        "enseignant",
+        "formation des enseignants",
+        "pédagogie",
+        "inspé"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+        "locator": "Cahier de campagne n°8, Éducation, 3. Proposition 1"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-etudes-10",
+      "theme": "études",
+      "title": "Abaisser le taux d'encadrement périscolaire à 1 animateur pour 10 enfants",
+      "summary": "Le cahier prévoit des contrats périscolaires stables jusqu'à 33 heures par semaine et un taux d'encadrement d'1 animateur pour 10 enfants.",
+      "excerpt": "Les contrats périscolaires stables pourront atteindre 33 heures par semaine, intégrant les temps de préparation rémunérés et des réunions d’équipe hebdomadaires. Le taux d’encadrement sera abaissé à 1 animateur pour 10 enfants (contre 1 pour 14 aujourd’hui).",
+      "tags": [
+        "périscolaire",
+        "animateur",
+        "école",
+        "cantine"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+        "locator": "Cahier de campagne n°8, Éducation, 3. Proposition 3"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-etudes-11",
+      "theme": "études",
+      "title": "Moduler les dotations des écoles privées sous contrat selon leur mixité sociale",
+      "summary": "Les subventions des établissements privés sous contrat dont la composition sociale s'écarte de la moyenne du territoire seraient réduites en proportion.",
+      "excerpt": "3 / Moduler les dotations publiques aux établissements privés en fonction de la mixité sociale : tout établissement sous contrat dont le taux d’élèves favorisés ou celui d’élèves boursiers s’écarte de la moyenne du territoire verra ses subventions réduites en proportion.",
+      "tags": [
+        "école privée",
+        "mixité sociale",
+        "collège",
+        "subvention"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+        "locator": "Cahier de campagne n°8, Éducation, 3. Proposition 4"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-etudes-12",
+      "theme": "études",
+      "title": "Supprimer la réduction d'impôt pour les cours particuliers",
+      "summary": "Le cahier propose de supprimer les niches fiscales liées à l'entre-soi, à commencer par la réduction d'impôt pour les cours particuliers privés.",
+      "excerpt": "4 / Supprimer les niches fiscales de l’entre-soi , à commencer par les réductions d’impôt pour les cours particuliers privés, qui bénéficient quasi exclusivement aux ménages les plus aisés.",
+      "tags": [
+        "cours particuliers",
+        "soutien scolaire",
+        "impôt",
+        "niche fiscale"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+        "locator": "Cahier de campagne n°8, Éducation, 3. Proposition 4"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-etudes-13",
+      "theme": "études",
+      "title": "Revaloriser la grille indiciaire des enseignants sans contrepartie",
+      "summary": "Le cahier prévoit une hausse pérenne de la grille indiciaire des enseignants, hors pacte ou contreparties, en ciblant d'abord le milieu de carrière.",
+      "excerpt": "La revalorisation portera sur une hausse pérenne de la grille indiciaire, hors de toute logique de pacte ou de contreparties , en ciblant en priorité le milieu de carrière.",
+      "tags": [
+        "enseignant",
+        "salaire",
+        "professeur",
+        "revalorisation"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+        "locator": "Cahier de campagne n°8, Éducation, 4. Proposition 1"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-etudes-14",
+      "theme": "études",
+      "title": "Augmenter les postes aux concours enseignants avec des bourses dès la licence",
+      "summary": "Le cahier prévoit d'augmenter les postes ouverts aux concours, avec des bourses d'études dès la licence dans les disciplines en tension.",
+      "excerpt": "2 / Augmenter significativement le nombre de postes ouverts aux concours pour rebâtir un vivier de titulaires, avec des bourses d’études incitatives dès la licence dans les disciplines en tension et une valorisation des secondes carrières (révision des modalités de certification pour les profils non étudiants).",
+      "tags": [
+        "concours",
+        "enseignant",
+        "bourse",
+        "recrutement"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+        "locator": "Cahier de campagne n°8, Éducation, 4. Proposition 1"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-etudes-15",
+      "theme": "études",
+      "title": "Reconnaître 24 heures d'accompagnement comme le cœur d'un temps plein pour les AESH",
+      "summary": "Les 24 heures hebdomadaires d'accompagnement des AESH seraient reconnues comme le cœur d'un temps plein, avec des heures complémentaires rémunérées jusqu'à 35 heures.",
+      "excerpt": "Les 24 heures hebdomadaires d’accompagnement direct seront reconnues comme le cœur d’un temps plein complet. Les heures complémentaires (jusqu’à 35 heures) seront formalisées et rémunérées pour intégrer les équipes de suivi de scolarisation et les temps de concertation.",
+      "tags": [
+        "aesh",
+        "handicap",
+        "école inclusive",
+        "accompagnant"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+        "locator": "Cahier de campagne n°8, Éducation, 4. Proposition 3"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-retraite-01",
+      "theme": "retraite",
+      "title": "Accorder un trimestre de retraite supplémentaire pour quatre trimestres en métier pénible",
+      "summary": "Le cahier propose de remplacer le C3P par l'octroi automatique d'un trimestre supplémentaire pour quatre trimestres cotisés dans un métier exposé à la pénibilité.",
+      "excerpt": "Nous voulons réformer le dispositif actuel de prise en compte de la pénibilité dans le calcul des droits à la retraite, en sortant de la logique individuelle du C3P et en lui substituant l’octroi automatique de trimestres supplémentaires : pour quatre trimestres cotisés dans un métier exposé à la pénibilité, un trimestre supplémentaire de retraite sera accordé.",
+      "tags": [
+        "retraite anticipée",
+        "pénibilité",
+        "trimestre",
+        "carrière"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+        "locator": "Cahier de campagne n°1, Statut des travailleurs essentiels, Carrières, Proposition 1"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-retraite-02",
+      "theme": "retraite",
+      "title": "Revenir à la retraite à 60 ans",
+      "summary": "La responsable du programme situe celui-ci dans la continuité du Nouveau Front populaire et cite la retraite à 60 ans parmi ses mesures.",
+      "excerpt": "La première : nous avons besoin d’un programme ancré dans la continuité des acquis du Nouveau Front Populaire . Du commun, du collectif, pour nous présenter unis devant les électrices et électeurs et l’emporter. Des mesures fortes, concrètes, comme le SMIC à 1 600€ ou la retraite à 60 ans, qui revalorisent le travail.",
+      "tags": [
+        "retraite",
+        "60 ans",
+        "âge de départ",
+        "réforme des retraites"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+        "locator": "Cahier de campagne n°1, Statut des travailleurs essentiels, Mot de la fin"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-retraite-03",
+      "theme": "retraite",
+      "title": "Valider des trimestres de retraite au titre de l'engagement associatif",
+      "summary": "Le statut du dirigeant et du bénévole associatif ouvrirait droit à un congé bénévole, un congé de formation et la validation de trimestres de retraite.",
+      "excerpt": "Nous créerons un véritable statut du dirigeant et du bénévole associatif, ouvrant droit à un congé bénévole sans perte de salaire, à un congé de formation, et à la validation de trimestres de retraite au titre de l’engagement associatif.",
+      "tags": [
+        "retraite",
+        "trimestre",
+        "bénévolat",
+        "association"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/temps-loisirs/",
+        "locator": "Cahier de campagne n°3, Temps des loisirs, 1. Proposition 3"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-retraite-04",
+      "theme": "retraite",
+      "title": "Étendre aux métiers de la reconstruction écologique le statut de travailleurs essentiels",
+      "summary": "Le statut de travailleurs essentiels serait octroyé aux métiers de la reconstruction écologique, avec formation prioritaire, accès au logement et trimestres supplémentaires pour les métiers pénibles.",
+      "excerpt": "Dans la continuité, nous proposons d’octroyer le statut de travailleurs essentiels aux bâtisseurs et bâtisseuses de la reconstruction écologique. Formation prioritaire, accès au logement, trimestres supplémentaires pour la retraite pour les métiers pénibles, afin de reconnaître qu’un chauffagiste, une réparatrice, un cheminot, une maraîchère font un travail dont dépend l’habitabilité de notre pays.",
+      "tags": [
+        "retraite",
+        "pénibilité",
+        "trimestre",
+        "travailleurs essentiels"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/travaillisme-ecologique/",
+        "locator": "Cahier de campagne n°5, Travaillisme écologique, Mot de la fin"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-famille-01",
+      "theme": "famille",
+      "title": "Garantir à chaque enfant au moins un séjour collectif en colonie financé",
+      "summary": "Chaque enfant bénéficierait d'au moins un séjour collectif en colonie financé pendant la scolarité obligatoire, sans démarche des familles.",
+      "excerpt": "Sur le modèle de ce qu’a expérimenté la ville de Trappes, nous proposerons un droit garantissant que chaque enfant français bénéficie d’au moins un séjour collectif, en colos, financé pendant la scolarité obligatoire, sans démarche à effectuer par les familles.",
+      "tags": [
+        "colonie de vacances",
+        "enfant",
+        "vacances",
+        "colo"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/temps-loisirs/",
+        "locator": "Cahier de campagne n°3, Temps des loisirs, 2. Proposition 1"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-famille-02",
+      "theme": "famille",
+      "title": "Fusionner les aides aux vacances en un guichet unique avec notification automatique",
+      "summary": "Les dispositifs AVF, AVE, Pass Colo, colos apprenantes et bons CAF seraient fusionnés en un guichet unique avec notification automatique des familles éligibles.",
+      "excerpt": "Nous fusionnerons les dispositifs existants (AVF, AVE, Pass Colo, colos apprenantes, bons CAF) en un guichet unique, avec une notification automatique des droits aux familles éligibles, sans qu’elles aient à en faire la demande ni à connaître l’existence de chaque dispositif.",
+      "tags": [
+        "vacances",
+        "caf",
+        "aide",
+        "famille"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/temps-loisirs/",
+        "locator": "Cahier de campagne n°3, Temps des loisirs, 2. Proposition 1"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-famille-03",
+      "theme": "famille",
+      "title": "Prendre en charge la moitié du coût des licences sportives pour les familles modestes",
+      "summary": "L'État prendrait en charge la moitié du coût des licences au-delà du Pass'Sport pour les familles modestes et financerait l'embauche d'animateurs.",
+      "excerpt": "Nous garantirons l’accès de toutes et tous au sport et aux loisirs, en prenant en charge la moitié du coût des licences au-delà du Pass’Sport pour les familles modestes, et en finançant l’embauche d’animateurs pour les accueils de loisirs, alors qu’il en a manqué 40 000 l’été dernier pour encadrer deux millions d’enfants.",
+      "tags": [
+        "sport",
+        "licence",
+        "enfant",
+        "pass sport",
+        "famille modeste"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/temps-loisirs/",
+        "locator": "Cahier de campagne n°3, Temps des loisirs, 1. Proposition 3"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-famille-04",
+      "theme": "famille",
+      "title": "Rendre les activités périscolaires quasi gratuites selon le revenu des parents",
+      "summary": "Le cahier prévoit d'articuler cours, enseignements pratiques et activités culturelles et sportives, ces dernières étant rendues quasi gratuites selon le revenu des parents.",
+      "excerpt": "Il faut donc pouvoir articuler au fil d’une journée les cours théoriques, les enseignements pratiques et les activités culturelles et sportives, en rendant celles-ci quasi gratuites (selon le revenu des parents) et en garantissant qu’elles soient assurées.",
+      "tags": [
+        "périscolaire",
+        "activités",
+        "enfant",
+        "gratuité"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+        "locator": "Cahier de campagne n°8, Éducation, 3. Proposition 3"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-transport-01",
+      "theme": "transport",
+      "title": "Créer un billet TER illimité à 29 euros en juillet et août",
+      "summary": "Le cahier prévoit un billet populaire illimité à 29 euros sur le réseau TER du 1er juillet au 31 août, ainsi que le plafonnement des billets d'avion vers l'Outre-mer et une baisse des péages.",
+      "excerpt": "Nous mènerons un grand plan pour partir en vacances à moindre coût grâce à des tarifs des transports accessibles : un « billet populaire » illimité à 29 euros sur le réseau TER national du 1er juillet au 31 août ; un plafonnement du prix des billets d’avion entre la France hexagonale et les territoires dits d’Outre-mer ; une baisse des tarifs des péages grâce à la reprise en main des autoroutes (fin des concessions, tarification publique).",
+      "tags": [
+        "train",
+        "ter",
+        "billet",
+        "vacances",
+        "péage"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/temps-loisirs/",
+        "locator": "Cahier de campagne n°3, Temps des loisirs, 2. Proposition 1"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-transport-02",
+      "theme": "transport",
+      "title": "Plafonner le prix des billets d'avion vers et depuis les Outre-mer",
+      "summary": "Le cahier prévoit de plafonner le prix des billets d'avion à destination et en provenance des Outre-mer.",
+      "excerpt": "C’est pourquoi nous plafonnerons le prix des billets d’avion à destination et en provnenance des Outre-mer.",
+      "tags": [
+        "avion",
+        "outre-mer",
+        "billet",
+        "continuité territoriale"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/temps-loisirs/",
+        "locator": "Cahier de campagne n°3, Temps des loisirs, 2. Proposition 2"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-transport-03",
+      "theme": "transport",
+      "title": "Déployer un leasing social public de 3 millions de voitures électriques en 5 ans",
+      "summary": "Une flotte publique de 3 millions de voitures électriques serait proposée en 5 ans, avec des mensualités de 100 à 200 euros pour les classes moyennes et populaires qui roulent beaucoup pour travailler.",
+      "excerpt": "Nous proposons de changer d’échelle sur le leasing social, en déployant une flotte publique de 3 millions de voitures électriques en 5 ans . Les mensualités seront modérées (100 à 200€/mois selon le type de véhicule) pour les classes moyennes et populaires qui parcourent de nombreux kilomètres pour aller travailler.",
+      "tags": [
+        "leasing social",
+        "voiture électrique",
+        "gros rouleurs",
+        "location"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/plan-de-redressement/",
+        "locator": "Plan de redressement, 3.5"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://nouspresident.fr/plan-de-redressement/",
+          "note": "Le plan de redressement chiffre le leasing social public à 0,8 Md€ en 2027 et 2,5 Md€ par an en moyenne sur 5 ans (annexe 2), en regard des économies et recettes de l'annexe 1. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "ruffin-transport-04",
+      "theme": "transport",
+      "title": "Développer les trains de nuit pour réduire de moitié le trafic aérien",
+      "summary": "Le cahier prévoit de développer les trains de nuit et les liaisons directes vers les grandes villes européennes afin de réduire de moitié le trafic aérien.",
+      "excerpt": "Nous développerons aussi les trains de nuit et les liaisons directes vers les grandes villes européennes, afin d’offrir de réelles alternatives à l’avion et de réduire de moitié le trafic aérien.",
+      "tags": [
+        "train de nuit",
+        "avion",
+        "train",
+        "europe"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/travaillisme-ecologique/",
+        "locator": "Cahier de campagne n°5, Travaillisme écologique, 3. Proposition 3"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-transport-05",
+      "theme": "transport",
+      "title": "Augmenter l'offre des trains du quotidien",
+      "summary": "Le cahier prévoit de faire rouler davantage de trains du quotidien sur le réseau existant, avec plus de fréquence, de fiabilité et d'amplitude horaire.",
+      "excerpt": "2 / Électrifier la voiture ne suffit pas : il faudra également développer l’utilisation des lignes de train du quotidien, en faisant rouler davantage de trains sur l’infrastructure existante : plus de fréquence, plus de fiabilité, plus d’amplitude horaire, matin et soir.",
+      "tags": [
+        "train",
+        "ter",
+        "transport du quotidien",
+        "fréquence"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/travaillisme-ecologique/",
+        "locator": "Cahier de campagne n°5, Travaillisme écologique, 3. Proposition 3"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-transport-06",
+      "theme": "transport",
+      "title": "Développer l'autopartage de véhicules électriques dans les territoires ruraux",
+      "summary": "Le cahier prévoit une offre de véhicules électriques en autopartage, notamment dans les territoires ruraux et périurbains.",
+      "excerpt": "Nous développerons aussi une offre de véhicules électriques en autopartage, notamment dans les territoires ruraux et périurbains : plus besoin d’être propriétaire de sa voiture pour se déplacer occasionnellement.",
+      "tags": [
+        "autopartage",
+        "rural",
+        "voiture électrique",
+        "mobilité"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/travaillisme-ecologique/",
+        "locator": "Cahier de campagne n°5, Travaillisme écologique, 3. Proposition 3"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-env-01",
+      "theme": "environnement",
+      "title": "Porter à 15 milliards d'euros par an les aides à la rénovation énergétique",
+      "summary": "Les moyens réunis seraient portés à 15 milliards d'euros par an et dirigés d'abord vers les rénovations d'ampleur associant isolation et changement de chauffage.",
+      "excerpt": "2 / L’ensemble des moyens financiers rassemblés seront renforcés (pour atteindre 15 Mds€/an) et mobilisés en priorité pour diffuser les rénovations d’ampleur qui associent isolation et changement du chauffage.",
+      "tags": [
+        "rénovation énergétique",
+        "isolation",
+        "maprimerénov",
+        "chauffage"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+        "locator": "Cahier de campagne n°6, Face à la crise du logement, 4. Rénover massivement, Proposition 1"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://nouspresident.fr/plan-de-redressement/",
+          "note": "Le plan de redressement chiffre la rénovation et l'adaptation des logements à 1,9 Md€ en 2027 et 5,8 Md€ par an en moyenne sur 5 ans (annexe 2), financés en partie par la transformation des CEE. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "ruffin-env-02",
+      "theme": "environnement",
+      "title": "Atteindre 800 000 rénovations d'ampleur par an",
+      "summary": "L'objectif est d'atteindre progressivement 800 000 rénovations d'ampleur par an et une moyenne de 600 000 par an sur le quinquennat.",
+      "excerpt": "Objectif : atteindre progressivement 800 000 rénovations d’ampleur par an, et en avoir réalisé en moyenne 600 000 chaque année sur le quinquennat.",
+      "tags": [
+        "rénovation énergétique",
+        "isolation",
+        "passoire thermique",
+        "logement"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/travaillisme-ecologique/",
+        "locator": "Cahier de campagne n°5, Travaillisme écologique, 3. Proposition 1"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://nouspresident.fr/plan-de-redressement/",
+          "note": "Le plan de redressement chiffre la rénovation et l'adaptation des logements à 1,9 Md€ en 2027 et 5,8 Md€ par an en moyenne sur 5 ans (annexe 2), financés en partie par la transformation des CEE. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "ruffin-env-03",
+      "theme": "environnement",
+      "title": "Mettre fin aux passoires thermiques d'ici 2032",
+      "summary": "La responsable du programme annonce la fin des passoires thermiques d'ici 2032 par un plan d'investissement dans l'adaptation et la rénovation des logements.",
+      "excerpt": "Nous mettrons fin aux passoires thermiques d’ici 2032, grâce à un vaste plan d’investissement dans l’adaptation et la rénovation des logements.",
+      "tags": [
+        "passoire thermique",
+        "rénovation",
+        "isolation",
+        "dpe"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+        "locator": "Cahier de campagne n°6, Face à la crise du logement, Mot de la fin"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-env-04",
+      "theme": "environnement",
+      "title": "Transformer les certificats d'économie d'énergie en contribution au budget de l'Anah",
+      "summary": "Les CEE seraient transformés en contribution directe des énergéticiens au budget de l'Anah, avec une seule aide, un barème unique et un accompagnement gratuit.",
+      "excerpt": "Nous proposons de simplifier cette usine à gaz coûteuse et peu efficace, en transformant les CEE en contribution directe des énergéticiens au budget de l’Agence nationale de l’habitat (Anah). Cela permettra d’avoir une seule aide à demander, avec un barème unique et un accompagnement gratuit des ménages.",
+      "tags": [
+        "cee",
+        "anah",
+        "rénovation",
+        "aide"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+        "locator": "Cahier de campagne n°6, Face à la crise du logement, 4. Rénover massivement, Proposition 1"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-env-05",
+      "theme": "environnement",
+      "title": "Garantir l'accès à un éco-prêt à taux zéro public",
+      "summary": "Les éco-PTZ seraient garantis pour financer les restes à charge des rénovations d'ampleur, par exemple via une solution publique après un refus bancaire.",
+      "excerpt": "De plus, les éco-prêts à taux zéro aujourd’hui souvent refusés par les banques pour les rénovations d’ampleur des ménages modestes et moyens, seront garantis pour financer les restes à charge, par exemple avec une solution publique d’éco-PTZ suite à un refus par une banque.",
+      "tags": [
+        "éco-ptz",
+        "prêt",
+        "rénovation",
+        "banque"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+        "locator": "Cahier de campagne n°6, Face à la crise du logement, 4. Rénover massivement, Proposition 1"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-env-06",
+      "theme": "environnement",
+      "title": "Installer gratuitement des protections contre la chaleur chez les plus vulnérables",
+      "summary": "Un programme de solidarité climatique installerait gratuitement stores, volets, revêtements réfléchissants, ventilateurs et brasseurs d'air chez les ménages vulnérables.",
+      "excerpt": "Un programme de solidarité climatique pour installer gratuitement des dispositifs de protection pour les plus vulnérables (ménages très modestes, personnes âgées, etc.). Il s’agira par exemple d’installer des stores, volets, revêtements réfléchissants, ventilateurs et brasseurs d’air.",
+      "tags": [
+        "canicule",
+        "volets",
+        "chaleur",
+        "personnes âgées"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/travaillisme-ecologique/",
+        "locator": "Cahier de campagne n°5, Travaillisme écologique, 3. Proposition 1"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-env-07",
+      "theme": "environnement",
+      "title": "Financer 600 millions d'euros par an de travaux contre la chaleur dans les écoles et Ehpad en 2027 et 2028",
+      "summary": "Le plan prévoit un soutien de l'État d'environ 600 millions d'euros par an en 2027 et 2028, couvrant 40 % du coût des travaux d'urgence dans les bâtiments publics vulnérables.",
+      "excerpt": "Avec une subvention de 40% du coût et des travaux étalés sur 2 ans, le besoin de soutiens d’urgence par l’Etat est d’environ 600 millions d’euros par an (pour 2027 et 2028).",
+      "tags": [
+        "canicule",
+        "école",
+        "ehpad",
+        "climatisation"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/plan-de-redressement/",
+        "locator": "Plan de redressement, 3.2"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://nouspresident.fr/plan-de-redressement/",
+          "note": "Le plan de redressement chiffre la rénovation et l'adaptation des bâtiments publics à 1,6 Md€ en 2027 et 2,4 Md€ par an en moyenne sur 5 ans (annexe 2), en regard des économies et recettes de l'annexe 1. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "ruffin-env-08",
+      "theme": "environnement",
+      "title": "Créer dans chaque commune un bâtiment public climatisé ouvert pendant les canicules",
+      "summary": "Le plan propose de soutenir dans chaque commune des bâtiments publics climatisés ouverts lors des canicules, pouvant accueillir la nuit les habitants les plus fragiles.",
+      "excerpt": "En complément, nous proposons de soutenir la création dans chaque commune de bâtiments publics climatisés “sanctuaires” , ouverts aux habitants en périodes de canicule pour des activités sociales ou ludiques, avec la possibilité d’accueillir pour la nuit les habitants les plus fragiles vivant dans des bouilloires thermiques, le temps que ces dernières bénéficient du “plan volet”.",
+      "tags": [
+        "canicule",
+        "chaleur",
+        "fraîcheur",
+        "commune"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/plan-de-redressement/",
+        "locator": "Plan de redressement, 3.2"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-env-09",
+      "theme": "environnement",
+      "title": "Porter le Fonds Barnier à 1 milliard d'euros en 2027",
+      "summary": "Le Fonds Barnier passerait de 300 millions d'euros en 2026 à 1 milliard d'euros en 2027, avec une hausse des plafonds d'aides.",
+      "excerpt": "Le Fonds Barnier, que la CCR qualifie de « colonne vertébrale du financement de la prévention des risques naturels », devra être significativement renforcé : de 300 M€ en 2026, nous proposons 1 milliard d’euros en 2027 , ainsi qu’une hausse des plafonds d’aides.",
+      "tags": [
+        "catastrophe naturelle",
+        "fonds barnier",
+        "prévention",
+        "inondation"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/plan-urgence-climat/",
+        "locator": "Plan urgence climat, Partie III, 1. Dès le printemps 2027"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "ruffin-env-10",
+      "theme": "environnement",
+      "title": "Placer 3 millions d'hectares de forêts supplémentaires en gestion publique",
+      "summary": "Le plan vise à prendre progressivement en gestion publique environ 3 millions d'hectares de forêts prioritaires supplémentaires.",
+      "excerpt": "Notre objectif est de prendre progressivement en gestion publique environ 3 millions d’hectares prioritaires supplémentaires.",
+      "tags": [
+        "forêt",
+        "incendie",
+        "onf",
+        "gestion publique"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/plan-de-redressement/",
+        "locator": "Plan de redressement, 3.4"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://nouspresident.fr/plan-de-redressement/",
+          "note": "Le plan de redressement chiffre la gestion publique des forêts à 0,04 Md€ en 2027 et 0,2 Md€ par an en moyenne sur 5 ans (annexe 2), hors acquisitions et PSE, en partie financée par la valorisation du bois. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "ruffin-env-11",
+      "theme": "environnement",
+      "title": "Poursuivre la construction de six réacteurs EPR2",
+      "summary": "Le cahier prévoit de poursuivre la construction de six réacteurs EPR2 pour compenser la fermeture des centrales actuelles.",
+      "excerpt": "Nous poursuivrons aussi la construction des six réacteurs EPR2 : ces six réacteurs permettront surtout de compenser les fermetures des centrales actuelles qui ne pourraient pas fonctionner au-delà de 2040-2050.",
+      "tags": [
+        "nucléaire",
+        "epr",
+        "électricité",
+        "énergie"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/travaillisme-ecologique/",
+        "locator": "Cahier de campagne n°5, Travaillisme écologique, 3. Proposition 5"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-env-12",
+      "theme": "environnement",
+      "title": "Instaurer un moratoire de cinq ans sur les data centers non souverains",
+      "summary": "Le plan propose un moratoire de cinq ans sur les projets de centres de données non souverains et des débats publics sur les projets existants.",
+      "excerpt": "Nous proposons un moratoire de cinq ans sur les projets de centres de données non souverains, l’organisation de débats publics sur les projets existants, avec la garantie d’une information juste.",
+      "tags": [
+        "data center",
+        "numérique",
+        "électricité",
+        "eau"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/plan-data-centers/",
+        "locator": "Plan Data centers, conclusion"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "ruffin-env-13",
+      "theme": "environnement",
+      "title": "Porter à 30 % en 2030 puis 50 % en 2035 la part de bio dans les cantines et hôpitaux",
+      "summary": "Le cahier vise 30 % de produits bio en restauration collective publique à horizon 2030 et 50 % à horizon 2035.",
+      "excerpt": "Ce seuil sera amené à être relevé au fur et à mesure, tout en restant accompagné. Nous viserons un seuil de 30 % à horizon 2030 et 50 % à horizon 2035.",
+      "tags": [
+        "bio",
+        "cantine",
+        "alimentation",
+        "hôpital"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/pour-une-exception-agriculturelle-francaise/",
+        "locator": "Cahier de campagne n°4, Agriculture, 3. Réconcilier les paysans et les citoyens"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "ruffin-env-14",
+      "theme": "environnement",
+      "title": "Généraliser les paiements pour services environnementaux aux agriculteurs",
+      "summary": "Le cahier propose de généraliser les paiements pour services environnementaux rémunérant les exploitants pour la gestion des haies, mares et pratiques agricoles favorables.",
+      "excerpt": "2 / Pour réconcilier l’agriculture et la nature, nous proposons de généraliser les mécanismes de paiement pour services environnementaux (PSE), qui permettent de rémunérer les exploitants pour le développement et la bonne gestion des structures paysagères, qu’il s’agisse des surfaces non-agricoles (haies, mares…) comme des systèmes de production agricole.",
+      "tags": [
+        "agriculture",
+        "biodiversité",
+        "haies",
+        "pesticides"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/pour-une-exception-agriculturelle-francaise/",
+        "locator": "Cahier de campagne n°4, Agriculture, Propositions, 2"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "ruffin-env-15",
+      "theme": "environnement",
+      "title": "Créer une Maison de la Réparation et du Réemploi dans chaque quartier et canton",
+      "summary": "Le cahier prévoit une Maison de la Réparation et du Réemploi dans chaque quartier et chaque canton, pour faciliter la réparation et le réemploi.",
+      "excerpt": "Nous créerons ainsi une Maison de la Réparation et du Réemploi dans chaque quartier, dans chaque canton.",
+      "tags": [
+        "réparation",
+        "réemploi",
+        "recyclage",
+        "déchets"
+      ],
+      "source": {
+        "url": "https://nouspresident.fr/travaillisme-ecologique/",
+        "locator": "Cahier de campagne n°5, Travaillisme écologique, 4. Proposition 1"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    }
+  ]
+}

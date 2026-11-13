@@ -8,7 +8,7 @@ POC d'un outil citoyen pour la présidentielle 2027 : l'utilisateur décrit sa s
 
 L'outil ne recommande aucun candidat. L'ordre des candidats est tiré au hasard et chacun a le même nombre maximal de mesures affichées.
 
-> **État actuel : données fictives.** Les candidats et mesures du dépôt sont des exemples pour tester l'interface. La liste officielle des candidats sera connue après la clôture des parrainages, le 12 mars 2027.
+> **État actuel (13 novembre 2026) : candidats déclarés réels.** L'outil suit 34 personnes dont la candidature est rapportée par au moins deux médias nationaux, et intègre les mesures publiées sur leurs sites officiels (voir la section « Programmes intégrés » du site et `METHODOLOGIE.md`). La liste sera recalée sur la liste officielle du Conseil constitutionnel après le 12 mars 2027.
 
 ## Mettre en ligne sur GitHub Pages
 

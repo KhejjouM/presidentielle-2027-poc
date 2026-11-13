@@ -1,0 +1,2435 @@
+{
+  "candidate_id": "dupont-aignan",
+  "measures": [
+    {
+      "id": "dupont-aignan-log-01",
+      "theme": "logement",
+      "title": "Construire au moins 400 000 logements par an d'ici 2028",
+      "summary": "Porter la construction de 281 100 logements en 2023 à au moins 400 000 d'ici 2028, en allégeant les normes, en débloquant le foncier et par de nouvelles incitations fiscales.",
+      "excerpt": "L’augmentation de la population française et la décohabitation (moins d’habitants par logement) imposent une relance de la construction pour passer de 281 100 en 2023 à au moins 400 000 d’ici 2028. Cela rend nécessaire un allègement des normes , le déblocage de l’offre foncière et de nouvelles incitations fiscales à l’acquisition de logements.",
+      "tags": [
+        "construction",
+        "logements neufs",
+        "400 000 logements",
+        "immobilier"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/logement/",
+        "locator": "Construire 400 000 logements par an"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-log-02",
+      "theme": "logement",
+      "title": "Porter à 75 % la part des ménages propriétaires en 20 ans",
+      "summary": "Faire passer le taux de propriétaires à 75 % en 20 ans, soit 5,6 millions de ménages propriétaires supplémentaires à démographie constante.",
+      "excerpt": "L’objectif est de passer en 20 ans à 75%, ce qui représente, à démographie constante, 5.6 millions de ménages supplémentaires propriétaires.",
+      "tags": [
+        "propriétaire",
+        "acheter",
+        "accession à la propriété",
+        "logement"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/logement/",
+        "locator": "3 Français sur 4 propriétaires !"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-log-03",
+      "theme": "logement",
+      "title": "Élargir le prêt à taux zéro (PTZ)",
+      "summary": "Élargir l'accès au PTZ en augmentant son plafond de 100 000 euros, en augmentant sa part dans l'emprunt global et en prolongeant la période de différé de remboursement, y compris pour les revenus moyens.",
+      "excerpt": "Élargir les conditions d’accès du Prêt à Taux Zéro (PTZ) : Augmenter le plafond de 100 000 euros. Augmenter la part du PTZ dans l’emprunt global. Prolonger significativement la période de différé de remboursement, même pour les ménages à revenus moyens.",
+      "tags": [
+        "ptz",
+        "prêt à taux zéro",
+        "acheter",
+        "primo-accédant"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/logement/",
+        "locator": "Nos 30 mesures : 3 Français sur 4 propriétaires !"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-log-04",
+      "theme": "logement",
+      "title": "Créer un prêt d'accession à la propriété à taux préférentiel",
+      "summary": "Créer un Prêt Accession à la Propriété à taux préférentiel et de longue durée pour aider les classes moyennes à acheter leur premier logement.",
+      "excerpt": "Créer un Prêt Accession à la Propriété (PAP) à taux d’intérêt préférentiel et de longue durée pour aider les classes moyennes à acheter leur premier logement.",
+      "tags": [
+        "prêt immobilier",
+        "classes moyennes",
+        "premier logement",
+        "acheter"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/logement/",
+        "locator": "Nos 30 mesures : 3 Français sur 4 propriétaires !"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-log-05",
+      "theme": "logement",
+      "title": "Généraliser la location-accession et réformer le PSLA",
+      "summary": "Généraliser la location-accession pour les revenus modestes en doublant la décote sur le prix de vente par année de location d'un logement social prévue par le PSLA (1 % actuellement).",
+      "excerpt": "Généraliser un dispositif de location-accession pour permettre aux revenus les plus modestes de devenir propriétaires : Réformer le Prêt Social Location-Accession (PSLA) en doublant la décote sur la valeur du prix de vente par année de location d’un logement social (actuellement à 1%).",
+      "tags": [
+        "location-accession",
+        "psla",
+        "logement social",
+        "propriétaire"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/logement/",
+        "locator": "Nos 30 mesures : 3 Français sur 4 propriétaires !"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-log-06",
+      "theme": "logement",
+      "title": "Augmenter de 100 000 euros le plafond des donations exonérées",
+      "summary": "Relever de 100 000 euros par enfant ou petit-enfant le plafond des donations exonérées de droits et ramener de 15 à 10 ans le délai minimum entre deux donations.",
+      "excerpt": "Encourager la transmission des biens immobiliers en augmentant le plafond des donations exonérées de droits de 100 000 euros supplémentaires par enfant ou petit enfant et en réduisant de 15 à 10 ans le délai minimum entre deux donations.",
+      "tags": [
+        "donation",
+        "transmission",
+        "immobilier",
+        "enfants"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/logement/",
+        "locator": "Nos 30 mesures : 3 Français sur 4 propriétaires !"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-log-07",
+      "theme": "logement",
+      "title": "Supprimer les droits de succession sur la résidence principale",
+      "summary": "Supprimer les droits de succession sur les résidences principales.",
+      "excerpt": "Supprimer les droits de succession sur les résidences principales.",
+      "tags": [
+        "succession",
+        "héritage",
+        "résidence principale",
+        "maison"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/logement/",
+        "locator": "Nos 30 mesures : 3 Français sur 4 propriétaires !"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+          "note": "Cahier de chiffrage du 12 novembre 2026 : 1 Md€ en 2027-2028 puis 4 Md€ par an pour la suppression des droits de succession sur la résidence principale et l'assouplissement des donations ; projet financé globalement par 100 Md€ d’économies et 40 Md€ de recettes nouvelles selon le même cahier. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-log-08",
+      "theme": "logement",
+      "title": "Exonérer les plus-values immobilières après 10 ans de détention",
+      "summary": "Ramener à 10 ans la durée de détention ouvrant droit à l'exonération d'impôt et de prélèvements sociaux sur les plus-values immobilières, contre 22 ans actuellement pour l'impôt sur le revenu.",
+      "excerpt": "Ramener à 10 ans l’impôt sur les plus-values immobilières et et les prélèvements sociaux pour fluidifier le marché immobilier. Actuellement, la plus-value immobilière est exonérée d’impôt sur le revenu après 22 ans.",
+      "tags": [
+        "plus-value",
+        "vendre",
+        "immobilier",
+        "impôt"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/logement/",
+        "locator": "Nos 30 mesures : 3 Français sur 4 propriétaires !"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+          "note": "Cahier de chiffrage du 12 novembre 2026 : 1 Md€ par an de 2027 à 2032 pour la réduction à 10 ans du délai d'exonération ; projet financé globalement par 100 Md€ d’économies et 40 Md€ de recettes nouvelles selon le même cahier. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-log-09",
+      "theme": "logement",
+      "title": "Créer une garantie universelle des loyers impayés",
+      "summary": "Mettre en place une garantie universelle des loyers impayés pour les propriétaires, financée par les locataires à hauteur de 1 % du loyer chaque mois.",
+      "excerpt": "Mettre en place une garantie universelle des loyers impayés pour sécuriser les propriétaires et encourager la mise en location , financée par les locataires à hauteur de 1% du loyer chaque mois.",
+      "tags": [
+        "loyer impayé",
+        "propriétaire bailleur",
+        "locataire",
+        "louer"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/logement/",
+        "locator": "Nos 30 mesures : Redynamiser le marché locatif"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-log-10",
+      "theme": "logement",
+      "title": "Indexer les APL sur l'inflation",
+      "summary": "Maintenir le niveau des aides personnalisées au logement (APL) et l'indexer sur l'inflation.",
+      "excerpt": "Maintenir et indexer sur l’inflation le niveau des aides personnalisées au logement (APL), réduites par Emmanuel Macron.",
+      "tags": [
+        "apl",
+        "aide au logement",
+        "locataire",
+        "inflation"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/logement/",
+        "locator": "Nos 30 mesures : Redynamiser le marché locatif"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-log-11",
+      "theme": "logement",
+      "title": "Abandonner l'interdiction de louer selon le DPE",
+      "summary": "Abandonner l'interdiction de location fondée sur le diagnostic de performance énergétique afin de remettre sur le marché des petits logements.",
+      "excerpt": "Abandonner l’interdiction de location de logements sur la base du DPE pour remettre sur le marché les petits logements qui bénéficient aux étudiants et aux plus modestes.",
+      "tags": [
+        "dpe",
+        "passoire thermique",
+        "louer",
+        "propriétaire bailleur"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/logement/",
+        "locator": "Nos 30 mesures : Redynamiser le marché locatif"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-log-12",
+      "theme": "logement",
+      "title": "Mettre fin à l'objectif de zéro artificialisation nette",
+      "summary": "Réformer la loi Climat et Résilience pour mettre fin à l'objectif de Zéro Artificialisation Nette, en excluant le terrain des maisons individuelles du calcul de l'artificialisation.",
+      "excerpt": "Réformer intégralement la loi Climat et Résilience pour mettre fin à l’objectif de Zéro Artificialisation Nette (ZAN) afin de déverrouiller le marché des maisons individuelles en excluant leur terrain du calcul de l’artificialisation.",
+      "tags": [
+        "zan",
+        "construire",
+        "maison individuelle",
+        "terrain"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/logement/",
+        "locator": "Nos 30 mesures : Construire 400 000 logements par an"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-log-13",
+      "theme": "logement",
+      "title": "Limiter les nouveaux logements sociaux au-delà de 50 % dans une commune",
+      "summary": "Dans les communes où plus de 50 % des résidences principales sont des logements sociaux, n'autoriser de nouveaux logements sociaux que s'ils sont destinés à la location-accession sociale pour les Français à revenus modestes.",
+      "excerpt": "Conditionner la construction de nouveaux logements sociaux dans les communes : si plus de 50% des résidences principales dans une commune sont des logements sociaux, la construction de nouveaux logements sociaux ne sera possible que s’ils sont destinés à la location-accession sociale pour les Français à revenus modestes.",
+      "tags": [
+        "logement social",
+        "hlm",
+        "commune",
+        "location-accession"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/logement/",
+        "locator": "Nos 30 mesures : Refonder le logement social"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-log-14",
+      "theme": "logement",
+      "title": "Obliger les locataires HLM devenus propriétaires à partir sous un an",
+      "summary": "Exiger que les locataires de logements sociaux qui deviennent propriétaires d'un logement de taille similaire quittent leur logement social dans un délai d'un an.",
+      "excerpt": "Exiger que les locataires de logements sociaux devenant propriétaires d’un logement de taille similaire quittent leur logement social dans un délai d’un an .",
+      "tags": [
+        "hlm",
+        "logement social",
+        "locataire",
+        "propriétaire"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/logement/",
+        "locator": "Nos 30 mesures : Refonder le logement social"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-log-15",
+      "theme": "logement",
+      "title": "Créer un dispositif « Maison à 1 euro » dans les zones en déclin",
+      "summary": "Instaurer un mécanisme « Maison à 1 euro » pour les biens abandonnés dans les zones en fort recul démographique, avec un fonds national aidant les communes à racheter ces biens.",
+      "excerpt": "Instaurer un mécanisme « Maison à 1 euro » pour les biens abandonnés et dégradés dans les zones en fort recul démographique pour redynamiser les territoires. Un fonds national d’aide à la réhabilitation du million de logements inoccupés dans les zones rurales permettra d’aider les communes à racheter les biens.",
+      "tags": [
+        "maison à 1 euro",
+        "rural",
+        "logement vacant",
+        "rénovation"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/logement/",
+        "locator": "Nos 30 mesures : Revenir à une politique d’aménagement du territoire"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-sante-01",
+      "theme": "santé",
+      "title": "Garantir un hôpital avec urgences à moins de 45 minutes",
+      "summary": "Arrêter les fermetures de maternités, rouvrir des lits d'hôpitaux et faire en sorte que chaque Français dispose d'un hôpital à moins de 45 minutes en voiture, doté d'urgences, d'un scanner et d'un IRM.",
+      "excerpt": "Arrêt immédiat des fermetures de maternités et réouverture de lits d’hôpitaux dans les départements qui ont été sacrifiés. Faire en sorte que chaque français dispose d’un hôpital à moins de 45 minutes en voiture, doté d’un service d’urgence, d’un scanner et d’un IRM.",
+      "tags": [
+        "hôpital",
+        "urgences",
+        "maternité",
+        "désert médical"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/equilibre-territoire-monde-rural/",
+        "locator": "Nos 25 mesures : Garantir l’égalité entre les ruraux et les urbains"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-sante-02",
+      "theme": "santé",
+      "title": "Créer une bourse pour les étudiants en médecine contre une installation en zone sous-dotée",
+      "summary": "Créer une bourse pour les étudiants en médecine en échange d'un engagement à s'installer dans une zone sous-dotée pendant leurs trois premières années.",
+      "excerpt": "Créer une bourse pour les étudiants en médecine, pour mettre fin aux déserts médicaux , en échange de laquelle, ils s’engageront à s’installer dans une zone sous-dotée pendant leurs trois premières années.",
+      "tags": [
+        "désert médical",
+        "médecin",
+        "étudiant en médecine",
+        "bourse"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/equilibre-territoire-monde-rural/",
+        "locator": "Nos 25 mesures : Garantir l’égalité entre les ruraux et les urbains"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+          "note": "Cahier de chiffrage du 12 novembre 2026 : 0,6 Md€ par an pour cette bourse (le cahier mentionne un engagement d'installation de 5 ans) ; projet financé globalement par 100 Md€ d’économies et 40 Md€ de recettes nouvelles selon le même cahier. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-sante-03",
+      "theme": "santé",
+      "title": "Réduire les cotisations des médecins s'installant dans les déserts médicaux",
+      "summary": "Diminuer fortement les cotisations sociales des médecins qui acceptent de s'installer dans les déserts médicaux.",
+      "excerpt": "Diminuer fortement les cotisations sociales des médecins qui acceptent de s’installer dans les déserts médicaux.",
+      "tags": [
+        "désert médical",
+        "médecin",
+        "installation",
+        "cotisations"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/equilibre-territoire-monde-rural/",
+        "locator": "Nos 25 mesures : Garantir l’égalité entre les ruraux et les urbains"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-sante-04",
+      "theme": "santé",
+      "title": "Supprimer les agences régionales de santé",
+      "summary": "Supprimer les Agences Régionales de Santé et répartir leurs compétences entre les directions départementales de la santé et le ministère.",
+      "excerpt": "Supprimer les Agences Régionales de Santé et répartir leurs compétences entre les directions départementales de la santé et le ministère compétent.",
+      "tags": [
+        "ars",
+        "agence régionale de santé",
+        "administration",
+        "santé"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/equilibre-territoire-monde-rural/",
+        "locator": "Nos 25 mesures : Garantir l’égalité entre les ruraux et les urbains"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-sante-05",
+      "theme": "santé",
+      "title": "Consacrer 2 milliards d'euros par an à la santé",
+      "summary": "Consacrer 2 milliards d'euros par an à l'hôpital, à la médecine de ville, à la lutte contre les déserts médicaux, à la revalorisation de la consultation généraliste et au développement des maisons et camions de santé.",
+      "excerpt": "La santé des Français (2 milliards d’€ par an) : sauver l’hôpital, la médecine de ville, lutter contre les déserts médicaux, revaloriser la consultation généraliste, développer les maisons et les camions de santé lesquels apportent un local de soins dans des communes isolées géographiquement.",
+      "tags": [
+        "hôpital",
+        "généraliste",
+        "désert médical",
+        "maison de santé"
+      ],
+      "source": {
+        "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+        "locator": "25 milliards pour rétablir les services publics et assurer l’équilibre des territoires"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+          "note": "Cahier de chiffrage du 12 novembre 2026 : 2 Md€ par an pour le système de soins ; projet financé globalement par 100 Md€ d’économies et 40 Md€ de recettes nouvelles selon le même cahier. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-sante-06",
+      "theme": "santé",
+      "title": "Consacrer 4 milliards d'euros par an à la dépendance",
+      "summary": "Consacrer 4 milliards d'euros par an à la dépendance pour favoriser le maintien à domicile des personnes âgées et doter les EHPAD de moyens de fonctionnement.",
+      "excerpt": "La dépendance (4 milliards d’€ par an) : Favoriser le maintien à domicile des personnes âgées, doter les EHPAD des moyens de fonctionnement permettant aux résidents de vivre dans de bonnes conditions.",
+      "tags": [
+        "dépendance",
+        "ehpad",
+        "personnes âgées",
+        "maintien à domicile"
+      ],
+      "source": {
+        "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+        "locator": "25 milliards pour rétablir les services publics et assurer l’équilibre des territoires"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+          "note": "Cahier de chiffrage du 12 novembre 2026 : 2,7 Md€ en 2027-2028 puis 4 Md€ par an pour la dépendance, financés par le redéploiement de la CRDS ; projet financé globalement par 100 Md€ d’économies et 40 Md€ de recettes nouvelles selon le même cahier. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-sante-07",
+      "theme": "santé",
+      "title": "Renforcer la recherche et le diagnostic des maladies rares",
+      "summary": "Renforcer la recherche et les capacités de diagnostic des maladies rares pour réduire l'errance médicale et permettre une prise en charge plus précoce.",
+      "excerpt": "Renforcer la recherche et les capacités de diagnostic des maladies rares, afin de réduire l’errance médicale et de permettre une prise en charge plus précoce et mieux adaptée.",
+      "tags": [
+        "maladie rare",
+        "diagnostic",
+        "recherche médicale",
+        "errance médicale"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/handicap/",
+        "locator": "Nos 25 mesures : Permettre aux personnes en situation de handicap de vivre dignement"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-sante-08",
+      "theme": "santé",
+      "title": "Renforcer la formation en psychiatrie des soignants",
+      "summary": "Renforcer la formation en psychiatrie des personnels médicaux pour la prise en charge des personnes souffrant de troubles psychiques ou de handicaps mentaux.",
+      "excerpt": "Renforcer la formation en psychiatrie des personnels médicaux, afin que les personnes souffrant de troubles psychiques ou de handicaps mentaux bénéficient d’une prise en charge efficace.",
+      "tags": [
+        "psychiatrie",
+        "santé mentale",
+        "soignants",
+        "formation"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/handicap/",
+        "locator": "Nos 25 mesures : Permettre aux personnes en situation de handicap de vivre dignement"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-sante-09",
+      "theme": "santé",
+      "title": "Garantir une place en centre spécialisé après notification de la MDA",
+      "summary": "Garantir dans un délai bref une place en centre spécialisé lorsqu'une notification de la MDA reconnaît ce besoin.",
+      "excerpt": "Garantir dans un délai assez bref une place en centre spécialisé lorsqu’une notification de la MDA reconnaît ce besoin, afin qu’une décision administrative ne reste pas sans solution concrète.",
+      "tags": [
+        "handicap",
+        "centre spécialisé",
+        "mda",
+        "place"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/handicap/",
+        "locator": "Nos 25 mesures : Permettre aux personnes en situation de handicap de vivre dignement"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-sante-10",
+      "theme": "santé",
+      "title": "Développer les unités de soins palliatifs",
+      "summary": "Développer les unités de soins palliatifs, notamment dans les EHPAD.",
+      "excerpt": "Renforcer le système de soins palliatifs Développer massivement les unités de soins palliatifs, notamment dans les EHPAD.",
+      "tags": [
+        "soins palliatifs",
+        "fin de vie",
+        "ehpad",
+        "hôpital"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/famille/",
+        "locator": "Renforcer la solidarité intergénérationnelle face à la montée en âge et à l’isolement"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-sante-11",
+      "theme": "santé",
+      "title": "Revaloriser le métier d'aide à domicile",
+      "summary": "Revaloriser le statut et les conditions d'exercice du métier d'aide à domicile pour permettre aux personnes âgées de vivre chez elles le plus longtemps possible.",
+      "excerpt": "Rendre enfin attractif le métier d’aide à domicile en revalorisant son statut et ses conditions d’exercice. C’est une condition indispensable pour permettre à nos aînés de vivre chez eux le plus longtemps possible, dans la dignité et la sécurité.",
+      "tags": [
+        "aide à domicile",
+        "personnes âgées",
+        "maintien à domicile",
+        "soins"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/famille/",
+        "locator": "Renforcer la solidarité intergénérationnelle face à la montée en âge et à l’isolement"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-sante-12",
+      "theme": "santé",
+      "title": "Interdire les transitions de genre médicales chez les mineurs",
+      "summary": "Interdire définitivement les transitions de genre médicales chez les mineurs en privilégiant un accompagnement psychologique.",
+      "excerpt": "Interdire définitivement les transitions de genre médicales chez les mineurs. Protéger les enfants de décisions irréversibles, en privilégiant un accompagnement psychologique bienveillant.",
+      "tags": [
+        "mineurs",
+        "transition de genre",
+        "médecine",
+        "enfant"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/famille/",
+        "locator": "Protéger l’enfance et soutenir la parentalité"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-pa-01",
+      "theme": "pouvoir d'achat",
+      "title": "Diviser par deux le prix de l'électricité dès la première année",
+      "summary": "Diviser par deux le prix de l'électricité la première année en sortant du marché européen de l'électricité, en rétablissant le monopole d'EDF et en fixant un tarif réglementé national garanti de 10 centimes par kWh.",
+      "excerpt": "Diviser par 2 le prix de l’électricité dès la première année en : ● Sortant du marché européen de fixation du prix de l’électricité. ● Rétablissant le monopole de production et de distribution d’EDF. ● Fixant un tarif réglementé national (un tarif de 10 centimes d’euro/kWh, soit 100 € le MWh, sera garanti contractuellement).",
+      "tags": [
+        "électricité",
+        "facture",
+        "énergie",
+        "edf",
+        "tarif réglementé"
+      ],
+      "source": {
+        "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Economie-2026_11-12_Livret.pdf",
+        "locator": "Nos 30 mesures, mesure 1 a"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-pa-02",
+      "theme": "pouvoir d'achat",
+      "title": "Baisser de 40 centimes le prix des carburants",
+      "summary": "Baisser de 40 centimes le prix des carburants par la suppression des certificats d'économies d'énergie, la suppression de la TVA sur la taxe et le plafonnement des marges des raffineurs.",
+      "excerpt": "Baisser de 40 centimes le prix des carburants (suppression des certificats d’économies d’énergie (CEE) : 17 centimes ; suppression de la TVA sur la taxe (4 milliards d’euros de coût) : 13 centimes ; plafonnement des marges des raffineurs : 10 centimes).",
+      "tags": [
+        "carburant",
+        "essence",
+        "prix à la pompe",
+        "tva"
+      ],
+      "source": {
+        "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Economie-2026_11-12_Livret.pdf",
+        "locator": "Nos 30 mesures, mesure 1 b"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+          "note": "Cahier de chiffrage du 12 novembre 2026 : 4 Md€ par an pour la suppression de la TVA sur l'accise sur les carburants ; projet financé globalement par 100 Md€ d’économies et 40 Md€ de recettes nouvelles selon le même cahier. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-pa-03",
+      "theme": "pouvoir d'achat",
+      "title": "Réduire de 20 % le prix du gaz",
+      "summary": "Réduire de 20 % le prix du gaz en rétablissant un monopole public de distribution et en supprimant les certificats d'économies d'énergie.",
+      "excerpt": "Réduire de 20 % le prix du gaz en rétablissant un monopole public de distribution et en supprimant les CEE.",
+      "tags": [
+        "gaz",
+        "facture",
+        "énergie",
+        "chauffage"
+      ],
+      "source": {
+        "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Economie-2026_11-12_Livret.pdf",
+        "locator": "Nos 30 mesures, mesure 1 c"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-pa-04",
+      "theme": "pouvoir d'achat",
+      "title": "Porter le SMIC à 1 600 euros net en baissant les cotisations salariales",
+      "summary": "Augmenter le SMIC à 1 600 euros net (98 euros de plus par mois) en compensant par une baisse dégressive des cotisations salariales, pour 2,5 millions de salariés.",
+      "excerpt": "Augmenter le SMIC à 1600 euros net (98 euros supplémentaires par mois) en compensant cette hausse par une baisse proportionnelle des cotisations salariales pour ne pas pénaliser les entreprises. Cette réduction sera dégressive afin d’éviter les effets de seuil et concernera 2,5 millions de salariés.",
+      "tags": [
+        "smic",
+        "salaire",
+        "cotisations",
+        "salarié"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "locator": "10 mesures pour relancer le pouvoir d’achat et récompenser le travail"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+          "note": "Cahier de chiffrage du 12 novembre 2026 : 3 Md€ par an pour la hausse du SMIC compensée par la baisse des cotisations salariales ; projet financé globalement par 100 Md€ d’économies et 40 Md€ de recettes nouvelles selon le même cahier. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-pa-05",
+      "theme": "pouvoir d'achat",
+      "title": "Appliquer une TVA à zéro sur 50 produits de première nécessité",
+      "summary": "Appliquer une TVA à zéro sur une liste de 50 produits de première nécessité et réduire les frais bancaires, notamment les frais cachés.",
+      "excerpt": "TVA à zéro sur une liste de 50 produits de première nécessité et réduire les frais bancaires, notamment les frais cachés.",
+      "tags": [
+        "tva",
+        "courses",
+        "prix",
+        "frais bancaires"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "locator": "10 mesures pour relancer le pouvoir d’achat et récompenser le travail"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+          "note": "Cahier de chiffrage du 12 novembre 2026 : 2 Md€ en 2027-2028 puis 3,5 Md€ par an ; projet financé globalement par 100 Md€ d’économies et 40 Md€ de recettes nouvelles selon le même cahier. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-pa-06",
+      "theme": "pouvoir d'achat",
+      "title": "Garantir un taux du Livret A supérieur à l'inflation",
+      "summary": "Instaurer pour le Livret A un taux supérieur à l'inflation.",
+      "excerpt": "Garantir les revenus de l’épargne populaire en instaurant un taux supérieur à l’inflation pour le Livret A.",
+      "tags": [
+        "livret a",
+        "épargne",
+        "inflation",
+        "taux"
+      ],
+      "source": {
+        "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Economie-2026_11-12_Livret.pdf",
+        "locator": "Nos 30 mesures, mesure 20"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-pa-07",
+      "theme": "pouvoir d'achat",
+      "title": "Alléger les impôts des particuliers de 9 puis 12,5 milliards d'euros",
+      "summary": "Alléger les impôts des particuliers de 9 milliards d'euros immédiatement et de 12,5 milliards à l'issue du quinquennat, notamment en supprimant les droits de succession sur la résidence principale et les droits de mutation pour les primo-accédants.",
+      "excerpt": "Alléger les impôts des particuliers de 9 milliards d’euros immédiatement et de 12,5 milliards à l’issue du quinquennat avec des mesures très concrètes pour baisser les prix des carburants, promouvoir la famille, faciliter la natalité et les transmissions : supprimer les droits de succession sur la résidence principale, les droits de mutation pour les primo-accédants, revenir sur le matraquage fiscal de nos anciens sous les précédents mandats.",
+      "tags": [
+        "impôt",
+        "droits de mutation",
+        "primo-accédant",
+        "succession"
+      ],
+      "source": {
+        "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+        "locator": "25 milliards pour récompenser le travail et relancer le pouvoir d’achat"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+          "note": "Cahier de chiffrage du 12 novembre 2026 : 9 Md€ la première année et 12,5 Md€ en fin de quinquennat ; projet financé globalement par 100 Md€ d’économies et 40 Md€ de recettes nouvelles selon le même cahier. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-pa-08",
+      "theme": "pouvoir d'achat",
+      "title": "Revaloriser l'AAH d'environ 300 euros pour les handicaps lourds",
+      "summary": "Revaloriser l'Allocation aux Adultes Handicapés d'environ 300 euros pour les personnes en situation de handicap lourd, afin de l'aligner sur le seuil de pauvreté d'environ 1 337 euros.",
+      "excerpt": "Revaloriser l’Allocation aux Adultes Handicapés (AAH) d’environ 300 euros pour les personnes en situation de handicap lourd, afin de l’aligner sur le seuil de pauvreté fixé à environ 1 337 €.",
+      "tags": [
+        "aah",
+        "handicap",
+        "allocation",
+        "seuil de pauvreté"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/handicap/",
+        "locator": "Nos 25 mesures : Permettre aux personnes en situation de handicap de vivre dignement"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-emploi-01",
+      "theme": "emploi",
+      "title": "Relocaliser et créer deux millions d'emplois en 5 ans",
+      "summary": "Concentrer l'effort sur la production en France et la récompense du travail pour relocaliser et créer deux millions d'emplois en 5 ans et atteindre 2 % de croissance par an dès 2029.",
+      "excerpt": "Son objectif est simple : concentrer tous les efforts de la nation sur la relance de la production en France et la récompense du travail pour relocaliser et créer deux millions d’emplois dans les 5 ans et atteindre une croissance de 2 % par an dès 2029.",
+      "tags": [
+        "emploi",
+        "industrie",
+        "relocalisation",
+        "croissance"
+      ],
+      "source": {
+        "url": "https://www.dupontaignan.fr/actualite/presentation-du-projet-economique-2027/",
+        "locator": "Présentation du projet économique 2027"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-emploi-02",
+      "theme": "emploi",
+      "title": "Exonérer de charges patronales le premier CDI des moins de 26 ans",
+      "summary": "Exonérer de charges patronales pendant trois mois le premier CDI d'un jeune de moins de 26 ans et pendant deux ans le CDI d'un chômeur de longue durée (5 ans).",
+      "excerpt": "Exonérer de charges patronales : Le premier emploi en CDI d’un jeune de moins de 26 ans pendant trois mois Le CDI d’un chômeur de longue durée (5 ans) pour insérer les personnes en extrême difficulté sociale pendant deux ans",
+      "tags": [
+        "embauche",
+        "cdi",
+        "jeune",
+        "chômeur",
+        "charges patronales"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "locator": "10 mesures pour relancer le pouvoir d’achat et récompenser le travail"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+          "note": "Cahier de chiffrage du 12 novembre 2026 : 0,2 Md€ en 2027-2028 puis jusqu'à 1 Md€ par an ; projet financé globalement par 100 Md€ d’économies et 40 Md€ de recettes nouvelles selon le même cahier. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-emploi-03",
+      "theme": "emploi",
+      "title": "Défiscaliser les heures supplémentaires dans la limite de 300 heures par an",
+      "summary": "Défiscaliser chaque heure effectuée au-delà de 1 607 heures par an pour un temps plein, dans la limite de 300 heures par an, avec suppression des cotisations salariales sur ces heures.",
+      "excerpt": "Défiscaliser les heures supplémentaires : au-delà de 1 607 h/an pour un temps plein, chaque heure effectuée sera défiscalisée dans la limite de 300 heures/an. Cette défiscalisation concernera les cotisations salariales (le net sera égal au brut).",
+      "tags": [
+        "heures supplémentaires",
+        "salaire",
+        "impôt",
+        "temps plein"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "locator": "10 mesures pour relancer le pouvoir d’achat et récompenser le travail"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+          "note": "Cahier de chiffrage du 12 novembre 2026 : 0,1 Md€ en 2027-2028 puis 0,5 Md€ par an ; projet financé globalement par 100 Md€ d’économies et 40 Md€ de recettes nouvelles selon le même cahier. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-emploi-04",
+      "theme": "emploi",
+      "title": "Proposer à chaque jeune sans diplôme une formation qualifiante",
+      "summary": "Proposer à chaque jeune sans diplôme une formation qualifiante intensive aux métiers manuels, du numérique ou des secteurs en demande, avec un emploi à la clé dans les secteurs en pénurie.",
+      "excerpt": "Avoir zéro jeune sans formation d’avenir en proposant à chaque jeune sans diplôme une formation qualifiante intensive aux métiers manuels, aux métiers du numérique ou aux métiers des secteurs en demande, assortie d’un emploi à la clé dans les secteurs en pénurie de main-d’œuvre, plutôt que de laisser des milliers de postes non pourvus et des milliers de jeunes sans emploi.",
+      "tags": [
+        "jeune",
+        "formation",
+        "sans diplôme",
+        "emploi"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "locator": "10 mesures pour relancer le pouvoir d’achat et récompenser le travail"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-emploi-05",
+      "theme": "emploi",
+      "title": "Créer un crédit d'impôt pour les entreprises qui réinvestissent en France",
+      "summary": "Accorder un crédit d'impôt de production, équivalant à une réduction de moitié de l'impôt sur les sociétés, aux entreprises qui réinvestissent leurs bénéfices en France.",
+      "excerpt": "Accorder un crédit d’impôt de production pour les entreprises qui réinvestissent leurs bénéfices sur le sol Français (réduction de moitié de l’impôt sur les sociétés).",
+      "tags": [
+        "entreprise",
+        "impôt sur les sociétés",
+        "investissement",
+        "relocalisation"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/produire-en-france/",
+        "locator": "Nos 10 mesures"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+          "note": "Cahier de chiffrage du 12 novembre 2026 : 3 Md€ en 2027-2028 puis 4 Md€ par an ; projet financé globalement par 100 Md€ d’économies et 40 Md€ de recettes nouvelles selon le même cahier. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-emploi-06",
+      "theme": "emploi",
+      "title": "Créer un fonds de relocalisation de 4 milliards d'euros par an",
+      "summary": "Créer un fonds d'investissement et de relocalisation doté de 4 milliards d'euros par an, piloté par la Caisse des dépôts, notamment pour les zones périphériques et rurales.",
+      "excerpt": "Créer un grand fonds d’investissement et de relocalisation doté de 4 milliards d’euros par an et piloté par la Caisse des dépôts et consignations, qui favoriserait l’investissement productif, la robotisation, l’emploi et la recherche dans les zones périphériques et rurales notamment.",
+      "tags": [
+        "relocalisation",
+        "industrie",
+        "rural",
+        "investissement"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "locator": "10 mesures pour créer et relocaliser 2 millions d’emplois"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+          "note": "Cahier de chiffrage du 12 novembre 2026 : 4 Md€ par an ; projet financé globalement par 100 Md€ d’économies et 40 Md€ de recettes nouvelles selon le même cahier. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-emploi-07",
+      "theme": "emploi",
+      "title": "Baisser les impôts de production",
+      "summary": "Baisser les impôts de production, évalués dans le texte à 3,2 % du PIB.",
+      "excerpt": "Baisser les impôts de production (3,2 % du PIB, soit près du double de la médiane des pays européens et du quadruple de l’Allemagne, ce qui décourage nos entrepreneurs).",
+      "tags": [
+        "impôts de production",
+        "entreprise",
+        "industrie",
+        "fiscalité"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "locator": "10 mesures pour créer et relocaliser 2 millions d’emplois"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+          "note": "Cahier de chiffrage du 12 novembre 2026 : 5 Md€ par an ; projet financé globalement par 100 Md€ d’économies et 40 Md€ de recettes nouvelles selon le même cahier. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-emploi-08",
+      "theme": "emploi",
+      "title": "Supprimer la directive sur les travailleurs détachés",
+      "summary": "Supprimer la directive sur les travailleurs détachés avec l'objectif de retrouver 500 000 emplois.",
+      "excerpt": "Retrouver 500 000 emplois en supprimant la directive des travailleurs détachés , qui exercent en France tout en payant des cotisations sociales minorées dans leur pays d’origine.",
+      "tags": [
+        "travailleurs détachés",
+        "emploi",
+        "europe",
+        "concurrence"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/produire-en-france/",
+        "locator": "Nos 10 mesures"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-emploi-09",
+      "theme": "emploi",
+      "title": "Réserver 75 % de la commande publique aux produits fabriqués en France",
+      "summary": "Réserver aux produits fabriqués en France 50 % de la commande publique la première année puis 75 % en 5 ans, en privilégiant les PME.",
+      "excerpt": "Réserver 75% de la commande publique à des produits fabriqués en France , (50% la première année pour atteindre 75% en 5 ans, soit 200 milliards d’euros chaque année), en privilégiant les PME.",
+      "tags": [
+        "commande publique",
+        "made in france",
+        "pme",
+        "entreprise"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/produire-en-france/",
+        "locator": "Nos 10 mesures"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-emploi-10",
+      "theme": "emploi",
+      "title": "Baisser l'impôt sur les sociétés en échange d'actionnariat salarié",
+      "summary": "Baisser le taux d'IS de 1 % pour 5 % d'actionnariat salarié supplémentaire, dans la limite de 10 points de baisse, et exonérer la participation du forfait social, pour un coût d'un milliard d'euros.",
+      "excerpt": "Lancer la « Participation gaullienne » des salariés, en synergie avec les entreprises : baisser le taux d’IS de 1 % pour 5 % d’actionnariat salarié supplémentaire, dans une limite de 10 points de baisse d’IS, et exonérer les sommes versées au titre de la participation du forfait social (coût : 1 milliard d’euros).",
+      "tags": [
+        "participation",
+        "actionnariat salarié",
+        "salarié",
+        "entreprise"
+      ],
+      "source": {
+        "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Economie-2026_11-12_Livret.pdf",
+        "locator": "Nos 30 mesures, mesure 18"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+          "note": "Cahier de chiffrage du 12 novembre 2026 : 1 Md€ par an ; projet financé globalement par 100 Md€ d’économies et 40 Md€ de recettes nouvelles selon le même cahier. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-emploi-11",
+      "theme": "emploi",
+      "title": "Exonérer de cotisations patronales l'embauche de travailleurs handicapés",
+      "summary": "Exonérer de cotisations patronales pendant deux ans les entreprises recrutant un travailleur handicapé dont le taux d'incapacité permanente dépasse 50 %.",
+      "excerpt": "Exonérer de cotisations patronales les entreprises recrutant un salarié reconnu travailleur handicapé avec un taux d’incapacité permanente supérieur à 50 %, pendant les deux premières années d’embauche.",
+      "tags": [
+        "handicap",
+        "embauche",
+        "cotisations",
+        "travailleur handicapé"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/handicap/",
+        "locator": "Nos 25 mesures : Permettre aux personnes en situation de handicap de se former et de travailler"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+          "note": "Cahier de chiffrage du 12 novembre 2026 : 0,2 Md€ en 2027-2028 puis 0,8 Md€ par an ; projet financé globalement par 100 Md€ d’économies et 40 Md€ de recettes nouvelles selon le même cahier. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-emploi-12",
+      "theme": "emploi",
+      "title": "Faire respecter le quota de 6 % de travailleurs handicapés",
+      "summary": "Renforcer contrôles et incitations pour que entreprises et administrations respectent le quota légal de 6 % de personnes en situation de handicap.",
+      "excerpt": "Renforcer les contrôles et les incitations afin que les entreprises et les administrations respectent effectivement le quota légal de 6 % de personnes en situation de handicap, prévu par la loi de 1987.",
+      "tags": [
+        "handicap",
+        "quota",
+        "entreprise",
+        "emploi"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/handicap/",
+        "locator": "Nos 25 mesures : Permettre aux personnes en situation de handicap de se former et de travailler"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-emploi-13",
+      "theme": "emploi",
+      "title": "Doubler le nombre d'apprentis en situation de handicap",
+      "summary": "Doubler le nombre d'apprentis en situation de handicap, estimé à environ 4 000.",
+      "excerpt": "Doubler le nombre d’apprentis en situation de handicap, aujourd’hui estimé à environ 4 000, soit près de 1 % des apprentis.",
+      "tags": [
+        "apprentissage",
+        "handicap",
+        "apprenti",
+        "formation"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/handicap/",
+        "locator": "Nos 25 mesures : Permettre aux personnes en situation de handicap de se former et de travailler"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-emploi-14",
+      "theme": "emploi",
+      "title": "Diviser par deux les normes administratives des entreprises",
+      "summary": "Diviser par deux les normes administratives pesant sur les entreprises, supprimer les ZFE et le seuil minimal de DPE pour louer, et n'ajouter aucune taxe ni norme pour les TPE et PME.",
+      "excerpt": "Diviser par 2 l’ensemble des normes administratives qui entravent la bonne marche des entreprises et exaspèrent les Français (les ZFE seront supprimées, tout comme le seuil minimal de DPE pour louer un logement…) et zéro taxe et zéro norme supplémentaire pour les TPE/PME.",
+      "tags": [
+        "normes",
+        "tpe",
+        "pme",
+        "entreprise"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "locator": "10 mesures pour créer et relocaliser 2 millions d’emplois"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-emploi-15",
+      "theme": "emploi",
+      "title": "Développer l'apprentissage",
+      "summary": "Développer l'apprentissage en valorisant les filières professionnelles et en simplifiant l'accès aux entreprises.",
+      "excerpt": "Doper l’apprentissage en valorisant les filières professionnelles et en simplifiant l’accès aux entreprises.",
+      "tags": [
+        "apprentissage",
+        "filière professionnelle",
+        "jeune",
+        "entreprise"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/famille/",
+        "locator": "Aider les enfants à se projeter dans la vie et favoriser leur insertion professionnelle"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-etudes-01",
+      "theme": "études",
+      "title": "Augmenter de 30 % les heures de français et de mathématiques en primaire",
+      "summary": "Augmenter de 30 % les heures consacrées au français et aux mathématiques à l'école primaire.",
+      "excerpt": "Augmenter de 30 % les heures consacrées au français et aux mathématiques.",
+      "tags": [
+        "école primaire",
+        "français",
+        "mathématiques",
+        "programme"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+        "locator": "Nos 60 mesures : Le primaire"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-etudes-02",
+      "theme": "études",
+      "title": "Augmenter de 15 % en 4 ans le salaire net des professeurs",
+      "summary": "Augmenter de 15 % en 4 ans les salaires nets des professeurs.",
+      "excerpt": "Augmenter de 15 % en 4 ans les salaires nets des professeurs.",
+      "tags": [
+        "professeur",
+        "enseignant",
+        "salaire",
+        "éducation"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+        "locator": "Nos 60 mesures : La formation des professeurs"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-etudes-03",
+      "theme": "études",
+      "title": "Créer un service national pour l'emploi pour les décrocheurs de 18 à 25 ans",
+      "summary": "Créer un service national pour l'emploi réservé aux 18-25 ans sans diplôme, sur le modèle du service militaire adapté d'outre-mer.",
+      "excerpt": "Créer un service national pour l’emploi (SNE) pour les décrocheurs (réservé aux 18-25 ans sans diplôme) sur le modèle du service militaire adapté mis en place outre-mer.",
+      "tags": [
+        "décrocheur",
+        "sans diplôme",
+        "jeune",
+        "formation"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+        "locator": "Nos 60 mesures : Une seconde chance pour tous"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-etudes-04",
+      "theme": "études",
+      "title": "Limiter un AESH à trois élèves par classe et deux en ULIS",
+      "summary": "Limiter la mutualisation des AESH à trois élèves par classe et à deux élèves en ULIS.",
+      "excerpt": "Limiter la mutualisation des AESH à trois élèves par classe et à deux élèves en ULIS, afin que l’accompagnement puisse réellement être adapté aux besoins de chaque enfant.",
+      "tags": [
+        "aesh",
+        "handicap",
+        "élève",
+        "école"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/handicap/",
+        "locator": "Nos 25 mesures : Agir en faveur des enfants en situation de handicap"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-etudes-05",
+      "theme": "études",
+      "title": "Scolariser les enfants handicapés dès 3 ans",
+      "summary": "Garantir autant que possible la prise en charge des enfants en situation de handicap par l'Éducation nationale dès 3 ans et leur participation aux activités de l'établissement.",
+      "excerpt": "Garantir, autant que faire se peut, la prise en charge des enfants en situation de handicap par l’Éducation nationale dès l’âge de 3 ans, et leur permettre, autant que possible, de participer à l’ensemble des activités sportives, culturelles et pédagogiques de leur établissement.",
+      "tags": [
+        "handicap",
+        "école",
+        "maternelle",
+        "scolarisation"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/handicap/",
+        "locator": "Nos 25 mesures : Agir en faveur des enfants en situation de handicap"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-etudes-06",
+      "theme": "études",
+      "title": "Présenter des métiers deux heures par mois dès la quatrième",
+      "summary": "Améliorer l'orientation en présentant chaque mois, pendant deux heures, des métiers et parcours professionnels dès la classe de quatrième.",
+      "excerpt": "Améliorer l’orientation en présentant chaque mois, deux heures durant, dès la classe de quatrième, une palette de métiers et de parcours professionnels.",
+      "tags": [
+        "orientation",
+        "collège",
+        "métiers",
+        "élève"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/famille/",
+        "locator": "Aider les enfants à se projeter dans la vie et favoriser leur insertion professionnelle"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-etudes-07",
+      "theme": "études",
+      "title": "Créer un examen de fin de primaire conditionnant l'entrée au collège",
+      "summary": "Organiser à la sortie du primaire un examen sur le modèle du certificat d'études, dont les résultats conditionnent l'entrée au collège.",
+      "excerpt": "Organiser, à la sortie du primaire, un examen sur le modèle du certificat d’études, dont les résultats conditionneront l’entrée au collège.",
+      "tags": [
+        "certificat d'études",
+        "école primaire",
+        "collège",
+        "examen"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+        "locator": "Nos 60 mesures : Le primaire"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-etudes-08",
+      "theme": "études",
+      "title": "Conditionner l'accès au lycée à l'obtention du brevet",
+      "summary": "Réserver l'accès au lycée aux élèves ayant obtenu le brevet.",
+      "excerpt": "Réserver l’accès au lycée à l’obtention du brevet.",
+      "tags": [
+        "brevet",
+        "lycée",
+        "collège",
+        "examen"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+        "locator": "Nos 60 mesures : Le collège"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-etudes-09",
+      "theme": "études",
+      "title": "Rétablir les filières S, ES et L au lycée",
+      "summary": "Revenir aux anciennes filières générales S, ES et L au lycée.",
+      "excerpt": "Revenir aux filières générales précédentes (S, ES, L).",
+      "tags": [
+        "lycée",
+        "bac",
+        "filières",
+        "réforme"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+        "locator": "Nos 60 mesures : Le lycée"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-etudes-10",
+      "theme": "études",
+      "title": "Rétablir les bourses au mérite dès le lycée",
+      "summary": "Rétablir les bourses au mérite à partir du lycée.",
+      "excerpt": "Remettre les bourses au mérite à partir du lycée.",
+      "tags": [
+        "bourse",
+        "mérite",
+        "lycée",
+        "élève"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+        "locator": "Nos 60 mesures : L’accompagnement scolaire"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-etudes-11",
+      "theme": "études",
+      "title": "Rendre l'uniforme obligatoire à l'école",
+      "summary": "Rendre l'uniforme obligatoire et imposer un niveau de langage minimum et le vouvoiement dans les établissements.",
+      "excerpt": "Uniforme obligatoire, niveau de langage minimum et vouvoiement.",
+      "tags": [
+        "uniforme",
+        "école",
+        "collège",
+        "autorité"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+        "locator": "Nos 60 mesures : Le rétablissement de l’autorité"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-etudes-12",
+      "theme": "études",
+      "title": "Interdire les objets connectés dans les établissements scolaires",
+      "summary": "Interdire l'usage des objets connectés dans l'enceinte des établissements scolaires.",
+      "excerpt": "Interdiction de l’usage des objets connectés dans l’enceinte des établissements.",
+      "tags": [
+        "téléphone portable",
+        "écrans",
+        "école",
+        "collège"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+        "locator": "Nos 60 mesures : Le rétablissement de l’autorité"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-etudes-13",
+      "theme": "études",
+      "title": "Réduire la part du contrôle continu au baccalauréat",
+      "summary": "Diminuer nettement la part du contrôle continu dans l'obtention du baccalauréat au profit des épreuves écrites anonymes.",
+      "excerpt": "Diminuer significativement la part de contrôle continu pour l’obtention du baccalauréat et faire la part belle aux épreuves écrites (copie anonyme).",
+      "tags": [
+        "baccalauréat",
+        "contrôle continu",
+        "examen",
+        "lycée"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+        "locator": "Nos 60 mesures : Le baccalauréat"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-etudes-14",
+      "theme": "études",
+      "title": "Réformer Parcoursup",
+      "summary": "Réformer Parcoursup pour le rendre équitable et transparent.",
+      "excerpt": "Réformer le système Parcoursup afin de le rendre équitable et transparent.",
+      "tags": [
+        "parcoursup",
+        "université",
+        "orientation",
+        "lycéen"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+        "locator": "Nos 60 mesures : Le baccalauréat"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-etudes-15",
+      "theme": "études",
+      "title": "Encadrer les frais annexes de scolarité et réaffirmer la gratuité du supérieur",
+      "summary": "Mettre fin à la hausse des frais annexes de scolarité et réaffirmer le principe d'un accès gratuit à l'enseignement supérieur et aux concours.",
+      "excerpt": "Mettre fin à l’augmentation incontrôlée des frais annexes de scolarité et réaffirmer le principe d’un accès gratuit à l’enseignement supérieur et aux concours.",
+      "tags": [
+        "frais de scolarité",
+        "université",
+        "étudiant",
+        "concours"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/famille/",
+        "locator": "Aider les enfants à se projeter dans la vie et favoriser leur insertion professionnelle"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-retraite-01",
+      "theme": "retraite",
+      "title": "Réindexer les pensions de retraite sur l'inflation",
+      "summary": "Réindexer les pensions de retraite et les traitements des fonctionnaires sur l'inflation.",
+      "excerpt": "Réindexer les pensions de retraite et les traitements des fonctionnaires sur l’inflation, car l’État doit respecter son engagement vis-à-vis des Français qui ont cotisé toute leur vie professionnelle.",
+      "tags": [
+        "pension",
+        "retraite",
+        "inflation",
+        "fonctionnaires"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "locator": "10 mesures pour relancer le pouvoir d’achat et récompenser le travail"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-retraite-02",
+      "theme": "retraite",
+      "title": "Rétablir le cumul emploi-retraite entre 62 et 67 ans",
+      "summary": "Rétablir la possibilité de cumuler emploi et retraite entre 62 et 67 ans.",
+      "excerpt": "Rétablir la possibilité du cumul emploi-retraite entre 62 et 67 ans.",
+      "tags": [
+        "cumul emploi-retraite",
+        "retraite",
+        "senior",
+        "travail"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "locator": "10 mesures pour relancer le pouvoir d’achat et récompenser le travail"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-retraite-03",
+      "theme": "retraite",
+      "title": "Maintenir intégralement les pensions de réversion",
+      "summary": "S'opposer à toute réforme diminuant les pensions de réversion et défendre leur maintien intégral.",
+      "excerpt": "Debout la France défendra fermement le maintien intégral des pensions de réversion.",
+      "tags": [
+        "pension de réversion",
+        "veuf",
+        "retraite",
+        "conjoint"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/famille/",
+        "locator": "Renforcer la solidarité intergénérationnelle face à la montée en âge et à l’isolement"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-retraite-04",
+      "theme": "retraite",
+      "title": "Aligner les retraites agricoles sur le régime général",
+      "summary": "Assouplir la validation des trimestres des femmes d'agriculteurs ayant participé à l'activité de leur conjoint et aligner les régimes de retraite agricole sur le régime général, avec une retraite au moins égale au minimum vieillesse.",
+      "excerpt": "Mettre fin au scandale des retraites agricoles en permettant une validation plus souple des trimestres de cotisation pour les femmes d’agriculteurs ayant contribué à l’activité de leur conjoint et en alignant les régimes de retraite agricole sur le régime général afin de garantir une retraite digne (égale au minimum vieillesse).",
+      "tags": [
+        "retraite agricole",
+        "agriculteur",
+        "pension",
+        "minimum vieillesse"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/agriculture/",
+        "locator": "Nos 15 mesures : Encourager les bonnes pratiques agricoles et valoriser nos terroirs"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-famille-01",
+      "theme": "famille",
+      "title": "Doter chaque nouveau-né d'un capital de 10 000 euros",
+      "summary": "Doter chaque nouveau-né français d'un capital de 10 000 euros bloqué jusqu'à la retraite, géré par un fonds public de capitalisation, comme complément de retraite à partir de 60 ans.",
+      "excerpt": "Doter chaque nouveau-né français d’un capital de 10 000 euros qui sera bloqué jusqu’à sa retraite et qui sera géré par un fonds public de capitalisation français, inspiré du modèle du fonds souverain norvégien. À 60 ans, le bénéficiaire disposerait ainsi d’un socle de retraite par capitalisation, qui viendrait en complément de la retraite par répartition.",
+      "tags": [
+        "naissance",
+        "bébé",
+        "capital",
+        "épargne",
+        "retraite"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "locator": "10 mesures pour relancer le pouvoir d’achat et récompenser le travail"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+          "note": "Cahier de chiffrage du 12 novembre 2026 : 6 Md€ par an ; projet financé globalement par 100 Md€ d’économies et 40 Md€ de recettes nouvelles selon le même cahier. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-famille-02",
+      "theme": "famille",
+      "title": "Porter le quotient familial à 3 000 euros par demi-part",
+      "summary": "Revaloriser le quotient familial à 3 000 euros par demi-part.",
+      "excerpt": "En revalorisant le quotient familial à 3 000 € par demi-part.",
+      "tags": [
+        "quotient familial",
+        "impôt",
+        "enfant",
+        "demi-part"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/famille/",
+        "locator": "Soutenir les familles françaises et favoriser la natalité"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-famille-03",
+      "theme": "famille",
+      "title": "Créer 100 000 places de crèche en 5 ans",
+      "summary": "Lancer un plan national de création de 100 000 places de crèches en 5 ans, avec le soutien de l'État aux communes et aux entreprises.",
+      "excerpt": "Lancer un plan national de création de 100 000 places de crèches en 5 ans. Le manque de structures d’accueil est un frein majeur à la natalité. L’État doit soutenir les communes et les entreprises pour ouvrir de nouvelles places.",
+      "tags": [
+        "crèche",
+        "garde d'enfant",
+        "bébé",
+        "parent"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/famille/",
+        "locator": "Réconcilier vie de famille et vie professionnelle"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-famille-04",
+      "theme": "famille",
+      "title": "Créer un congé parental optionnel et consacrer 3 milliards d'euros par an à la famille",
+      "summary": "Consacrer 3 milliards d'euros par an à la famille, dont 1,5 milliard pour créer un congé parental optionnel.",
+      "excerpt": "La famille (3 milliards d’€ par an) : retrouver un dynamisme démographique est crucial, aussi nous souhaitons créer un système de congé parental optionnel (1,5 milliard d’€) et revenir sur les politiques anti-familles des gouvernements Hollande et Macron.",
+      "tags": [
+        "congé parental",
+        "famille",
+        "natalité",
+        "parent"
+      ],
+      "source": {
+        "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+        "locator": "25 milliards pour rétablir les services publics et assurer l’équilibre des territoires"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+          "note": "Cahier de chiffrage du 12 novembre 2026 : 3 Md€ par an pour la famille, dont 1,5 Md€ pour le congé parental optionnel ; projet financé globalement par 100 Md€ d’économies et 40 Md€ de recettes nouvelles selon le même cahier. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-famille-05",
+      "theme": "famille",
+      "title": "Encourager deux jours de télétravail par semaine pour les parents d'enfants de moins de 3 ans",
+      "summary": "Encourager les entreprises à proposer deux jours de télétravail par semaine aux parents d'enfants de moins de 3 ans.",
+      "excerpt": "Faciliter le télétravail pour les parents de jeunes enfants. Encourager les entreprises à offrir deux jours de télétravail par semaine aux parents d’enfants de moins de 3 ans, pour plus de souplesse et moins de stress.",
+      "tags": [
+        "télétravail",
+        "parent",
+        "jeune enfant",
+        "travail"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/famille/",
+        "locator": "Réconcilier vie de famille et vie professionnelle"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-famille-06",
+      "theme": "famille",
+      "title": "Réévaluer et indexer l'abattement successoral en ligne directe",
+      "summary": "Réévaluer puis indexer sur l'inflation l'abattement successoral en ligne directe, fixé à 100 000 euros par enfant.",
+      "excerpt": "En réévaluant puis en indexant sur l’inflation l’abattement successoral en ligne directe, bloqué depuis de nombreuses années à 100 000 € pour chaque enfant.",
+      "tags": [
+        "succession",
+        "héritage",
+        "enfant",
+        "abattement"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/famille/",
+        "locator": "Soutenir les familles françaises et favoriser la natalité"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-famille-07",
+      "theme": "famille",
+      "title": "Rétablir l'exonération fiscale des majorations de retraite pour trois enfants",
+      "summary": "Rétablir l'exonération d'impôt sur le revenu des compléments de retraite versés aux personnes ayant élevé trois enfants ou plus.",
+      "excerpt": "En rétablissant l’exonération d’impôt sur le revenu sur les compléments de retraite versés aux personnes ayant élevé trois enfants ou plus.",
+      "tags": [
+        "famille nombreuse",
+        "retraite",
+        "impôt",
+        "enfants"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/famille/",
+        "locator": "Soutenir les familles françaises et favoriser la natalité"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-famille-08",
+      "theme": "famille",
+      "title": "Accorder une part fiscale complète pour un enfant handicapé",
+      "summary": "Accorder une part fiscale complète aux familles ayant un enfant en situation de handicap, dès le premier enfant.",
+      "excerpt": "En octroyant une part fiscale complète aux familles ayant un enfant en situation de handicap dès le premier enfant.",
+      "tags": [
+        "handicap",
+        "enfant",
+        "part fiscale",
+        "impôt"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/famille/",
+        "locator": "Soutenir les familles françaises et favoriser la natalité"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+          "note": "Cahier de chiffrage du 12 novembre 2026 : 0,2 Md€ par an ; projet financé globalement par 100 Md€ d’économies et 40 Md€ de recettes nouvelles selon le même cahier. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-famille-09",
+      "theme": "famille",
+      "title": "Revaloriser les allocations familiales et les indexer sur l'inflation",
+      "summary": "Revaloriser immédiatement les allocations familiales et les indexer automatiquement sur l'inflation.",
+      "excerpt": "Revaloriser immédiatement les allocations familiales et les indexer sur l’inflation. Les allocations n’ont pas suivi le coût de la vie. Elles doivent à nouveau protéger réellement le pouvoir d’achat des familles. Une indexation automatique sur l’inflation permettra de garantir leur efficacité dans le temps.",
+      "tags": [
+        "allocations familiales",
+        "inflation",
+        "famille",
+        "caf"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/famille/",
+        "locator": "Soutenir les familles françaises et favoriser la natalité"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-famille-10",
+      "theme": "famille",
+      "title": "Rétablir l'universalité des allocations familiales",
+      "summary": "Verser les allocations familiales à toutes les familles, sans condition de revenu.",
+      "excerpt": "Rétablir l’universalité des allocations familiales. Les allocations doivent être versées à toutes les familles, sans condition de revenu, comme c’était le cas avant leur plafonnement injuste.",
+      "tags": [
+        "allocations familiales",
+        "universalité",
+        "famille",
+        "revenus"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/famille/",
+        "locator": "Soutenir les familles françaises et favoriser la natalité"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-famille-11",
+      "theme": "famille",
+      "title": "Créer un chèque garde d'enfant universel",
+      "summary": "Créer un chèque garde d'enfant universel, modulé selon les revenus, permettant de choisir entre assistante maternelle, crèche ou garde à domicile.",
+      "excerpt": "Mettre en place un vrai « chèque garde d’enfant » universel. Ce chèque, modulé selon les revenus, permettra à chaque famille de choisir librement entre une assistante maternelle, une crèche ou la garde à domicile.",
+      "tags": [
+        "garde d'enfant",
+        "assistante maternelle",
+        "crèche",
+        "nounou"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/famille/",
+        "locator": "Réconcilier vie de famille et vie professionnelle"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-famille-12",
+      "theme": "famille",
+      "title": "Créer un prêt à taux zéro renforcé pour les jeunes couples avec enfants",
+      "summary": "Créer un prêt à taux zéro renforcé pour les jeunes couples avec enfants afin de favoriser l'accès à la propriété dès la première naissance.",
+      "excerpt": "Créer un prêt à taux zéro renforcé pour les jeunes couples avec enfants. Favoriser l’accès à la propriété dès la première naissance et relancer la construction de logements familiaux.",
+      "tags": [
+        "ptz",
+        "jeunes couples",
+        "acheter",
+        "enfant"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/famille/",
+        "locator": "Faciliter l’accès au logement et à la propriété des familles"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-famille-13",
+      "theme": "famille",
+      "title": "Exonérer temporairement de taxe foncière les familles nombreuses primo-accédantes",
+      "summary": "Exonérer temporairement de taxe foncière, avec prise en charge par l'État, les familles nombreuses dans les années suivant l'achat de leur résidence principale.",
+      "excerpt": "Exonérer temporairement, au moyen d’une prise en charge par l’État, la taxe foncière pour les familles nombreuses durant les années qui suivent l’achat de leur résidence principale.",
+      "tags": [
+        "taxe foncière",
+        "famille nombreuse",
+        "propriétaire",
+        "acheter"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/famille/",
+        "locator": "Faciliter l’accès au logement et à la propriété des familles"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-famille-14",
+      "theme": "famille",
+      "title": "Donner la priorité d'attribution des logements sociaux aux familles avec enfants",
+      "summary": "Accorder la priorité d'attribution des logements sociaux aux familles avec enfants, selon des critères de stabilité et d'ancienneté en France.",
+      "excerpt": "Accorder la priorité d’attribution des logements sociaux aux familles avec enfants, selon des critères de stabilité et d’ancienneté en France.",
+      "tags": [
+        "logement social",
+        "hlm",
+        "famille",
+        "enfants"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/famille/",
+        "locator": "Faciliter l’accès au logement et à la propriété des familles"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-famille-15",
+      "theme": "famille",
+      "title": "Multiplier les Maisons de la Famille",
+      "summary": "Multiplier sur le territoire les Maisons de la Famille, guichets uniques de soutien à la parentalité et d'accompagnement psychologique.",
+      "excerpt": "Multiplier les Maisons de la Famille sur tout le territoire. Expérimentées avec succès à Yerres, qui est en tête dans l’Essonne pour le nombre de places de crèches par habitant, elles offrent un guichet unique pour le soutien à la parentalité, l’accompagnement psychologique et l’accès à l’information.",
+      "tags": [
+        "parentalité",
+        "maison de la famille",
+        "parent",
+        "soutien"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/famille/",
+        "locator": "Protéger l’enfance et soutenir la parentalité"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-transport-01",
+      "theme": "transport",
+      "title": "Financer la moitié du permis de conduire contre un travail d'intérêt général",
+      "summary": "Financer la moitié du coût du permis de conduire en échange d'un travail d'intérêt général dans une collectivité.",
+      "excerpt": "Financer la moitié du coût du permis de conduire en échange d’un travail d’intérêt général dans une collectivité, comme cela fonctionne depuis des années à Yerres, en Essonne.",
+      "tags": [
+        "permis de conduire",
+        "jeune",
+        "auto-école",
+        "coût"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/transport-automobilistes/",
+        "locator": "Nos 16 mesures : Mettre fin au matraquage fiscal"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-transport-02",
+      "theme": "transport",
+      "title": "Renationaliser les autoroutes et supprimer les péages d'ici 2030",
+      "summary": "Reprendre la gestion des autoroutes sans indemnité, stopper les hausses de péages puis les supprimer à l'horizon 2030, et financer l'entretien par une taxe sur les camions étrangers.",
+      "excerpt": "Renationaliser les autoroutes (qui réalisent des bénéfices de l’ordre de 4 milliards d’euros par an) par une reprise de la gestion des autoroutes sans verser aucune indemnité, stopper les hausses des péages, les supprimer à l’horizon 2030 et financer l’entretien du réseau par une taxe sur les camions étrangers empruntant le réseau autoroutier français.",
+      "tags": [
+        "autoroute",
+        "péage",
+        "voiture",
+        "camions"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/transport-automobilistes/",
+        "locator": "Nos 16 mesures : Mettre fin au matraquage fiscal"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-transport-03",
+      "theme": "transport",
+      "title": "Supprimer le permis à points",
+      "summary": "Supprimer le permis à points tout en sanctionnant pénalement la conduite sans permis.",
+      "excerpt": "Suppression du permis à points qui est une usine à gaz (comme en Belgique ou en Suède) , tout en luttant contre les vrais chauffards qui roulent sans permis avec des sanctions pénales fortes.",
+      "tags": [
+        "permis à points",
+        "permis de conduire",
+        "automobiliste",
+        "sécurité routière"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/transport-automobilistes/",
+        "locator": "Nos 16 mesures : Mettre fin au matraquage fiscal"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-transport-04",
+      "theme": "transport",
+      "title": "Maintenir le permis à vie sans visite médicale périodique",
+      "summary": "Maintenir le permis de conduire à vie en mettant fin à la directive européenne qui impose une visite médicale tous les 15 ans.",
+      "excerpt": "Sanctuariser le permis à vie en mettant fin à la directive européenne qui institue une visite médicale obligatoire tous les 15 ans.",
+      "tags": [
+        "permis de conduire",
+        "visite médicale",
+        "senior",
+        "automobiliste"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/transport-automobilistes/",
+        "locator": "Nos 16 mesures : Mettre fin au matraquage fiscal"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-transport-05",
+      "theme": "transport",
+      "title": "Alléger le contrôle technique",
+      "summary": "Alléger l'obligation du contrôle technique.",
+      "excerpt": "Alléger l’obligation du contrôle technique.",
+      "tags": [
+        "contrôle technique",
+        "voiture",
+        "automobiliste",
+        "garage"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/transport-automobilistes/",
+        "locator": "Nos 16 mesures : Mettre fin au matraquage fiscal"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-transport-06",
+      "theme": "transport",
+      "title": "Supprimer définitivement les zones à faibles émissions (ZFE)",
+      "summary": "Supprimer définitivement les zones à faibles émissions qui restreignent l'accès des véhicules Crit'Air 3 ou plus aux grandes villes.",
+      "excerpt": "Acter la suppression définitive des zones à faibles émissions. Ces ZFE sont en réalité des zones d’exclusion des automobilistes visant à empêcher 70 % de nos compatriotes conducteurs (exclusion des véhicules classés Crit’Air 3 ou plus) d’entrer dans les grandes villes.",
+      "tags": [
+        "zfe",
+        "crit'air",
+        "voiture",
+        "ville"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/transport-automobilistes/",
+        "locator": "Nos 16 mesures : Défendre la liberté de circulation partout sur le territoire"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-transport-07",
+      "theme": "transport",
+      "title": "Revenir aux 90 km/h sur les routes départementales",
+      "summary": "Rétablir la limitation de vitesse à 90 km/h sur les routes départementales.",
+      "excerpt": "Revenir aux 90 km/h sur les routes départementales",
+      "tags": [
+        "90 km/h",
+        "vitesse",
+        "route",
+        "automobiliste"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/transport-automobilistes/",
+        "locator": "Nos 16 mesures : Défendre la liberté de circulation partout sur le territoire"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-transport-08",
+      "theme": "transport",
+      "title": "Rendre gratuites les autoroutes autour de l'Île-de-France",
+      "summary": "Rendre gratuites les autoroutes autour de l'Île-de-France pour favoriser son contournement par les poids lourds.",
+      "excerpt": "Rendre gratuites les autoroutes autour de l’Île-de-France (et favoriser ainsi son contournement) afin de limiter le trafic des poids lourds qui utilisent et saturent le réseau routier francilien pour se rendre dans d’autres régions.",
+      "tags": [
+        "autoroute",
+        "île-de-france",
+        "péage",
+        "poids lourds"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/transport-automobilistes/",
+        "locator": "Nos 16 mesures : Défendre la liberté de circulation partout sur le territoire"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-transport-09",
+      "theme": "transport",
+      "title": "Interdire les poids lourds sur autoroute de 7 h à 22 h les jours de grands départs",
+      "summary": "Interdire la circulation des poids lourds sur les autoroutes de 7 h à 22 h les jours de grande affluence.",
+      "excerpt": "Interdire totalement la circulation des poids lourds sur les autoroutes de 7 h à 22 h les jours de grandes affluences (départ et retour de vacances/week-ends prolongés) afin de lutter contre les bouchons provoqués par les camions en transit.",
+      "tags": [
+        "poids lourds",
+        "autoroute",
+        "vacances",
+        "bouchons"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/transport-automobilistes/",
+        "locator": "Nos 16 mesures : Défendre la liberté de circulation partout sur le territoire"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-transport-10",
+      "theme": "transport",
+      "title": "Rénover les routes et combler les nids-de-poule",
+      "summary": "Réaliser les aménagements nécessaires sur les routes, notamment combler les nids-de-poule.",
+      "excerpt": "Réaliser les aménagements nécessaires sur les réseaux routiers et combler notamment les nids-de-poule, extrêmement dangereux pour les motards.",
+      "tags": [
+        "route",
+        "nids-de-poule",
+        "moto",
+        "entretien"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/transport-automobilistes/",
+        "locator": "Nos 16 mesures : Défendre la liberté de circulation partout sur le territoire"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-transport-11",
+      "theme": "transport",
+      "title": "Développer le ferroutage",
+      "summary": "Développer le ferroutage pour réduire le trafic des camions et la pollution.",
+      "excerpt": "Développer le transport par voie ferrée (ferroutage) pour réduire le trafic des camions et réduire la pollution.",
+      "tags": [
+        "ferroutage",
+        "train",
+        "camions",
+        "fret"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/transport-automobilistes/",
+        "locator": "Nos 16 mesures : Défendre la liberté de circulation partout sur le territoire"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-transport-12",
+      "theme": "transport",
+      "title": "Supprimer l'interdiction des voitures thermiques prévue en 2035",
+      "summary": "Supprimer l'interdiction des véhicules thermiques fixée par l'UE à l'horizon 2035.",
+      "excerpt": "Supprimer l’interdiction des véhicules thermiques à l’horizon 2035 imposée par l’UE.",
+      "tags": [
+        "voiture thermique",
+        "2035",
+        "automobile",
+        "europe"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/transport-automobilistes/",
+        "locator": "Nos 16 mesures : Sauver l’industrie automobile française menacée de disparition"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-transport-13",
+      "theme": "transport",
+      "title": "Maintenir le réseau ferroviaire traditionnel et supprimer l'ouverture à la concurrence",
+      "summary": "Maintenir et rénover le réseau ferroviaire qui dessert les territoires et supprimer l'ouverture à la concurrence.",
+      "excerpt": "Maintenir et rénover le réseau ferroviaire traditionnel qui irrigue l’ensemble de nos territoires et supprimer l’ouverture à une concurrence faussée qui empêche toute péréquation tarifaire et menace, à terme, les lignes non rentables.",
+      "tags": [
+        "train",
+        "sncf",
+        "ligne ferroviaire",
+        "rural"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/equilibre-territoire-monde-rural/",
+        "locator": "Nos 25 mesures : Garantir l’égalité entre les ruraux et les urbains"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-transport-14",
+      "theme": "transport",
+      "title": "Remplacer les trains diesel par des trains à hydrogène",
+      "summary": "Remplacer les trains diesel de la SNCF par des trains Alstom à hydrogène.",
+      "excerpt": "Les trains diesel de la SNCF seront enfin remplacés par des trains Alstom à hydrogène pour développer progressivement toute la filière hydrogène (fabriqué à partir d’électricité) en France.",
+      "tags": [
+        "train",
+        "hydrogène",
+        "sncf",
+        "diesel"
+      ],
+      "source": {
+        "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Economie-2026_11-12_Livret.pdf",
+        "locator": "Nos 30 mesures, mesure 30"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-env-01",
+      "theme": "environnement",
+      "title": "Accélérer la construction des EPR2 et des petits réacteurs modulaires",
+      "summary": "Accélérer les programmes de construction des EPR2 et de petits réacteurs modulaires pour remplacer les centrales en fin de vie.",
+      "excerpt": "Les programmes de construction des EPR2 et de déploiement des petits réacteurs modulaires français pour remplacer nos centrales en fin de vie seront accélérés.",
+      "tags": [
+        "nucléaire",
+        "epr",
+        "énergie",
+        "électricité"
+      ],
+      "source": {
+        "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Economie-2026_11-12_Livret.pdf",
+        "locator": "Nos 30 mesures, mesure 30"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-env-02",
+      "theme": "environnement",
+      "title": "Lancer un programme de recherche sur les réacteurs à neutrons rapides",
+      "summary": "Lancer un programme de recherche et développement sur les réacteurs à neutrons rapides et relancer le projet Astrid.",
+      "excerpt": "Un vaste programme de recherche et développement pour développer les filières de réacteurs à neutrons rapides sera lancé. En outre, nus relancerons et donnerons des moyens au projet Astrid.",
+      "tags": [
+        "nucléaire",
+        "astrid",
+        "recherche",
+        "énergie"
+      ],
+      "source": {
+        "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Economie-2026_11-12_Livret.pdf",
+        "locator": "Nos 30 mesures, mesure 30"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-env-03",
+      "theme": "environnement",
+      "title": "Rénover les barrages hydroélectriques et les maintenir chez EDF",
+      "summary": "Rénover les barrages hydroélectriques, améliorer leur puissance et les maintenir dans le giron d'EDF.",
+      "excerpt": "Les barrages hydroélectriques seront rénovés, leur puissance améliorée et ils resteront dans le giron d’EDF.",
+      "tags": [
+        "hydroélectricité",
+        "barrage",
+        "edf",
+        "énergie"
+      ],
+      "source": {
+        "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Economie-2026_11-12_Livret.pdf",
+        "locator": "Nos 30 mesures, mesure 30"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-env-04",
+      "theme": "environnement",
+      "title": "Supprimer les aides publiques à l'éolien et au solaire",
+      "summary": "Supprimer les aides de l'État à l'installation d'éoliennes et de panneaux solaires en annulant le décret PPE3, pour 10 milliards d'euros d'économies.",
+      "excerpt": "Supprimer les aides de l’État à l’installation des éoliennes et des panneaux solaires en annulant le décret sur la PPE3 (10 milliards d’euros économisés).",
+      "tags": [
+        "éolien",
+        "solaire",
+        "énergie renouvelable",
+        "ppe"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+        "locator": "Nos 10 mesures pour assainir les finances publiques et préparer l’avenir"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-env-05",
+      "theme": "environnement",
+      "title": "Stopper les projets éoliens",
+      "summary": "Arrêter les projets éoliens.",
+      "excerpt": "Stopper les projets éoliens qui produisent une énergie intermittente pour un coût faramineux (9 milliards d’euros en 2025) et défigurent nos campagnes et nos littoraux.",
+      "tags": [
+        "éolien",
+        "paysage",
+        "énergie",
+        "campagne"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/equilibre-territoire-monde-rural/",
+        "locator": "Nos 25 mesures : Garantir l’égalité entre les ruraux et les urbains"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-env-06",
+      "theme": "environnement",
+      "title": "Dissoudre l'Office français de la biodiversité",
+      "summary": "Alléger les normes pesant sur les maires et dissoudre l'Office français de la biodiversité en rattachant ses agents aux préfectures.",
+      "excerpt": "Alléger les normes qui empoisonnent le quotidien des maires et dissoudre l’Office Français de la Biodiversité (OFB ), en rattachant ses fonctionnaires directement aux préfectures.",
+      "tags": [
+        "biodiversité",
+        "ofb",
+        "normes",
+        "maires"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/equilibre-territoire-monde-rural/",
+        "locator": "Nos 25 mesures : Réduire de moitié les normes"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-env-07",
+      "theme": "environnement",
+      "title": "Soutenir la filière bio",
+      "summary": "Respecter les calendriers de versement des aides à l'agriculture biologique, les revaloriser et contrôler les importations de produits bio.",
+      "excerpt": "Sauver la filière bio en respectant les calendriers de versement des aides , en les revalorisant, et en contrôlant les importations de produits bio qui ne respectent pas nos normes.",
+      "tags": [
+        "bio",
+        "agriculture biologique",
+        "aides",
+        "importations"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/agriculture/",
+        "locator": "Nos 15 mesures : Encourager les bonnes pratiques agricoles et valoriser nos terroirs"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "dupont-aignan-env-08",
+      "theme": "environnement",
+      "title": "Rémunérer les agriculteurs pour l'entretien des haies et des milieux naturels",
+      "summary": "Rémunérer les services rendus par les agriculteurs en zones à handicap naturel, notamment l'entretien des haies, et accompagner l'agriculture de conservation des sols.",
+      "excerpt": "Promouvoir une agriculture durable et résiliente en rémunérant les services rendus par les agriculteurs dans les zones à handicap naturel , notamment pour l’entretien des haies et les pratiques traditionnelles qui préservent les milieux naturels. Encourager la régénération des sols et lutter contre l’érosion et la perte de terres arables par l’accompagnement des pratiques d’agriculture de conservation.",
+      "tags": [
+        "haies",
+        "agriculture",
+        "sols",
+        "biodiversité"
+      ],
+      "source": {
+        "url": "https://www.debout-la-france.fr/projet/agriculture/",
+        "locator": "Nos 15 mesures : Encourager les bonnes pratiques agricoles et valoriser nos terroirs"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    }
+  ]
+}

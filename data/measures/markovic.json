@@ -1,0 +1,27 @@
+{
+  "candidate_id": "markovic",
+  "measures": [
+    {
+      "id": "markovic-env-01",
+      "theme": "environnement",
+      "title": "Sortir de l'élevage intensif",
+      "summary": "Le communiqué d'investiture cite, parmi les propositions portées par le parti, la sortie de l'élevage intensif, la création d'un ministère indépendant de la Condition animale, la fin de la chasse et de la corrida et l'intégration des animaux aux plans ORSEC.",
+      "excerpt": "Nous portons, par exemple, la création d’un ministère indépendant de la Condition animale, la sortie de l’élevage intensif, la fin des pratiques cruelles comme la chasse et la corrida, ou encore l’intégration des animaux aux plans de secours ORSEC.",
+      "tags": [
+        "élevage intensif",
+        "animaux",
+        "agriculture",
+        "chasse"
+      ],
+      "source": {
+        "url": "https://parti-animaliste.fr/news/communique-de-presse/mira-markovic-representera-le-parti-animaliste-a-la-presidentielle",
+        "locator": "Communiqué « Mira Markovic représentera le Parti animaliste à la présidentielle » (2 octobre 2026)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    }
+  ]
+}

@@ -51,8 +51,21 @@ def main() -> int:
         if cand["id"] in cand_ids:
             errors.append(f"candidat dupliqué : {cand['id']}")
         cand_ids.add(cand["id"])
-        if not cand.get("official_domains"):
+        if not cand.get("official_domains") and cand.get("program_status") in {"programme", "propositions"}:
             errors.append(f"{cand['id']} : aucun domaine officiel déclaré")
+        if not cand.get("demo"):
+            # Règle d'inclusion : déclaration rapportée par au moins deux médias nationaux distincts.
+            hosts = {(urlparse(u).hostname or "").removeprefix("www.") for u in cand.get("declaration_sources", [])}
+            if len(hosts) < 2:
+                errors.append(f"{cand['id']} : il faut deux sources de presse distinctes pour la déclaration")
+            if cand.get("program_status") not in {"programme", "propositions", "aucun", "inaccessible"}:
+                errors.append(f"{cand['id']} : program_status invalide ({cand.get('program_status')})")
+            if cand.get("program_status") in {"programme", "propositions"} and not cand.get("program_url"):
+                errors.append(f"{cand['id']} : program_url manquant alors qu'un programme est déclaré")
+            if cand.get("program_url"):
+                host = (urlparse(cand["program_url"]).hostname or "").lower()
+                if cand["program_url"] not in cand.get("official_documents", []) and not any(host == d or host.endswith("." + d) for d in cand.get("official_domains", [])):
+                    errors.append(f"{cand['id']} : program_url hors des domaines officiels ({host})")
         path = ROOT / cand["measures_file"]
         if not path.exists():
             errors.append(f"{cand['id']} : fichier {cand['measures_file']} absent")
@@ -60,7 +73,7 @@ def main() -> int:
         file = json.loads(path.read_text(encoding="utf-8"))
         if file.get("candidate_id") != cand["id"]:
             errors.append(f"{path.name} : candidate_id ne correspond pas à {cand['id']}")
-        if not file["measures"]:
+        if not file["measures"] and cand.get("program_status") in {"programme", "propositions"}:
             warnings.append(f"{cand['id']} : aucune mesure (programme pas encore publié ?)")
 
         for m in file["measures"]:
@@ -77,7 +90,8 @@ def main() -> int:
                 warnings.append(f"{where} : thème '{m.get('theme')}' absent de themes.json")
             url = m.get("source", {}).get("url", "")
             host = (urlparse(url).hostname or "").lower()
-            if not any(host == d or host.endswith("." + d) for d in cand.get("official_domains", [])):
+            page = url.split("#")[0]
+            if page not in cand.get("official_documents", []) and not any(host == d or host.endswith("." + d) for d in cand.get("official_domains", [])):
                 errors.append(f"{where} : source hors des domaines officiels ({host})")
             if any("\u2014" in s for s in walk_strings(m)):
                 errors.append(f"{where} : tiret long interdit")

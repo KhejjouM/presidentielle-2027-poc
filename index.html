@@ -19,6 +19,7 @@
   <header class="site-header">
     <p class="site-name">Ce qu'ils proposent pour vous</p>
     <nav aria-label="Navigation principale">
+      <a href="#programmes">Programmes intégrés</a>
       <a href="#methode">Méthode</a>
       <a href="#confidentialite">Confidentialité</a>
     </nav>
@@ -72,6 +73,23 @@
         <p id="results-meta" class="results-meta"></p>
       </div>
       <div id="ballots" class="ballots"></div>
+    </section>
+
+    <section id="programmes" class="method programs" aria-labelledby="programs-title">
+      <h2 id="programs-title">Les programmes intégrés à l'outil</h2>
+      <p id="programs-rule"></p>
+      <p id="programs-summary" class="results-meta"></p>
+      <div class="programs-table-wrap">
+        <table class="programs-table">
+          <caption class="visually-hidden">Candidats, document source, date de consultation et nombre de mesures intégrées</caption>
+          <thead>
+            <tr><th scope="col">Candidat</th><th scope="col">Statut du programme</th><th scope="col">Document source</th><th scope="col">Mesures intégrées</th></tr>
+          </thead>
+          <tbody id="programs-body"></tbody>
+        </table>
+      </div>
+      <p>Une mesure n'est intégrée que si son texte peut être copié mot pour mot depuis le site officiel du candidat ou de son parti. Les candidats sont classés par ordre alphabétique dans ce tableau ; dans les résultats, leur ordre est tiré au hasard.</p>
+      <details id="programs-excluded" class="criteria" hidden><summary>Personnalités non retenues et pourquoi</summary><ul id="programs-excluded-list"></ul></details>
     </section>
 
     <section id="methode" class="method" aria-labelledby="method-title">

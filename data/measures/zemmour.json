@@ -1,0 +1,94 @@
+{
+  "candidate_id": "zemmour",
+  "measures": [
+    {
+      "id": "zemmour-sante-01",
+      "theme": "santé",
+      "title": "Agir contre les déserts médicaux et rendre le pouvoir aux soignants à l'hôpital",
+      "summary": "Agir contre les déserts médicaux pour faciliter l'accès aux soins et rendre le pouvoir aux soignants à l'hôpital.",
+      "excerpt": "Agir contre les déserts médicaux pour faciliter l’accès aux soins et rendre le pouvoir aux soignants à l’hôpital.",
+      "tags": [
+        "désert médical",
+        "accès aux soins",
+        "hôpital",
+        "soignants"
+      ],
+      "source": {
+        "url": "https://www.ericzemmour.fr/priorites",
+        "locator": "#2 Préférence nationale : Français d’abord"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "zemmour-pa-01",
+      "theme": "pouvoir d'achat",
+      "title": "Supprimer la CSG, baisser de 40 centimes les taxes sur les carburants et supprimer droits de succession et impôt sur la fortune",
+      "summary": "Augmenter de 10 % les revenus de tous les actifs par la suppression de la CSG, baisser de 40 centimes les taxes sur les carburants et mettre fin aux droits de succession et à l'impôt sur la fortune.",
+      "excerpt": "10 % de hausse de revenus pour tous les actifs avec la suppression de la CSG , 40 centimes de baisse de taxes sur les carburants, la fin des droits de succession et de l’impôt sur la fortune.",
+      "tags": [
+        "csg",
+        "salaire",
+        "carburant",
+        "succession",
+        "impôt sur la fortune"
+      ],
+      "source": {
+        "url": "https://www.ericzemmour.fr/priorites",
+        "locator": "#4 Dépenser moins pour taxer moins"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "zemmour-famille-01",
+      "theme": "famille",
+      "title": "Réserver aux Français les allocations familiales et le logement social",
+      "summary": "Réserver aux Français les aides sociales non contributives, les allocations familiales et le logement social.",
+      "excerpt": "Réserver les aides sociales non-contributives, les allocations familiales et le logement social aux Français.",
+      "tags": [
+        "allocations familiales",
+        "logement social",
+        "préférence nationale",
+        "aides sociales"
+      ],
+      "source": {
+        "url": "https://www.ericzemmour.fr/priorites",
+        "locator": "#2 Préférence nationale : Français d’abord"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "zemmour-etudes-01",
+      "theme": "études",
+      "title": "Mettre fin au collège unique et instaurer des examens à chaque cycle",
+      "summary": "Rétablir l'exigence, le mérite et la transmission de l'histoire et de la culture, en mettant fin au collège unique et en instaurant des examens exigeants à chaque cycle.",
+      "excerpt": "Rétablir l’exigence , le mérite et la transmission de notre histoire et de notre culture : fin du collège unique , examens exigeants à chaque cycle.",
+      "tags": [
+        "collège unique",
+        "examen",
+        "école",
+        "collège"
+      ],
+      "source": {
+        "url": "https://www.ericzemmour.fr/priorites",
+        "locator": "#5 Une meilleure école pour vos enfants"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    }
+  ]
+}

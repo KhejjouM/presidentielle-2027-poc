@@ -12,7 +12,7 @@ import Anthropic from "@anthropic-ai/sdk";
 
 const MODEL = "claude-sonnet-5-5";
 const MAX_QUERY_CHARS = 1200;
-const MAX_CANDIDATES = 20;
+const MAX_CANDIDATES = 60;
 const MAX_MEASURES_PER_CANDIDATE = 5;
 const DATA_TTL_MS = 10 * 60 * 1000;
 
@@ -124,7 +124,7 @@ export default {
     try {
       response = await client.beta.messages.create({
         model: MODEL,
-        max_tokens: 4000,
+        max_tokens: 12000,
         betas: ["server-side-fallback-2026-07-01"],
         fallbacks: "default",
         system: SYSTEM,

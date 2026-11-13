@@ -1,0 +1,115 @@
+{
+  "candidate_id": "kazib",
+  "measures": [
+    {
+      "id": "kazib-pa-01",
+      "theme": "pouvoir d'achat",
+      "title": "Porter le SMIC à 2 000 euros et indexer les salaires",
+      "summary": "La campagne revendique un SMIC à 2 000 euros et l'indexation des salaires.",
+      "excerpt": "La campagne d’Anasse Kazib veut au contraire porter dans la présidentielle les revendications nées des luttes, en assumant qu’aucune ne sera concédée sans affrontement : SMIC à 2 000 euros et indexation des salaires, semaine de 28 heures, 15 élèves par classe, fin de Parcoursup, régularisation de tous les sans-papiers, expropriation des grands groupes.",
+      "tags": [
+        "smic",
+        "salaire",
+        "indexation",
+        "inflation"
+      ],
+      "source": {
+        "url": "https://www.revolutionpermanente.fr/Anasse-Kazib-2027-a-Saint-Denis-un-lancement-de-campagne-sous-le-signe-de-la-revolte-lyceenne",
+        "locator": "Compte rendu de l'assemblée ouverte de lancement de campagne à Saint-Denis (11 octobre 2026)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "kazib-emploi-01",
+      "theme": "emploi",
+      "title": "Instaurer la semaine de 28 heures",
+      "summary": "La campagne revendique la semaine de travail de 28 heures.",
+      "excerpt": "La campagne d’Anasse Kazib veut au contraire porter dans la présidentielle les revendications nées des luttes, en assumant qu’aucune ne sera concédée sans affrontement : SMIC à 2 000 euros et indexation des salaires, semaine de 28 heures, 15 élèves par classe, fin de Parcoursup, régularisation de tous les sans-papiers, expropriation des grands groupes.",
+      "tags": [
+        "temps de travail",
+        "28 heures",
+        "semaine",
+        "travail"
+      ],
+      "source": {
+        "url": "https://www.revolutionpermanente.fr/Anasse-Kazib-2027-a-Saint-Denis-un-lancement-de-campagne-sous-le-signe-de-la-revolte-lyceenne",
+        "locator": "Compte rendu de l'assemblée ouverte de lancement de campagne à Saint-Denis (11 octobre 2026)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "kazib-etudes-01",
+      "theme": "études",
+      "title": "Limiter les classes à 15 élèves",
+      "summary": "La campagne revendique 15 élèves par classe.",
+      "excerpt": "La campagne d’Anasse Kazib veut au contraire porter dans la présidentielle les revendications nées des luttes, en assumant qu’aucune ne sera concédée sans affrontement : SMIC à 2 000 euros et indexation des salaires, semaine de 28 heures, 15 élèves par classe, fin de Parcoursup, régularisation de tous les sans-papiers, expropriation des grands groupes.",
+      "tags": [
+        "classe",
+        "élèves",
+        "école",
+        "effectifs"
+      ],
+      "source": {
+        "url": "https://www.revolutionpermanente.fr/Anasse-Kazib-2027-a-Saint-Denis-un-lancement-de-campagne-sous-le-signe-de-la-revolte-lyceenne",
+        "locator": "Compte rendu de l'assemblée ouverte de lancement de campagne à Saint-Denis (11 octobre 2026)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "kazib-etudes-02",
+      "theme": "études",
+      "title": "Supprimer Parcoursup",
+      "summary": "La campagne revendique la fin de Parcoursup.",
+      "excerpt": "La campagne d’Anasse Kazib veut au contraire porter dans la présidentielle les revendications nées des luttes, en assumant qu’aucune ne sera concédée sans affrontement : SMIC à 2 000 euros et indexation des salaires, semaine de 28 heures, 15 élèves par classe, fin de Parcoursup, régularisation de tous les sans-papiers, expropriation des grands groupes.",
+      "tags": [
+        "parcoursup",
+        "université",
+        "lycée",
+        "orientation"
+      ],
+      "source": {
+        "url": "https://www.revolutionpermanente.fr/Anasse-Kazib-2027-a-Saint-Denis-un-lancement-de-campagne-sous-le-signe-de-la-revolte-lyceenne",
+        "locator": "Compte rendu de l'assemblée ouverte de lancement de campagne à Saint-Denis (11 octobre 2026)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "kazib-env-01",
+      "theme": "environnement",
+      "title": "Exproprier les secteurs stratégiques pour une planification écologique",
+      "summary": "Le candidat défend l'expropriation des secteurs stratégiques sous contrôle des travailleurs pour mettre en place une planification écologique.",
+      "excerpt": "C’est pour ça qu’on défend l’expropriation des secteurs stratégiques sous contrôle des travailleurs, pour mettre en place une véritable planification écologique » explique-t-il.",
+      "tags": [
+        "écologie",
+        "planification",
+        "climat",
+        "expropriation"
+      ],
+      "source": {
+        "url": "https://www.revolutionpermanente.fr/Anasse-Kazib-dans-Reporterre-greve-generale-et-ecologie-revolutionnaire-dans-la-campagne-de-2027",
+        "locator": "Article « Anasse Kazib dans Reporterre » (5 novembre 2026)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    }
+  ]
+}

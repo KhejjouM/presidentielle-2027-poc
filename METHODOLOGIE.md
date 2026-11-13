@@ -40,3 +40,11 @@ Les pages vérifiées sont archivées sur la Wayback Machine, ce qui conserve un
 - La recherche locale repose sur des mots-clés : elle peut manquer une mesure formulée autrement.
 - Le choix des critères et des poids est lui-même un parti pris méthodologique. Il est public pour pouvoir être discuté.
 - Les estimations indépendantes ne couvrent pas toutes les mesures ni tous les candidats de la même manière ; c'est pourquoi un critère absent n'est pas pénalisant.
+
+## Quels candidats, quels programmes
+
+- **Inclusion.** Tant que la liste officielle du Conseil constitutionnel n'est pas publiée (après le 12 mars 2027), l'outil suit toute personne dont la candidature déclarée, ou la désignation par son parti, est rapportée par au moins deux médias nationaux distincts. Les agrégateurs et Wikipédia ne comptent pas comme preuve. Une personne qui renonce ou se rallie est retirée. Les personnalités écartées sont listées sur le site avec la raison.
+- **Statut du programme.** « Programme publié » : document programmatique complet de campagne 2027 sur un site officiel. « Propositions partielles » : propositions publiées mais pas de programme complet. « Rien de publié » : aucune proposition 2027 trouvée sur un site officiel. « Site inaccessible » : le site officiel bloque les outils automatiques ; l'outil ne contourne pas ces protections.
+- **Extraction.** Même protocole pour tous : toutes les mesures concrètes liées aux 9 thèmes de l'outil, plafonnées à 15 par thème et par candidat (les plus précises sont retenues). Chaque extrait est copié mot pour mot depuis le texte brut de la page officielle, puis contrôlé automatiquement ; une mesure non retrouvée à l'identique est retirée.
+- **Sources officielles.** Domaines du candidat et de son parti, plus, au cas par cas, un document précis lié depuis le site officiel mais hébergé chez son prestataire (liste `official_documents`, URL exacte).
+- **Affichage.** Quel que soit le nombre de mesures intégrées, au plus 3 mesures par candidat s'affichent pour une recherche, et l'ordre des candidats est tiré au hasard.

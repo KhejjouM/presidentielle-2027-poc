@@ -1,0 +1,1065 @@
+{
+  "date_recherche": "2026-11-13",
+  "regle": "Est inclus toute personne dont la déclaration de candidature à la présidentielle 2027 (ou la désignation officielle par son parti) est rapportée par au moins deux médias nationaux français distincts, les agrégateurs ne servant que de pistes, et toute personne ayant renoncé ou s'étant retirée est exclue.",
+  "candidats": [
+    {
+      "id": "arthaud",
+      "name": "Nathalie Arthaud",
+      "party": "Lutte ouvrière",
+      "declared_on": "2025-12-08",
+      "declaration_sources": [
+        "https://www.france24.com/fr/france/20260524-france-presidentielle-2027-qui-sont-les-candidats-officiellement-declares",
+        "https://www.sudradio.fr/la-biographie-et-le-cv-de-nathalie-arthaud"
+      ],
+      "official_domains": [
+        "lutte-ouvriere.org",
+        "nathalie-arthaud.info"
+      ],
+      "program_status": "propositions",
+      "program_url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/11/Depliant-NA-3nov.pdf",
+      "program_title": "Dépliant de campagne de Nathalie Arthaud",
+      "program_date": "2026-11-03",
+      "program_pages": [
+        "https://www.lutte-ouvriere.org/portail/documents/depliant-campagne-209499.html",
+        "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/11/Depliant-NA-3nov.pdf",
+        "https://www.lutte-ouvriere.org/portail/rubrique/presidentielle-2027-la-campagne-de-nathalie-arthaud.html",
+        "https://www.lutte-ouvriere.org/portail/nathalie-arthaud.html",
+        "https://www.lutte-ouvriere.org/portail/multimedia/meeting-26-septembre-paris-discours-nathalie-arthaud-197419.html",
+        "https://www.lutte-ouvriere.org/portail/editoriaux/pouvoir-dachat-faut-augmenter-salaires-209689.html",
+        "https://www.lutte-ouvriere.org/portail/journal/campagne-nathalie-arthaud-209794.html",
+        "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+        "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/index.html"
+      ],
+      "notes": "Quatrième candidature (2012, 2017, 2022). Date de déclaration (8 décembre 2025) issue de la biographie Sud Radio. Pas de programme complet publié: dépliant de campagne (3 novembre 2026) et discours. Les deux domaines renvoient 403 à curl mais sont accessibles par navigateur; nathalie-arthaud.info est le site de campagne."
+    },
+    {
+      "id": "asselineau",
+      "name": "François Asselineau",
+      "party": "Union populaire républicaine (UPR)",
+      "declared_on": null,
+      "declaration_sources": [
+        "https://www.sudradio.fr/sud-radio/presidentielle-2027-qui-sont-les-candidats-declares",
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+      ],
+      "official_domains": [
+        "upr.fr",
+        "asselineau2027.fr"
+      ],
+      "program_status": "aucun",
+      "program_url": null,
+      "program_title": null,
+      "program_date": null,
+      "program_pages": [
+        "https://upr.fr/notre-programme",
+        "https://upr.fr/nos-fondamentaux",
+        "https://upr.fr/le-frexit"
+      ],
+      "notes": "Date exacte de déclaration non trouvée: une lettre UPR de janvier 2026 le présente déjà comme candidat déclaré, et Sud Radio le liste parmi les candidats déclarés (juillet 2026). L'UPR appelle les élus au parrainage (11 novembre 2026). Sur upr.fr, le programme 2027 est indiqué comme « en cours d'élaboration »; seuls les programmes 2012, 2017 et 2022 sont en ligne (non retenus). asselineau2027.fr est une page d'attente avec le logo UPR."
+    },
+    {
+      "id": "attal",
+      "name": "Gabriel Attal",
+      "party": "Renaissance",
+      "declared_on": "2026-05-22",
+      "declaration_sources": [
+        "https://lcp.fr/actualites/presidentielle-2027-gabriel-attal-officialise-sa-candidature-436721",
+        "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-gabriel-attal-officialise-sa-candidature-en-aveyron"
+      ],
+      "official_domains": [
+        "attalpresident.fr",
+        "parti-renaissance.fr"
+      ],
+      "program_status": "propositions",
+      "program_url": "https://attalpresident.fr/programme",
+      "program_title": "Mes chantiers capitaux",
+      "program_date": null,
+      "program_pages": [
+        "https://attalpresident.fr/programme",
+        "https://attalpresident.fr/programme/travail-salaires",
+        "https://attalpresident.fr/programme/education",
+        "https://attalpresident.fr/programme/dette-de-letat",
+        "https://attalpresident.fr/programme/dette-ecologique",
+        "https://attalpresident.fr/programme/frontieres",
+        "https://attalpresident.fr/programme/intelligence-artificielle",
+        "https://attalpresident.fr/programme/thematiques/sante",
+        "https://attalpresident.fr/programme/thematiques/agriculture",
+        "https://attalpresident.fr/programme/thematiques/defense",
+        "https://attalpresident.fr/programme/thematiques/simplification",
+        "https://attalpresident.fr/programme/publics/retraites",
+        "https://attalpresident.fr/programme/publics/jeunes-et-etudiants",
+        "https://attalpresident.fr/programme/publics/parents",
+        "https://attalpresident.fr/programme/publics/familles-monoparentales",
+        "https://attalpresident.fr/programme/publics/salaries",
+        "https://attalpresident.fr/programme/publics/cadres-et-classes-moyennes",
+        "https://attalpresident.fr/programme/publics/habitants-des-zones-rurales",
+        "https://attalpresident.fr/programme/publics/fonctionnaires",
+        "https://attalpresident.fr/programme/publics/enseignants",
+        "https://attalpresident.fr/programme/publics/artisans-commercants-entrepreneurs",
+        "https://attalpresident.fr/programme/publics/agriculteurs",
+        "https://attalpresident.fr/programme/mesures/carte-famille-monoparentale",
+        "https://attalpresident.fr/programme/mesures/stabilite-prix-electricite",
+        "https://attalpresident.fr/programme/mesures/bouclier-tarifaire-eau",
+        "https://attalpresident.fr/programme/mesures/aides-directes-plutot-que-baisses-de-taxes",
+        "https://attalpresident.fr/programme/mesures/aucune-hausse-impots",
+        "https://attalpresident.fr/programme/mesures/remplacement-enseignants-absents"
+      ],
+      "notes": "Candidature annoncée à Mur-de-Barrez (Aveyron). Site de campagne attalpresident.fr (lié depuis parti-renaissance.fr) : engagements par chantier, par public et environ 96 mesures, sans document programmatique complet. gabrielattal.fr est un ancien site de législatives, non retenu. Attal et Philippe ont dit vouloir faire le point début 2027 sur une éventuelle candidature commune."
+    },
+    {
+      "id": "batho",
+      "name": "Delphine Batho",
+      "party": "Génération écologie",
+      "declared_on": "2025-11-25",
+      "declaration_sources": [
+        "https://www.nouvelobs.com/politique/20251125.OBS110076/delphine-batho-je-suis-candidate-a-l-election-presidentielle-pour-reconstruire-une-ecologie-capable-de-gouverner.html",
+        "https://www.publicsenat.fr/actualites/politique/election-presidentielle-2027-qui-sont-les-candidats-declares-ou-presque"
+      ],
+      "official_domains": [
+        "delphinebatho.fr",
+        "generationecologie.fr"
+      ],
+      "program_status": "propositions",
+      "program_url": "https://delphinebatho.fr/priorites/",
+      "program_title": "Priorités de Delphine Batho",
+      "program_date": null,
+      "program_pages": [
+        "https://delphinebatho.fr/priorites/",
+        "https://delphinebatho.fr/priorites/la-pleine-sante/",
+        "https://delphinebatho.fr/priorites/la-beaute-pour-vivre-mieux/",
+        "https://delphinebatho.fr/priorites/la-republique-terrestre/",
+        "https://delphinebatho.fr/priorites/la-securite-climatique-et-la-paix/",
+        "https://delphinebatho.fr/la-politique-de-la-beaute-une-nouvelle-ecologie/"
+      ],
+      "notes": "Candidature annoncée dans L'Obs le 25 novembre 2025; investie à l'unanimité par Génération écologie lors de sa convention des 6-7 juin 2026. Site présentant quatre priorités, pas de programme détaillé identifié. La deuxième source (Sud Radio, 24 août 2026) est une émission présentant 'la candidate', pas un article sur l'annonce elle-même."
+    },
+    {
+      "id": "becht",
+      "name": "Olivier Becht",
+      "party": "Le Projet France (mouvement)",
+      "declared_on": "2026-09-24",
+      "declaration_sources": [
+        "https://www.sudradio.fr/politique/olivier-becht-je-suis-candidat-a-lelection-presidentielle-et-jirai-jusquau-bout",
+        "https://www.publicsenat.fr/actualites/politique/election-presidentielle-2027-qui-sont-les-candidats-declares-ou-presque"
+      ],
+      "official_domains": [
+        "becht2027.fr"
+      ],
+      "program_status": "propositions",
+      "program_url": "https://becht2027.fr/projet-france/",
+      "program_title": "Le Projet France : refonder ou périr (5 refondations)",
+      "program_date": null,
+      "program_pages": [
+        "https://becht2027.fr/projet-france/",
+        "https://becht2027.fr/projet-france/les-5-refondations/",
+        "https://becht2027.fr/projet-france/les-5-refondations/refondation-sociale/",
+        "https://becht2027.fr/projet-france/les-5-refondations/refondation-sante/",
+        "https://becht2027.fr/projet-france/les-5-refondations/refondation-energie/",
+        "https://becht2027.fr/projet-france/les-5-refondations/refondation-securite/",
+        "https://becht2027.fr/projet-france/les-5-refondations/refondation-democratique-territoriale/",
+        "https://becht2027.fr/projet-france/le-livre/",
+        "https://becht2027.fr/olivier-becht/ses-convictions/"
+      ],
+      "notes": "Candidature annoncée dans Paris Match le 24 septembre 2026 ; se dit « d'extrême-centre ». Député du Haut-Rhin, ancien ministre du Commerce extérieur, cofondateur d'Agir (2017). Rattachement partisan actuel non confirmé par un média : il préside le mouvement « Le Projet France » (selon sa déclaration HATVP citée en recherche, non chargée). Les deux sources de déclaration proviennent du même média (Sud Radio) : aucun second média national distinct trouvé. agir-ladroiteconstructive.fr est un site ancien, non retenu. La liste LCP du 10/11/2026 le range parmi ceux dont l'intention reste à clarifier."
+    },
+    {
+      "id": "bertrand",
+      "name": "Xavier Bertrand",
+      "party": "Nous France (candidat indépendant, membre LR)",
+      "declared_on": "2026-08-27",
+      "declaration_sources": [
+        "https://lcp.fr/actualites/2027-figure-de-la-droite-xavier-bertrand-confirme-qu-il-sera-candidat-a-l-election",
+        "https://www.france24.com/fr/france/20260524-france-presidentielle-2027-qui-sont-les-candidats-officiellement-declares"
+      ],
+      "official_domains": [
+        "nousfrance.fr"
+      ],
+      "program_status": "propositions",
+      "program_url": "https://www.nousfrance.fr/programme/",
+      "program_title": null,
+      "program_date": "2021-09-21",
+      "program_pages": [
+        "https://www.nousfrance.fr/programme/",
+        "https://www.nousfrance.fr/programme/pouvoir-achat/",
+        "https://www.nousfrance.fr/programme/travail/",
+        "https://www.nousfrance.fr/programme/jeunesse/",
+        "https://www.nousfrance.fr/programme/environnement/",
+        "https://www.nousfrance.fr/programme/territoires/",
+        "https://www.nousfrance.fr/programme/autorite/",
+        "https://www.nousfrance.fr/programme/immigration/",
+        "https://www.nousfrance.fr/programme/europe/",
+        "https://www.nousfrance.fr/vision/"
+      ],
+      "notes": "Statut incertain : a confirmé le 27 août 2026 (université du Medef) qu'il serait candidat (« Je le serai »), mais a indiqué se déclarer officiellement « à la fin de l'année, pas avant », en candidat indépendant ; aucune déclaration formelle trouvée au 13/11/2026. Les pages programme de nousfrance.fr datent de 2021 à 2024 (API WordPress), donc antérieures à la campagne 2027. xavierbertrand.fr ne renvoie pas vers un site de campagne, non retenu. Seconde source = fiche biographique Sud Radio (faible) ; une dépêche AFP reprise sur boursedirect.fr existe aussi. Cas douteux: il a confirmé qu'il serait candidat (27/08/2026) mais annonce une déclaration officielle d'ici la fin de l'année (LCP 10/11/2026)."
+    },
+    {
+      "id": "bouamrane",
+      "name": "Karim Bouamrane",
+      "party": "Parti socialiste (PS), candidature hors primaire",
+      "declared_on": "2026-06-09",
+      "declaration_sources": [
+        "https://lcp.fr/actualites/presidentielle-2027-qui-est-karim-bouamrane-le-maire-socialiste-de-saint-ouen-et-nouveau",
+        "https://www.sudradio.fr/linvite-politique/karim-bouamrane-je-nirai-pas-a-la-primaire-du-parti-socialiste"
+      ],
+      "official_domains": [],
+      "program_status": "aucun",
+      "program_url": null,
+      "program_title": null,
+      "program_date": null,
+      "program_pages": [],
+      "notes": "Candidature annoncée le 9 juin 2026 (France Inter), hors primaire. Aucun retrait ni ralliement à Raphaël Glucksmann trouvé après la primaire du 11 octobre 2026; LCP (10 novembre 2026) le cite parmi les candidats déclarés dont l'intention reste à confirmer. Aucun site de campagne officiel identifié."
+    },
+    {
+      "id": "branco",
+      "name": "Juan Branco",
+      "party": "Les Ruches",
+      "declared_on": "2025-12-19",
+      "declaration_sources": [
+        "https://www.sudradio.fr/sud-radio/lavocat-juan-branco-candidat-a-la-presidentielle",
+        "https://www.france24.com/fr/france/20260524-france-presidentielle-2027-qui-sont-les-candidats-officiellement-declares"
+      ],
+      "official_domains": [
+        "ruches.org"
+      ],
+      "program_status": "programme",
+      "program_url": "https://ruches.org/projet-1784217879253.pdf",
+      "program_title": "Le Projet 2027, programme en 6 piliers",
+      "program_date": null,
+      "program_pages": [
+        "https://ruches.org/le-projet",
+        "https://ruches.org/projet-1784217879253.pdf",
+        "https://ruches.org/le-projet#sec-sante",
+        "https://ruches.org/le-projet#sec-economie",
+        "https://ruches.org/le-projet#sec-instruction",
+        "https://ruches.org/le-projet#sec-enfance",
+        "https://ruches.org/le-projet#sec-energie",
+        "https://ruches.org/le-projet#sec-agriculture",
+        "https://ruches.org/le-projet#sec-handicap",
+        "https://ruches.org/le-projet#sec-democratie",
+        "https://ruches.org/le-projet#sec-justice",
+        "https://ruches.org/le-projet#sec-urgence",
+        "https://ruches.org/le-projet#sec-priorites",
+        "https://ruches.org/presentation",
+        "https://ruches.org/juan-branco"
+      ],
+      "notes": "Avocat et essayiste. Candidature annoncée sur Sud Radio le 19 décembre 2025. Site officiel ruches.org (titre: Ruches Françaises). Les domaines lesruches.fr (domaine à vendre) et juanbranco.fr (blog inactif) ne sont pas officiels."
+    },
+    {
+      "id": "cazeneuve",
+      "name": "Bernard Cazeneuve",
+      "party": "La Convention",
+      "declared_on": "2026-04-28",
+      "declaration_sources": [
+        "https://www.europe1.fr/politique/presidentielle-2027-bernard-cazeneuve-annonce-sa-candidature-le-barrage-a-jean-luc-melenchon-se-precise-929339",
+        "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-la-candidature-de-bernard-cazeneuve-traduit-la-difficulte-de-notre-personnel-politique-a-se-renouveler-selon-bruno-cautres"
+      ],
+      "official_domains": [
+        "la-convention.fr"
+      ],
+      "program_status": "propositions",
+      "program_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+      "program_title": "Synthèse des mesures (La Convention)",
+      "program_date": null,
+      "program_pages": [
+        "https://www.la-convention.fr/evenements_propositions",
+        "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+        "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599"
+      ],
+      "notes": "Se déclare candidat dans Le Figaro du 28 avril 2026, réaffirmé dans Le Parisien le 16 juillet 2026, refuse toute primaire. Statut incertain: aucun retrait ni ralliement à Raphaël Glucksmann trouvé, mais il n'apparaît pas dans la liste des candidats déclarés et potentiels publiée par LCP le 10 novembre 2026. Documents PDF (synthèse des mesures, texte 'Aux Français', mi-juillet 2026) hébergés sur assets.nationbuilder.com et liés depuis la-convention.fr. Le domaine bernardcazeneuve.fr n'est pas un site officiel."
+    },
+    {
+      "id": "dupont-aignan",
+      "name": "Nicolas Dupont-Aignan",
+      "party": "Debout la France (DLF)",
+      "declared_on": "2025-03-08",
+      "declaration_sources": [
+        "https://www.sudradio.fr/la-biographie-et-le-cv-de-nicolas-dupont-aignan",
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+      ],
+      "official_domains": [
+        "dupontaignan.fr",
+        "debout-la-france.fr"
+      ],
+      "program_status": "propositions",
+      "program_url": "https://www.dupontaignan.fr/actualite/presentation-du-projet-economique-2027/",
+      "program_title": "Projet économique 2027 (Produire en France et récompenser le travail)",
+      "program_date": "2026-11-12",
+      "program_pages": [
+        "https://www.dupontaignan.fr/actualite/presentation-du-projet-economique-2027/",
+        "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Economie-2026_11-12_Livret.pdf",
+        "https://www.dupontaignan.fr/wp-content/uploads/2026/11/Cahier-rouge-2026_11-12.pdf",
+        "https://www.debout-la-france.fr/notre-projet/",
+        "https://www.debout-la-france.fr/projet/logement/",
+        "https://www.debout-la-france.fr/projet/sante/",
+        "https://www.debout-la-france.fr/projet/economie-travail/",
+        "https://www.debout-la-france.fr/projet/produire-en-france/",
+        "https://www.debout-la-france.fr/projet/retraites/",
+        "https://www.debout-la-france.fr/projet/famille/",
+        "https://www.debout-la-france.fr/projet/enseignement-superieur/",
+        "https://www.debout-la-france.fr/projet/instruction-publique/",
+        "https://www.debout-la-france.fr/projet/environnement-energie/",
+        "https://www.debout-la-france.fr/projet/equilibre-territoire-monde-rural/",
+        "https://www.debout-la-france.fr/projet/dependance-fin-de-vie/",
+        "https://www.debout-la-france.fr/projet/handicap/",
+        "https://www.debout-la-france.fr/projet/agriculture/",
+        "https://www.debout-la-france.fr/projet/securite/",
+        "https://www.debout-la-france.fr/projet/justice/",
+        "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+        "https://www.debout-la-france.fr/projet/affaires-europeennes/",
+        "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/"
+      ],
+      "notes": "Date du 8 mars 2025 issue de la biographie publiée par Sud Radio; Slate indique qu'il a confirmé sa candidature dès mars 2025. Quatrième candidature présidentielle (2012, 2017, 2022). Le projet économique 2027 (livret et cahier de chiffrage) a été présenté le 12 novembre 2026 sur dupontaignan.fr. Les pages thématiques /projet/ de debout-la-france.fr sont le projet du parti, publiées en septembre 2022 et mises à jour pour certaines (2024 à 2026), et non un programme présidentiel 2027 complet."
+    },
+    {
+      "id": "durif",
+      "name": "Sylvain Durif",
+      "party": "Sans étiquette",
+      "declared_on": null,
+      "declaration_sources": [
+        "https://www.sudradio.fr/politique/qui-est-ce-sylvain-durif-le-christ-cosmique-candidat-a-la-presidentielle-2027",
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+      ],
+      "official_domains": [],
+      "program_status": "aucun",
+      "program_url": null,
+      "program_title": null,
+      "program_date": null,
+      "program_pages": [],
+      "notes": "Sud Radio (21/10/2026) le dit candidat « depuis fin août », mais situe aussi sa vidéo d'annonce officielle « il y a plus de quinze jours ». Aucune date exacte n'a été trouvée. Sud Radio évoque un programme de 50 engagements et un site officiel, durif2027.com. Vérifié par curl le 13/11/2026 : ce domaine redirige vers ministereducringe.com, un site satirique sans lien avec le candidat, et durif2027.fr affiche une page « Construction ». Aucun domaine officiel n'est donc retenu. Également cité comme candidat par Public Sénat (14/10/2026). Déjà déclaré en 2017, sans obtenir les 500 parrainages."
+    },
+    {
+      "id": "egger",
+      "name": "Clara Egger",
+      "party": "Solution démocratique",
+      "declared_on": "2026-04-20",
+      "declaration_sources": [
+        "https://www.france24.com/fr/france/20260524-france-presidentielle-2027-qui-sont-les-candidats-officiellement-declares",
+        "https://www.sudradio.fr/sud-radio/presidentielle-2027-qui-sont-les-candidats-declares"
+      ],
+      "official_domains": [
+        "solutiondemocratique.fr"
+      ],
+      "program_status": "programme",
+      "program_url": "https://solutiondemocratique.fr/wp-content/uploads/2026/11/Programme-de-Solution-Democratique-a-lelection-presidentielle-2027.pdf",
+      "program_title": "Programme de Solution Démocratique à l'élection présidentielle 2027",
+      "program_date": "2026-11",
+      "program_pages": [
+        "https://solutiondemocratique.fr/programme-presidentielle/",
+        "https://solutiondemocratique.fr/wp-content/uploads/2026/11/Programme-de-Solution-Democratique-a-lelection-presidentielle-2027.pdf",
+        "https://solutiondemocratique.fr/clara-egger/",
+        "https://solutiondemocratique.fr/notre-solution/",
+        "https://solutiondemocratique.fr/proposition-de-revision-constitutionnelle-controle-constitution/"
+      ],
+      "notes": "Universitaire, présidente de Solution démocratique. Candidature présentée par communiqué le 20 avril 2026 selon Sud Radio. Candidate en 2022 (Espoir RIC) sans obtenir les 500 parrainages. Programme centré sur la démocratie directe et un président arbitre; PDF publié en novembre 2026 (page modifiée le 4 novembre 2026)."
+    },
+    {
+      "id": "glucksmann",
+      "name": "Raphaël Glucksmann",
+      "party": "Place publique",
+      "declared_on": "2026-10-11",
+      "declaration_sources": [
+        "https://lcp.fr/actualites/victoire-de-raphael-glucksmann-a-la-primaire-socialiste-premieres-reactions-des",
+        "https://www.publicsenat.fr/actualites/politique/primaire-de-la-gauche-raphael-glucksmann-plie-le-match-et-remporte-le-scrutin-des-le-premier-tour-avec-66"
+      ],
+      "official_domains": [
+        "glucks2027.fr",
+        "place-publique.eu"
+      ],
+      "program_status": "propositions",
+      "program_url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+      "program_title": "Révolution écologique : les premiers 100 jours (livret, première partie)",
+      "program_date": "2026-11-09",
+      "program_pages": [
+        "https://glucks2027.fr/revolution-ecologique/",
+        "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+        "https://place-publique.eu/pages/69jA2SKIG5udlNX7wI3dmc/le-projet",
+        "https://place-publique.eu/pages/59EfFYTpFlj2lJhQ92PXsy/les-urgences",
+        "https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i",
+        "https://place-publique.eu/posts/2fgDdljEIy36rgxBjRyiQZ/raphael-glucksmann-sa-lettre-aux-francais"
+      ],
+      "notes": "Candidature officialisée le 23 août 2026; désigné le 11 octobre 2026 en remportant dès le premier tour (66,17 %) la primaire du camp social-démocrate (PS, Place publique). Programme publié par livrets successifs: seul le premier (révolution écologique, 9 novembre 2026) est en ligne. Le PS n'a pas de site de campagne distinct identifié."
+    },
+    {
+      "id": "kazib",
+      "name": "Anasse Kazib",
+      "party": "Révolution permanente",
+      "declared_on": "2026-06-01",
+      "declaration_sources": [
+        "https://www.france24.com/fr/france/20260524-france-presidentielle-2027-qui-sont-les-candidats-officiellement-declares",
+        "https://www.sudradio.fr/sud-radio/presidentielle-2027-qui-sont-les-candidats-declares"
+      ],
+      "official_domains": [
+        "revolutionpermanente.fr"
+      ],
+      "program_status": "propositions",
+      "program_url": "https://www.revolutionpermanente.fr/Anasse-Kazib-2027-une-candidature-ouvriere-communiste-et-revolutionnaire-a-la-presidentielle",
+      "program_title": "Anasse Kazib 2027 : une candidature ouvrière, communiste et révolutionnaire à la présidentielle",
+      "program_date": null,
+      "program_pages": [
+        "https://www.revolutionpermanente.fr/Anasse-Kazib-2027",
+        "https://www.revolutionpermanente.fr/Anasse-Kazib-2027-une-candidature-ouvriere-communiste-et-revolutionnaire-a-la-presidentielle",
+        "https://www.revolutionpermanente.fr/Anasse-Kazib-dans-Reporterre-greve-generale-et-ecologie-revolutionnaire-dans-la-campagne-de-2027",
+        "https://www.revolutionpermanente.fr/Anasse-Kazib-2027-a-Saint-Denis-un-lancement-de-campagne-sous-le-signe-de-la-revolte-lyceenne",
+        "https://www.revolutionpermanente.fr/Une-candidature-ouvriere-et-revolutionnaire-en-2027-pour-quoi-faire-Assemblee-ouverte-de-RP-avec",
+        "https://www.revolutionpermanente.fr/VIDEO-Anasse-2027-faire-entrer-les-luttes-des-LYCEENS-et-des-TRAVAILLEURS-dans-la-Presidentielle"
+      ],
+      "notes": "Cheminot, délégué SUD Rail. Candidature annoncée le 1er juin 2026 par un clip vidéo selon Sud Radio (d'autres sources évoquent le 2 juin). Déjà candidat en 2022 sans obtenir les 500 parrainages. Pas de programme complet: texte de candidature et articles de campagne."
+    },
+    {
+      "id": "labib",
+      "name": "Selma Labib",
+      "party": "NPA-Révolutionnaires",
+      "declared_on": "2026-06-07",
+      "declaration_sources": [
+        "https://www.france24.com/fr/france/20260524-france-presidentielle-2027-qui-sont-les-candidats-officiellement-declares",
+        "https://www.publicsenat.fr/actualites/politique/election-presidentielle-2027-qui-sont-les-candidats-declares-ou-presque"
+      ],
+      "official_domains": [
+        "npa-revolutionnaires.org"
+      ],
+      "program_status": "propositions",
+      "program_url": null,
+      "program_title": null,
+      "program_date": null,
+      "program_pages": [
+        "https://npa-revolutionnaires.org/articles/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante",
+        "https://npa-revolutionnaires.org/campagnes-presidentielles",
+        "https://npa-revolutionnaires.org/articles/rer-2026-le-npa-revolutionnaires-dans-la-campagne-presidentielle",
+        "https://npa-revolutionnaires.org/articles/tous-et-toutes-en-campagne-et-dans-les-luttes-sans-attendre-2027",
+        "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+        "https://npa-revolutionnaires.org/articles/reponse-de-selma-labib-a-philippe-juvin-rapporteur-general-de-la-commission-des-finances"
+      ],
+      "notes": "Désignée par le comité politique national du NPA-R réuni les 6 et 7 juin 2026 (communiqué officiel du 17 juin 2026). Conductrice de bus, 30 ans, tête de liste NPA-R aux européennes 2024. Candidature soutenue par Gaël Quirante. Pas de programme détaillé publié: positions exposées dans le communiqué et les articles de campagne."
+    },
+    {
+      "id": "lalanne",
+      "name": "Francis Lalanne",
+      "party": "France Libre",
+      "declared_on": "2026-08-19",
+      "declaration_sources": [
+        "https://www.sudradio.fr/politique/francis-lalanne-du-chanteur-engage-des-annees-1980-aux-spheres-complotistes",
+        "https://www.politis.fr/articles/2026/08/sur-le-gril-presidentielle-2027-vous-aussi-portez-vous-officiellement-candidat/"
+      ],
+      "official_domains": [
+        "dieudolalanne2027.com",
+        "france-libre.fr"
+      ],
+      "program_status": "propositions",
+      "program_url": "https://dieudolalanne2027.com/programme",
+      "program_title": "Nos propositions pour redresser la France",
+      "program_date": null,
+      "program_pages": [
+        "https://dieudolalanne2027.com/programme",
+        "https://dieudolalanne2027.com/candidats",
+        "https://france-libre.fr/nos-themes-et-valeurs/"
+      ],
+      "notes": "Candidature annoncée par communiqué le 19 août 2026, sous la bannière du mouvement France Libre, avec le soutien de Dieudonné; le site de campagne présente un ticket « Dieudonné et Francis Lalanne » et Francis Lalanne a dit vouloir faire de Dieudonné son Premier ministre. La page programme liste des propositions (sortie de l'UE, retour au franc, RIC, libertés). Selon la presse, condamné en octobre 2026 en première instance à six mois de prison avec sursis pour abandon de famille, il a fait appel."
+    },
+    {
+      "id": "lassalle",
+      "name": "Jean Lassalle",
+      "party": "Résistons !",
+      "declared_on": null,
+      "declaration_sources": [
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+        "https://www.publicsenat.fr/actualites/politique/election-presidentielle-2027-qui-sont-les-candidats-declares-ou-presque"
+      ],
+      "official_domains": [
+        "resistons-france.fr"
+      ],
+      "program_status": "aucun",
+      "program_url": null,
+      "program_title": null,
+      "program_date": null,
+      "program_pages": [],
+      "notes": "Candidature NON officialisée à ce jour: en juillet 2026 il a lancé une cagnotte pour financer une troisième candidature (objectif annoncé de 100 000 euros avant d'officialiser), et le 8 octobre 2026 il n'avait toujours pas tranché selon Pleinchamp (https://www.pleinchamp.com/actualite/jean-lassalle-agriculteurs-reprenez-vos-reves.-parce-que-les-reves-ca-permet-de-sortir-du-cauchemar). Aucune déclaration ultérieure trouvée. Le site resistons-france.fr ne propose que le programme 2022 (PDF de février 2022, non retenu). jeanlassalle.fr est derrière une protection anti-robot. Inclus au titre de la règle car LCP (10/11/2026) et Public Sénat (14/10/2026) le citent parmi les candidatures annoncées; cas douteux, aucune déclaration formelle datée trouvée."
+    },
+    {
+      "id": "le-pen",
+      "name": "Marine Le Pen",
+      "party": "Rassemblement national (RN)",
+      "declared_on": "2026-07-07",
+      "declaration_sources": [
+        "https://lcp.fr/actualites/ce-soir-je-suis-candidate-a-l-election-presidentielle-annonce-marine-le-pen-438886",
+        "https://www.publicsenat.fr/actualites/politique/presidentielle-marine-le-pen-est-candidate-et-se-pourvoit-en-cassation"
+      ],
+      "official_domains": [
+        "rassemblementnational.fr"
+      ],
+      "program_status": "aucun",
+      "program_url": null,
+      "program_title": null,
+      "program_date": null,
+      "program_pages": [],
+      "notes": "Candidate du RN annoncée au 20h de TF1 le 7 juillet 2026; Jordan Bardella, réélu président du RN au congrès d'Orléans (24-25 octobre 2026), n'est pas candidat et serait son Premier ministre (campagne en binôme). Situation judiciaire: condamnée le 7 juillet 2026 par la cour d'appel de Paris pour détournement de fonds publics (assistants parlementaires européens du FN), avec une inéligibilité réduite qui lui permet de se présenter, elle s'est pourvue en cassation et la Cour de cassation a indiqué pouvoir statuer au plus tard début avril 2027. Aucun programme 2027 trouvé sur un domaine officiel: rassemblementnational.fr répond (307) mais est protégé par une page anti-robot et n'a pas pu être consulté; le site mlafrance.fr ne contient que le programme 2022, non retenu."
+    },
+    {
+      "id": "legendre",
+      "name": "Jean-François Legendre",
+      "party": "À nous maintenant",
+      "declared_on": null,
+      "declaration_sources": [
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932",
+        "https://www.publicsenat.fr/actualites/politique/election-presidentielle-2027-qui-sont-les-candidats-declares-ou-presque"
+      ],
+      "official_domains": [],
+      "program_status": "aucun",
+      "program_url": null,
+      "program_title": null,
+      "program_date": null,
+      "program_pages": [],
+      "notes": "Inclus uniquement sur la base de deux articles-listes de médias nationaux : LCP (10/11/2026, « ont également annoncé leur candidature ») et Public Sénat (14/10/2026, liste des candidats). Aucun article dédié, aucune date de déclaration, aucun site officiel et aucun programme n'ont été trouvés. Cas limite."
+    },
+    {
+      "id": "lisnard",
+      "name": "David Lisnard",
+      "party": "Nouvelle Énergie",
+      "declared_on": "2026-03-31",
+      "declaration_sources": [
+        "https://lcp.fr/actualites/je-suis-candidat-david-lisnard-quitte-lr-et-relance-le-debat-sur-une-primaire-a-droite",
+        "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-david-lisnard-maire-de-cannes-annonce-sa-candidature-et-quitte-officiellement-les-lr"
+      ],
+      "official_domains": [
+        "lisnard2027.fr",
+        "unenouvelleenergie.fr"
+      ],
+      "program_status": "propositions",
+      "program_url": "https://www.unenouvelleenergie.fr/notre-programme/",
+      "program_title": "Le programme pour 2027",
+      "program_date": null,
+      "program_pages": [
+        "https://www.unenouvelleenergie.fr/notre-programme/",
+        "https://www.unenouvelleenergie.fr/notre-programme/sante/",
+        "https://www.unenouvelleenergie.fr/notre-programme/education/",
+        "https://www.unenouvelleenergie.fr/notre-programme/agriculture/",
+        "https://www.unenouvelleenergie.fr/notre-programme/securite/",
+        "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+        "https://www.unenouvelleenergie.fr/notre-programme/etre-maitre-de-notre-destin/",
+        "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+        "https://www.unenouvelleenergie.fr/notre-programme/generer-un-renouveau-civique/",
+        "https://www.unenouvelleenergie.fr/notre-programme/pole-de-travail-et-didees/",
+        "https://www.unenouvelleenergie.fr/questions/ou-trouver-le-programme-de-david-lisnard/"
+      ],
+      "notes": "A quitté LR et annoncé sa candidature au JT de France 2 le 31 mars 2026. lisnard2027.fr est une page d'accueil minimale renvoyant vers unenouvelleenergie.fr, où se trouve le programme (trois axes et pages thématiques). Livrets santé et agriculture publiés en PDF sur un hébergement tiers (non listés). Plaide pour une primaire ouverte à droite."
+    },
+    {
+      "id": "markovic",
+      "name": "Mira Markovic",
+      "party": "Parti animaliste",
+      "declared_on": "2026-10-02",
+      "declaration_sources": [
+        "https://www.publicsenat.fr/actualites/politique/election-presidentielle-2027-qui-sont-les-candidats-declares-ou-presque",
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+      ],
+      "official_domains": [
+        "parti-animaliste.fr"
+      ],
+      "program_status": "aucun",
+      "program_url": null,
+      "program_title": null,
+      "program_date": null,
+      "program_pages": [
+        "https://parti-animaliste.fr/mira-markovic-2027",
+        "https://parti-animaliste.fr/news/communique-de-presse/mira-markovic-representera-le-parti-animaliste-a-la-presidentielle",
+        "https://parti-animaliste.fr/programme"
+      ],
+      "notes": "Cofondatrice du Parti animaliste, ancienne conseillère de Paris (2014-2020). Présentée comme candidate par le parti le 2 octobre 2026 (communiqué officiel). Aucun programme 2027 publié à ce jour: la page Programmes ne contient que les programmes 2022 et européen 2024. Le parti annonce une journée avec sa candidate le 14 novembre 2026. Les sources de presse sont des listes générales (pas d'article dédié trouvé)."
+    },
+    {
+      "id": "mathieu",
+      "name": "Benoît Mathieu",
+      "party": "Sans étiquette (candidat citoyen, démarche « Cap 500 signatures »)",
+      "declared_on": "2026-03-30",
+      "declaration_sources": [
+        "https://www.sudradio.fr/sud-radio/presidentielle-2027-un-professeur-sillonne-la-france-a-velo-en-quete-des-500-parrainages",
+        "https://rmc.bfmtv.com/actualites/politique/presidentielle-2027-a-27-ans-il-sillonne-la-france-a-velo-en-quete-des-500-parrainages_AV-202605030128.html"
+      ],
+      "official_domains": [
+        "benoitmathieu2027.fr"
+      ],
+      "program_status": "propositions",
+      "program_url": "https://benoitmathieu2027.fr/programme",
+      "program_title": "Programme 2027",
+      "program_date": null,
+      "program_pages": [
+        "https://benoitmathieu2027.fr/programme",
+        "https://benoitmathieu2027.fr/le-candidat"
+      ],
+      "notes": "Enseignant et ingénieur de 27 ans, sans parti. Tour de France à vélo commencé le 30 mars 2026 pour réunir les 500 parrainages (date retenue comme entrée en campagne, d'après Sud Radio). Son site indique qu'il ne propose pas de programme sur l'économie, le social, la santé ou la sécurité. Son programme est uniquement démocratique : assemblée citoyenne tirée au sort pour réécrire la Constitution, RIC, conventions citoyennes. Également cité comme déclaré par LCP (10/11/2026) et Public Sénat (18/09, 14/10 et 09/11/2026)."
+    },
+    {
+      "id": "melenchon",
+      "name": "Jean-Luc Mélenchon",
+      "party": "La France insoumise (LFI)",
+      "declared_on": "2026-05-03",
+      "declaration_sources": [
+        "https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851",
+        "https://www.europe1.fr/politique/presidentielle-2027-jean-luc-melenchon-officialise-sa-candidature-930947"
+      ],
+      "official_domains": [
+        "melenchon2027.fr",
+        "lafranceinsoumise.fr",
+        "laec.fr"
+      ],
+      "program_status": "programme",
+      "program_url": "https://melenchon2027.fr/programme/livre/",
+      "program_title": "L'Avenir en commun, le programme de la Nouvelle France",
+      "program_date": null,
+      "program_pages": [
+        "https://melenchon2027.fr/programme/livre/",
+        "https://melenchon2027.fr/programme/plans-thematiques/",
+        "https://melenchon2027.fr/programme/plans-thematiques/sante/",
+        "https://melenchon2027.fr/programme/plans-thematiques/esr/",
+        "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+        "https://melenchon2027.fr/programme/plans-investissement/",
+        "https://melenchon2027.fr/programme/livre/introduction",
+        "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale",
+        "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+        "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre2",
+        "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre3",
+        "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre4",
+        "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins",
+        "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre1",
+        "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2",
+        "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre3",
+        "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale",
+        "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre1",
+        "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre2",
+        "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite",
+        "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre1",
+        "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre2",
+        "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre4",
+        "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique",
+        "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre3",
+        "https://melenchon2027.fr/programme/livre/un-monde-ordonne",
+        "https://melenchon2027.fr/lettre-au-peuple-de-france/"
+      ],
+      "notes": "Candidature annoncée le 3 mai 2026 au JT de TF1, après approbation par les élus LFI. Programme complet en ligne en chapitres (version 2027 distincte de l'édition 2025), complété par des plans thématiques; date exacte de publication non trouvée (pages mises à jour en novembre 2026)."
+    },
+    {
+      "id": "mikolajczak",
+      "name": "Antoine Mikolajczak",
+      "party": "Équinoxe",
+      "declared_on": "2026-06-27",
+      "declaration_sources": [
+        "https://www.sudradio.fr/sud-radio/presidentielle-2027-qui-sont-les-candidats-declares",
+        "https://www.publicsenat.fr/actualites/politique/election-presidentielle-2027-qui-sont-les-candidats-declares-ou-presque"
+      ],
+      "official_domains": [
+        "parti-equinoxe.fr"
+      ],
+      "program_status": "propositions",
+      "program_url": "https://parti-equinoxe.fr/wp-content/uploads/2026/11/Equinoxe-Lessentiel-Programme-synthetique-pour-lelection-presidentielle-1.pdf",
+      "program_title": "L'essentiel, programme synthétique pour l'élection présidentielle",
+      "program_date": "2026-11",
+      "program_pages": [
+        "https://parti-equinoxe.fr/programme-2027/",
+        "https://parti-equinoxe.fr/wp-content/uploads/2026/11/Equinoxe-Lessentiel-Programme-synthetique-pour-lelection-presidentielle-1.pdf",
+        "https://parti-equinoxe.fr/le-programme-dequinoxe-pour-lelection-presidentielle/",
+        "https://parti-equinoxe.fr/contre-budget-2027-paris/",
+        "https://parti-equinoxe.fr/nos-reponses-aux-revendications-lyceennes/",
+        "https://parti-equinoxe.fr/notre-plan-pour-sortir-de-la-violence/",
+        "https://parti-equinoxe.fr/qui-est-antoine-mikolajczak/",
+        "https://parti-equinoxe.fr/wp-content/uploads/2026/08/Manifeste-du-parti-Equinoxe-Pour-en-finir-avec-la-demesure.pdf"
+      ],
+      "notes": "Ingénieur, dirigeant du parti Équinoxe. Candidature annoncée le 27 juin 2026 devant les adhérents selon Sud Radio. Programme synthétique publié en novembre 2026; programme complet, cahiers thématiques et chiffrage annoncés comme en cours d'élaboration (contre-budget 2027 présenté le 18 novembre). Le domaine equinoxe.fr appartient à une autre entité, sans lien."
+    },
+    {
+      "id": "mlekuz",
+      "name": "Manolo Mlekuz",
+      "party": "Trajectoire",
+      "declared_on": null,
+      "declaration_sources": [
+        "https://www.sudradio.fr/sud-radio/presidentielle-2027-qui-sont-les-candidats-declares",
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+      ],
+      "official_domains": [],
+      "program_status": "aucun",
+      "program_url": null,
+      "program_title": null,
+      "program_date": null,
+      "program_pages": [],
+      "notes": "Âgé d'une vingtaine d'années. Selon Sud Radio (liste du 20/07/2026, mise à jour le 24/08/2026), il s'est déclaré candidat sur les réseaux sociaux avec le mot d'ordre « je serais un président sans pouvoir ». Également cité par Public Sénat (14/10/2026) sous l'étiquette Trajectoire. Aucune date exacte de déclaration, aucun site officiel et aucun programme n'ont été trouvés."
+    },
+    {
+      "id": "philippe",
+      "name": "Édouard Philippe",
+      "party": "Horizons",
+      "declared_on": "2024-09-03",
+      "declaration_sources": [
+        "https://www.europe1.fr/politique/edouard-philippe-annonce-officiellement-sa-candidature-a-la-prochaine-election-presidentielle-4265431",
+        "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-dernier-decompte-des-candidats-deja-sur-la-ligne-de-depart"
+      ],
+      "official_domains": [
+        "edouardphilippe.fr",
+        "horizonsleparti.fr"
+      ],
+      "program_status": "propositions",
+      "program_url": "https://www.edouardphilippe.fr/programme",
+      "program_title": "Le programme (15 thématiques, 205 questions-réponses)",
+      "program_date": null,
+      "program_pages": [
+        "https://www.edouardphilippe.fr/programme",
+        "https://www.edouardphilippe.fr/programme/travail",
+        "https://www.edouardphilippe.fr/programme/retraites",
+        "https://www.edouardphilippe.fr/programme/famille",
+        "https://www.edouardphilippe.fr/programme/ecole",
+        "https://www.edouardphilippe.fr/programme/energie",
+        "https://www.edouardphilippe.fr/programme/adaptation-climatique",
+        "https://www.edouardphilippe.fr/programme/comptes-publics",
+        "https://www.edouardphilippe.fr/programme/entreprises",
+        "https://www.edouardphilippe.fr/programme/protection-de-l-enfance",
+        "https://www.edouardphilippe.fr/programme/securite",
+        "https://www.edouardphilippe.fr/programme/justice",
+        "https://www.edouardphilippe.fr/programme/immigration",
+        "https://www.edouardphilippe.fr/programme/defense",
+        "https://www.edouardphilippe.fr/programme/outre-mer",
+        "https://www.edouardphilippe.fr/programme/intelligence-artificielle"
+      ],
+      "notes": "Candidature annoncée dans un entretien au Point le 3 septembre 2024. Le site indique que le programme « s'écrit tout au long de la campagne » (15 thématiques publiées). Soutenu par Gérald Darmanin depuis août 2026. edouardphilippe2027.fr est une page OVH par défaut, non retenue."
+    },
+    {
+      "id": "philippot",
+      "name": "Florian Philippot",
+      "party": "Les Patriotes",
+      "declared_on": "2026-05-09",
+      "declaration_sources": [
+        "https://www.sudradio.fr/politique/je-suis-candidat-florian-philippot-se-lance-pour-la-presidentielle-de-2027",
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+      ],
+      "official_domains": [
+        "les-patriotes.fr"
+      ],
+      "program_status": "programme",
+      "program_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "program_title": "Projet pour la France 2026 (v2)",
+      "program_date": "2026-09",
+      "program_pages": [
+        "https://les-patriotes.fr/projet-pour-la-france/",
+        "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+        "https://les-patriotes.fr/soutien2027/"
+      ],
+      "notes": "Candidature annoncée sur France 2 le 9 mai 2026; il a indiqué qu'il se retirerait si Philippe de Villiers se présentait (aucune candidature de ce dernier trouvée à ce jour). Un seul média national trouvé pour la déclaration (Sud Radio, article et biographie). Programme: document PDF de 19 pages (septembre 2026) couvrant notamment emploi, retraites et santé. Les domaines lespatriotes.fr et florianphilippot.fr ne répondent pas; philippot2027.fr redirige vers un site tiers sans lien avec le candidat."
+    },
+    {
+      "id": "polony",
+      "name": "Natacha Polony",
+      "party": "La France Républicaine et Solidaire (LFRS)",
+      "declared_on": "2026-10-14",
+      "declaration_sources": [
+        "https://lcp.fr/actualites/natacha-polony-annonce-sa-candidature-a-l-election-presidentielle-443808",
+        "https://www.publicsenat.fr/actualites/politique/election-presidentielle-2027-qui-sont-les-candidats-declares-ou-presque"
+      ],
+      "official_domains": [
+        "natachapolony2027.fr"
+      ],
+      "program_status": "aucun",
+      "program_url": null,
+      "program_title": null,
+      "program_date": null,
+      "program_pages": [
+        "https://natachapolony2027.fr/natacha-polony/ma-vision",
+        "https://natachapolony2027.fr/natacha-polony/mes-principes",
+        "https://natachapolony2027.fr/actualites/pourquoi-nous-devons-agir"
+      ],
+      "notes": "Candidature annoncée sur France Inter le 14 octobre 2026 ; slogan « Nous sommes la France ». Site natachapolony2027.fr édité par l'équipe de campagne et par délégation par LFRS (mentions légales). Le site présente une vision et des principes, pas de propositions détaillées. En août 2026, elle avait dit ne pas être derrière le site polony2027.fr (domaine qui ne répond pas). Seconde source Sud Radio : entretien où elle évoque sa candidature, à vérifier pour la date exacte."
+    },
+    {
+      "id": "retailleau",
+      "name": "Bruno Retailleau",
+      "party": "Les Républicains",
+      "declared_on": "2026-04-19",
+      "declaration_sources": [
+        "https://lcp.fr/actualites/presidentielle-bruno-retailleau-choisi-comme-candidat-officiel-des-republicains-435440",
+        "https://www.publicsenat.fr/actualites/politique/presidentielle-bruno-retailleau-designe-candidat-par-les-adherents-lr"
+      ],
+      "official_domains": [
+        "avecretailleau.fr",
+        "republicains.fr"
+      ],
+      "program_status": "propositions",
+      "program_url": "https://www.avecretailleau.fr/projet",
+      "program_title": "Le projet",
+      "program_date": null,
+      "program_pages": [
+        "https://www.avecretailleau.fr/projet",
+        "https://www.avecretailleau.fr/projet/theme/logement",
+        "https://www.avecretailleau.fr/projet/theme/travail",
+        "https://www.avecretailleau.fr/projet/theme/retraites",
+        "https://www.avecretailleau.fr/projet/theme/famille",
+        "https://www.avecretailleau.fr/projet/theme/education",
+        "https://www.avecretailleau.fr/projet/theme/electricite",
+        "https://www.avecretailleau.fr/projet/theme/comptes-publics",
+        "https://www.avecretailleau.fr/projet/theme/industrie-entreprises",
+        "https://www.avecretailleau.fr/projet/theme/agriculture",
+        "https://www.avecretailleau.fr/projet/theme/immigration",
+        "https://www.avecretailleau.fr/projet/theme/institutions",
+        "https://www.avecretailleau.fr/projet/theme/l-ia",
+        "https://www.avecretailleau.fr/projet/faq",
+        "https://republicains.fr/nos-propositions/",
+        "https://republicains.fr/wp-content/uploads/2026/05/LR_Logement.pdf",
+        "https://republicains.fr/wp-content/uploads/2026/05/LR_Famille_vFinale.pdf",
+        "https://republicains.fr/wp-content/uploads/2026/09/LR_Ecole_vF.pdf",
+        "https://republicains.fr/wp-content/uploads/2026/05/LR_Electricite_vFF070626.pdf",
+        "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf",
+        "https://republicains.fr/wp-content/uploads/2026/03/LR_Agriculture.pdf",
+        "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf",
+        "https://republicains.fr/actualites/2026/09/15/ce-que-je-veux-faire-pour-le-pouvoir-dachat/",
+        "https://republicains.fr/actualites/2026/09/23/je-veux-sauver-notre-systeme-de-retraite/"
+      ],
+      "notes": "Candidature annoncée le 12 février 2026, puis désignation directe par les adhérents LR (73,8 %) à l'issue du vote des 18 et 19 avril 2026. Projet présenté thème par thème (12 thèmes) sur avecretailleau.fr ; livrets thématiques LR sur republicains.fr. Pas de thème santé repéré sur le site de campagne."
+    },
+    {
+      "id": "riner",
+      "name": "Teddy Riner",
+      "party": "Sans étiquette",
+      "declared_on": "2026-11-09",
+      "declaration_sources": [
+        "https://lcp.fr/actualites/le-judoka-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-de-2027-444920",
+        "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-judoka-teddy-riner-se-lance-dans-la-course-a-lelysee-au-milieu-dune-multitude-de-candidats"
+      ],
+      "official_domains": [],
+      "program_status": "aucun",
+      "program_url": null,
+      "program_title": null,
+      "program_date": null,
+      "program_pages": [],
+      "notes": "Annonce par vidéo et entretien au Parisien le 9 novembre 2026 ; se dit « ni de droite, ni de gauche » ; slogan « La France qu'on veut ». Les médias évoquent un site de campagne dédié, mais son adresse n'a pas été trouvée (teddyriner2027.fr et teddy2027.fr sont des domaines parqués ; teddyriner.com est son site de sportif). Programme annoncé mais non publié à ce jour."
+    },
+    {
+      "id": "roussel",
+      "name": "Fabien Roussel",
+      "party": "Parti communiste français (PCF)",
+      "declared_on": "2026-09-06",
+      "declaration_sources": [
+        "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389",
+        "https://www.publicsenat.fr/actualites/politique/presidentielle-la-candidature-du-communiste-fabien-roussel-une-epine-dans-le-pied-de-jean-luc-melenchon"
+      ],
+      "official_domains": [
+        "fabienroussel2027.fr",
+        "pcf.fr"
+      ],
+      "program_status": "propositions",
+      "program_url": null,
+      "program_title": null,
+      "program_date": null,
+      "program_pages": [
+        "https://www.fabienroussel2027.fr/",
+        "https://www.pcf.fr/objectif_1",
+        "https://www.pcf.fr/objectif_2",
+        "https://www.pcf.fr/objectif_3",
+        "https://www.pcf.fr/objectif_6",
+        "https://www.pcf.fr/moyen_1",
+        "https://www.pcf.fr/des_profs_plutot_que_des_missiles",
+        "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf?1766073372",
+        "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf?1766073347",
+        "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf?1766073432",
+        "https://assets.nationbuilder.com/pcf/pages/36199/attachments/original/1766073478/document_-_cahier_handicap_ppp.pdf?1766073478"
+      ],
+      "notes": "Candidature validée par le vote des militants PCF le 6 septembre 2026. Site de campagne (slogan 'Vivre !') sans programme détaillé; pages 'Objectif/Moyen' du site pcf.fr de date non précisée (possiblement antérieures à la campagne 2027); cahiers thématiques PDF (logement, sécurité sociale, mobilité, handicap) hébergés sur assets.nationbuilder.com, liés depuis pcf.fr."
+    },
+    {
+      "id": "ruffin",
+      "name": "François Ruffin",
+      "party": "Debout !",
+      "declared_on": "2026-01-26",
+      "declaration_sources": [
+        "https://www.liberation.fr/politique/francois-ruffin-candidat-a-la-primaire-de-la-gauche-pas-de-fatalite-nous-pouvons-lemporter-20260126_KP3LFJ3IAJE3TJDBKLN3K23LFQ/",
+        "https://lcp.fr/actualites/presidentielle-2027-s-il-n-y-a-pas-de-primaire-moi-j-y-vais-annonce-francois-ruffin"
+      ],
+      "official_domains": [
+        "nouspresident.fr",
+        "debout.fr"
+      ],
+      "program_status": "propositions",
+      "program_url": "https://nouspresident.fr/notre-programme/",
+      "program_title": "Notre programme (cahiers de campagne et plans d'action)",
+      "program_date": null,
+      "program_pages": [
+        "https://nouspresident.fr/notre-programme/",
+        "https://nouspresident.fr/cahiers-de-campagne/",
+        "https://nouspresident.fr/nos-plans-daction/",
+        "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+        "https://nouspresident.fr/statut-travailleurs-essentiels/",
+        "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+        "https://nouspresident.fr/temps-loisirs/",
+        "https://nouspresident.fr/travaillisme-ecologique/",
+        "https://nouspresident.fr/separation-argent-etat/",
+        "https://nouspresident.fr/pour-proteger-notre-industrie-relocaliser-100-produits-strategiques/",
+        "https://nouspresident.fr/pour-une-exception-agriculturelle-francaise/",
+        "https://nouspresident.fr/pour-une-democratie-en-continu-vive-les-etats-generaux/",
+        "https://nouspresident.fr/plan-urgence-climat/",
+        "https://nouspresident.fr/plan-de-redressement/",
+        "https://nouspresident.fr/plan-data-centers/"
+      ],
+      "notes": "Déclaré candidat à la primaire de la gauche le 26 janvier 2026 (Libération), puis candidat à la présidentielle en l'absence de primaire unitaire (annonce conditionnelle du 12 mai 2026, lancement de campagne à Lyon le 25 avril 2026 selon la presse régionale). Selon LCP (10 novembre 2026), il dit qu'il retirerait sa candidature 'si une solution se dégage pour battre Marine Le Pen au second tour'. Domaine ruffin2027.fr redirige vers nouspresident.fr."
+    },
+    {
+      "id": "tondelier",
+      "name": "Marine Tondelier",
+      "party": "Les Écologistes",
+      "declared_on": "2025-10-22",
+      "declaration_sources": [
+        "https://www.nouvelobs.com/politique/20251022.OBS109023/marine-tondelier-pourquoi-je-suis-candidate-a-l-election-presidentielle.html",
+        "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-les-ecologistes-reportent-lheure-du-choix-a-decembre-marine-tondelier-toujours-en-lice"
+      ],
+      "official_domains": [
+        "marinetondelier.fr",
+        "lesecologistes.fr"
+      ],
+      "program_status": "programme",
+      "program_url": "https://marinetondelier.fr/le-programme",
+      "program_title": "Le programme (557 mesures)",
+      "program_date": null,
+      "program_pages": [
+        "https://marinetondelier.fr/le-programme",
+        "https://marinetondelier.fr/livrets-thematiques",
+        "https://marinetondelier.fr/s/livret-travail.pdf",
+        "https://marinetondelier.fr/s/Livret-sante-environnementale.pdf",
+        "https://marinetondelier.fr/s/Livret-sante-reproductive.pdf",
+        "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+        "https://marinetondelier.fr/s/Livret-solitude.pdf",
+        "https://marinetondelier.fr/s/livret-culture.pdf",
+        "https://marinetondelier.fr/s/Livret-montagne.pdf",
+        "https://marinetondelier.fr/s/Livret-littoraux.pdf",
+        "https://marinetondelier.fr/manifeste",
+        "https://lesecologistes.fr/share/page/6ImK65GKUnvibm33WGkjkj/projet"
+      ],
+      "notes": "Candidature annoncée dans L'Obs le 22 octobre 2025, puis désignée par les adhérents (86 %) pour représenter Les Écologistes à une primaire de la gauche qui n'a pas eu lieu sous cette forme. Statut à confirmer: vote des adhérents prévu du 10 au 13 décembre 2026 sur une candidature propre ou un ralliement. Programme annoncé à 557 mesures (page /le-programme protégée par Cloudflare, non chargée; lien extrait du menu du site)."
+    },
+    {
+      "id": "zemmour",
+      "name": "Éric Zemmour",
+      "party": "Reconquête",
+      "declared_on": "2026-09-17",
+      "declaration_sources": [
+        "https://lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871",
+        "https://www.publicsenat.fr/actualites/politique/eric-zemmour-officialise-sa-candidature-a-la-presidentielle-2027"
+      ],
+      "official_domains": [
+        "ericzemmour.fr",
+        "parti-reconquete.fr"
+      ],
+      "program_status": "propositions",
+      "program_url": "https://www.ericzemmour.fr/priorites",
+      "program_title": "Nos priorités pour les Français",
+      "program_date": null,
+      "program_pages": [
+        "https://www.ericzemmour.fr/priorites"
+      ],
+      "notes": "A déclaré sur BFMTV le 17 septembre 2026 qu'il serait candidat, puis a officialisé formellement sa candidature au 20h de TF1 le 10 novembre 2026 (Sud Radio: https://www.sudradio.fr/societe/eric-zemmour-annonce-sa-candidature-a-la-presidentielle-pour-conserver-une-france-francaise). Meeting de lancement annoncé le 21 novembre 2026 à Toulon. La page Priorités présente cinq axes (immigration, préférence nationale, sécurité et justice, fiscalité et dépenses, école). Sarah Knafo (Reconquête) n'est pas candidate et fera campagne à ses côtés."
+    }
+  ],
+  "exclus": [
+    {
+      "name": "Gérald Darmanin",
+      "raison": "A annoncé le 17 août 2026 qu'il ne serait pas candidat à la présidentielle et qu'il soutient Édouard Philippe.",
+      "source": "https://lcp.fr/actualites/presidentielle-2027-gerald-darmanin-ne-sera-pas-candidat-et-soutient-edouard-philippe"
+    },
+    {
+      "name": "Laurent Wauquiez",
+      "raison": "Pas candidat déclaré : après la désignation de Bruno Retailleau, il appelle à l'union derrière un candidat unique de la droite et du centre et a exprimé dans Le Figaro une préférence pour Édouard Philippe ; son entourage dit qu'il ne soutiendra que le candidat unique. Pas de déclaration formelle de renoncement trouvée.",
+      "source": "https://www.publicsenat.fr/actualites/politique/main-tendue-de-laurent-wauquiez-a-edouard-philippe-cest-le-retour-de-la-droite-la-plus-bete-du-monde-tacle-le-camp-de-bruno-retailleau"
+    },
+    {
+      "name": "Jordan Bardella",
+      "raison": "Non candidat: Marine Le Pen est la candidate du RN; elle a annoncé qu'il serait son Premier ministre en cas de victoire.",
+      "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-marine-le-pen-est-candidate-et-se-pourvoit-en-cassation"
+    },
+    {
+      "name": "Sarah Knafo",
+      "raison": "Non candidate: elle a déclaré qu'Éric Zemmour était le candidat naturel de Reconquête et fera campagne à ses côtés.",
+      "source": "https://lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871"
+    },
+    {
+      "name": "Philippe Poutou",
+      "raison": "Le NPA-l'Anticapitaliste a décidé lors de sa conférence nationale du 28 juin 2026 de ne pas présenter de candidat et de soutenir Jean-Luc Mélenchon; Philippe Poutou ne sera donc pas candidat.",
+      "source": "https://lcp.fr/actualites/presidentielle-2027-philippe-poutou-renonce-a-se-presenter-et-se-range-derriere-jean-luc"
+    },
+    {
+      "name": "Augustin Billetdoux",
+      "raison": "Un seul média national (LCP, liste du 10/11/2026) rapporte la candidature ; aucun autre média national trouvé.",
+      "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+    },
+    {
+      "name": "Joël Chevé",
+      "raison": "Un seul média national (LCP, liste du 10/11/2026) rapporte la candidature (La France adulte) ; aucun autre média national trouvé.",
+      "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+    },
+    {
+      "name": "Christian Collovati",
+      "raison": "Un seul média national (LCP, liste du 10/11/2026) rapporte la candidature ; aucun autre média national trouvé.",
+      "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+    },
+    {
+      "name": "Erwan Rohou",
+      "raison": "Un seul média national (LCP, liste du 10/11/2026) rapporte la candidature (Mouvement écologiste indépendant). L'annonce de sa désignation a aussi été couverte par RCF Alsace (11/09/2026), un média régional qui ne compte pas.",
+      "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+    },
+    {
+      "name": "Lydie Massard",
+      "raison": "Candidature déclarée pour la primaire de gauche unitaire, abandonnée en juillet 2026. Aucune décision de maintien n'a été trouvée : France 24 indique qu'elle devait trancher en septembre, et LCP (liste mise à jour le 14/10) la classe parmi les « déclarés sous conditions » de la primaire. Elle est absente de la liste LCP du 10/11/2026. Seul Public Sénat (18/09/2026) la cite encore parmi les candidatures, ce qui ne fait qu'un média.",
+      "source": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-dernier-decompte-des-candidats-deja-sur-la-ligne-de-depart"
+    },
+    {
+      "name": "Gilles Platret",
+      "raison": "Un seul média national : Public Sénat (14/10/2026) écrit qu'il « a déclaré son intention de participer ». LCP (10/11/2026) le range au contraire parmi ceux dont on ignore ce qu'ils « feront ». L'annonce du 8/10 n'est rapportée que par Lyon Capitale, un média régional.",
+      "source": "https://www.publicsenat.fr/actualites/politique/election-presidentielle-2027-qui-sont-les-candidats-declares-ou-presque"
+    },
+    {
+      "name": "Dominique de Villepin",
+      "raison": "Pas de déclaration formelle. LCP (10/11/2026) écrit qu'il a assuré début novembre qu'il serait candidat mais qu'il appelle à « être patient » concernant l'annonce officielle ; il est classé parmi ceux qui n'ont « pas encore officialisé ».",
+      "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+    },
+    {
+      "name": "François Hollande",
+      "raison": "Pas de déclaration formelle. Selon LCP (10/11/2026), il attend de voir l'évolution de la candidature Glucksmann et prévoit de se prononcer en janvier.",
+      "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+    },
+    {
+      "name": "Olivier Faure",
+      "raison": "A perdu la primaire sociale-démocrate du 11/10/2026 (14,46 %). Il s'est rangé derrière Raphaël Glucksmann : « Nous avons désormais un candidat ».",
+      "source": "https://lcp.fr/actualites/victoire-de-raphael-glucksmann-a-la-primaire-socialiste-premieres-reactions-des"
+    },
+    {
+      "name": "Ségolène Royal",
+      "raison": "A perdu la primaire sociale-démocrate du 11/10/2026 (7,62 %). Elle a annoncé que son soutien irait « pour celui qui a gagné ce soir », sans nommer Glucksmann.",
+      "source": "https://lcp.fr/actualites/victoire-de-raphael-glucksmann-a-la-primaire-socialiste-premieres-reactions-des"
+    },
+    {
+      "name": "Emmanuel Maurel",
+      "raison": "A perdu la primaire sociale-démocrate du 11/10/2026 (5,92 %). Il apporte à Glucksmann un soutien « loyal et exigeant ».",
+      "source": "https://lcp.fr/actualites/victoire-de-raphael-glucksmann-a-la-primaire-socialiste-premieres-reactions-des"
+    },
+    {
+      "name": "Jérôme Guedj",
+      "raison": "A participé à la primaire sociale-démocrate et l'a perdue (dernier, 5,83 %). Il soutient Glucksmann : « Je continuerai ma campagne à la place que Raphaël Glucksmann jugera utile ».",
+      "source": "https://lcp.fr/actualites/victoire-de-raphael-glucksmann-a-la-primaire-socialiste-premieres-reactions-des"
+    },
+    {
+      "name": "Thierry Breton",
+      "raison": "Pas de déclaration : « je ne ferme pas la porte » (début novembre 2026, selon LCP).",
+      "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+    },
+    {
+      "name": "Élisabeth Borne",
+      "raison": "Pas de déclaration : elle dit avoir « des idées à porter au débat » à propos d'une éventuelle primaire du bloc central (selon LCP).",
+      "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+    },
+    {
+      "name": "Christine Lagarde",
+      "raison": "Pas de déclaration : une candidature est évoquée après son départ anticipé de la BCE, mais LCP mentionne une possible nomination à la présidence du WEF.",
+      "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+    },
+    {
+      "name": "Matthieu Pigasse",
+      "raison": "Pas de déclaration : il ne ferme « aucune porte » (selon LCP).",
+      "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+    },
+    {
+      "name": "Bruno Le Maire",
+      "raison": "Pas de déclaration : il doit seulement présenter prochainement des propositions (LCP citant Le Figaro).",
+      "source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+    }
+  ]
+}

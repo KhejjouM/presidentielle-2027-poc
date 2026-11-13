@@ -281,3 +281,24 @@ blockquote.excerpt {
   .ask { padding-top: 2rem; }
   .site-header { flex-direction: column; gap: 0.5rem; }
 }
+
+/* ---------- Programmes intégrés ---------- */
+.programs { max-width: none; }
+.programs > p, .programs > details { max-width: var(--measure); }
+.programs-table-wrap { overflow-x: auto; margin: 1.25rem 0; -webkit-overflow-scrolling: touch; }
+.programs-table { width: 100%; border-collapse: collapse; font-size: 0.95rem; min-width: 640px; }
+.programs-table th, .programs-table td { text-align: left; vertical-align: top; padding: 0.6rem 0.75rem; border-bottom: 1px solid var(--rule); }
+.programs-table thead th { font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.04em; }
+.programs-table .party { display: block; font-size: 0.85rem; opacity: 0.75; }
+.programs-table .num { font-variant-numeric: tabular-nums; white-space: nowrap; }
+.status-pill { display: inline-block; padding: 0.1rem 0.5rem; border-radius: 999px; font-size: 0.8rem; border: 1px solid currentColor; white-space: nowrap; }
+.status-programme { color: #1d6b3a; }
+.status-propositions { color: #8a5a00; }
+.status-aucun, .status-inaccessible { color: #666; }
+.status-inaccessible { border-style: dashed; }
+@media (prefers-color-scheme: dark) {
+  .status-programme { color: #6fd69a; }
+  .status-propositions { color: #f0c060; }
+  .status-aucun, .status-inaccessible { color: #aaa; }
+}
+.visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }

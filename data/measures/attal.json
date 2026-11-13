@@ -1,0 +1,1338 @@
+{
+  "candidate_id": "attal",
+  "measures": [
+    {
+      "id": "attal-pa-01",
+      "theme": "pouvoir d'achat",
+      "title": "Augmenter de 250 euros nets par mois le salaire médian par une baisse des cotisations",
+      "summary": "Le candidat propose une hausse de 250 euros nets mensuels pour un salaire médian de 2 200 euros nets, dès le début 2027, par la suppression de cotisations, sans négociation salariale ni contrainte nouvelle sur les entreprises.",
+      "excerpt": "Le salaire médian s'établit aujourd'hui à 2 200 € nets par mois. Gabriel Attal propose une hausse de 250 € nets mensuels à ce niveau de rémunération, dès le début 2027. Elle passe par la suppression de cotisations qui pèsent sur le travail, sans négociation salariale ni contrainte nouvelle sur les entreprises.",
+      "tags": [
+        "salaire",
+        "salaire net",
+        "cotisations",
+        "fiche de paie",
+        "classes moyennes"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/droit-au-brut",
+        "locator": "Droit au brut : 250 € nets de plus par mois"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "attal-pa-02",
+      "theme": "pouvoir d'achat",
+      "title": "Garantir la stabilité des prix de l'électricité pendant cinq ans",
+      "summary": "Le candidat s'engage à une stabilité des prix de l'électricité pour les cinq prochaines années.",
+      "excerpt": "Gabriel Attal prend un engagement de stabilité des prix de l'électricité pour les cinq prochaines années.",
+      "tags": [
+        "électricité",
+        "prix de l'électricité",
+        "facture",
+        "énergie"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/stabilite-prix-electricite",
+        "locator": "Garantir la stabilité des prix de l'électricité sur cinq ans"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-pa-03",
+      "theme": "pouvoir d'achat",
+      "title": "Instaurer un bouclier tarifaire sur le prix de l'eau du quotidien",
+      "summary": "Le candidat propose un bouclier tarifaire garantissant aux familles un prix bas sur l'eau de consommation courante.",
+      "excerpt": "Gabriel Attal propose un bouclier tarifaire qui garantit aux familles un prix bas sur l'eau du quotidien, celle qu'on ne peut pas choisir de ne pas consommer.",
+      "tags": [
+        "eau",
+        "prix de l'eau",
+        "facture",
+        "bouclier tarifaire"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/bouclier-tarifaire-eau",
+        "locator": "Instaurer un bouclier tarifaire sur le prix de l'eau"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-pa-04",
+      "theme": "pouvoir d'achat",
+      "title": "Verser des aides directes ciblées face au prix du carburant plutôt que baisser les taxes",
+      "summary": "Face à la hausse des prix du carburant, le candidat défend des soutiens directs et ciblés pour les personnes qui travaillent et ont besoin de leur voiture au quotidien.",
+      "excerpt": "Gabriel Attal défend donc des soutiens directs et ciblés, qui vont à ceux qui travaillent et ont besoin de leur voiture au quotidien.",
+      "tags": [
+        "carburant",
+        "essence",
+        "prix à la pompe",
+        "aide",
+        "voiture"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/aides-directes-plutot-que-baisses-de-taxes",
+        "locator": "Des aides directes ciblées plutôt que des baisses de taxes"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-pa-05",
+      "theme": "pouvoir d'achat",
+      "title": "Ne pas augmenter les impôts pendant le quinquennat",
+      "summary": "Le candidat s'engage à n'augmenter aucun impôt pendant le quinquennat, tout en proposant 150 milliards d'euros d'économies.",
+      "excerpt": "Gabriel Attal s'engage à n'augmenter aucun impôt pendant le quinquennat, alors qu'il propose 150 milliards d'euros d'économies.",
+      "tags": [
+        "impôts",
+        "hausse d'impôts",
+        "fiscalité",
+        "économies"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/aucune-hausse-impots",
+        "locator": "Aucune hausse d'impôts pendant 5 ans"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "attal-pa-06",
+      "theme": "pouvoir d'achat",
+      "title": "Maintenir les droits de succession et permettre aux grands-parents de transmettre comme aux enfants",
+      "summary": "Le candidat indique que les droits de succession et la fiscalité de l'assurance-vie n'augmenteront pas et veut permettre aux grands-parents de transmettre à leurs petits-enfants dans les mêmes conditions qu'à leurs enfants.",
+      "excerpt": "Les droits de succession et la fiscalité de l'assurance-vie n'augmenteront pas non plus. Il veut même permettre aux grands-parents de transmettre à leurs petits-enfants comme ils le font avec leurs enfants.",
+      "tags": [
+        "succession",
+        "héritage",
+        "assurance-vie",
+        "grands-parents",
+        "transmission"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/aucune-hausse-impots",
+        "locator": "Aucune hausse d'impôts pendant 5 ans"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-pa-07",
+      "theme": "pouvoir d'achat",
+      "title": "Étendre l'intéressement aux salariés des petites entreprises",
+      "summary": "Le candidat veut étendre l'intéressement aux petites structures afin que leurs salariés puissent toucher une part des résultats, comme dans un grand groupe.",
+      "excerpt": "Gabriel Attal veut étendre l'intéressement aux petites structures. Un salarié d'une entreprise de quelques personnes doit pouvoir toucher une part des résultats qu'il a contribué à produire, comme celui d'un grand groupe.",
+      "tags": [
+        "intéressement",
+        "petite entreprise",
+        "salariés",
+        "partage de la valeur"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/interessement-petites-structures",
+        "locator": "Étendre l'intéressement aux petites structures"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-pa-08",
+      "theme": "pouvoir d'achat",
+      "title": "Viser un prix de l'électricité d'environ 75 euros le mégawattheure pour le nouveau nucléaire",
+      "summary": "Le plan Messmer II vise un prix d'environ 75 euros le mégawattheure pour le nouveau nucléaire et de moins de 50 euros pour les industriels exposés à la concurrence internationale, contre environ 100 euros jugés trop élevés.",
+      "excerpt": "Un prix autour de 100 euros le mégawattheure est trop élevé pour un pays dont l'électricité est produite à 95 % sans énergie fossile. Le plan vise environ 75 euros pour le nouveau nucléaire et moins de 50 euros pour les industriels exposés à la concurrence internationale.",
+      "tags": [
+        "électricité",
+        "prix",
+        "mégawattheure",
+        "nucléaire",
+        "industrie"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/plan-messmer-2",
+        "locator": "Une électricité moins chère"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "attal-emploi-01",
+      "theme": "emploi",
+      "title": "Remplacer le Code du travail par une Constitution du travail d'une cinquantaine de pages",
+      "summary": "Le candidat veut remplacer le Code du travail par une Constitution du travail d'une cinquantaine de pages, rédigée par le Gouvernement, des experts et les partenaires sociaux.",
+      "excerpt": "Gabriel Attal veut repartir de zéro et remplacer le Code du travail par une Constitution du travail d'une cinquantaine de pages, écrite par le Gouvernement, des experts et les partenaires sociaux.",
+      "tags": [
+        "code du travail",
+        "droit du travail",
+        "dialogue social",
+        "partenaires sociaux"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/constitution-du-travail",
+        "locator": "Cinquante pages autour de quelques grands principes"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "attal-emploi-02",
+      "theme": "emploi",
+      "title": "Reprendre la réforme de l'assurance chômage dès le début du mandat",
+      "summary": "Le candidat veut reprendre dès le début du mandat la réforme de l'assurance chômage engagée lorsqu'il était Premier ministre, pour remettre les Français en emploi, dégager 5 milliards d'euros d'économies et créer au moins 100 000 emplois.",
+      "excerpt": "La réforme de l'assurance chômage engagée par Gabriel Attal lorsqu'il était Premier ministre n’a jamais été mise en oeuvre, interrompue par la dissolution. Gabriel Attal veut la reprendre dès le début du mandat, avec deux objectifs : remettre les Français en emploi et dégager 5 milliards d'euros d'économies. Elle doit permettre de créer au moins 100 000 emplois.",
+      "tags": [
+        "chômage",
+        "assurance chômage",
+        "emploi",
+        "demandeurs d'emploi"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/reforme-assurance-chomage-cinq-milliards",
+        "locator": "Réformer l'assurance chômage et réaliser cinq milliards d'économies"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "attal-emploi-03",
+      "theme": "emploi",
+      "title": "Créer un statut Auto-TPE pour faciliter l'embauche d'un premier salarié",
+      "summary": "Le candidat veut créer un statut Auto-TPE destiné aux plus petites structures, sans service des ressources humaines ni juriste, pour faciliter l'embauche du premier salarié.",
+      "excerpt": "Gabriel Attal veut créer un statut Auto-TPE pour faciliter l'embauche du premier salarié. Il s'adresse aux plus petites structures, celles qui n'ont ni service des ressources humaines ni juriste.",
+      "tags": [
+        "embauche",
+        "premier salarié",
+        "tpe",
+        "artisan",
+        "indépendant"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/statut-auto-tpe",
+        "locator": "Un statut Auto-TPE pour embaucher son premier salarié"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-emploi-04",
+      "theme": "emploi",
+      "title": "Former 20 millions de salariés à l'intelligence artificielle d'ici 2030",
+      "summary": "Le candidat fixe l'objectif de former 20 millions de salariés à l'IA d'ici 2030, à tous les niveaux de qualification et dans toutes les tailles d'entreprise.",
+      "excerpt": "Gabriel Attal fixe un objectif national d'urgence : former 20 millions de salariés à l'IA d'ici 2030, à tous les niveaux de qualification, dans les PME et les ETI comme dans les grands groupes.",
+      "tags": [
+        "formation",
+        "intelligence artificielle",
+        "salariés",
+        "compétences"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/vingt-millions-salaries-ia",
+        "locator": "Un plan national de formation"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "attal-emploi-05",
+      "theme": "emploi",
+      "title": "Supprimer le plafond légal d'heures supplémentaires",
+      "summary": "Le candidat propose de supprimer le plafond d'heures supplémentaires du Code du travail, fixé à défaut d'accord collectif à 220 heures par an et par salarié.",
+      "excerpt": "Je proposerai de supprimer le plafond d’heures supplémentaires fixé par le Code du travai l, aujourd’hui fixé, à défaut d’accord collectif, à deux cent vingt heures par an et par salarié.",
+      "tags": [
+        "heures supplémentaires",
+        "temps de travail",
+        "code du travail",
+        "salariés"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/travail-salaires",
+        "locator": "Repenser les retraites et libérer les forces du travail"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-emploi-06",
+      "theme": "emploi",
+      "title": "Promouvoir la semaine de quatre jours et adapter les horaires à la situation personnelle",
+      "summary": "Le candidat veut promouvoir, là où c'est possible, la semaine de quatre jours et une meilleure adaptation des horaires à la situation personnelle des salariés, en maintenant le nombre d'heures mensuelles.",
+      "excerpt": "Cela passe par la promotion, là où c’est possible, de la semaine en quatre jours et une meilleure adaptation des horaires entre l’employeur et le salarié pour les rendre compatibles avec la situation personnelle, garde alternée, accompagnement d’un proche dépendant, tout en maintenant le nombre d’heures mensuelles et le bon fonctionnement de l’entreprise.",
+      "tags": [
+        "semaine de quatre jours",
+        "horaires",
+        "conciliation",
+        "garde alternée"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/travail-salaires",
+        "locator": "Travailler mieux"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-retraite-01",
+      "theme": "retraite",
+      "title": "Introduire un pilier de capitalisation dans le système de retraite",
+      "summary": "Le candidat veut ajouter un pilier de capitalisation à côté de la répartition et élargir les dispositifs existants à tous, quel que soit le métier ou le salaire.",
+      "excerpt": "Gabriel Attal veut introduire un véritable pilier de capitalisation dans le système de retraite, à côté de la répartition. Les dispositifs existants seront élargis pour que chacun en bénéficie, quel que soit son métier ou son niveau de salaire.",
+      "tags": [
+        "retraite",
+        "capitalisation",
+        "épargne retraite",
+        "répartition"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/capitalisation-startups",
+        "locator": "La capitalisation pour tous"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-retraite-02",
+      "theme": "retraite",
+      "title": "Ouvrir un plan d'épargne retraite de 1 000 euros à la naissance de chaque enfant",
+      "summary": "Le candidat propose que l'État ouvre un plan d'épargne retraite de 1 000 euros à la naissance de chaque enfant, que parents et grands-parents pourront abonder jusqu'à ses 18 ans avec un avantage fiscal.",
+      "excerpt": "À la naissance de chaque enfant, l’État ouvrira un plan d’épargne retraite de 1 000 euros. Les parents et les grands-parents pourront l’abonder jusqu’à ses 18 ans, avec un avantage fiscal.",
+      "tags": [
+        "épargne retraite",
+        "naissance",
+        "enfant",
+        "plan d'épargne"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/capitalisation-startups",
+        "locator": "1 000 euros dès la naissance"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "attal-retraite-03",
+      "theme": "retraite",
+      "title": "Flécher obligatoirement la moitié de l'intéressement vers l'épargne retraite",
+      "summary": "Le candidat veut rendre obligatoire le fléchage de 50 % de l'intéressement et de la participation vers des plans d'épargne retraite, l'autre moitié restant immédiatement disponible.",
+      "excerpt": "Gabriel Attal veut rendre obligatoire le fléchage de 50 % de l'intéressement et de la participation vers des plans d'épargne retraite. La moitié reste immédiatement disponible pour le salarié.",
+      "tags": [
+        "intéressement",
+        "participation",
+        "épargne retraite",
+        "salariés"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/interessement-vers-epargne-retraite",
+        "locator": "Flécher la moitié de l'intéressement vers l'épargne retraite"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "attal-retraite-04",
+      "theme": "retraite",
+      "title": "Remplacer l'âge de départ par la durée de cotisation comme critère de retraite",
+      "summary": "Pour augmenter le taux d'emploi des seniors, le candidat indique que l'enjeu ne sera plus l'âge de départ à la retraite mais la durée de cotisation.",
+      "excerpt": "Pour augmenter le taux d’emploi des seniors, l’enjeu ne sera plus l’âge de départ à la retraite, mais la durée de cotisation .",
+      "tags": [
+        "âge de départ",
+        "durée de cotisation",
+        "seniors",
+        "retraite"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/travail-salaires",
+        "locator": "Repenser les retraites et libérer les forces du travail"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-famille-01",
+      "theme": "famille",
+      "title": "Créer une carte famille monoparentale",
+      "summary": "Le candidat veut créer une carte famille monoparentale, sur le modèle de la carte famille nombreuse, donnant des avantages pour les transports, les loisirs, la culture, les vacances et un accès facilité à la garde.",
+      "excerpt": "Gabriel Attal veut créer une carte « famille monoparentale », sur le modèle de la carte famille nombreuse. Elle ouvre des avantages pour les transports, les loisirs, la culture et les vacances et un accès facilité aux solutions de garde.",
+      "tags": [
+        "famille monoparentale",
+        "parent seul",
+        "carte",
+        "garde d'enfants"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/carte-famille-monoparentale",
+        "locator": "Créer une carte famille monoparentale"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-famille-02",
+      "theme": "famille",
+      "title": "Exclure les pensions alimentaires du revenu imposable du parent qui les reçoit",
+      "summary": "Le candidat veut sortir les pensions alimentaires reçues pour les enfants du revenu imposable du parent qui en a la charge.",
+      "excerpt": "Gabriel Attal veut sortir les pensions alimentaires reçues pour les enfants du revenu imposable du parent qui en a la charge.",
+      "tags": [
+        "pension alimentaire",
+        "impôt sur le revenu",
+        "séparation",
+        "parent seul"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/defiscaliser-pensions-alimentaires",
+        "locator": "Défiscaliser les pensions alimentaires"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-famille-03",
+      "theme": "famille",
+      "title": "Créer un droit au répit pour les parents seuls",
+      "summary": "Le candidat veut créer avec les caisses d'allocations familiales et les collectivités un droit au répit ouvrant des heures de garde et de relais en soirée, le week-end ou en urgence.",
+      "excerpt": "Gabriel Attal veut créer un véritable droit au répit, construit avec les caisses d'allocations familiales et les collectivités. Il ouvrira des heures de garde et de relais mobilisables en soirée, le week-end ou dans l'urgence.",
+      "tags": [
+        "parent seul",
+        "garde d'enfants",
+        "famille monoparentale",
+        "caf"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/droit-au-repit",
+        "locator": "Créer un droit au répit pour les parents seuls"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-famille-04",
+      "theme": "famille",
+      "title": "Accompagner les parents dans le parcours de séparation via la CAF",
+      "summary": "Le candidat prévoit que chaque caisse d'allocations familiales accompagne le parcours de séparation, avec une aide au logement dans les mois suivant la rupture et la levée des freins à l'emploi et à la formation.",
+      "excerpt": "Chaque caisse d'allocations familiales offrira un accompagnement dans le parcours de séparation, simple et humain. Un accompagnement au logement sera proposé dans les mois qui suivent la rupture et les freins à l'emploi et à la formation seront levés.",
+      "tags": [
+        "séparation",
+        "divorce",
+        "caf",
+        "logement",
+        "famille monoparentale"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/parcours-separation-simplifie",
+        "locator": "Simplifier le parcours de séparation grâce à la CAF"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-famille-05",
+      "theme": "famille",
+      "title": "Créer un livret d'épargne pour financer de nouvelles places en crèche",
+      "summary": "Le candidat propose un livret d'épargne sur le modèle du livret A afin d'orienter l'épargne vers le financement de nouvelles places en crèche.",
+      "excerpt": "Je propose un nouveau livret d’épargne , sur le modèle du livret A, pour orienter l’épargne des Français vers le financement de nouvelles places en crèche.",
+      "tags": [
+        "crèche",
+        "garde d'enfants",
+        "livret d'épargne",
+        "petite enfance"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/travail-salaires",
+        "locator": "Créer un livret garde d’enfant"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-famille-06",
+      "theme": "famille",
+      "title": "Former 200 000 professionnels de la petite enfance d'ici 2030",
+      "summary": "Le candidat propose de former 200 000 professionnels de la petite enfance d'ici 2030.",
+      "excerpt": "Je propose également de former 200 000 professionnels de la petite enfance d’ici 2030.",
+      "tags": [
+        "petite enfance",
+        "crèche",
+        "assistante maternelle",
+        "garde d'enfants"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/travail-salaires",
+        "locator": "Créer un livret garde d’enfant"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "attal-famille-07",
+      "theme": "famille",
+      "title": "Interdire les réseaux sociaux aux moins de 15 ans",
+      "summary": "Le candidat veut aller au bout de l'interdiction des réseaux sociaux pour les moins de 15 ans.",
+      "excerpt": "Alors je veux aussi libérer notre jeunesse de l’addiction aux réseaux sociaux . C’est un défi d’ampleur, un désastre sanitaire en puissance. C’est pour cela que nous irons au bout de leur interdiction pour les moins de 15 ans, pour les protéger.",
+      "tags": [
+        "réseaux sociaux",
+        "enfants",
+        "adolescents",
+        "écrans"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/education",
+        "locator": "Chantier École"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-sante-01",
+      "theme": "santé",
+      "title": "Fournir un assistant médical IA à chaque Français",
+      "summary": "Le candidat propose que chaque Français dispose d'un assistant médical fondé sur l'IA, en appui des médecins, pour obtenir un premier conseil et être orienté dans son parcours de soins.",
+      "excerpt": "Il propose que chaque Français dispose d'un assistant médical IA. Cet outil viendra en appui des médecins, sans les remplacer : il aidera chacun à obtenir un premier conseil et à être mieux orienté dans son parcours de soins.",
+      "tags": [
+        "médecin",
+        "conseil médical",
+        "intelligence artificielle",
+        "parcours de soins",
+        "désert médical"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/assistant-medical-ia",
+        "locator": "Un assistant médical IA pour chaque Français"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-sante-02",
+      "theme": "santé",
+      "title": "Équilibrer les comptes de la Sécurité sociale en 2032",
+      "summary": "Le candidat fixe l'objectif d'un équilibre strict de la Sécurité sociale en 2032, l'équilibre de l'ensemble des comptes publics étant visé en 2037.",
+      "excerpt": "Gabriel Attal fixe aux comptes sociaux une échéance plus rapprochée que ceux de l'État : l'équilibre strict de la Sécurité sociale en 2032, quand l'équilibre de l'ensemble des comptes publics est visé en 2037.",
+      "tags": [
+        "sécurité sociale",
+        "comptes sociaux",
+        "déficit",
+        "assurance maladie"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/equilibre-securite-sociale",
+        "locator": "Équilibrer les comptes de la Sécurité sociale"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-sante-03",
+      "theme": "santé",
+      "title": "Lancer un plan d'urgence de climatisation des écoles et des établissements médico-sociaux",
+      "summary": "Le candidat propose un plan de climatisation ciblant en priorité les établissements scolaires et médico-sociaux, avec pour règle de rafraîchir les bâtiments sans réchauffer la rue.",
+      "excerpt": "Le plan qu'il propose cible en priorité les établissements scolaires et les établissements médico-sociaux avec une règle : rafraîchir les bâtiments sans réchauffer la rue.",
+      "tags": [
+        "canicule",
+        "climatisation",
+        "ehpad",
+        "école",
+        "chaleur"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/climatisation-etablissements",
+        "locator": "Écoles et établissements médico-sociaux servis en premier"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-log-01",
+      "theme": "logement",
+      "title": "Lever les blocages des copropriétés et des Architectes des Bâtiments de France pour se protéger de la chaleur",
+      "summary": "Le candidat veut neutraliser les oppositions de copropriétés aux installations individuelles et simplifier les contraintes patrimoniales des Architectes des Bâtiments de France qui freinent la pose de volets ou l'isolation des logements anciens.",
+      "excerpt": "Certaines copropriétés s'opposent sans raison aux installations individuelles : Gabriel Attal veut neutraliser ces blocages. Il veut aussi simplifier drastiquement les contraintes patrimoniales imposées par les Architectes des Bâtiments de France, qui empêchent trop souvent la pose de volets ou l'isolation des logements anciens.",
+      "tags": [
+        "copropriété",
+        "climatisation",
+        "isolation",
+        "logement ancien",
+        "canicule"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/droit-a-la-climatisation",
+        "locator": "Lever les blocages des copropriétés et des contraintes patrimoniales"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-transport-01",
+      "theme": "transport",
+      "title": "Aider financièrement les professionnels dépendants de leur véhicule, d'abord en zone rurale",
+      "summary": "Le candidat veut un accompagnement financier direct pour les professionnels dépendants de leur véhicule, en priorité dans les territoires ruraux.",
+      "excerpt": "Gabriel Attal veut un accompagnement financier direct pour les professionnels dépendants de leur véhicule, en priorité dans les territoires ruraux, où l'on ne peut pas travailler sans rouler.",
+      "tags": [
+        "voiture",
+        "carburant",
+        "rural",
+        "professionnels",
+        "véhicule"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/aide-professionnels-vehicule",
+        "locator": "Accompagner les professionnels dépendants d'un véhicule"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-transport-02",
+      "theme": "transport",
+      "title": "Ouvrir le leasing social et le bonus électrique aux véhicules d'occasion",
+      "summary": "Le candidat veut amplifier le leasing social en l'ouvrant aux voitures électriques d'occasion, étendre le bonus électrique aux véhicules d'occasion, électrifier les poids lourds et multiplier les bornes de recharge.",
+      "excerpt": "Gabriel Attal veut amplifier le leasing social et l'ouvrir aux voitures électriques d'occasion, il veut étendre le bonus électrique aux véhicules d’occasion, électrifier les poids lourds et multiplier les bornes de recharge.",
+      "tags": [
+        "voiture électrique",
+        "leasing social",
+        "bonus écologique",
+        "bornes de recharge",
+        "occasion"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/plan-messmer-2",
+        "locator": "Changer les usages et sécuriser les matières premières"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-env-01",
+      "theme": "environnement",
+      "title": "Rendre automatique le dépistage des PFAS dans tous les captages d'eau potable",
+      "summary": "Le candidat veut rendre automatique le dépistage des PFAS dans tous les captages d'eau potable, sans dépendre d'un signalement ou d'une alerte locale.",
+      "excerpt": "Gabriel Attal veut rendre automatique le dépistage des PFAS dans tous les captages d'eau potable : il ne dépend plus d'un signalement, d'une alerte locale ou de la vigilance d'une collectivité.",
+      "tags": [
+        "pfas",
+        "polluants éternels",
+        "eau potable",
+        "pollution"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/depistage-pfas-captages",
+        "locator": "Dépister automatiquement les polluants éternels dans les captages d’eau potable"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-env-02",
+      "theme": "environnement",
+      "title": "Appliquer le principe pollueur-payeur avec des sanctions contre les rejets de polluants",
+      "summary": "Le candidat veut appliquer le principe pollueur-payeur avec des sanctions dissuasives contre ceux qui déversent des polluants et violent les règles.",
+      "excerpt": "Le principe pollueur-payeur doit s'appliquer, avec des sanctions dissuasives contre ceux qui déversent et violent les règles.",
+      "tags": [
+        "pollueur-payeur",
+        "pollution",
+        "sanctions",
+        "eau"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/depistage-pfas-captages",
+        "locator": "Dépister automatiquement les polluants éternels dans les captages d’eau potable"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-env-03",
+      "theme": "environnement",
+      "title": "Créer un ministère de l'Eau",
+      "summary": "Le candidat veut créer un ministère de l'Eau chargé de coordonner les acteurs et la gestion de la ressource en eau.",
+      "excerpt": "Gabriel Attal veut créer un ministère de l'Eau, chargé de coordonner tous les acteurs et d'apaiser la gestion de la ressource en eau.",
+      "tags": [
+        "eau",
+        "ministère",
+        "sécheresse",
+        "ressource en eau"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/ministere-de-l-eau",
+        "locator": "Créer un ministère de l'Eau"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-env-04",
+      "theme": "environnement",
+      "title": "Financer le plan Eau par le redéploiement de 600 millions d'euros de crédits existants",
+      "summary": "Le candidat prévoit de financer le plan Eau en redéployant 600 millions d'euros de crédits existants, dont 400 millions du Plan eau et 200 millions du Fonds vert, sans dépense publique supplémentaire.",
+      "excerpt": "Le plan proposé par Gabriel Attal redéploie 600 millions d'euros de crédits existants : 400 millions du Plan eau et 200 millions du Fonds vert. Ces sommes changent d'affectation sans s'ajouter à la dépense publique.",
+      "tags": [
+        "eau",
+        "plan eau",
+        "financement",
+        "fonds vert"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/plan-eau-a-euro-constant",
+        "locator": "Un plan Eau sans impôts nouveaux"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "attal-env-05",
+      "theme": "environnement",
+      "title": "Réparer en priorité les 500 réseaux d'eau les plus vétustes",
+      "summary": "Le candidat propose un plan de réparation des fuites commençant par les 500 réseaux les plus vétustes, avec l'objectif d'économiser 1 000 milliards de litres d'eau par an d'ici 2035.",
+      "excerpt": "Gabriel Attal propose un plan massif de réparation des fuites, qui commence par les 500 réseaux les plus vétustes, ceux qui fuient le plus. L'objectif : économiser 1 000 milliards de litres d'eau par an d'ici 2035, l'équivalent de 400 000 piscines olympiques.",
+      "tags": [
+        "eau",
+        "fuites",
+        "réseaux d'eau",
+        "sécheresse",
+        "canalisations"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/reparer-cinq-cents-reseaux-eau",
+        "locator": "Cinq cents réseaux traités en priorité"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "attal-env-06",
+      "theme": "environnement",
+      "title": "Réduire la part des énergies fossiles à 40 % en 2030 et 30 % en 2035",
+      "summary": "Le plan Messmer II prévoit une hausse de 10 % de la consommation d'électricité d'ici 2028 en remplacement du pétrole et du gaz, une part des énergies fossiles ramenée à 40 % en 2030 puis 30 % en 2035, et la neutralité carbone en 2050.",
+      "excerpt": "Le plan Messmer II proposé par Gabriel Attal fixe des étapes : d'ici 2028, la consommation d'électricité doit augmenter de 10 % en remplaçant le pétrole et le gaz. La part des énergies fossiles doit ensuite descendre à 40 % en 2030, puis à 30 % en 2035, avant la neutralité carbone en 2050.",
+      "tags": [
+        "énergies fossiles",
+        "climat",
+        "électrification",
+        "neutralité carbone",
+        "pétrole"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/plan-messmer-2",
+        "locator": "Des jalons précis jusqu'en 2050"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "attal-env-07",
+      "theme": "environnement",
+      "title": "Sécuriser le programme de 14 EPR avec un réacteur construit par an",
+      "summary": "Le candidat veut sécuriser le programme de 14 EPR, avec une capacité de construction en série et l'objectif d'un réacteur construit par an.",
+      "excerpt": "Gabriel Attal veut sécuriser le programme de 14 EPR, avec une vraie capacité de construction en série et l'objectif d'atteindre un réacteur construit par an.",
+      "tags": [
+        "nucléaire",
+        "epr",
+        "électricité",
+        "énergie décarbonée"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/plan-messmer-2",
+        "locator": "Produire plus d'électricité décarbonée"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "attal-env-08",
+      "theme": "environnement",
+      "title": "Développer les pompes à chaleur, la géothermie et les réseaux de chaleur",
+      "summary": "Le candidat veut développer les pompes à chaleur, la géothermie et les réseaux de chaleur.",
+      "excerpt": "Il veut aussi développer les pompes à chaleur, la géothermie et les réseaux de chaleur.",
+      "tags": [
+        "pompe à chaleur",
+        "chauffage",
+        "géothermie",
+        "réseaux de chaleur"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/plan-messmer-2",
+        "locator": "Changer les usages et sécuriser les matières premières"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-env-09",
+      "theme": "environnement",
+      "title": "Couvrir 30 % des besoins en matières premières par la réutilisation et le recyclage",
+      "summary": "Le candidat veut rouvrir le dossier minier en France et en Europe et viser 30 % des besoins couverts par la réutilisation et le recyclage.",
+      "excerpt": "Le dossier minier doit être rouvert en France et en Europe et la France doit viser 30 % de ses besoins couverts par la réutilisation et le recyclage.",
+      "tags": [
+        "recyclage",
+        "matières premières",
+        "mines",
+        "réutilisation"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/plan-messmer-2",
+        "locator": "Changer les usages et sécuriser les matières premières"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "attal-env-10",
+      "theme": "environnement",
+      "title": "Doubler les subventions à la géoénergie pour atteindre 160 millions d'euros par an",
+      "summary": "Le candidat veut doubler les fonds consacrés à la géoénergie pour atteindre 160 millions d'euros par an dès le début de 2027.",
+      "excerpt": "Gabriel Attal veut doubler les fonds consacrés à la géoénergie, pour atteindre 160 millions d'euros par an dès le début de 2027.",
+      "tags": [
+        "géoénergie",
+        "géothermie",
+        "chauffage",
+        "subventions"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/doubler-subventions-geoenergie",
+        "locator": "160 millions d'euros par an, sans dépense supplémentaire"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "attal-env-11",
+      "theme": "environnement",
+      "title": "Multiplier par cinq les capacités de production en géoénergie d'ici 2035",
+      "summary": "Le candidat fixe l'objectif de multiplier par cinq les capacités de production de géoénergie d'ici 2035 et de placer la France au premier rang européen.",
+      "excerpt": "L'objectif est chiffré et daté : multiplier par cinq les capacités de production d'ici 2035 et placer la France au premier rang européen.",
+      "tags": [
+        "géoénergie",
+        "géothermie",
+        "énergie renouvelable",
+        "chauffage"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/quintupler-capacites-geoenergie",
+        "locator": "Multiplier par cinq les capacités de production en géoénergie d’ici 2035"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "attal-env-12",
+      "theme": "environnement",
+      "title": "Répondre à toute demande de subvention pour la géoénergie en moins de 90 jours",
+      "summary": "Le candidat veut que tout dossier de subvention à la géoénergie reçoive une réponse en moins de 90 jours.",
+      "excerpt": "Il veut que tout dossier de subvention à la géoénergie reçoive une réponse en moins de 90 jours, sans exception.",
+      "tags": [
+        "géoénergie",
+        "subvention",
+        "délai",
+        "administration"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/reponse-subvention-quatre-vingt-dix-jours",
+        "locator": "Répondre à toute demande de subvention pour la géoénergie en moins de 90 jours"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "attal-env-13",
+      "theme": "environnement",
+      "title": "Alléger les règles des forages géothermiques peu profonds",
+      "summary": "Le candidat veut alléger les règles des forages géothermiques afin que les forages les moins profonds se fassent sans formalité superflue.",
+      "excerpt": "Gabriel Attal veut alléger les règles des forages géothermiques, pour que les forages les moins profonds puissent s'exécuter sans formalité superflue.",
+      "tags": [
+        "géothermie",
+        "forage",
+        "simplification",
+        "géoénergie"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/simplifier-forages-geothermiques",
+        "locator": "Simplifier les règles des forages géothermiques"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-env-14",
+      "theme": "environnement",
+      "title": "Tripler le rythme annuel de baisse des émissions d'ici 2030",
+      "summary": "Le candidat indique qu'il faut tripler le rythme annuel de réduction des émissions d'ici 2030, en passant de 1,8 % à 5 % par an.",
+      "excerpt": "Pour respecter nos engagements climatiques, nous devons tripler notre rythme annuel de réduction des émissions entre maintenant et 2030 : passer de 1,8 % à 5 % par an.",
+      "tags": [
+        "climat",
+        "émissions",
+        "gaz à effet de serre",
+        "réchauffement"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/dette-ecologique",
+        "locator": "Agir plus, pour nos enfants"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "attal-etudes-01",
+      "theme": "études",
+      "title": "Confier aux établissements le remplacement des absences courtes des enseignants",
+      "summary": "Le candidat propose qu'au collège et au lycée le chef d'établissement organise les remplacements de courte durée avec les professeurs, puis que cette autonomie soit étendue au primaire.",
+      "excerpt": "Au collège et au lycée, le chef d'établissement construit une organisation qui garantit les remplacements de courte durée, avec la participation des professeurs. Il veut ensuite étendre cette autonomie au primaire.",
+      "tags": [
+        "professeur absent",
+        "remplacement",
+        "collège",
+        "lycée"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/remplacement-enseignants-absents",
+        "locator": "Confier les absences courtes aux établissements eux-mêmes"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-etudes-02",
+      "theme": "études",
+      "title": "Généraliser la méthode de Singapour en mathématiques",
+      "summary": "Le candidat, qui a introduit la méthode de Singapour au primaire lorsqu'il était ministre, veut la généraliser à l'enseignement des mathématiques.",
+      "excerpt": "Lorsque Gabriel Attal était ministre de l'Éducation nationale, il a introduit cette méthode dans les pratiques et les programmes au primaire. Il veut aujourd'hui la généraliser à l'enseignement des mathématiques.",
+      "tags": [
+        "mathématiques",
+        "méthode de singapour",
+        "école primaire",
+        "niveau"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/methode-singapour",
+        "locator": "De l'introduction à la généralisation"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-etudes-03",
+      "theme": "études",
+      "title": "Instaurer trente minutes quotidiennes d'esprit critique à l'école",
+      "summary": "Le candidat propose un plan Voltaire : un rituel scolaire quotidien de trente minutes consacré au développement de l'esprit critique.",
+      "excerpt": "Il propose un « plan Voltaire » : chaque jour, un rituel scolaire de trente minutes consacrées au développement de l'esprit critique.",
+      "tags": [
+        "esprit critique",
+        "école",
+        "information",
+        "élèves"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/plan-voltaire-esprit-critique",
+        "locator": "Plan Voltaire : trente minutes d'esprit critique par jour"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "attal-etudes-04",
+      "theme": "études",
+      "title": "Renforcer le redoublement, notamment en CP",
+      "summary": "Le candidat, qui a rétabli le redoublement comme ministre, veut aller plus loin avec davantage de possibilités de redoublement, notamment en CP.",
+      "excerpt": "Gabriel Attal a rétabli le redoublement lorsqu’il était ministre de l'Éducation nationale. Il veut aller plus loin, avec davantage de cordes de rappel, notamment en CP, là où se jouent la lecture et le calcul.",
+      "tags": [
+        "redoublement",
+        "cp",
+        "école primaire",
+        "lecture"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/retablir-redoublement",
+        "locator": "Rétablir le redoublement"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-etudes-05",
+      "theme": "études",
+      "title": "Créer un conseil de discipline dès l'école primaire",
+      "summary": "Le candidat propose de créer un conseil de discipline à l'école primaire, aujourd'hui réservé au collège et au lycée.",
+      "excerpt": "Gabriel Attal propose de créer un conseil de discipline dès l'école primaire, alors qu'il est aujourd'hui réservé au collège et au lycée.",
+      "tags": [
+        "discipline",
+        "école primaire",
+        "sanctions",
+        "autorité"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/conseil-discipline-primaire",
+        "locator": "Un conseil de discipline dès l'école primaire"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-etudes-06",
+      "theme": "études",
+      "title": "Augmenter les professeurs de 200 euros nets par mois dès la rentrée 2027",
+      "summary": "Le candidat propose une revalorisation de 200 euros nets par mois pour les professeurs dès la rentrée 2027, portée à 500 euros nets par mois en milieu de carrière.",
+      "excerpt": "Gabriel Attal propose une nouvelle revalorisation de 200 euros nets par mois pour les professeurs dès la rentrée 2027 ; une revalorisation qui atteindra 500 euros nets par mois pour les enseignants en milieu de carrière.",
+      "tags": [
+        "enseignant",
+        "professeur",
+        "salaire",
+        "revalorisation"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/revalorisation-salaires-professeurs",
+        "locator": "200 à 500 euros nets de plus par mois pour les enseignants"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "attal-etudes-07",
+      "theme": "études",
+      "title": "Rétablir un certificat d'études en fin de CM2",
+      "summary": "Le candidat propose de rétablir un certificat d'études à la fin du CM2 pour vérifier, avant le collège, que l'élève dispose des connaissances indispensables.",
+      "excerpt": "Gabriel Attal propose de rétablir un certificat d'études à la fin du CM2. L'examen vérifie, avant le collège, que l'élève dispose des connaissances indispensables pour y réussir.",
+      "tags": [
+        "certificat d'études",
+        "cm2",
+        "collège",
+        "examen"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/certificat-etudes-cm2",
+        "locator": "Un examen à la fin du CM2"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-etudes-08",
+      "theme": "études",
+      "title": "Créer une année passerelle avant la sixième pour les élèves en difficulté",
+      "summary": "Le candidat prévoit que les élèves n'atteignant pas le niveau en fin de CM2 suivent une année passerelle consacrée à la lecture, à l'écriture et au calcul avant d'entrer en sixième.",
+      "excerpt": "Les élèves qui n'atteignent pas le niveau ne sont ni sanctionnés ni écartés du collège : ils suivent une année passerelle consacrée à la lecture, à l'écriture et au calcul, puis rejoignent la sixième.",
+      "tags": [
+        "année passerelle",
+        "sixième",
+        "élèves en difficulté",
+        "lecture"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/annee-passerelle",
+        "locator": "Une année passerelle pour les élèves en difficulté"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-etudes-09",
+      "theme": "études",
+      "title": "Rétablir les groupes de niveau en français et en mathématiques au collège dès 2027",
+      "summary": "Le candidat veut rétablir dès 2027 les groupes de niveau et les généraliser en mathématiques et en français au collège.",
+      "excerpt": "Gabriel Attal veut rétablir les groupes de niveau dès 2027 et les généraliser pour les mathématiques et le français au collège.",
+      "tags": [
+        "groupes de niveau",
+        "collège",
+        "mathématiques",
+        "français"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/groupes-de-niveau-college",
+        "locator": "Généraliser les groupes en français et en mathématiques"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-etudes-10",
+      "theme": "études",
+      "title": "Nommer un ministre de l'Éducation pour cinq ans et voter une loi de programmation pour l'École",
+      "summary": "Le candidat veut nommer un ministre de l'Éducation nationale pour cinq ans, numéro deux du Gouvernement, chargé d'une loi de programmation pour l'École votée dès 2027.",
+      "excerpt": "Gabriel Attal veut nommer un ministre de l'Éducation nationale pour cinq ans, numéro deux du Gouvernement. Il pilote une loi de programmation pour l'École, votée dès 2027, qui fixe les objectifs et les moyens pour toute la durée du mandat.",
+      "tags": [
+        "ministre de l'éducation",
+        "loi de programmation",
+        "école",
+        "réforme"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/un-seul-ministre-education",
+        "locator": "Un ministre pour cinq ans et une loi de programmation"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-etudes-11",
+      "theme": "études",
+      "title": "Rendre le brevet obligatoire pour entrer au lycée",
+      "summary": "Le candidat veut faire du brevet la condition d'entrée en seconde générale, technologique ou professionnelle.",
+      "excerpt": "Gabriel Attal veut rétablir cette mesure du choc des savoirs, abandonnée depuis : le brevet devient la condition d'entrée en seconde générale, technologique ou professionnelle.",
+      "tags": [
+        "brevet",
+        "lycée",
+        "seconde",
+        "examen"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/brevet-obligatoire-entree-lycee",
+        "locator": "Un examen qui retrouve du sens"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-etudes-12",
+      "theme": "études",
+      "title": "Former tous les enseignants à l'intelligence artificielle",
+      "summary": "Le candidat veut former la totalité des enseignants à l'intelligence artificielle pour qu'ils en maîtrisent les usages et accompagnent les élèves.",
+      "excerpt": "Gabriel Attal veut former la totalité des enseignants à l'intelligence artificielle, pour qu'ils en maîtrisent les usages et accompagnent les élèves face à une transformation qu'ils vivent déjà.",
+      "tags": [
+        "enseignant",
+        "intelligence artificielle",
+        "formation",
+        "professeur"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/former-tous-enseignants-ia",
+        "locator": "Former 100 % des enseignants à l'intelligence artificielle"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "attal-etudes-13",
+      "theme": "études",
+      "title": "Fournir gratuitement à chaque élève un tuteur d'IA validé par l'Éducation nationale",
+      "summary": "Le candidat veut que chaque élève reçoive gratuitement un tuteur d'IA sécurisé, souverain et validé par l'Éducation nationale.",
+      "excerpt": "Gabriel Attal veut que chaque élève reçoive gratuitement un tuteur d'IA sécurisé, souverain et validé par l'Éducation nationale.",
+      "tags": [
+        "élève",
+        "intelligence artificielle",
+        "soutien scolaire",
+        "tuteur"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/mesures/tuteur-numerique-souverain",
+        "locator": "Un outil gratuit, sécurisé et validé par l'Éducation nationale"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "attal-etudes-14",
+      "theme": "études",
+      "title": "Viser moins de 20 élèves par classe en primaire",
+      "summary": "Le candidat veut utiliser la baisse démographique pour réduire les effectifs par classe et viser moins de 20 élèves par classe, notamment en primaire.",
+      "excerpt": "Je n’y vois pas une source d’économies mais au contraire une opportunité pour avoir moins d’élèves par classe notamment en primaire où nous devons viser moins de 20 élèves par classe comme dans les meilleurs systèmes éducatifs européens.",
+      "tags": [
+        "élèves par classe",
+        "école primaire",
+        "effectifs",
+        "classe"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/education",
+        "locator": "Chantier École"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "attal-etudes-15",
+      "theme": "études",
+      "title": "Reprendre en dix ans l'une des premières places du classement PISA",
+      "summary": "Le candidat fixe comme objectif de reprendre en dix ans l'une des premières places du classement PISA.",
+      "excerpt": "Je fixe pour notre système éducatif un objectif simple : reprendre en dix ans l’une des premières places du classement PISA.",
+      "tags": [
+        "pisa",
+        "niveau scolaire",
+        "école",
+        "classement"
+      ],
+      "source": {
+        "url": "https://attalpresident.fr/programme/education",
+        "locator": "Chantier École"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    }
+  ]
+}

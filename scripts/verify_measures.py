@@ -59,7 +59,11 @@ def normalize(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
-def domain_allowed(url: str, domains: list[str]) -> bool:
+def domain_allowed(url: str, domains: list[str], documents: list[str] | None = None) -> bool:
+    """Source officielle : domaine du candidat ou du parti, ou document précis lié depuis
+    ce site mais hébergé chez son prestataire (liste official_documents, URL exacte)."""
+    if documents and url in documents:
+        return True
     host = (urlparse(url).hostname or "").lower()
     return any(host == d or host.endswith("." + d) for d in domains)
 
@@ -70,7 +74,31 @@ def extract_text(response: requests.Response) -> str:
         import pdfplumber
 
         with pdfplumber.open(io.BytesIO(response.content)) as pdf:
-            return "\n".join(page.extract_text() or "" for page in pdf.pages)
+            linear = "\n".join(page.extract_text() or "" for page in pdf.pages)
+            # Troisième lecture : chaque page coupée en deux moitiés verticales (maquettes à 2 colonnes).
+            halves = []
+            for page in pdf.pages:
+                x0, top, x1, bottom = page.bbox
+                mid = (x0 + x1) / 2
+                for box in ((x0, top, mid, bottom), (mid, top, x1, bottom)):
+                    try:
+                        halves.append(page.crop(box).extract_text() or "")
+                    except ValueError:
+                        pass
+        linear += "\n\n=== LECTURE PAR DEMI-PAGES ===\n\n" + "\n".join(halves)
+        # Deuxième lecture qui suit les colonnes (pdfminer, analyse de mise en page) :
+        # sans elle, les PDF à plusieurs colonnes mélangent les lignes et leurs mesures
+        # ne peuvent pas être citées, ce qui pénaliserait certains candidats pour une
+        # simple question de maquette. Un extrait est vérifié s'il figure dans l'une
+        # ou l'autre lecture.
+        try:
+            from pdfminer.high_level import extract_text as pdfminer_text
+            from pdfminer.layout import LAParams
+
+            columns = pdfminer_text(io.BytesIO(response.content), laparams=LAParams(boxes_flow=0.5))
+        except Exception:  # noqa: BLE001 - une lecture de secours ne doit jamais bloquer la vérification
+            columns = ""
+        return linear + "\n\n=== LECTURE PAR COLONNES ===\n\n" + columns
     if "charset" not in content_type:
         response.encoding = response.apparent_encoding or "utf-8"
     soup = BeautifulSoup(response.text, "html.parser")
@@ -137,7 +165,7 @@ def main() -> int:
         page_url, _ = urldefrag(url)
         entry: dict = {"url": url, "checked_at": now_iso()}
 
-        if not domain_allowed(page_url, cand["official_domains"]):
+        if not domain_allowed(page_url, cand["official_domains"], cand.get("official_documents")):
             entry["status"] = "domaine_non_officiel"
         else:
             if page_url not in page_cache:

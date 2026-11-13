@@ -1,0 +1,1812 @@
+{
+  "candidate_id": "roussel",
+  "measures": [
+    {
+      "id": "roussel-log-01",
+      "theme": "logement",
+      "title": "Porter à 30 % le seuil de logements sociaux de la loi SRU",
+      "summary": "Le cahier propose de renforcer la loi SRU en élevant à 30 % la part de logements sociaux exigée dans les villes concernées.",
+      "excerpt": "Nous voulons renforcer cette loi SRU : Æ En élevant les critères à 30 % de logements sociaux dans les villes qui relèvent de cette loi.",
+      "tags": [
+        "logement social",
+        "sru",
+        "hlm",
+        "commune"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf?1766073372",
+        "locator": "Cahier thématique Logement, Créer un acte 2 de la loi SRU, page 12"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-log-02",
+      "theme": "logement",
+      "title": "Verser aux communes 1 500 euros de dotation par logement social",
+      "summary": "Chaque logement social serait subventionné en dotation supplémentaire de fonctionnement à hauteur de 1 500 euros.",
+      "excerpt": "Nous voulons aller au-delà de la prime aux maires bâtisseurs (supprimée) qui accordait une prime à la création de logement, qu’un logement social soit subven- tionné en dotation supplémentaire de fonctionnement à hauteur de 1 500 euros par logement social.",
+      "tags": [
+        "logement social",
+        "maire",
+        "commune",
+        "dotation"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf?1766073372",
+        "locator": "Cahier thématique Logement, Créer un acte 2 de la loi SRU, page 12"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-log-03",
+      "theme": "logement",
+      "title": "Construire 200 000 logements publics par an pendant 5 ans",
+      "summary": "Le cahier propose de créer les conditions pour construire 200 000 logements publics par an pendant 5 ans, puis de maintenir un rythme élevé.",
+      "excerpt": "Nous proposons de créer les conditions qui nous permettront de construire 200 000 logements publics par an et ce pendant 5 ans, pour combler la demande, et de main- tenir sur le long terme un rythme de construction élevé pour les années qui suivent.",
+      "tags": [
+        "logement social",
+        "construction",
+        "hlm",
+        "logement public"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf?1766073372",
+        "locator": "Cahier thématique Logement, Créer 200 000 nouveaux logements sociaux par an, page 13"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "roussel-log-04",
+      "theme": "logement",
+      "title": "Rétablir la TVA à 5,5 % pour la production et la rénovation du parc social",
+      "summary": "Le cahier propose de rétablir un taux de TVA réduit à 5,5 % pour toute la production et la rénovation du parc social.",
+      "excerpt": "Le rétablissement d’un taux de TVA réduit à 5,5 % pour l’ensemble de la production et de la rénovation du parc social.",
+      "tags": [
+        "tva",
+        "logement social",
+        "hlm",
+        "construction"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf?1766073372",
+        "locator": "Cahier thématique Logement, Protéger et développer le logement social, page 15"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-log-05",
+      "theme": "logement",
+      "title": "Porter l'aide à la pierre à 15 milliards d'euros par an",
+      "summary": "Le budget de l'aide à la pierre serait porté à 15 milliards d'euros par an pour subventionner la construction et la rénovation de logement social.",
+      "excerpt": "Nous proposons d’élever ce budget de l’Aide à la pierre à 15 milliards d’euros par an pour la construction, comprenant : Æ La subvention des villes à la construction et la rénovation de logement social. Æ L’aide au développement du service public dans les villes comprenant du logement social.",
+      "tags": [
+        "aide à la pierre",
+        "logement social",
+        "construction",
+        "budget"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf?1766073372",
+        "locator": "Cahier thématique Logement, Renforcer les moyens pour y arriver, page 16"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-log-06",
+      "theme": "logement",
+      "title": "Porter le 1 % logement à 2 % de la masse salariale",
+      "summary": "La contribution des entreprises au 1 % logement passerait de 0,45 % à 2 % de la masse salariale, sans seuil de salariés.",
+      "excerpt": "C’est pourquoi nous proposons d’augmenter le 1 % logement (qui est en réalité de 0,45 % depuis Sarkozy) à 2 % de la masse salariale des entreprises, sans seuil de salariés.",
+      "tags": [
+        "1% logement",
+        "action logement",
+        "entreprise",
+        "salarié"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf?1766073372",
+        "locator": "Cahier thématique Logement, Participation du capital et refonte d’Action Logement, page 18"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-log-07",
+      "theme": "logement",
+      "title": "Consacrer la totalité du livret A au logement social",
+      "summary": "Le cahier propose que toutes les ressources du livret A financent le logement social, pour 200 000 logements sociaux et la réhabilitation de 500 000 logements sociaux.",
+      "excerpt": "Nous refusons également son détournement vers les dépenses d’armement, la to- talité des ressources du livret A doit être consacrée uniquement au logement so- cial pour permettre de financer les 200 000 logements sociaux et la réhabilitation de 500 000 logements sociaux.",
+      "tags": [
+        "livret a",
+        "logement social",
+        "épargne",
+        "financement"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf?1766073372",
+        "locator": "Cahier thématique Logement, Participation du capital et refonte d’Action Logement, page 19"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-log-08",
+      "theme": "logement",
+      "title": "Ouvrir 15 000 places par an en pensions de famille",
+      "summary": "Le cahier propose l'ouverture de 15 000 places par an en pensions de famille pour les personnes sortant de la rue.",
+      "excerpt": "L’ouverture de 15 000 places par an en pensions de famille, logements très sociaux qui permettent de loger des personnes en sortie de rue avec un accompagnement ;",
+      "tags": [
+        "sans-abri",
+        "hébergement",
+        "pension de famille",
+        "logement très social"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf?1766073372",
+        "locator": "Cahier thématique Logement, Un grand plan de réponse à la crise de l’hébergement d’urgence, page 22"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-log-09",
+      "theme": "logement",
+      "title": "Imposer 30 % de logements publics dans les grandes opérations d'aménagement en zone tendue",
+      "summary": "En zone tendue, chaque opération d'aménagement d'importance devrait comporter 30 % de logements publics, et 50 % dans les communes ne respectant pas la loi SRU.",
+      "excerpt": "En zone tendue, prescrire dans chaque opération d’aménagement d’im- portance 30 % de logements publics, 50 % pour les communes qui ne respectent pas la loi SRU ;",
+      "tags": [
+        "logement social",
+        "zone tendue",
+        "urbanisme",
+        "sru"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf?1766073372",
+        "locator": "Cahier thématique Logement, Faire du foncier un bien commun, page 24"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-log-10",
+      "theme": "logement",
+      "title": "Lancer un plan de traitement des copropriétés dégradées sans reste à charge pour les plus modestes",
+      "summary": "Le cahier propose un plan national de traitement des copropriétés dégradées avec un reste à charge nul pour les propriétaires les plus en difficulté.",
+      "excerpt": "Plan national de traitement des copropriétés dégradées avec un reste à charge 0 pour les propriétaires les plus en difficulté.",
+      "tags": [
+        "copropriété",
+        "rénovation",
+        "propriétaire",
+        "reste à charge"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf?1766073372",
+        "locator": "Cahier thématique Logement, Réformer en profondeur la politique de rénovation urbaine, page 28"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-log-11",
+      "theme": "logement",
+      "title": "Transférer aux collectivités la fiscalité des logements vacants et résidences secondaires",
+      "summary": "Le transfert de cette fiscalité aux collectivités, avec liberté de taux, devrait selon le cahier remettre sur le marché plus d'1 million de logements.",
+      "excerpt": "Un transfert de la fiscalité sur les logements vacants et les résidences secon- daires aux collectivités en leur laissant la liberté de taux devrait permettre de remettre sur le marché assez rapidement plus d’1 million de logements.",
+      "tags": [
+        "logement vacant",
+        "résidence secondaire",
+        "taxe",
+        "commune"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf?1766073372",
+        "locator": "Cahier thématique Logement, Lutter contre la prolifération des logements vacants, page 31"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-log-12",
+      "theme": "logement",
+      "title": "Réserver un tiers des sièges des conseils d'administration HLM aux représentants des locataires",
+      "summary": "Un tiers des sièges des conseils d'administration ou de surveillance des organismes de logement social serait réservé aux représentants des locataires.",
+      "excerpt": "Un tiers des sièges dans les conseils d’administration ou de surveil- lance des organismes de logement social réservé aux représentants des locataires, afin de garantir un véritable pouvoir d’influence sur les décisions stratégiques ;",
+      "tags": [
+        "locataire",
+        "hlm",
+        "logement social",
+        "représentants"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf?1766073372",
+        "locator": "Cahier thématique Logement, Démocratie locative et droits des représentants des locataires, page 36"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-log-13",
+      "theme": "logement",
+      "title": "Porter le parc de logements CROUS à au moins 700 000 places",
+      "summary": "Le cahier propose de porter le parc des CROUS, aujourd'hui de 174 077 places, au nombre de boursiers, soit au moins 700 000 places.",
+      "excerpt": "D’abord le manque de logements CROUS puisqu’il dispose de seulement 174 077 places. Nous proposons de porter ce parc locatif au nombre de boursiers, c’est-à-dire au moins 700 000 places.",
+      "tags": [
+        "logement étudiant",
+        "crous",
+        "étudiant",
+        "boursier"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf?1766073372",
+        "locator": "Cahier thématique Logement, Logement étudiant, page 39"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-log-14",
+      "theme": "logement",
+      "title": "Revenir à 100 % de logements neufs accessibles",
+      "summary": "Le cahier propose d'abroger la loi ELAN et de revenir à 100 % de logements neufs accessibles, avec une obligation d'ascenseur dès le premier niveau.",
+      "excerpt": "Abroger la loi ELAN, et revenir au 100% accessible dans les logements neufs, avec une obligation d’ascenseur dès le premier niveau.",
+      "tags": [
+        "accessibilité",
+        "handicap",
+        "logement neuf",
+        "ascenseur"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36199/attachments/original/1766073478/document_-_cahier_handicap_ppp.pdf?1766073478",
+        "locator": "Cahier thématique Handicap, 4. L’accessibilité, page 11"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-log-15",
+      "theme": "logement",
+      "title": "Créer 20 000 places d'hébergement pour les femmes victimes de violences",
+      "summary": "Le cahier propose 20 000 places d'hébergement supplémentaires en foyers spécialisés pour les femmes victimes de violences.",
+      "excerpt": "La construction de 20 000 places d’hébergement supplémentaires en foyers spécialisés dans l’accueil de femmes victimes de violences ;",
+      "tags": [
+        "violences conjugales",
+        "hébergement",
+        "femmes",
+        "foyer"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf?1766073372",
+        "locator": "Cahier thématique Logement, Femmes victimes de violences, page 45"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-pa-01",
+      "theme": "pouvoir d'achat",
+      "title": "Instaurer un moratoire national sur la hausse des loyers et des charges",
+      "summary": "Le PCF propose un moratoire national sur l'augmentation des loyers et des charges, compensé par une subvention aux bailleurs sociaux.",
+      "excerpt": "Le Parti communiste français propose, en soutien des revendications légitimes des locataires, que soit exécuté nationalement un moratoire sur l’augmentation des loyers et des charges. Ce moratoire, dans cette période de crise pour les bailleurs, doit être compensé par une subvention aux bailleurs sociaux.",
+      "tags": [
+        "loyer",
+        "charges",
+        "gel des loyers",
+        "hlm"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf?1766073372",
+        "locator": "Cahier thématique Logement, Des mesures pour le pouvoir d’achat des locataires, page 33"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-pa-02",
+      "theme": "pouvoir d'achat",
+      "title": "Revaloriser les APL et y intégrer l'ensemble des charges",
+      "summary": "Le cahier demande une revalorisation des APL et la prise en compte de l'ensemble des charges dans leur calcul.",
+      "excerpt": "Nous demandons non seulement une revalorisation du montant des APL mais égale- ment une prise en compte de l’ensemble des charges dans leur calcul, afin de garantir une couverture réelle des coûts d’habitation.",
+      "tags": [
+        "apl",
+        "aide au logement",
+        "charges",
+        "locataire"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf?1766073372",
+        "locator": "Cahier thématique Logement, Des mesures pour le pouvoir d’achat des locataires, page 33"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-pa-03",
+      "theme": "pouvoir d'achat",
+      "title": "Remplacer l'AAH par un revenu au niveau du SMIC",
+      "summary": "L'AAH serait remplacée par un revenu au niveau du SMIC revalorisé pour les personnes handicapées ne pouvant pas ou peu travailler.",
+      "excerpt": "Remplacer l’AAH par un revenu au niveau du SMIC revalorisé, pour les personnes handicapées ne pouvant pas ou peu travailler.",
+      "tags": [
+        "aah",
+        "handicap",
+        "smic",
+        "allocation"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36199/attachments/original/1766073478/document_-_cahier_handicap_ppp.pdf?1766073478",
+        "locator": "Cahier thématique Handicap, 3. Le travail, page 9"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-pa-04",
+      "theme": "pouvoir d'achat",
+      "title": "Augmenter de 30 % le point d'indice des fonctionnaires",
+      "summary": "Le tract propose une hausse de 30 % du point d'indice, la revalorisation des grilles et l'égalité professionnelle entre femmes et hommes dans la fonction publique.",
+      "excerpt": "Augmenter de 30 % le point d’indice des fonctionnaires, revaloriser les grilles et garantir l’égalité professionnelle femmes- hommes.",
+      "tags": [
+        "point d'indice",
+        "fonctionnaires",
+        "salaires",
+        "égalité professionnelle"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44585/attachments/original/1791210591/tract_service_public.pdf?1791210591",
+        "locator": "Tract services publics, propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-sante-01",
+      "theme": "santé",
+      "title": "Rembourser à 100 % les soins prescrits par la Sécurité sociale",
+      "summary": "Le cahier propose de mettre fin à la dualité Sécurité sociale et complémentaires en remboursant à 100 % les soins prescrits.",
+      "excerpt": "Il est temps de mettre fin à la dualité du remboursement des soins, non solidaire, source d’inégalités sociales, générateur de complexité, de dépenses supplémentaires, et d’aller vers le remboursement à 100% par la Sécurité Sociale des soins prescrits",
+      "tags": [
+        "remboursement",
+        "mutuelle",
+        "sécurité sociale",
+        "soins"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf?1766073347",
+        "locator": "Cahier thématique Sécurité sociale, 4. Quelles ambitions pour l’assurance-maladie ?, page 15"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-sante-02",
+      "theme": "santé",
+      "title": "Généraliser le tiers payant et supprimer les dépassements d'honoraires",
+      "summary": "Parmi ses exigences immédiates, le cahier cite la prise en charge à 100 % des dépenses de santé, la généralisation du tiers payant et l'arrêt des dépassements d'honoraires.",
+      "excerpt": "Concernant l’Assurance Maladie la prise en charge à 100% des dépenses de santé par la Sécurité Sociale, l’abandon de tout système complémentaire onéreux avec la généralisation du tiers payant et bien sûr l’arrêt de tous les coûts indus liés à la pri- vatisation, aux dépassements d’honoraires",
+      "tags": [
+        "tiers payant",
+        "dépassement d'honoraires",
+        "médecin",
+        "remboursement"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf?1766073347",
+        "locator": "Cahier thématique Sécurité sociale, Conclusion, page 43"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-sante-03",
+      "theme": "santé",
+      "title": "Supprimer l'encadrement des dépenses de santé par l'ONDAM",
+      "summary": "Le cahier propose de mettre fin à la limitation a priori des dépenses d'assurance maladie par l'ONDAM voté chaque année.",
+      "excerpt": "La limitation a priori des financements par le mécanisme de l’ONDAM (Objectif National des Dépenses d’Assurance Maladie) voté par le parlement chaque année avec le PLFSS étrangle à la fois le service public hospitalier et les soins de premier recours et mécon- naît la prévention� Ce contrôle étatique doit cesser car contraire aux principes de la Sécurité Sociale de gestion par les travailleur·euses",
+      "tags": [
+        "ondam",
+        "hôpital",
+        "assurance maladie",
+        "budget"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf?1766073347",
+        "locator": "Cahier thématique Sécurité sociale, 4. Quelles ambitions pour l’assurance-maladie ?, page 16"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-sante-04",
+      "theme": "santé",
+      "title": "Réintégrer l'autonomie dans l'assurance maladie avec un financement à 100 %",
+      "summary": "La prise en charge de l'autonomie serait réintégrée à la branche maladie, avec un financement solidaire à 100 % par la Sécurité sociale.",
+      "excerpt": "Concernant l’autonomie: elle doit être réintégrée avec la maladie, couverte par un financement solidaire à 100% par la Sécurité Sociale, associé au développement de services publics",
+      "tags": [
+        "autonomie",
+        "dépendance",
+        "personnes âgées",
+        "sécurité sociale"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf?1766073347",
+        "locator": "Cahier thématique Sécurité sociale, Conclusion, page 43"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-sante-05",
+      "theme": "santé",
+      "title": "Créer un pôle public de la santé incluant le médicament",
+      "summary": "Le cahier propose un pôle public de la santé incluant le médicament et le matériel médical.",
+      "excerpt": "En matière de santé, nous proposons en outre la création d’un pôle public de la santé, incluant le médicament et le matériel médical, pour développer le service public",
+      "tags": [
+        "médicament",
+        "pôle public",
+        "santé",
+        "pharmacie"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf?1766073347",
+        "locator": "Cahier thématique Sécurité sociale, Conclusion, page 43"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-sante-06",
+      "theme": "santé",
+      "title": "Aller vers une réparation intégrale des maladies professionnelles",
+      "summary": "Le cahier propose d'améliorer l'indemnisation des maladies professionnelles pour aller vers une réparation intégrale du préjudice.",
+      "excerpt": "Il faut améliorer l’indemnisation des maladies professionnelles pour aller vers une réparation intégrale du préjudice.",
+      "tags": [
+        "maladie professionnelle",
+        "accident du travail",
+        "indemnisation"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf?1766073347",
+        "locator": "Cahier thématique Sécurité sociale, 7. Accidents de travail et maladies professionnelles, page 30"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-sante-07",
+      "theme": "santé",
+      "title": "Atteindre un médecin scolaire pour 3 000 élèves du secondaire",
+      "summary": "Le ratio passerait d'un médecin scolaire pour 13 000 élèves à un médecin scolaire pour 3 000 élèves du secondaire.",
+      "excerpt": "Alors qu’aujourd’hui la France dispose d’un médecin scolaire pour 13 000 élèves, ce ratio doit être descendu à un médecin scolaire pour 3 000 élèves du secondaire.",
+      "tags": [
+        "médecine scolaire",
+        "médecin",
+        "élèves",
+        "prévention"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf?1791282014",
+        "locator": "Plan Jeunesse 2027-2032, Axe 2, proposition 4, page 6"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-retraite-01",
+      "theme": "retraite",
+      "title": "Rétablir la retraite à 60 ans en comptant les années d'études",
+      "summary": "Le cahier propose de rendre la retraite possible à 60 ans en prenant en compte les années d'étude et de formation.",
+      "excerpt": "Pour que la retraite au XXIe siècle « soit pleinement un nouvel âge de la vie et non l’antichambre de la mort », selon le projet politique d’A� Croizat, il faut la rendre possible à 60 ans, en prenant en compte les années d’étude et de formation",
+      "tags": [
+        "retraite",
+        "60 ans",
+        "âge de départ",
+        "études"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf?1766073347",
+        "locator": "Cahier thématique Sécurité sociale, 5. La retraite à 60 ans, page 21"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-retraite-02",
+      "theme": "retraite",
+      "title": "Garantir un taux de remplacement net de 75 %",
+      "summary": "La pension garantirait un taux de remplacement net de 75 % du revenu net d'activité, primes comprises.",
+      "excerpt": "Taux de remplacement net de 75% du revenu net d’activité (primes comprises)",
+      "tags": [
+        "pension",
+        "taux de remplacement",
+        "retraite"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf?1766073347",
+        "locator": "Cahier thématique Sécurité sociale, 5. La retraite à 60 ans, page 21"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-retraite-03",
+      "theme": "retraite",
+      "title": "Calculer la pension sur les 10 meilleures années et l'indexer sur les salaires",
+      "summary": "La pension serait calculée sur les 10 meilleures années et indexée sur les salaires et l'inflation.",
+      "excerpt": "Calcul sur les 10 meilleures années, avec indexation des pensions sur les salaires et l’inflation",
+      "tags": [
+        "pension",
+        "10 meilleures années",
+        "indexation",
+        "retraite"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf?1766073347",
+        "locator": "Cahier thématique Sécurité sociale, 5. La retraite à 60 ans, page 21"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-retraite-04",
+      "theme": "retraite",
+      "title": "Interdire toute pension inférieure au SMIC",
+      "summary": "Le cahier prévoit qu'aucune pension ne soit inférieure au SMIC et la prise en compte des carrières incomplètes, des études et des implications familiales.",
+      "excerpt": "Aucune pension inférieure au SMIC� Æ Prise en compte des carrières incomplètes, des années d’études, des années d’implications familiales",
+      "tags": [
+        "pension",
+        "minimum vieillesse",
+        "smic",
+        "retraite"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf?1766073347",
+        "locator": "Cahier thématique Sécurité sociale, 5. La retraite à 60 ans, page 21"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-retraite-05",
+      "theme": "retraite",
+      "title": "Valider pour la retraite les périodes de formation dès 18 ans et d'inactivité subie",
+      "summary": "Le cahier propose de prendre en compte pour la retraite les périodes de formation à partir de 18 ans et les périodes d'inactivité subie.",
+      "excerpt": "Alors que toutes les contre-réformes des retraites conditionnent l’accès à l’ensemble des droits au fait d’avoir une carrière complète, nous proposons une prise en compte des périodes de formation, à partir de 18 ans, initiale et continue, d’inactivité subie (chômage, mater- nité, maladie, accidents de travail, invalidité et handicap)",
+      "tags": [
+        "trimestre",
+        "chômage",
+        "études",
+        "maternité"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf?1766073347",
+        "locator": "Cahier thématique Sécurité sociale, 5. La retraite à 60 ans, page 21"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-retraite-06",
+      "theme": "retraite",
+      "title": "Permettre des départs anticipés pour pénibilité et carrières longues",
+      "summary": "Le cahier prévoit la reconnaissance de la pénibilité et des longues carrières pour des départs anticipés à la retraite.",
+      "excerpt": "Reconnaissance de la pénibilité et des longues carrières pour des départs à la retraite anticipés",
+      "tags": [
+        "pénibilité",
+        "carrière longue",
+        "retraite anticipée"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf?1766073347",
+        "locator": "Cahier thématique Sécurité sociale, 5. La retraite à 60 ans, page 21"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-famille-01",
+      "theme": "famille",
+      "title": "Verser les allocations familiales dès le premier enfant",
+      "summary": "Le PCF demande le versement d'une allocation familiale dès le premier enfant et l'augmentation des allocations pour le deuxième.",
+      "excerpt": "Le PCF de- mande depuis longtemps le versement d’une allocation familiale dès le 1er enfant, comme l’augmentation des allocations pour le 2e enfant",
+      "tags": [
+        "allocations familiales",
+        "premier enfant",
+        "caf",
+        "famille"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf?1766073347",
+        "locator": "Cahier thématique Sécurité sociale, 6. La famille a besoin de soutien, page 25"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-famille-02",
+      "theme": "famille",
+      "title": "Créer un service public gratuit de la petite enfance",
+      "summary": "Le cahier juge nécessaire la mise en place d'un service public gratuit de la petite enfance.",
+      "excerpt": "La mise en place d’un véritable service public gratuit de la petite enfance est une nécessité",
+      "tags": [
+        "crèche",
+        "garde d'enfant",
+        "petite enfance",
+        "gratuité"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf?1766073347",
+        "locator": "Cahier thématique Sécurité sociale, 6. La famille a besoin de soutien, page 26"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-emploi-01",
+      "theme": "emploi",
+      "title": "Créer un système de sécurité d'emploi et de formation",
+      "summary": "Le cahier propose un système de sécurité d'emploi, de formation et du revenu tout au long de la vie professionnelle.",
+      "excerpt": "Pour cela nous proposons un système de Sécurité d’emploi, de formation, du revenu, tout au long de la vie professionnelle",
+      "tags": [
+        "chômage",
+        "formation",
+        "emploi",
+        "sécurité professionnelle"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf?1766073347",
+        "locator": "Cahier thématique Sécurité sociale, 9. La question du financement, page 40"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-emploi-02",
+      "theme": "emploi",
+      "title": "Augmenter les cotisations des entreprises qui réduisent la part des salaires",
+      "summary": "Les taux de cotisations patronales augmenteraient pour les entreprises dont le rapport masse salariale sur valeur ajoutée baisse.",
+      "excerpt": "Si le rapport Masse salariale/Valeur ajoutée (VA) d’une entreprise dimi- nue, ou s’il augmente moins vite, cela signifie que l’entreprise sacrifie les emplois et les sa- laires; alors nous proposons d’augmenter les taux de cotisations patronales de l’entreprise",
+      "tags": [
+        "cotisations",
+        "entreprise",
+        "salaires",
+        "emploi"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf?1766073347",
+        "locator": "Cahier thématique Sécurité sociale, 9. La question du financement, page 40"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-emploi-03",
+      "theme": "emploi",
+      "title": "Alourdir les sanctions contre les employeurs qui mettent en danger la santé des salariés",
+      "summary": "Le cahier propose des sanctions alourdies contre les employeurs qui privilégient la rentabilité sur la prévention et la protection.",
+      "excerpt": "Il faut des sanctions alourdies contre les employeurs qui mettent en danger la santé en privilégiant la rentabilité plutôt que la mise en œuvre des systèmes de prévention et de protection.",
+      "tags": [
+        "accident du travail",
+        "sécurité au travail",
+        "sanction",
+        "employeur"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36196/attachments/original/1766073347/document_-_cahier_se%CC%81cu_v2.pdf?1766073347",
+        "locator": "Cahier thématique Sécurité sociale, 7. Accidents de travail et maladies professionnelles, page 30"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-emploi-04",
+      "theme": "emploi",
+      "title": "Donner un statut de salarié aux travailleurs des ESAT",
+      "summary": "Les travailleurs des ESAT obtiendraient un statut de salarié plein et entier avec de nouveaux droits.",
+      "excerpt": "Garantir un statut de salarié plein et entier pour les travailleurs des ESAT avec de nouveaux droits, puis à terme, les intégrer dans le monde du travail avec un accompagnement correspondant à leurs besoins.",
+      "tags": [
+        "esat",
+        "handicap",
+        "salarié",
+        "travail"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36199/attachments/original/1766073478/document_-_cahier_handicap_ppp.pdf?1766073478",
+        "locator": "Cahier thématique Handicap, 3. Le travail, page 9"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-emploi-05",
+      "theme": "emploi",
+      "title": "Durcir les obligations d'emploi de personnes handicapées",
+      "summary": "Le cahier propose de durcir les obligations des employeurs en matière d'emploi de personnes handicapées et d'augmenter les sanctions financières.",
+      "excerpt": "Durcir les obligations des employeurs en matière d’emploi de personnes handicapées, en termes de prévention et d’aménagement de poste en augmentant les sanctions financières en cas de non-respect et en pro- posant un accompagnement renforcé des PME et des TPE.",
+      "tags": [
+        "handicap",
+        "emploi",
+        "employeur",
+        "obligation d'emploi"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36199/attachments/original/1766073478/document_-_cahier_handicap_ppp.pdf?1766073478",
+        "locator": "Cahier thématique Handicap, 3. Le travail, page 9"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-emploi-06",
+      "theme": "emploi",
+      "title": "Conditionner les aides aux employeurs au recrutement de personnes handicapées",
+      "summary": "Les aides aux employeurs seraient conditionnées au recrutement de personnes en situation de handicap.",
+      "excerpt": "Conditionner les aides aux employeurs au recrutement des personnes en situation de handicap.",
+      "tags": [
+        "handicap",
+        "aides aux entreprises",
+        "recrutement"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36199/attachments/original/1766073478/document_-_cahier_handicap_ppp.pdf?1766073478",
+        "locator": "Cahier thématique Handicap, 3. Le travail, page 9"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-emploi-07",
+      "theme": "emploi",
+      "title": "Créer un statut de haut niveau pour les salariés du transport de voyageurs",
+      "summary": "Le cahier prévoit un statut de haut niveau pour tous les salariés du transport de voyageurs par route, métro et tramway.",
+      "excerpt": "C’est pourquoi il sera nécessaire de mettre en place un statut de haut niveau pour l’ensemble des salariés du transport de voyageurs par route, métro et tramway, et ainsi mettre fin au dumping social et au moins disant social, et rendre l’égalité d’accès aux transports effective.",
+      "tags": [
+        "salarié",
+        "transport",
+        "statut",
+        "conducteur"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf?1766073432",
+        "locator": "Cahier thématique Mobilités, 1. Un programme applicable car financé, page 8"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-emploi-08",
+      "theme": "emploi",
+      "title": "Financer des formations gratuites de reconversion vers la construction durable",
+      "summary": "Le cahier propose de revaloriser le secteur du bâtiment, notamment par des programmes de formation gratuits pour la reconversion vers la construction durable et la rénovation.",
+      "excerpt": "Nous proposons de revaloriser le secteur du bâtiment : Æ Par notre politique ambitieuse en matière d’investissement pour le logement. Æ Par une remise à plat des conditions de travail dans le bâtiment. Æ Par des programmes de formation gratuits pour la reconversion vers des modes de construction durables et la rénovation des bâtiments.",
+      "tags": [
+        "bâtiment",
+        "formation",
+        "reconversion",
+        "btp"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf?1766073372",
+        "locator": "Cahier thématique Logement, Investir et adapter pour sauver la filière du bâtiment, page 27"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-emploi-09",
+      "theme": "emploi",
+      "title": "Dégeler le point d'indice et revaloriser les grilles des enseignants",
+      "summary": "Le plan prévoit pour les enseignants et personnels d'encadrement le dégel du point d'indice, un rattrapage salarial et la revalorisation des grilles sur toute la carrière.",
+      "excerpt": "Nous souhaitons une meilleure reconnaissance des enseignants et des personnels d’encadrements, qui est indispensable pour leur rôle et leur métier : dégel du point d’indice, rattrapage salariale et revalorisation des grilles tout au long de leur carrière.",
+      "tags": [
+        "enseignants",
+        "point d'indice",
+        "salaires",
+        "carrière"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf?1791282014",
+        "locator": "Plan Jeunesse 2027-2032, Les objectifs du plan, page 4"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-emploi-10",
+      "theme": "emploi",
+      "title": "Titulariser les contractuels de la fonction publique et financer les formations dès le prérecrutement",
+      "summary": "Le tract propose de recruter dans les services publics, de titulariser les contractuels et de financer les formations dès le prérecrutement.",
+      "excerpt": "Recruter massivement, titulariser les contractuels et financer les formations dès le prérecrutement pour permettre aux agents de remplir leurs missions.",
+      "tags": [
+        "fonction publique",
+        "contractuels",
+        "titularisation",
+        "recrutement"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44585/attachments/original/1791210591/tract_service_public.pdf?1791210591",
+        "locator": "Tract services publics, propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-emploi-11",
+      "theme": "emploi",
+      "title": "Recruter 21 000 sapeurs-pompiers professionnels supplémentaires",
+      "summary": "Le tract propose de recruter 21 000 sapeurs-pompiers professionnels supplémentaires et des agents administratifs et techniques, et de créer un statut pour les volontaires.",
+      "excerpt": "Recruter 21000 sapeurs-pompiers professionnels supplémentaires, et des milliers d’agents administratifs et techniques, et créer un véritable statut pour les volontaires pour faire face à la hausse continue des interventions.",
+      "tags": [
+        "sapeurs-pompiers",
+        "recrutement",
+        "volontaires",
+        "sécurité civile"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44583/attachments/original/1791210341/tract_pompier.pdf?1791210341",
+        "locator": "Tract pompiers, propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-etudes-01",
+      "theme": "études",
+      "title": "Renforcer l'accompagnement des élèves handicapés par des AESH intégrés à l'Éducation nationale",
+      "summary": "Le cahier propose de donner les moyens d'accompagner les élèves handicapés, par des AESH et d'autres professionnels intégrés à l'Éducation nationale.",
+      "excerpt": "Donner les moyens de l’accompagnement des enfants au sein des éta- blissements scolaires à la hauteur des besoins, par des AESH et d’autres professionnels intégré.es à l’Éducation Nationale.",
+      "tags": [
+        "aesh",
+        "handicap",
+        "école",
+        "élève"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36199/attachments/original/1766073478/document_-_cahier_handicap_ppp.pdf?1766073478",
+        "locator": "Cahier thématique Handicap, 5. L’éducation, page 13"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-etudes-02",
+      "theme": "études",
+      "title": "Réduire davantage les effectifs des classes accueillant des enfants handicapés",
+      "summary": "La réduction des effectifs par classe serait plus forte dans les classes accueillant des enfants handicapés.",
+      "excerpt": "La réduction des effectifs dans les classes, indispensable pour tous les élèves, doit être supérieure pour celles accueillant des enfants handicapés.",
+      "tags": [
+        "effectifs",
+        "classe",
+        "handicap",
+        "école"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36199/attachments/original/1766073478/document_-_cahier_handicap_ppp.pdf?1766073478",
+        "locator": "Cahier thématique Handicap, 5. L’éducation, page 13"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-etudes-03",
+      "theme": "études",
+      "title": "Financer l'accompagnement des étudiants handicapés",
+      "summary": "Le cahier propose de garantir un accompagnement financé des étudiants handicapés dans tous les aspects de la vie étudiante.",
+      "excerpt": "Garantir un accompagnement financé des étudiants dans tous les as- pects de la vie étudiante.",
+      "tags": [
+        "étudiant",
+        "handicap",
+        "université",
+        "accompagnement"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36199/attachments/original/1766073478/document_-_cahier_handicap_ppp.pdf?1766073478",
+        "locator": "Cahier thématique Handicap, 5. L’éducation, page 13"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-etudes-04",
+      "theme": "études",
+      "title": "Ouvrir 5 milliards d'euros d'urgence pour les lycées par une loi de finances rectificative",
+      "summary": "Le plan propose une loi de finances rectificative ouvrant 5 milliards d'euros pour les travaux les plus urgents dans les lycées, sur la base d'un état des lieux par établissement.",
+      "excerpt": "Nous proposons qu’un projet de loi de finance rectificatif ouvre immédiatement 5 milliards d’euros pour les lycées, afin d’engager les travaux et investissements les plus urgents, sur la base d’un état des lieux réalisé établissement par établissement avec les personnels et les lycéens.",
+      "tags": [
+        "lycée",
+        "bâti scolaire",
+        "travaux",
+        "loi de finances"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf?1791282014",
+        "locator": "Plan Jeunesse 2027-2032, Axe 1, proposition 1, page 5"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-etudes-05",
+      "theme": "études",
+      "title": "Prêter 5 milliards d'euros par an à taux zéro aux collectivités pour rénover collèges et lycées",
+      "summary": "L'État accorderait aux régions et aux départements 5 milliards d'euros par an de prêts à taux zéro pendant cinq ans, soit 25 milliards d'euros sur le quinquennat, pour rénover le bâti scolaire.",
+      "excerpt": "L'État engagera 5 milliards d’euros par an pendant cinq ans, soit 25 milliards d’euros sur le quinquennat, sous la forme de prêts à taux zéro, en soutien aux régions et des départements, propriétaires des bâtiments.",
+      "tags": [
+        "rénovation",
+        "collège",
+        "lycée",
+        "prêt à taux zéro",
+        "région"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf?1791282014",
+        "locator": "Plan Jeunesse 2027-2032, Axe 1, proposition 2, page 5"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_et_financement",
+          "source_url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf?1791282014",
+          "note": "Plan Jeunesse 2027-2032, page 11 : rénovation du bâti scolaire, coût annuel 5 Md€, financé par la reprise de 5 Md€ sur les 211 Md€ d'aides publiques aux entreprises (2,4 %)."
+        }
+      }
+    },
+    {
+      "id": "roussel-etudes-06",
+      "theme": "études",
+      "title": "Créer 18 000 postes d'enseignants par an de 2027 à 2031",
+      "summary": "Le plan prévoit 18 000 créations de postes d'enseignants par an de 2027 à 2031, réparties à parts égales entre premier et second degré, soit 90 000 postes au total.",
+      "excerpt": "Ainsi, 18 000 postes seront créés chaque année de 2027 à 2031 : 9 000 dans le premier degré et 9 000 dans le second degré.",
+      "tags": [
+        "enseignants",
+        "recrutement",
+        "postes",
+        "école publique"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf?1791282014",
+        "locator": "Plan Jeunesse 2027-2032, Axe 2, proposition 3, page 6"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_et_financement",
+          "source_url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf?1791282014",
+          "note": "Plan Jeunesse 2027-2032, page 11 : 0,23 Md€ en 2027 et 3,5 Md€ en année pleine (38 700 € par poste), financés par un redéploiement depuis le budget de la défense."
+        }
+      }
+    },
+    {
+      "id": "roussel-etudes-07",
+      "theme": "études",
+      "title": "Garantir un AESH dès la rentrée à chaque élève handicapé qui en a besoin",
+      "summary": "Chaque élève dont la situation le justifie disposerait d'un accompagnant (AESH) dès le jour de la rentrée, financé par le budget de l'Éducation nationale.",
+      "excerpt": "Chaque élève dont la situation le justifie disposera d'un AESH dès le jour de la rentrée. Le budget de l'Éducation nationale financera les accompagnants nécessaires, au même titre que les enseignants.",
+      "tags": [
+        "aesh",
+        "handicap",
+        "élève",
+        "rentrée"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf?1791282014",
+        "locator": "Plan Jeunesse 2027-2032, Axe 2, proposition 5, page 7"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-etudes-08",
+      "theme": "études",
+      "title": "Assurer 32 heures de cours par semaine aux lycéens",
+      "summary": "Les lycéens auraient 32 heures de cours hebdomadaires assurées par des enseignants, avec des journées finissant à 17 h et une pause méridienne d'au moins une heure.",
+      "excerpt": "Les lycéens recevront 32 heures de cours par semaine, assurées par des enseignants. Ces heures seront mieux réparties, avec moins de trous dans l'emploi du temps, des journées qui finissent à 17 h et une pause d'au moins une heure le midi.",
+      "tags": [
+        "lycée",
+        "emploi du temps",
+        "heures de cours",
+        "32 heures"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf?1791282014",
+        "locator": "Plan Jeunesse 2027-2032, Axe 3, proposition 6, page 7"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-etudes-09",
+      "theme": "études",
+      "title": "Passer le bac professionnel en quatre ans",
+      "summary": "La préparation du baccalauréat professionnel durerait quatre ans au lieu de trois.",
+      "excerpt": "Le bac professionnel se déroulera en quatre ans au lieu de trois ans.",
+      "tags": [
+        "bac professionnel",
+        "lycée professionnel",
+        "durée",
+        "formation"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf?1791282014",
+        "locator": "Plan Jeunesse 2027-2032, Les objectifs du plan, page 4"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-etudes-10",
+      "theme": "études",
+      "title": "Supprimer les spécialités et rétablir les filières au lycée",
+      "summary": "Les enseignements de spécialité seraient supprimés et le lycée reviendrait à des filières, comme avant la réforme de 2019.",
+      "excerpt": "Les spécialités seront supprimées et le lycée retrouvera des filières, comme avant 2019.",
+      "tags": [
+        "lycée",
+        "filières",
+        "spécialités",
+        "réforme du bac"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf?1791282014",
+        "locator": "Plan Jeunesse 2027-2032, Axe 3, proposition 7, page 8"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-etudes-11",
+      "theme": "études",
+      "title": "Supprimer Parcoursup et MonMaster au profit d'une plateforme publique d'orientation",
+      "summary": "Parcoursup et MonMaster seraient supprimés, la sélection à l'entrée de l'université prendrait fin et une plateforme publique d'orientation inscrirait chaque élève dans la formation de son choix.",
+      "excerpt": "Parcoursup et MonMaster seront supprimés et la sélection à l'entrée de l'université prendra fin. Une plateforme publique d'orientation prendra le relais : elle informera, conseillera et inscrira chaque élève dans la formation de son choix.",
+      "tags": [
+        "parcoursup",
+        "monmaster",
+        "orientation",
+        "université"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf?1791282014",
+        "locator": "Plan Jeunesse 2027-2032, Axe 4, proposition 8, page 8"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-etudes-12",
+      "theme": "études",
+      "title": "Garantir une place dans le supérieur à chaque bachelier",
+      "summary": "Le plan vise à développer les places dans les universités, les IUT et les formations courtes afin qu'aucun bachelier ne reste sans solution à la rentrée.",
+      "excerpt": "L’enjeu est de développer le droit aux études dans les universités, les IUT et les formations courtes, pas de réduire les places au prétexte de la démographie. Aucun jeune diplômé du baccalauréat ne restera sans solution à la rentrée.",
+      "tags": [
+        "enseignement supérieur",
+        "bachelier",
+        "université",
+        "iut"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf?1791282014",
+        "locator": "Plan Jeunesse 2027-2032, Axe 4, proposition 9, page 8"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-etudes-13",
+      "theme": "études",
+      "title": "Redéfinir la place des lycéens dans les conseils des établissements",
+      "summary": "Le plan prévoit de renforcer la démocratie scolaire en redéfinissant la place des lycéens dans les conseils et la vie des établissements.",
+      "excerpt": "Enfin, cinquième objectif : renforcer la démocratie scolaire avec une redéfinition de la place des lycéens dans les conseils et la vie des établissements.",
+      "tags": [
+        "démocratie lycéenne",
+        "délégués",
+        "lycéens",
+        "vie scolaire"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf?1791282014",
+        "locator": "Plan Jeunesse 2027-2032, Les objectifs du plan, page 4"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-etudes-14",
+      "theme": "études",
+      "title": "Créer un service public de l'orientation et un revenu étudiant",
+      "summary": "Le tract propose un service public de l'orientation, l'ouverture de places dans l'enseignement supérieur et la mise en place d'un revenu étudiant.",
+      "excerpt": "Construire un véritable service public de l’orientation, ouvrir des places dans l’enseignement supérieur, mettre en place un revenu étudiant.",
+      "tags": [
+        "revenu étudiant",
+        "orientation",
+        "étudiants",
+        "enseignement supérieur"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44586/attachments/original/1791210673/tract_moblycee_6oct.pdf?1791210673",
+        "locator": "Tract mobilisation lycéenne du 6 octobre, propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-transport-01",
+      "theme": "transport",
+      "title": "Baisser de 30 % le prix des billets de train",
+      "summary": "Le cahier fixe comme première priorité une baisse de 30 % des billets de train, via la baisse des péages ferroviaires.",
+      "excerpt": "La première des priorités est de faire baisser de 30% les billets de train. 40% du prix est composé des péages ferroviaires versés à SNCF réseau. Cela fait reposer sur l’usagers le poids des investissements dans le réseau.",
+      "tags": [
+        "train",
+        "billet",
+        "sncf",
+        "prix"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf?1766073432",
+        "locator": "Cahier thématique Mobilités, 2. Faire baisser de 30% les billets de train, page 9"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-transport-02",
+      "theme": "transport",
+      "title": "Tendre progressivement vers la gratuité des TER",
+      "summary": "Le cahier prévoit la construction progressive de la gratuité des TER pour en massifier l'usage.",
+      "excerpt": "Une logique similaire est mobilisée pour la construction progressive de la gratuité des TER. Celle-ci vise à massifier leur usage, briser les barrières tarifaires, favoriser l’inter- modalité.",
+      "tags": [
+        "ter",
+        "gratuité",
+        "train",
+        "transport en commun"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf?1766073432",
+        "locator": "Cahier thématique Mobilités, 2. Faire baisser de 30% les billets de train, page 9"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-transport-03",
+      "theme": "transport",
+      "title": "Nationaliser les autoroutes",
+      "summary": "Le cahier rappelle la volonté du PCF de nationaliser les autoroutes.",
+      "excerpt": "Nous rappelons dans ce cadre notre volonté de nationaliser les autoroutes, dont la privatisation a constitué un scandaleux hold-up.",
+      "tags": [
+        "autoroute",
+        "péage",
+        "nationalisation"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf?1766073432",
+        "locator": "Cahier thématique Mobilités, 8. Gratuité du permis de conduire pour les moins de 25 ans, page 18"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-transport-04",
+      "theme": "transport",
+      "title": "Investir 10 milliards d'euros par an dans le rail sur 20 ans",
+      "summary": "Le cahier estime à 10 milliards d'euros par an, avec une montée en charge sur 20 ans, les financements supplémentaires pour les lignes de vie et les nouveaux axes.",
+      "excerpt": "Nous estimons les besoins de financements supplémentaires pour la revitalisa- tion des lignes de vie et le développement de nouveaux axes à 10 milliards d’euros par an avec une montée en charge sur 20 ans.",
+      "tags": [
+        "train",
+        "petites lignes",
+        "infrastructure",
+        "rail"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf?1766073432",
+        "locator": "Cahier thématique Mobilités, 3. 10 milliards d’euros par an pendant 20 ans, page 11"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "roussel-transport-05",
+      "theme": "transport",
+      "title": "Relancer en priorité plusieurs liaisons TER, Intercités et trains de nuit",
+      "summary": "L'État s'engagerait à relancer ou améliorer en priorité des liaisons comme Paris-Clermont, Paris-Orléans-Limoges-Toulouse ou Bordeaux-Lyon.",
+      "excerpt": "L’État doit amplifier la relance des TER, Intercités et des trains de nuit en s’engageant prioritairement à relancer ou améliorer la qualité des liaisons suivantes : Paris-Cler- mont, Paris-Orléans-Limoges-Toulouse, Bordeaux-Nantes, Bordeaux-Lyon, Nantes- Lyon, transversale sud Bordeaux-Nice, transversale Est Lille-Strasbourg.",
+      "tags": [
+        "intercités",
+        "train de nuit",
+        "ter",
+        "ligne"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf?1766073432",
+        "locator": "Cahier thématique Mobilités, 3. 10 milliards d’euros par an pendant 20 ans, page 11"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-transport-06",
+      "theme": "transport",
+      "title": "Porter à 30 % la part du fret ferroviaire avec un plan de 4 milliards d'euros",
+      "summary": "Le cahier propose de porter la part du fret ferroviaire à 30 % et d'investir 4 milliards d'euros dans un plan dédié.",
+      "excerpt": "Nous proposons d’inverser ce désengagement en augmentant à 30% la part du fret fer- roviaire pour le transport de marchandises. Pour ce faire, nous investirons 4 milliards d’euros dans un grand plan pour le fret ferroviaire visant à réduire le nombre de camions sur les routes pour améliorer la sécurité routière, réduire l’impact carbone des mar- chandises transportées et en définitive améliorer la qualité de l’air.",
+      "tags": [
+        "fret ferroviaire",
+        "camion",
+        "marchandises",
+        "rail"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf?1766073432",
+        "locator": "Cahier thématique Mobilités, 5. Développer le couple fret ferroviaire fret maritime et fluvial, page 13"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-transport-07",
+      "theme": "transport",
+      "title": "Porter à 10 % la part modale du fret maritime et fluvial",
+      "summary": "Le cahier juge impératif de porter le fret maritime et fluvial, aujourd'hui un peu moins de 3 %, à 10 % de part modale.",
+      "excerpt": "Il est im- pératif de le développer pour lui faire atteindre les 10% de part modale.",
+      "tags": [
+        "fret fluvial",
+        "fret maritime",
+        "marchandises"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf?1766073432",
+        "locator": "Cahier thématique Mobilités, 5. Développer le couple fret ferroviaire fret maritime et fluvial, page 13"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-transport-08",
+      "theme": "transport",
+      "title": "Investir 10 milliards d'euros dans les ports",
+      "summary": "Le cahier reprend la revendication des salariés des ports de porter à 10 milliards d'euros l'investissement portuaire.",
+      "excerpt": "Nous reprenons la revendication des salariés des ports de porter à 10 milliards d’euros l’investissement sur nos ports.",
+      "tags": [
+        "port",
+        "fret maritime",
+        "investissement"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf?1766073432",
+        "locator": "Cahier thématique Mobilités, 5. Développer le couple fret ferroviaire fret maritime et fluvial, page 14"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-transport-09",
+      "theme": "transport",
+      "title": "Porter vers 1 milliard d'euros par an les moyens de Voies navigables de France",
+      "summary": "La trajectoire financière de VNF devrait tendre vers 1 milliard d'euros par an dans un nouveau contrat d'objectifs avec l'État.",
+      "excerpt": "La trajectoire financière, définie dans un nouveau contrat d’objectifs et de performance (COP) entre l’État et VNF, devra tendre vers 1 milliard d’euros par an, notamment à travers une augmentation de la part d’investissements qui est actuellement définie à 3 milliards d’euros sur 10 ans.",
+      "tags": [
+        "voies navigables",
+        "fluvial",
+        "canal",
+        "investissement"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf?1766073432",
+        "locator": "Cahier thématique Mobilités, 5. Développer le couple fret ferroviaire fret maritime et fluvial, page 14"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-transport-10",
+      "theme": "transport",
+      "title": "Créer un prêt à taux zéro pour l'achat d'une voiture électrique et une prime à la conversion jusqu'à 10 000 euros",
+      "summary": "Le cahier propose un prêt à taux zéro ouvert à une large partie des ménages pour un véhicule électrique et une prime à la conversion jusqu'à 10 000 euros pour les thermiques peu polluants.",
+      "excerpt": "Nous proposons un dispositif de prêt à taux zéro ouvert à une large partie des ménages pour se doter d’un véhicule électrique. Nous proposons également une prime à la conversion pour les véhicules thermiques peu polluants (critère 1), allant jusqu’à 10 000 euros.",
+      "tags": [
+        "voiture électrique",
+        "prêt à taux zéro",
+        "prime à la conversion",
+        "voiture"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf?1766073432",
+        "locator": "Cahier thématique Mobilités, 7. Une fiscalité plus incitative, page 17"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-transport-11",
+      "theme": "transport",
+      "title": "Réserver le bonus écologique aux véhicules de moins de 1,8 tonne et 35 000 euros",
+      "summary": "Le bonus écologique serait restreint aux véhicules de moins de 1,8 tonne et de moins de 35 000 euros.",
+      "excerpt": "Nous proposons une évolution réglementaire de l’ar- ticle D 251-1 du code de l’énergie et suivant afin d’accentuer encore la prise en compte de l’empreinte carbone dans le score environnemental mais surtout restreindre ce bonus aux véhicules pesant moins de 1,8 tonne (contre 2,4 tonnes actuellement) et au prix in- férieur à 35 000 euros (contre 47 000 actuellement).",
+      "tags": [
+        "bonus écologique",
+        "voiture électrique",
+        "prix",
+        "poids"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf?1766073432",
+        "locator": "Cahier thématique Mobilités, 7. Une fiscalité plus incitative, page 17"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-transport-12",
+      "theme": "transport",
+      "title": "Rendre le permis de conduire gratuit pour les moins de 25 ans",
+      "summary": "Le cahier propose la gratuité du permis pour les moins de 25 ans, d'un coût d'environ 1 milliard d'euros financé par une taxe majorée sur les concessionnaires d'autoroute.",
+      "excerpt": "Le coût prohibitif pour les classes populaires doit trouver une réponse structurelle, par la gratuité pour les moins de 25 ans. Dans le même temps, il nous faut lutter contre le phénomène d’uberisation de l’apprentissage de la conduite à travers les plateformes numériques d’auto-écoles. Le financement de cette mesure, environ 1 milliard d’euros, peut s’assurer par une taxe majorée sur les concessionnaires d’autoroute.",
+      "tags": [
+        "permis de conduire",
+        "jeunes",
+        "auto-école",
+        "gratuité"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf?1766073432",
+        "locator": "Cahier thématique Mobilités, 8. Gratuité du permis de conduire pour les moins de 25 ans, page 18"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-transport-13",
+      "theme": "transport",
+      "title": "Créer 100 000 kilomètres de pistes cyclables",
+      "summary": "L'État viserait un réseau de 100 000 km de pistes cyclables, avec 500 millions d'euros par an pour les collectivités puis 1 milliard par an à terme (en 2027).",
+      "excerpt": "L’État doit se donner pour objectif la création d’un réseau de 100 000 kilomètres de pistes cyclables (4 fois plus important qu’aujourd’hui) en consacrant 500 millions d’euros par an pour aider les collectivités, et à terme (en 2027) 1 milliard d’euros par an.",
+      "tags": [
+        "vélo",
+        "piste cyclable",
+        "mobilité",
+        "collectivités"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf?1766073432",
+        "locator": "Cahier thématique Mobilités, 9. Construire 100 000 km de pistes cyclables, page 19"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "roussel-transport-14",
+      "theme": "transport",
+      "title": "Revenir à une gestion 100 % publique des aéroports",
+      "summary": "Le cahier souhaite la maîtrise publique de l'aviation et des aéroports, en revenant sur les privatisations pour une gestion 100 % publique.",
+      "excerpt": "Concernant l’aviation et les aéroports, nous souhaitons leur maîtrise publique, en reve- nant sur les privatisations pour aboutir à une gestion 100% publique.",
+      "tags": [
+        "aéroport",
+        "avion",
+        "privatisation"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf?1766073432",
+        "locator": "Cahier thématique Mobilités, 1. Un programme applicable car financé, page 8"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-transport-15",
+      "theme": "transport",
+      "title": "Rétablir une SNCF publique intégrée sans concurrence",
+      "summary": "Le cahier demande l'arrêt de l'ouverture à la concurrence du système ferroviaire et le retour d'une entreprise publique SNCF intégrée.",
+      "excerpt": "Que cela soit pour le fret ou les voyageurs, nous demandons l’arrêt de l’ouverture à la concurrence du système ferroviaire et le retour d’une entreprise publique SNCF intégrée.",
+      "tags": [
+        "sncf",
+        "train",
+        "concurrence",
+        "service public"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf?1766073432",
+        "locator": "Cahier thématique Mobilités, 1. Un programme applicable car financé, page 7"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-env-01",
+      "theme": "environnement",
+      "title": "Porter le budget de l'ANAH à 20 milliards d'euros par an",
+      "summary": "Le cahier propose une aide de l'État à la rénovation des bâtiments en portant le budget de l'ANAH à 20 milliards d'euros par an.",
+      "excerpt": "Nous proposons une aide massive de l’État pour la rénovation des bâtiments, en augmentant fortement le budget de l’ANAH, à hauteur de 20 milliards d’euros par an.",
+      "tags": [
+        "rénovation énergétique",
+        "anah",
+        "isolation",
+        "maprimerénov"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf?1766073372",
+        "locator": "Cahier thématique Logement, Rénover massivement le parc immobilier, page 26"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-env-02",
+      "theme": "environnement",
+      "title": "Réhabiliter 500 000 logements sociaux par an sans hausse de loyer",
+      "summary": "Le cahier propose la réhabilitation de 500 000 logements sociaux par an sans augmentation de loyer.",
+      "excerpt": "Pour le public, nous proposons : Æ La réhabilitation de 500 000 logements sociaux par an sans augmentation de loyer.",
+      "tags": [
+        "rénovation",
+        "logement social",
+        "hlm",
+        "isolation"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf?1766073372",
+        "locator": "Cahier thématique Logement, Rénover massivement le parc immobilier, page 26"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "roussel-env-03",
+      "theme": "environnement",
+      "title": "Éradiquer les passoires thermiques des quartiers prioritaires d'ici 2035",
+      "summary": "Un plan d'urgence financerait des plans climat dans les quartiers de la politique de la ville, dont l'éradication des passoires thermiques d'ici 2035.",
+      "excerpt": "L’engagement d’un plan d’urgence pour financer la généralisation des plans climats dans les quartiers en politique de la ville : éradication des passoires thermiques et isolation des logements les plus énergivores d’ici à 2035, lutte contre les îlots de chaleur par des opérations de végétalisation massive et de transformation de l’ur- banisme de dalle, raccordement des cités à des modes de chauffage moins chers et plus écologiques (géothermie).",
+      "tags": [
+        "passoire thermique",
+        "quartiers",
+        "îlots de chaleur",
+        "isolation"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf?1766073372",
+        "locator": "Cahier thématique Logement, Réformer en profondeur la politique de rénovation urbaine, page 28"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-env-04",
+      "theme": "environnement",
+      "title": "Lancer un plan de rénovation énergétique du parc HLM",
+      "summary": "Le cahier propose un plan de rénovation énergétique des logements HLM, en traitant d'abord les plus énergivores et les passoires thermiques.",
+      "excerpt": "Un plan spécifique de rénovation énergétique des logements du parc HLM, traitant en priorité les logements les plus énergivores et les passoires thermiques, conformément aux objectifs de la trajectoire zéro carbone ;",
+      "tags": [
+        "rénovation",
+        "hlm",
+        "passoire thermique",
+        "énergie"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36197/attachments/original/1766073372/document_-_cahier_logement_ppp.pdf?1766073372",
+        "locator": "Cahier thématique Logement, Protéger et développer le logement social, page 15"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-env-05",
+      "theme": "environnement",
+      "title": "Rendre la taxe sur les billets d'avion progressive selon le nombre de voyages",
+      "summary": "Le cahier propose d'augmenter les taxes pour les usagers réguliers de l'avion en les rendant progressives selon le nombre de voyages, au profit des transports peu polluants.",
+      "excerpt": "Il faut réduire l’usage de l’avion pour celles et ceux qui sont amenés à beaucoup le prendre. Rééquilibrer les usages, favoriser les alternatives en train, augmen- ter les taxes pour les usagers réguliers en la rendant progressive en fonction du nombre de voyages, en affectant les recettes sur le développement des infrastruc- tures de transports peu polluants, voilà le travail à engager.",
+      "tags": [
+        "avion",
+        "taxe",
+        "climat",
+        "billet d'avion"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf?1766073432",
+        "locator": "Cahier thématique Mobilités, 10. Secteur aérien, page 20"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-env-06",
+      "theme": "environnement",
+      "title": "Interdire les billets d'avion vendus sous le niveau des taxes et taxer le kérosène",
+      "summary": "Le cahier propose d'interdire la vente de billets d'avion en dessous du niveau des taxes et de supprimer l'absence de taxation du kérosène.",
+      "excerpt": "Il convient d’interdire la vente de billets en dessous du niveau des taxes, que nous pou- vons assimiler à de la vente à perte. L’Autriche a mis en place une telle mesure. Les avan- tages fiscaux injustifiés doivent être aussi supprimés, en particulier l’absence de taxa- tion sur le kérosène, aberration économique et écologique.",
+      "tags": [
+        "avion",
+        "kérosène",
+        "low cost",
+        "climat"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/36198/attachments/original/1766073432/document_-_cahier_mobilite_ppp.pdf?1766073432",
+        "locator": "Cahier thématique Mobilités, 10. Secteur aérien, page 20"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "roussel-env-07",
+      "theme": "environnement",
+      "title": "Adopter un plan climat visant la neutralité carbone en 2050",
+      "summary": "Le tract propose un plan climat pour atteindre la neutralité carbone en 2050 et adapter la France au réchauffement climatique.",
+      "excerpt": "Un plan climat pour atteindre la neutralité carbone en 2050 et adapter la France au réchauffement climatique.",
+      "tags": [
+        "neutralité carbone",
+        "climat",
+        "adaptation",
+        "2050"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44583/attachments/original/1791210341/tract_pompier.pdf?1791210341",
+        "locator": "Tract pompiers, propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "roussel-env-08",
+      "theme": "environnement",
+      "title": "Porter à 5 000 le nombre de camions de lutte contre les feux de forêts",
+      "summary": "Le tract propose de renforcer la flotte de bombardiers d'eau par une filière française et européenne, de créer de nouvelles bases et de porter à 5 000 le nombre de camions de lutte contre les feux de forêts.",
+      "excerpt": "Renforcer notre flotte aérienne grâce à une filière française et européenne de bombardiers d’eau, de nouvelles bases, et porter à 5000 le nombre de camions de lutte contre les feux de forêts.",
+      "tags": [
+        "feux de forêts",
+        "bombardiers d'eau",
+        "pompiers",
+        "sécurité civile"
+      ],
+      "source": {
+        "url": "https://assets.nationbuilder.com/pcf/pages/44583/attachments/original/1791210341/tract_pompier.pdf?1791210341",
+        "locator": "Tract pompiers, propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    }
+  ]
+}

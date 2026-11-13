@@ -1,0 +1,537 @@
+{
+  "candidate_id": "glucksmann",
+  "measures": [
+    {
+      "id": "glucksmann-pa-01",
+      "theme": "pouvoir d'achat",
+      "title": "Verser un chèque énergie de 500 euros à six millions de familles et de 200 euros à dix millions",
+      "summary": "Le livret prévoit un chèque énergie de 500 euros pour six millions de familles et de 200 euros pour dix millions de familles des classes moyennes.",
+      "excerpt": "Chèque énergie : sans attendre, face à l’explosion des prix de l’énergie, nous verserons un chèque énergie de 500 euros pour six millions de familles, de 200 euros pour dix millions de familles des classes moyennes.",
+      "tags": [
+        "chèque énergie",
+        "facture",
+        "énergie",
+        "classes moyennes",
+        "prix"
+      ],
+      "source": {
+        "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+        "locator": "Partie « Contre la vie chère, protéger et transformer » (pages 12-13)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "glucksmann-pa-02",
+      "theme": "pouvoir d'achat",
+      "title": "Geler les taxes sur l'électricité et limiter la hausse du prix à l'inflation",
+      "summary": "Le livret prévoit un moratoire sur les hausses de taxes sur l'électricité et la garantie que son prix n'augmente pas plus vite que l'inflation.",
+      "excerpt": "Nous adopterons un moratoire sur les hausses de taxes sur l’électricité, et nous garantirons que son prix n’augmente pas plus vite que l’inflation.",
+      "tags": [
+        "électricité",
+        "facture",
+        "taxe",
+        "prix de l'électricité"
+      ],
+      "source": {
+        "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+        "locator": "Partie « Sortir des fossiles pour retrouver notre souveraineté » (pages 15-16)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "glucksmann-pa-03",
+      "theme": "pouvoir d'achat",
+      "title": "Multiplier les heures creuses en journée pour les abonnés au tarif réglementé",
+      "summary": "Le livret prévoit de multiplier les heures creuses en journée pour les consommateurs et les TPE bénéficiant du tarif réglementé de vente d'électricité.",
+      "excerpt": "Pour profiter au mieux de la production d’énergie solaire, nous multiplierons les heures creuses en journée pour les consommateurs et les TPE bénéficiant du TRVE.",
+      "tags": [
+        "heures creuses",
+        "électricité",
+        "tarif réglementé",
+        "facture"
+      ],
+      "source": {
+        "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+        "locator": "Partie « Sortir des fossiles pour retrouver notre souveraineté » (pages 15-16)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "glucksmann-pa-04",
+      "theme": "pouvoir d'achat",
+      "title": "Doubler le plafond du livret A et créer un livret rémunéré à 2,5 %",
+      "summary": "Le livret prévoit de doubler le plafond du livret A et de le fusionner avec le LDDS en un livret de souveraineté écologique et sociale rémunéré à 2,5 %.",
+      "excerpt": "Nous mobiliserons également l’épargne des Français : le plafond du livret A sera doublé et le livret fusionné avec le Livret de développement durable et solidaire pour devenir un Livret de souveraineté écologique et sociale, rémunéré à 2,5 %, afin de prêter aux collectivités à taux bas.",
+      "tags": [
+        "livret a",
+        "épargne",
+        "ldds",
+        "taux"
+      ],
+      "source": {
+        "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+        "locator": "Partie « 200 milliards d'euros sur cinq ans » (pages 8-10)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "glucksmann-pa-05",
+      "theme": "pouvoir d'achat",
+      "title": "Instaurer une contribution exceptionnelle de 50 milliards d'euros sur les plus hauts patrimoines",
+      "summary": "Le livret prévoit une contribution exceptionnelle sur les plus hauts patrimoines, affectée à un fonds pour l'investissement climatique, qui rapporterait 50 milliards d'euros.",
+      "excerpt": "C’est le sens de notre contribution exceptionnelle pour l’investissement climatique sur les plus hauts patrimoines, dont le produit sera affecté à un fonds dédié exclusivement au financement de mesures d’investissement dans la transition climatique. Cette contribution concernera une infime minorité de foyers, tout en haut de l’échelle des patrimoines, et rapportera 50 milliards d’euros.",
+      "tags": [
+        "impôt",
+        "riches",
+        "patrimoine",
+        "taxe"
+      ],
+      "source": {
+        "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+        "locator": "Partie « 200 milliards d'euros sur cinq ans » (pages 8-10)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "glucksmann-pa-06",
+      "theme": "pouvoir d'achat",
+      "title": "Défendre une taxe européenne sur les superprofits pétroliers et gaziers",
+      "summary": "Le livret prévoit de défendre la création d'une taxe sur les superprofits pétroliers et gaziers au niveau européen.",
+      "excerpt": "Par ailleurs, nous défendrons la création d’une taxe sur les superprofits pétroliers et gaziers au niveau européen.",
+      "tags": [
+        "superprofits",
+        "taxe",
+        "pétrole",
+        "carburant"
+      ],
+      "source": {
+        "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+        "locator": "Partie « 200 milliards d'euros sur cinq ans » (pages 8-10)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "glucksmann-transport-01",
+      "theme": "transport",
+      "title": "Proposer un million de voitures électriques en leasing social à 100 euros par mois",
+      "summary": "Le livret prévoit un leasing social d'un million de voitures électriques sur 5 ans, à 100 euros par mois sans apport, dont 100 000 tout de suite pour les auxiliaires de vie et soignants en zone rurale.",
+      "excerpt": "Leasing social : 1 million de voitures électriques sur 5 ans, à 100€ par mois et sans apport, dont 100 000 mises tout de suite à la disposition des auxiliaires de vie et professionnels du soin en zone rurale.",
+      "tags": [
+        "leasing social",
+        "voiture électrique",
+        "rural",
+        "aide à domicile"
+      ],
+      "source": {
+        "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+        "locator": "Partie « Contre la vie chère, protéger et transformer » (pages 12-13)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "glucksmann-transport-02",
+      "theme": "transport",
+      "title": "Créer 5 000 lignes de covoiturage d'ici 2035 et un pass mobilité jeunes à 1 euro par jour",
+      "summary": "Le livret prévoit 5 000 lignes de covoiturage d'ici 2035 avec un premier appel à projets dans les 100 premiers jours, et un pass mobilité à 1 euro par jour pour les moins de 25 ans.",
+      "excerpt": "Transports du quotidien : 5 000 lignes de covoiturage d’ici 2035, avec un premier appel à projets dès les 100 premiers jours ; un Pass Mobilité Durable Jeunes à 1 euro par jour pour les jeunes de moins de 25 ans; des incitations au report modal vers le ferroviaire et les mobilités douces, y compris pour les marchandises.",
+      "tags": [
+        "covoiturage",
+        "pass jeunes",
+        "transport en commun",
+        "moins de 25 ans",
+        "train"
+      ],
+      "source": {
+        "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+        "locator": "Partie « Contre la vie chère, protéger et transformer » (pages 12-13)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "glucksmann-transport-03",
+      "theme": "transport",
+      "title": "Supprimer l'exonération fiscale du carburant des vols intérieurs et augmenter la taxe sur les billets d'avion",
+      "summary": "Le livret prévoit, dans les 100 premiers jours, la fin des exonérations fiscales sur le carburant des vols intérieurs et une hausse de la taxe sur les billets d'avion.",
+      "excerpt": "Dès les 100 premiers jours, nous mettrons fin aux exonérations fiscales sur le carburant pour les vols intérieurs et nous augmenterons la taxe sur les billets d’avion.",
+      "tags": [
+        "avion",
+        "taxe billets d'avion",
+        "kérosène",
+        "vols intérieurs"
+      ],
+      "source": {
+        "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+        "locator": "Partie « 200 milliards d'euros sur cinq ans » (pages 8-10)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "glucksmann-log-01",
+      "theme": "logement",
+      "title": "Installer un million de pompes à chaleur à 1 euro par jour",
+      "summary": "Le livret prévoit un million de pompes à chaleur à 1 euro par jour, en priorité pour les logements chauffés au fioul et au gaz ou les plus exposés aux fortes chaleurs.",
+      "excerpt": "Pompes à chaleur : 1 million de pompes à chaleur à 1 € par jour, réversibles avec climatisation quand c’est pertinent, en priorité pour les logements chauffés au fioul et au gaz ou les plus exposés aux fortes chaleurs.",
+      "tags": [
+        "pompe à chaleur",
+        "chauffage",
+        "fioul",
+        "climatisation"
+      ],
+      "source": {
+        "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+        "locator": "Partie « Contre la vie chère, protéger et transformer » (pages 12-13)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "glucksmann-env-01",
+      "theme": "environnement",
+      "title": "Investir 200 milliards d'euros d'argent public sur le quinquennat",
+      "summary": "Le livret prévoit 200 milliards d'euros d'investissement public sur la durée du quinquennat.",
+      "excerpt": "Nous investirons, sur la durée du quinquennat, 200 milliards d’euros d’argent public.",
+      "tags": [
+        "investissement",
+        "climat",
+        "transition écologique",
+        "200 milliards"
+      ],
+      "source": {
+        "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+        "locator": "Partie « 200 milliards d'euros sur cinq ans » (pages 8-10)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "glucksmann-env-02",
+      "theme": "environnement",
+      "title": "Inscrire l'écologie à l'article 1 de la Constitution",
+      "summary": "Le livret prévoit de déclarer l'état d'urgence écologique et d'inscrire dans l'article 1 de la Constitution que la République est écologique.",
+      "excerpt": "Nous déclarerons l’état d’urgence écologique et nous l’inscrirons dans la Constitution : l’article 1 dit aujourd’hui que la France est une République indivisible, laïque, démocratique et sociale. Elle sera aussi écologique.",
+      "tags": [
+        "constitution",
+        "urgence écologique",
+        "écologie",
+        "climat"
+      ],
+      "source": {
+        "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+        "locator": "Partie « 200 milliards d'euros sur cinq ans » (page 8)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "glucksmann-env-03",
+      "theme": "environnement",
+      "title": "Adopter une loi de programmation écologique",
+      "summary": "Le livret prévoit une loi de programmation écologique, sur le modèle de la loi de programmation militaire, s'imposant chaque année aux lois de finances.",
+      "excerpt": "Une loi de programmation écologique, sur le modèle de la loi de programmation militaire, qui s’impose chaque année aux lois de finances pour que l’écologie ne dépende plus des arbitrages d’une année sur l’autre.",
+      "tags": [
+        "loi de programmation",
+        "écologie",
+        "budget",
+        "climat"
+      ],
+      "source": {
+        "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+        "locator": "Partie « Adapter la France au nouveau régime climatique » (pages 18-19)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "glucksmann-env-04",
+      "theme": "environnement",
+      "title": "Doubler au moins d'ici 2035 les capacités de production d'énergie renouvelable",
+      "summary": "Le livret prévoit un contrat État-régions pour au moins doubler d'ici 2035 les capacités installées de production d'énergie renouvelable.",
+      "excerpt": "Nous proposerons donc aux régions un contrat avec l’État pour produire l’énergie au plus près des territoires, en concertation avec leurs habitants, et au moins doubler, d’ici 2035, compte tenu du retard pris, les capacités installées de production d’énergie renouvelable.",
+      "tags": [
+        "énergies renouvelables",
+        "solaire",
+        "éolien",
+        "régions"
+      ],
+      "source": {
+        "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+        "locator": "Partie « Sortir des fossiles pour retrouver notre souveraineté » (pages 15-16)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "glucksmann-env-05",
+      "theme": "environnement",
+      "title": "Prolonger les réacteurs nucléaires existants",
+      "summary": "Le livret prévoit de prolonger et sécuriser les réacteurs nucléaires existants.",
+      "excerpt": "Nous prolongerons et sécuriserons les réacteurs nucléaires existants.",
+      "tags": [
+        "nucléaire",
+        "réacteurs",
+        "électricité",
+        "énergie"
+      ],
+      "source": {
+        "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+        "locator": "Partie « Sortir des fossiles pour retrouver notre souveraineté » (pages 15-16)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "glucksmann-env-06",
+      "theme": "environnement",
+      "title": "Retirer EDF, Framatome et Orano des partenariats avec Rosatom",
+      "summary": "Le livret prévoit d'engager le retrait d'EDF, de Framatome et d'Orano des partenariats avec l'opérateur nucléaire russe Rosatom.",
+      "excerpt": "Nous engagerons le retrait d’EDF, de Framatome et d’Orano des partenariats avec Rosatom, l’opérateur nucléaire russe lié à Poutine.",
+      "tags": [
+        "nucléaire",
+        "russie",
+        "edf",
+        "énergie"
+      ],
+      "source": {
+        "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+        "locator": "Partie « Sortir des fossiles pour retrouver notre souveraineté » (pages 15-16)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "glucksmann-env-07",
+      "theme": "environnement",
+      "title": "Lancer un plan national de droit à la fraîcheur",
+      "summary": "Le livret prévoit un plan national d'accès à la fraîcheur en été avec ombrage urbain, refuges climatiques, toitures fraîches, gratuité des piscines et location de climatiseurs d'urgence pendant la canicule.",
+      "excerpt": "Droit à la fraîcheur : nous lancerons, avec les collectivités, un plan national garantissant l’accès de toutes et tous à la fraîcheur en été, par des dispositifs d’ombrage urbain, des refuges climatiques et des toitures fraîches, mais aussi la gratuité des piscines et la location de climatiseurs d’urgence durant la canicule.",
+      "tags": [
+        "canicule",
+        "chaleur",
+        "climatisation",
+        "piscine",
+        "fraîcheur"
+      ],
+      "source": {
+        "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+        "locator": "Partie « Adapter la France au nouveau régime climatique » (pages 18-19)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "glucksmann-env-08",
+      "theme": "environnement",
+      "title": "Allouer 1 milliard d'euros à la sécurité civile dès juin 2027",
+      "summary": "Le livret prévoit 1 milliard d'euros d'investissement dans la sécurité civile dès juin 2027 face aux canicules et incendies.",
+      "excerpt": "Sécurité civile : nous préparerons notre pays à mieux faire face aux risques de canicules et d’incendies, en allouant 1 Md € d’investissement, dès juin 2027, à la sécurité civile.",
+      "tags": [
+        "incendies",
+        "pompiers",
+        "sécurité civile",
+        "canicule"
+      ],
+      "source": {
+        "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+        "locator": "Partie « Adapter la France au nouveau régime climatique » (pages 18-19)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "glucksmann-env-09",
+      "theme": "environnement",
+      "title": "Créer un fonds pour avancer l'indemnisation des sinistrés",
+      "summary": "Le livret prévoit un fonds d'indemnisation dédié permettant d'avancer le paiement des dommages aux sinistrés.",
+      "excerpt": "Nous adapterons les conditions d’indemnisation des sinistrés en créant un fonds d’indemnisation dédié permettant d’avancer le paiement des dommages aux sinistrés.",
+      "tags": [
+        "sinistrés",
+        "catastrophe naturelle",
+        "assurance",
+        "indemnisation"
+      ],
+      "source": {
+        "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+        "locator": "Partie « Adapter la France au nouveau régime climatique » (pages 18-19)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "glucksmann-env-10",
+      "theme": "environnement",
+      "title": "Imposer la récupération de la chaleur des centres de données",
+      "summary": "Le livret prévoit de maîtriser l'installation des centres de données et d'imposer la récupération de leur chaleur fatale pour les réseaux locaux.",
+      "excerpt": "Data centers : nous maîtriserons les installations de centres de données en veillant à leur impact sur l’environnement, au partage local de la valeur et imposerons la récupération de la chaleur fatale produite pour la réinjecter dans les réseaux locaux.",
+      "tags": [
+        "data centers",
+        "chaleur",
+        "numérique",
+        "énergie"
+      ],
+      "source": {
+        "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+        "locator": "Partie « Sortir des fossiles pour retrouver notre souveraineté » (pages 15-16)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "glucksmann-etudes-01",
+      "theme": "études",
+      "title": "Rénover 4 000 écoles primaires par an et plus de 2 800 collèges et lycées",
+      "summary": "Le livret vise la rénovation de 4 000 écoles primaires chaque année et de plus de 2 800 collèges et lycées, en commençant par ceux fermés cet été.",
+      "excerpt": "Écoles : nous viserons la rénovation de 4 000 écoles primaires chaque année et plus de 2800 collèges et lycées, pour garantir aux enfants des conditions dignes d’apprentissage, en commençant par ceux qui ont dû fermer cet été.",
+      "tags": [
+        "école",
+        "rénovation",
+        "collège",
+        "lycée",
+        "chaleur"
+      ],
+      "source": {
+        "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+        "locator": "Partie « Adapter la France au nouveau régime climatique » (pages 18-19)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "glucksmann-emploi-01",
+      "theme": "emploi",
+      "title": "Négocier l'adaptation des conditions de travail aux chaleurs extrêmes",
+      "summary": "Le livret prévoit d'ouvrir des discussions avec les partenaires sociaux pour adapter les conditions de travail aux chaleurs extrêmes.",
+      "excerpt": "Travail en sécurité : nous ouvrirons les discussions avec les partenaires sociaux pour adapter les conditions de travail aux chaleurs extrêmes.",
+      "tags": [
+        "canicule",
+        "conditions de travail",
+        "chaleur",
+        "salariés"
+      ],
+      "source": {
+        "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+        "locator": "Partie « Adapter la France au nouveau régime climatique » (pages 18-19)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "glucksmann-emploi-02",
+      "theme": "emploi",
+      "title": "Soutenir la production nationale de batteries et de pompes à chaleur",
+      "summary": "Le livret prévoit de soutenir la production nationale de batteries et de négocier avec les constructeurs un plan industriel adossé à la commande publique.",
+      "excerpt": "Industrie : nous soutiendrons la production nationale de batteries et négocierons avec les constructeurs un plan de développement industriel adossé à la commande publique, pour structurer des filières françaises fortes dans la production de pompes à chaleur, la mobilité électrique, la décarbonation de l’industrie.",
+      "tags": [
+        "industrie",
+        "usines",
+        "batteries",
+        "emplois"
+      ],
+      "source": {
+        "url": "https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf",
+        "locator": "Partie « Sortir des fossiles pour retrouver notre souveraineté » (pages 15-16)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "glucksmann-famille-01",
+      "theme": "famille",
+      "title": "Démarchandiser les EHPAD et les crèches",
+      "summary": "La lettre de candidature annonce la démarchandisation des EHPAD et des crèches.",
+      "excerpt": "Nous démarchandiserons les EHPAD et les crèches.",
+      "tags": [
+        "crèche",
+        "ehpad",
+        "garde d'enfant",
+        "personnes âgées"
+      ],
+      "source": {
+        "url": "https://place-publique.eu/posts/2fgDdljEIy36rgxBjRyiQZ/raphael-glucksmann-sa-lettre-aux-francais",
+        "locator": "Lettre aux Français du 25 août 2026"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    }
+  ]
+}

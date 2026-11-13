@@ -1,0 +1,1699 @@
+{
+  "candidate_id": "retailleau",
+  "measures": [
+    {
+      "id": "retailleau-log-01",
+      "theme": "logement",
+      "title": "Diviser par deux les délais d'urbanisme par une loi d'urgence",
+      "summary": "Adopter dans les premiers mois une loi d'urgence inspirée de la loi Notre-Dame pour diviser les délais par deux, avec un guichet unique où le silence vaut accord.",
+      "excerpt": "Adopter dès les premiers mois une loi d'urgence, dans l'esprit de la loi Notre-Dame , pour diviser les délais par deux, avec une instruction en guichet unique où le silence vaut accord .",
+      "tags": [
+        "permis de construire",
+        "urbanisme",
+        "délais",
+        "construction"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/construire-plus-vite-avec-les-maires",
+        "locator": "Mesure n° 59 : Construire plus vite, avec les maires (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "retailleau-log-02",
+      "theme": "logement",
+      "title": "Verser 9 000 euros aux communes par logement neuf",
+      "summary": "Verser automatiquement à la commune une fraction de TVA de 9 000 euros par logement neuf pour financer les équipements publics.",
+      "excerpt": "Verser automatiquement à la commune une fraction forfaitaire de TVA de 9 000 euros pour chaque logement neuf , afin de financer les équipements publics nécessaires : écoles, voirie, réseaux.",
+      "tags": [
+        "construction",
+        "communes",
+        "maires",
+        "logement neuf"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/verser-9-000-euros-aux-communes-par-logement-neuf-construit",
+        "locator": "Mesure n° 60 : Inciter financièrement les communes (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-log-03",
+      "theme": "logement",
+      "title": "Geler les normes de construction pendant dix ans",
+      "summary": "Instaurer un moratoire de dix ans sur les normes de construction de logements et maintenir la RE2020 sans les durcissements prévus en 2028 et 2031.",
+      "excerpt": "Instaurer un moratoire normatif de dix ans sur les règles applicables à la construction de logements. La RE2020 est maintenue mais stabilisée , sans les paliers de durcissement prévus en 2028 et 2031.",
+      "tags": [
+        "normes",
+        "construction",
+        "re2020",
+        "logement neuf"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/geler-les-normes-de-construction-pendant-dix-ans",
+        "locator": "Mesure n° 61 : Geler les normes de construction pendant dix ans (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "retailleau-log-04",
+      "theme": "logement",
+      "title": "Transformer les bureaux vides en logements sur simple déclaration",
+      "summary": "Suspendre temporairement l'autorisation préalable de changement de destination des bâtiments existants, la transformation en logements relevant d'une déclaration en mairie.",
+      "excerpt": "Suspendre temporairement l'autorisation préalable de changement de destination pour les bâtiments existants : la transformation en logements relèvera d'un simple régime déclaratif à la mairie .",
+      "tags": [
+        "bureaux vides",
+        "transformation",
+        "logement",
+        "mairie"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/transformer-les-batiments-vacants-en-logements",
+        "locator": "Mesure n° 62 : Transformer les bureaux vides en logements (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "retailleau-log-05",
+      "theme": "logement",
+      "title": "Ouvrir le prêt à taux zéro à tous les primo-accédants sans zonage",
+      "summary": "Réserver le prêt à taux zéro aux primo-accédants et l'ouvrir au neuf comme à l'ancien, aux appartements comme aux maisons, sans zonage.",
+      "excerpt": "Refonder le prêt à taux zéro : réservé aux primo-accédants, ouvert sans distinction au neuf et à l'ancien, aux appartements comme aux maisons, et débarrassé de tout zonage.",
+      "tags": [
+        "prêt à taux zéro",
+        "ptz",
+        "primo-accédant",
+        "acheter"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/faciliter-l-achat-de-son-logement",
+        "locator": "Mesure n° 63 : Faciliter l'achat de son logement (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "retailleau-log-06",
+      "theme": "logement",
+      "title": "Vendre 10 % des pavillons HLM à leurs locataires",
+      "summary": "Engager un programme d'accession pour les locataires du parc social avec un objectif de vente de 10 % des pavillons HLM, soit près de 86 000 logements.",
+      "excerpt": "Engager un programme d'accession pour les locataires du parc social, avec un objectif de vente de 10 % des pavillons HLM, soit près de 86 000 logements .",
+      "tags": [
+        "hlm",
+        "locataire",
+        "acheter",
+        "logement social"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/vendre-leur-logement-aux-locataires-hlm-qui-le-souhaitent",
+        "locator": "Mesure n° 64 : Vendre leur logement aux locataires HLM qui le souhaitent (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-log-07",
+      "theme": "logement",
+      "title": "Rendre déductibles les intérêts d'emprunt selon le nombre d'enfants",
+      "summary": "Rendre les intérêts d'emprunt de la résidence principale déductibles à 50 %, 75 % ou 100 % selon le nombre d'enfants mineurs, et instaurer la transférabilité des prêts immobiliers.",
+      "excerpt": "Rendre les intérêts d'emprunt déductibles pour la résidence principale : 50 % avec un enfant mineur à charge, 75 % avec deux, 100 % à partir de trois . Instaurer la transférabilité des prêts immobiliers , pour qu'un ménage qui déménage conserve les conditions de son prêt initial.",
+      "tags": [
+        "crédit immobilier",
+        "intérêts",
+        "enfants",
+        "prêt"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/reduire-le-cout-du-credit-des-familles",
+        "locator": "Mesure n° 65 : Rendre les intérêts d'emprunt déductibles pour les familles (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-log-08",
+      "theme": "logement",
+      "title": "Exonérer les dons familiaux jusqu'à 150 000 euros pendant trois ans",
+      "summary": "Pendant trois ans, exonérer les dons familiaux jusqu'à 150 000 euros par donateur pour un bénéficiaire de moins de 30 ans et 100 000 euros pour un bénéficiaire de moins de 40 ans.",
+      "excerpt": "Instaurer un choc de transmission patrimoniale, pendant trois ans : don familial exonéré jusqu'à 150 000 euros par donateur pour un bénéficiaire de moins de 30 ans , et 100 000 euros pour un bénéficiaire de moins de 40 ans .",
+      "tags": [
+        "donation",
+        "jeunes",
+        "transmission",
+        "acheter"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/debloquer-la-transmission-entre-generations",
+        "locator": "Mesure n° 66 : Débloquer la transmission entre générations (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "retailleau-log-09",
+      "theme": "logement",
+      "title": "Lever les interdictions de louer liées au DPE",
+      "summary": "Maintenir le DPE comme outil d'information obligatoire, sans qu'il puisse fonder une interdiction administrative de louer.",
+      "excerpt": "Refaire du diagnostic de performance énergétique un outil d'information, et non un instrument d'exclusion . Le DPE restera obligatoire et informatif pour les locataires comme pour les acquéreurs, mais il ne pourra plus fonder une interdiction administrative de louer .",
+      "tags": [
+        "dpe",
+        "passoire thermique",
+        "louer",
+        "propriétaire"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/lever-les-interdictions-de-louer-liees-au-dpe",
+        "locator": "Mesure n° 67 : Lever les interdictions de louer liées au DPE (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "retailleau-log-10",
+      "theme": "logement",
+      "title": "Supprimer l'encadrement des loyers",
+      "summary": "Supprimer l'encadrement des loyers issu de la loi ELAN et les plafonnements de la loi de 1989, le loyer étant fixé librement à la signature du bail.",
+      "excerpt": "Supprimer les dispositifs d'encadrement des loyers issus de la loi ELAN , abroger les mécanismes de plafonnement prévus par la loi de 1989, et laisser le loyer librement fixé entre le bailleur et le locataire lors de la signature du bail , comme dans la majorité des marchés européens.",
+      "tags": [
+        "loyer",
+        "encadrement des loyers",
+        "locataire",
+        "bail"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/supprimer-l-encadrement-des-loyers",
+        "locator": "Mesure n° 68 : Supprimer l'encadrement des loyers (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "retailleau-log-11",
+      "theme": "logement",
+      "title": "Créer un statut du bailleur privé",
+      "summary": "Créer un statut du bailleur privé pour tous les revenus locatifs, avec un amortissement du bâti à 4 % par an et un taux bonifié pour les loyers modérés.",
+      "excerpt": "Créer un statut du bailleur privé applicable à l'ensemble des revenus locatifs, nu comme meublé, ancien comme neuf, s'inspirant du rapport Daubresse-Cosson en allant plus loin : amortissement de la valeur du bâti à 4 % par an , taux bonifié pour les bailleurs pratiquant des loyers modérés, taux harmonisés entre neuf et ancien.",
+      "tags": [
+        "bailleur",
+        "investissement locatif",
+        "propriétaire",
+        "impôt"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/alleger-l-impot-sur-les-loyers",
+        "locator": "Mesure n° 69 : Assurer la rentabilité de l’investissement locatif pour relancer l’offre (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-log-12",
+      "theme": "logement",
+      "title": "Expulser les squatteurs sous dix jours",
+      "summary": "En cas de squat, engager la procédure dès le constat, avec expulsion sous dix jours au plus, et permettre au propriétaire de couper l'eau et l'électricité du logement.",
+      "excerpt": "En cas de squat , engager la procédure dès le constat des forces de l'ordre ou d'un commissaire de justice, avec expulsion sous dix jours maximum , et permettre au propriétaire de suspendre les contrats d'eau et d'électricité du logement occupé illégalement.",
+      "tags": [
+        "squat",
+        "expulsion",
+        "propriétaire",
+        "impayés"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/accelerer-les-expulsions-pour-squat-ou-impayes",
+        "locator": "Mesure n° 70 : Faire exécuter les expulsions pour squat et impayés (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "retailleau-log-13",
+      "theme": "logement",
+      "title": "Remplacer les quotas SRU et plafonner la part de logements sociaux à 30 %",
+      "summary": "Ne plus imposer d'objectif en zone non tendue, fixer des objectifs en volume en zone tendue et priver d'aides les territoires dépassant 30 % de logements sociaux.",
+      "excerpt": "Aucun objectif ne sera imposé dans les zones non tendues ; dans les zones tendues, les objectifs seront maintenus en volume et non plus en quota . Plafonner la concentration du logement social. Les territoires dépassant 30 % de logements sociaux ne bénéficieront plus d'aides publiques ni d'avantages fiscaux pour de nouvelles opérations .",
+      "tags": [
+        "loi sru",
+        "logement social",
+        "hlm",
+        "communes"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/construire-des-logements-sociaux-selon-les-besoins-locaux",
+        "locator": "Mesure n° 71 : Mettre fin au quotas SRU, construire des logements sociaux selon les besoins locaux (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-log-14",
+      "theme": "logement",
+      "title": "Réexaminer la situation des locataires HLM tous les cinq ans",
+      "summary": "Restituer le parc Action Logement aux salariés et à leurs familles et réexaminer tous les cinq ans la situation de chaque locataire du parc social.",
+      "excerpt": "Restituer le parc Action Logement aux salariés et à leurs familles, et rétablir la rotation dans le parc par un réexamen de la situation de chaque locataire tous les cinq ans , en tenant compte de sa situation de famille.",
+      "tags": [
+        "logement social",
+        "hlm",
+        "action logement",
+        "locataire"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/logement-social-priorite-aux-actifs-et-aux-familles",
+        "locator": "Mesure n° 72 : Donner la priorité du logement social aux familles (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-log-15",
+      "theme": "logement",
+      "title": "Réaffecter l'exonération d'impôt des bailleurs sociaux à ceux qui construisent",
+      "summary": "Supprimer sur cinq ans l'exonération d'impôt sur les sociétés des bailleurs sociaux et en redistribuer le produit en aides à la pierre aux bailleurs qui construisent et rénovent.",
+      "excerpt": "Supprimer progressivement sur cinq ans l'exonération d'impôt sur les sociétés des bailleurs sociaux, et en redistribuer intégralement le produit aux bailleurs qui construisent et qui rénovent , sous forme d'aides à la pierre versées par le Fonds national des aides à la pierre.",
+      "tags": [
+        "bailleurs sociaux",
+        "hlm",
+        "construction",
+        "rénovation"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/financer-les-bailleurs-qui-construisent-et-renovent",
+        "locator": "Mesure n° 73 : Financer les bailleurs qui construisent et qui rénovent (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "retailleau-env-01",
+      "theme": "environnement",
+      "title": "Abroger le zéro artificialisation nette (ZAN)",
+      "summary": "Abroger le ZAN et définir les objectifs de sobriété foncière dans des contrats territoriaux entre le préfet et chaque intercommunalité.",
+      "excerpt": "Abroger le ZAN et rendre aux collectivités la capacité de planifier leur développement. Les objectifs de sobriété foncière seront désormais définis dans le cadre des contrats territoriaux conclus entre le préfet et chaque intercommunalité, à la mesure des besoins réels du territoire.",
+      "tags": [
+        "zan",
+        "artificialisation",
+        "urbanisme",
+        "sols"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/abroger-le-zan",
+        "locator": "Mesure n° 74 : Abroger le ZAN (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "retailleau-env-02",
+      "theme": "environnement",
+      "title": "Prolonger les centrales nucléaires jusqu'à 80 ans",
+      "summary": "Fixer un horizon de fonctionnement de 80 ans aux centrales nucléaires, les contrôles décennaux vérifiant le respect de cette trajectoire.",
+      "excerpt": "Fixer d'emblée un horizon de 80 ans . Les contrôles décennaux de l'autorité de sûreté ne disparaissent pas, mais leur rôle change : au lieu de décider si la centrale peut survivre dix ans de plus, ils vérifient qu'elle reste sur la trajectoire prévue.",
+      "tags": [
+        "nucléaire",
+        "centrales",
+        "énergie",
+        "électricité"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/prolonger-les-centrales-nucleaires-jusqu-a-80-ans",
+        "locator": "Mesure n° 83 : Prolonger les centrales nucléaires jusqu’à 80 ans (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-env-03",
+      "theme": "environnement",
+      "title": "Commander huit EPR2 supplémentaires",
+      "summary": "Si l'avancement des six premiers EPR2 est satisfaisant, confirmer la commande de huit EPR2 supplémentaires dans les deux premières années du mandat.",
+      "excerpt": "Si l'avancement des six premiers est satisfaisant , confirmer la commande de huit EPR2 supplémentaires dès les deux premières années du mandat.",
+      "tags": [
+        "nucléaire",
+        "epr2",
+        "réacteurs",
+        "énergie"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/construire-les-epr2-dans-les-couts-et-delais-prevus",
+        "locator": "Mesure n° 84 : Construire les EPR2 dans les coûts et délais prévus (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "retailleau-env-04",
+      "theme": "environnement",
+      "title": "Développer l'hydroélectricité et remplacer les concessions par des autorisations",
+      "summary": "Remplacer les concessions hydroélectriques par un régime d'autorisation de 70 ans et moderniser les installations pour ajouter 4 GW, dont 2 GW dès 2035.",
+      "excerpt": "Remplacer le régime des concessions par un régime d'autorisation , avec un droit d'exploitation de 70 ans pour les opérateurs actuels et l'ouverture d'au moins 40 % des capacités à des tiers, sous forme de droits de production virtuels mis aux enchères. Moderniser les installations existantes : EDF estime pouvoir ajouter 4 GW, soit 20 % de plus, dont 2 GW dès 2035 .",
+      "tags": [
+        "barrages",
+        "hydroélectricité",
+        "énergie",
+        "stockage"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/produire-et-stocker-plus-d-electricite-grace-aux-barrages",
+        "locator": "Mesure n° 85 : Produire et stocker plus d’électricité grâce aux barrages (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "retailleau-env-05",
+      "theme": "environnement",
+      "title": "Cesser de subventionner l'éolien et le solaire",
+      "summary": "Abroger le volet électricité de la PPE 3, déclarer infructueux les appels d'offres non attribués en solaire et éolien en mer et supprimer les avantages pour les nouvelles installations photovoltaïques.",
+      "excerpt": "Abroger immédiatement le volet électricité de la PPE 3. Déclarer infructueux les appels d'offres non attribués en photovoltaïque et en éolien en mer, et n'en plus lancer tant que la demande n'augmentera pas nettement. Supprimer les avantages fiscaux et tarifaires pour toute installation photovoltaïque mise en service après la promulgation de la loi .",
+      "tags": [
+        "éolien",
+        "solaire",
+        "renouvelables",
+        "énergie"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/cesser-de-subventionner-ce-qui-fait-monter-la-facture-les",
+        "locator": "Mesure n° 86 : Cesser de subventionner les éoliennes qui font monter la facture (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "retailleau-env-06",
+      "theme": "environnement",
+      "title": "Interdire l'arrêt forcé des réacteurs faute de demande",
+      "summary": "Inscrire dans la loi qu'aucun réacteur ne peut être arrêté faute de demande, RTE déclenchant une priorité de production pour le nucléaire.",
+      "excerpt": "Inscrire dans la loi qu'aucun réacteur en service ne peut être forcé à l'arrêt faute de demande. RTE calculera en temps réel le niveau de production minimum et déclenchera automatiquement une priorité de production en faveur du nucléaire .",
+      "tags": [
+        "nucléaire",
+        "réacteurs",
+        "réseau électrique",
+        "énergie"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/eviter-les-arrets-nucleaires-dus-a-la-surproduction",
+        "locator": "Mesure n° 87 : Ne plus arrêter un réacteur faute de débouché (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "retailleau-env-07",
+      "theme": "environnement",
+      "title": "Mettre en service un réacteur de quatrième génération en 2045",
+      "summary": "Viser la mise en service d'un premier réacteur de puissance à neutrons rapides en 2045, avec ses usines de fabrication et de retraitement des combustibles.",
+      "excerpt": "Viser la mise en service d'un premier réacteur de puissance en 2045 , avec ses usines de fabrication et de retraitement des combustibles.",
+      "tags": [
+        "nucléaire",
+        "neutrons rapides",
+        "réacteurs",
+        "énergie"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/preparer-les-reacteurs-nucleaires-de-quatrieme-generation",
+        "locator": "Mesure n° 90 : Préparer les réacteurs nucléaires de quatrième génération (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "retailleau-env-08",
+      "theme": "environnement",
+      "title": "Supprimer le principe de précaution de la Constitution par référendum",
+      "summary": "Supprimer le principe de précaution de la Charte de l'environnement par une révision constitutionnelle soumise au référendum.",
+      "excerpt": "Supprimer le principe de précaution tel qu'il figure dans la Charte de l'environnement, par une révision constitutionnelle soumise au référendum .",
+      "tags": [
+        "principe de précaution",
+        "constitution",
+        "référendum",
+        "environnement"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/supprimer-le-principe-de-precaution-par-referendum",
+        "locator": "Mesure n° 48 : Supprimer le principe de précaution par référendum (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "retailleau-env-09",
+      "theme": "environnement",
+      "title": "Abandonner l'objectif de réduction des pesticides d'Ecophyto 2030",
+      "summary": "Abandonner l'objectif de réduction de 50 % des produits phytosanitaires fixé par Ecophyto 2030 au profit d'autorisations au cas par cas.",
+      "excerpt": "Abandonner sur les produits phytosanitaires les trajectoires arbitraires, à commencer par l'objectif uniforme de réduction de 50 % fixé par Ecophyto 2030 , au profit d'une logique d'autorisation au cas par cas, fondée sur l'analyse scientifique des risques et des bénéfices.",
+      "tags": [
+        "pesticides",
+        "phytosanitaires",
+        "ecophyto",
+        "agriculture"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/supprimer-le-principe-de-precaution-par-referendum",
+        "locator": "Mesure n° 48 : Supprimer le principe de précaution par référendum (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "retailleau-env-10",
+      "theme": "environnement",
+      "title": "Supprimer l'Office français de la biodiversité",
+      "summary": "Supprimer l'OFB, revenir à la séparation entre l'Agence française pour la biodiversité et l'ONCFS, et confier la police de l'environnement hors chasse à la gendarmerie.",
+      "excerpt": "Supprimer l'Office français de la biodiversité et revenir à l'organisation antérieure entre l' Agence française pour la biodiversité et l' Office national de la chasse et de la faune sauvage , la police de l'environnement hors chasse revenant à la gendarmerie nationale.",
+      "tags": [
+        "ofb",
+        "biodiversité",
+        "police de l'environnement",
+        "chasse"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/supprimer-l-ofb-et-accelerer-les-autorisations-sanitaires",
+        "locator": "Mesure n° 49 : Supprimer l'OFB (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "retailleau-env-11",
+      "theme": "environnement",
+      "title": "Réautoriser certains néonicotinoïdes dont l'acétamipride",
+      "summary": "Autoriser de nouveau certains néonicotinoïdes, dont l'acétamipride, lorsqu'ils sont autorisés dans le marché unique européen.",
+      "excerpt": "Autoriser de nouveau l'usage de certains néonicotinoïdes, dont l' acétamipride , dès lors qu'ils sont autorisés dans le marché unique européen.",
+      "tags": [
+        "néonicotinoïdes",
+        "acétamipride",
+        "pesticides",
+        "agriculture"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/ne-plus-jamais-evaluer-deux-fois-ce-qui-l-a-deja-ete",
+        "locator": "Mesure n° 50 : Cesser d'évaluer deux fois par l'ANSES, ce qui l'a déjà été ailleurs (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "retailleau-env-12",
+      "theme": "environnement",
+      "title": "Reconnaître d'intérêt général majeur le stockage d'eau agricole",
+      "summary": "Reconnaître les projets de stockage d'eau agricole comme d'intérêt général majeur et remplacer les projets de territoire pour la gestion de l'eau par une planification opposable par bassin.",
+      "excerpt": "Reconnaître les projets de stockage d'eau à usage agricole comme relevant de l' intérêt général majeur . Supprimer les Projets de territoire pour la gestion de l'eau et les remplacer par une planification opposable, bassin par bassin, issue d'une simplification du SDAGE.",
+      "tags": [
+        "eau",
+        "bassines",
+        "agriculture",
+        "irrigation"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/permettre-aux-agriculteurs-de-stocker-l-eau",
+        "locator": "Mesure n° 52 : Permettre aux agriculteurs de stocker l’eau (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "retailleau-env-13",
+      "theme": "environnement",
+      "title": "Créer un répertoire national des friches sous deux ans",
+      "summary": "Créer dans les deux ans, par arrêté préfectoral, un répertoire national des friches recensant chaque parcelle, son niveau de pollution et sa destination.",
+      "excerpt": "Créer un Répertoire national des friches , établi par arrêté préfectoral dans les deux ans, recensant chaque parcelle, son niveau de pollution et sa destination.",
+      "tags": [
+        "friches",
+        "dépollution",
+        "pollution",
+        "sols"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/reconquerir-les-friches-industrielles",
+        "locator": "Mesure n° 45 : Reconquérir les friches industrielles (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "retailleau-env-14",
+      "theme": "environnement",
+      "title": "Abaisser le coefficient d'énergie primaire du DPE de 1,9 à 1,2",
+      "summary": "Abaisser immédiatement le coefficient d'énergie primaire de l'électricité dans le DPE de 1,9 à 1,2.",
+      "excerpt": "Abaisser immédiatement le coefficient d'énergie primaire du DPE (redevenu simple outil d'information) de 1,9 à 1,2 , niveau déjà retenu par la Finlande.",
+      "tags": [
+        "dpe",
+        "chauffage électrique",
+        "rénovation",
+        "logement"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/reduire-les-charges-sur-l-electricite-et-revoir-le-dpe",
+        "locator": "Mesure n° 89 : Réduire les charges sur l’électricité et revoir le DPE (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-pa-01",
+      "theme": "pouvoir d'achat",
+      "title": "Baisser les cotisations pour rendre environ 500 euros par an aux salariés",
+      "summary": "Baisser les cotisations de 30 milliards d'euros par an, dont la moitié pour les salariés, soit environ 500 euros nets par an au salaire médian.",
+      "excerpt": "Baisser les cotisations de 30 milliards d'euros par an. La moitié revient directement aux salariés, soit environ 500 euros nets par an au salaire médian , sans qu'ils aient rien à changer à leur organisation.",
+      "tags": [
+        "salaire",
+        "cotisations",
+        "salaire net",
+        "fiche de paie"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/rendre-30-milliards-d-euros-aux-salaries-et-aux-entreprises",
+        "locator": "Mesure n° 24 : Rendre 500 euros par an à tous les salariés (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-pa-02",
+      "theme": "pouvoir d'achat",
+      "title": "Supprimer les cotisations au-delà de 1 623 heures par an",
+      "summary": "Instaurer un seuil de 1 623 heures par an au-delà duquel aucune cotisation sociale n'est due, hors CSG et CRDS, l'exonération d'impôt des heures supplémentaires étant maintenue.",
+      "excerpt": "Instaurer un seuil « zéro cotisation » à partir de 1 623 heures par an , au lieu de 1 607. Au-delà, plus aucune cotisation sociale, ni salariale ni patronale : le salarié garde plus de 90 % du brut, seules la CSG et la CRDS restent dues, et l'exonération d'impôt sur les heures supplémentaires est maintenue.",
+      "tags": [
+        "heures supplémentaires",
+        "cotisations",
+        "salaire",
+        "temps de travail"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/rapprocher-le-brut-du-net-avec-le-seuil-zero-cotisation",
+        "locator": "Mesure n° 25 : Exonérer totalement les heures supplémentaires de cotisations sociales (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-pa-03",
+      "theme": "pouvoir d'achat",
+      "title": "Plafonner les aides sociales à 70 % du SMIC par adulte",
+      "summary": "Créer un compte social unique et plafonner le total des aides non contributives à 70 % du SMIC net par adulte, hors handicap, dépendance et vieillesse.",
+      "excerpt": "Créer un Compte social unique , sur le modèle du compte fiscal : chaque adulte disposera d'un compte retraçant toutes les aides non contributives qu'il perçoit, quelle qu'en soit l'origine. Un plafond national s'appliquera ensuite : le total ne pourra pas dépasser 70 % du SMIC net par adulte , hors handicap, dépendance et vieillesse.",
+      "tags": [
+        "aides sociales",
+        "smic",
+        "rsa",
+        "allocations"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/plafonner-les-aides-sociales-a-70-du-smic",
+        "locator": "Mesure n° 28 : Plafonner les aides sociales à 70 % du SMIC (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-pa-04",
+      "theme": "pouvoir d'achat",
+      "title": "Instaurer un contrat pour différence sur le prix de l'électricité",
+      "summary": "Instaurer un contrat pour différence entre EDF et les fournisseurs, reversant aux consommateurs les excédents lorsque le prix de marché dépasse un prix de référence fixé par la CRE.",
+      "excerpt": "Pour les entreprises et les particuliers, instaurer un contrat pour différence bidirectionnel entre EDF et les fournisseurs : quand les prix de marché dépassent le prix de référence fixé par la CRE, les excédents sont reversés aux consommateurs ; quand ils sont inférieurs, EDF reçoit une compensation.",
+      "tags": [
+        "électricité",
+        "facture",
+        "prix de l'énergie",
+        "edf"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/stabiliser-le-prix-de-l-electricite",
+        "locator": "Mesure n° 88 : Stabiliser le prix de l’électricité (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "retailleau-pa-05",
+      "theme": "pouvoir d'achat",
+      "title": "Sortir l'électricité des certificats d'économies d'énergie",
+      "summary": "Retirer l'électricité du périmètre des certificats d'économies d'énergie et réduire d'autant les obligations nationales, sans transfert vers les autres énergies.",
+      "excerpt": "Sortir l'électricité du périmètre des certificats d'économies d'énergie et réduire d'autant le volume des obligations nationales, sans transfert de charge vers les autres énergies , en concentrant l'effort sur les opérations de sortie des fossiles les plus efficaces à l'euro investi.",
+      "tags": [
+        "électricité",
+        "facture",
+        "certificats d'économies d'énergie",
+        "énergie"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/reduire-les-charges-sur-l-electricite-et-revoir-le-dpe",
+        "locator": "Mesure n° 89 : Réduire les charges sur l’électricité et revoir le DPE (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "retailleau-pa-06",
+      "theme": "pouvoir d'achat",
+      "title": "Élargir les heures creuses",
+      "summary": "Élargir les plages d'heures creuses et rendre l'écart de prix incitatif.",
+      "excerpt": "Élargir significativement les plages d'heures creuses et rendre l'écart de prix réellement incitatif.",
+      "tags": [
+        "heures creuses",
+        "électricité",
+        "facture",
+        "tarif"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/eviter-les-arrets-nucleaires-dus-a-la-surproduction",
+        "locator": "Mesure n° 87 : Ne plus arrêter un réacteur faute de débouché (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "retailleau-emploi-01",
+      "theme": "emploi",
+      "title": "Remplacer le RSA et la prime d'activité par un revenu d'incitation à l'activité",
+      "summary": "Créer un revenu d'incitation à l'activité remplaçant RSA, prime d'activité et ASS : 300 euros par mois sans activité, plus 250 euros dès quinze heures de formation ou de recherche d'emploi.",
+      "excerpt": "Créer un Revenu d'incitation à l'activité en remplacement du RSA, de la prime d'activité et de l'allocation de solidarité spécifique. Sans activité ni revenu : 300 euros par mois , complétés par 250 euros dès quinze heures de formation ou de recherche d'emploi.",
+      "tags": [
+        "rsa",
+        "prime d'activité",
+        "reprise d'emploi",
+        "minima sociaux"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/faire-gagner-plus-a-ceux-qui-reprennent-un-emploi",
+        "locator": "Mesure n° 26 : Permettre à ceux qui reprennent un emploi de gagner plus (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-emploi-02",
+      "theme": "emploi",
+      "title": "Supprimer le minimum de 24 heures pour le temps partiel",
+      "summary": "Supprimer l'obligation d'un minimum légal de 24 heures hebdomadaires pour le temps partiel, sauf accord collectif.",
+      "excerpt": "En complément, l'obligation d'un minimum légal de 24 heures hebdomadaires pour le temps partiel est supprimée , sauf accord collectif : c'est aujourd'hui l'un des obstacles aux reprises progressives.",
+      "tags": [
+        "temps partiel",
+        "contrat",
+        "heures",
+        "travail"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/faire-gagner-plus-a-ceux-qui-reprennent-un-emploi",
+        "locator": "Mesure n° 26 : Permettre à ceux qui reprennent un emploi de gagner plus (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-emploi-03",
+      "theme": "emploi",
+      "title": "Exonérer de cotisations les seniors ayant tous leurs trimestres",
+      "summary": "Avant l'âge légal, exonérer de cotisations retraite et chômage les salariés ayant tous leurs trimestres, dans le cadre d'un cumul emploi-retraite rénové.",
+      "excerpt": "Mettre en place un cumul emploi-retraite rénové , en deux temps. Avant l'âge légal, un seuil « zéro cotisation senior anticipé » exonère totalement de cotisations retraite et chômage les salariés ayant tous leurs trimestres.",
+      "tags": [
+        "seniors",
+        "cotisations",
+        "cumul emploi-retraite",
+        "trimestres"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/augmenter-le-salaire-net-des-seniors-ayant-tous-leurs",
+        "locator": "Mesure n° 27 : Ne plus pénaliser les retraités qui veulent continuer à travailler (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "retailleau-emploi-04",
+      "theme": "emploi",
+      "title": "Durcir l'indemnisation chômage et limiter celle des ruptures conventionnelles à six mois",
+      "summary": "Appliquer les règles d'assurance chômage de juin 2024, mettre fin à l'indemnisation après le refus d'une troisième offre raisonnable et limiter à six mois l'indemnisation des ruptures conventionnelles.",
+      "excerpt": "Appliquer les règles de juin 2024, votées et jamais mises en œuvre , et les compléter : le refus d'une troisième offre raisonnable met fin à l'indemnisation. Limiter à six mois et plafonner l'indemnisation des ruptures conventionnelles.",
+      "tags": [
+        "chômage",
+        "rupture conventionnelle",
+        "allocations",
+        "france travail"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/reduire-les-durees-et-plafonner-les-allocations-chomage",
+        "locator": "Mesure n° 29 : Réduire les durées et plafonner les allocations chômage (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-emploi-05",
+      "theme": "emploi",
+      "title": "Plafonner l'allocation chômage et accélérer sa dégressivité au-dessus de 3 000 euros",
+      "summary": "Calculer l'allocation des frontaliers sur un salaire français et plafonner l'allocation chômage avec une dégressivité accélérée au-dessus de 3 000 euros nets.",
+      "excerpt": "Calculer l'allocation des frontaliers sur un salaire de référence français. Et mettre fin à l'alternance organisée entre emploi et chômage, par le plafonnement de l'allocation et une dégressivité accélérée au-dessus de 3 000 euros nets.",
+      "tags": [
+        "chômage",
+        "allocations",
+        "frontaliers",
+        "dégressivité"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/reduire-les-durees-et-plafonner-les-allocations-chomage",
+        "locator": "Mesure n° 29 : Réduire les durées et plafonner les allocations chômage (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-emploi-06",
+      "theme": "emploi",
+      "title": "Réduire le code du travail à 50 principes",
+      "summary": "Refonder le droit du travail sur un socle de 50 principes fondamentaux, le reste du code ne s'appliquant qu'en l'absence d'accord collectif.",
+      "excerpt": "Refonder le droit du travail autour de la subsidiarité sociale : un socle de 50 principes fondamentaux rendu indépassable , et pour le reste un code devenu supplétif, qui ne s'applique qu' en l'absence d'accord collectif .",
+      "tags": [
+        "code du travail",
+        "accord d'entreprise",
+        "syndicats",
+        "droit du travail"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/refonder-le-code-du-travail-sur-50-principes-rendre-le",
+        "locator": "Mesure n° 31 : Refonder le code du travail sur 50 principes, rendre le reste à la négociation collective (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-emploi-07",
+      "theme": "emploi",
+      "title": "Confier la voie professionnelle aux régions et aux branches",
+      "summary": "Laisser les branches adapter jusqu'à 25 % des contenus des diplômes et faire converger les lycées professionnels vers le modèle des CFA d'ici 2032.",
+      "excerpt": "Les branches professionnelles définissent les référentiels de diplômes et les compétences attendues, et peuvent adapter jusqu'à 25 % des contenus aux besoins locaux. Les lycées professionnels convergeront vers le modèle des CFA d'ici 2032, sous la forme de Campus Métiers régionaux autonomes, cofinancés par les régions et les branches.",
+      "tags": [
+        "lycée professionnel",
+        "cfa",
+        "formation",
+        "régions"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/confier-la-voie-professionnelle-aux-regions-et-aux-branches",
+        "locator": "Mesure n° 35 : Confier la voie professionnelle aux régions et aux branches (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "retailleau-emploi-08",
+      "theme": "emploi",
+      "title": "Porter l'aide à l'embauche d'apprentis en TPE-PME à 6 000 euros",
+      "summary": "Revaloriser de 10 à 15 % le financement des formations jusqu'à Bac+2 et porter l'aide à l'embauche en TPE-PME de 5 000 à 6 000 euros.",
+      "excerpt": "Revaloriser de 10 à 15 % le financement des formations jusqu'à Bac+2 et porter l'aide à l'embauche en TPE-PME de 5 000 à 6 000 euros .",
+      "tags": [
+        "apprentissage",
+        "aide à l'embauche",
+        "pme",
+        "alternance"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/donner-priorite-a-l-apprentissage-jusqu-a-bac-2-et-a-l",
+        "locator": "Mesure n° 36 : Recentrer l'apprentissage sur les secteurs et les niveaux qui en ont le plus besoin (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-emploi-09",
+      "theme": "emploi",
+      "title": "Instaurer un pré-apprentissage obligatoire pour les décrocheurs",
+      "summary": "Instaurer un pré-apprentissage obligatoire de six à douze mois pour les décrocheurs, ouvrant droit à un revenu de 500 euros conditionné à l'assiduité.",
+      "excerpt": "Instaurer un pré-apprentissage obligatoire de six à douze mois pour les décrocheurs : remise à niveau, cadre collectif, immersion progressive en entreprise, avec des internats d'insertion pour les plus fragiles. L'entrée dans ce parcours ouvre droit au revenu d'engagement et de formation, 500 euros strictement conditionnés à l'assiduité .",
+      "tags": [
+        "jeunes",
+        "décrocheurs",
+        "apprentissage",
+        "formation"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/ne-laisser-aucun-jeune-hors-radar",
+        "locator": "Mesure n° 37 : Restaurer le **pré-apprentissage**, ne laisser aucun jeune hors radar (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-emploi-10",
+      "theme": "emploi",
+      "title": "Financer les centres de formation selon leurs résultats",
+      "summary": "Moduler 10 à 20 % du financement des centres de formation selon l'insertion, avec bonus au-delà de 70 %, malus en deçà et perte d'habilitation après deux ans.",
+      "excerpt": "Moduler 10 à 20 % du financement des centres de formation sur l'insertion, la certification et les ruptures de contrat : bonus au-delà de 70 % d'insertion, malus en deçà , perte de l'habilitation après deux années consécutives.",
+      "tags": [
+        "apprentissage",
+        "cfa",
+        "formation",
+        "insertion"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/financer-l-apprentissage-sur-ses-resultats",
+        "locator": "Mesure n° 38 : Financer l'apprentissage sur ses résultats (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-emploi-11",
+      "theme": "emploi",
+      "title": "Former plusieurs millions d'actifs à l'IA en deux ans",
+      "summary": "Former en deux ans plusieurs millions d'actifs à l'intelligence artificielle, avec un socle minimum de vingt heures.",
+      "excerpt": "Former en deux ans plusieurs millions d'actifs à l'intelligence artificielle, avec un socle minimum de vingt heures , dans le privé comme dans le public.",
+      "tags": [
+        "intelligence artificielle",
+        "formation",
+        "cpf",
+        "reconversion"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/former-des-millions-d-actifs-a-l-ia-en-deux-ans",
+        "locator": "Mesure n° 94 : Former des millions d’actifs à l’IA en deux ans (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "retailleau-emploi-12",
+      "theme": "emploi",
+      "title": "Ouvrir un statut d'indépendant aux salariés gagnant plus de 100 000 euros",
+      "summary": "Proposer aux salariés rémunérés au-delà de 100 000 euros bruts annuels un statut d'indépendant en quasi-EURL avec une assurance chômage portable.",
+      "excerpt": "Proposer aux salariés rémunérés au-delà de 100 000 euros bruts annuels , environ 3 % des salariés du privé soit de l'ordre de 650 000 à 700 000 personnes , un statut d'indépendant en quasi-EURL : organisation libre de la vie au travail, accès facilité aux stock-options et aux dispositifs de partage de la valeur, et accompagnement vers une assurance chômage d'indépendant garantissant la pleine portabilité des droits acquis .",
+      "tags": [
+        "cadres",
+        "indépendant",
+        "statut",
+        "salariés"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/permettre-aux-cadres-de-devenir-independants-au-dela-de-100",
+        "locator": "Mesure n° 101 : Ouvrir un statut d'indépendant aux cadres les plus qualifiés (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-emploi-13",
+      "theme": "emploi",
+      "title": "Supprimer la contribution patronale sur l'actionnariat salarié",
+      "summary": "Supprimer la contribution patronale sur l'actionnariat salarié et imposer comme une plus-value le gain d'un salarié qui conserve ses titres.",
+      "excerpt": "Supprimer totalement la contribution patronale sur tous les dispositifs d'actionnariat salarié. Poser que lorsqu'un salarié ou un dirigeant prend un risque réel sur son capital et conserve ses titres, son gain est imposé comme une plus-value et non requalifié en salaire déguisé .",
+      "tags": [
+        "actionnariat salarié",
+        "actions",
+        "entreprise",
+        "partage de la valeur"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/supprimer-la-taxe-qui-penalise-l-actionnariat-salarie",
+        "locator": "Mesure n° 96 : Supprimer la taxe qui pénalise l'actionnariat salarié (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "retailleau-retraite-01",
+      "theme": "retraite",
+      "title": "Permettre le départ dès 63 ans et garantir le taux plein à 65 ans",
+      "summary": "Ouvrir le droit de partir dès 63 ans et garantir le taux plein à tous à 65 ans, quels que soient les trimestres cotisés.",
+      "excerpt": "Partir dès 63 ans sera un droit, et chacun connaîtra à l'avance le montant de sa pension selon l'âge qu'il choisit. À 65 ans, le taux plein sera garanti à tous , quels que soient les trimestres cotisés ou validés.",
+      "tags": [
+        "âge de départ",
+        "63 ans",
+        "65 ans",
+        "taux plein"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/d",
+        "locator": "Mesure n° 108 : Pouvoir partir dès 63 ans, à 65 ans pour un taux plein garanti (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-retraite-02",
+      "theme": "retraite",
+      "title": "Réduire la pension d'environ 7 % par année de départ avant 65 ans",
+      "summary": "Appliquer une réduction d'environ 7 % de la pension par année de départ avant 65 ans : 86 % à 63 ans, 93 % à 64 ans, 100 % à 65 ans.",
+      "excerpt": "Chaque année de départ avant 65 ans réduit la pension d'environ 7 %, pour la retraite de base comme pour la complémentaire. Un départ à 63 ans donne ainsi droit à 86 % de la pension, un départ à 64 ans à 93 %, un départ à 65 ans ou plus à 100 %.",
+      "tags": [
+        "pension",
+        "décote",
+        "âge de départ",
+        "barème"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/d",
+        "locator": "Mesure n° 108 : Pouvoir partir dès 63 ans, à 65 ans pour un taux plein garanti (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-retraite-03",
+      "theme": "retraite",
+      "title": "Appliquer la réforme progressivement de 2028 à 2031",
+      "summary": "Maintenir le droit actuel pour un départ en 2027, puis plafonner l'écart entre ancien et nouveau calcul à 3 % en 2028, 6 % en 2029 et 12 % en 2030, avant le plein régime en 2031.",
+      "excerpt": "Pour un départ en 2027, le droit actuel s'applique. Ensuite, l'écart entre la pension calculée selon l'ancien système et celle calculée selon le nouveau est plafonné, dans un sens comme dans l'autre, à 3 % en 2028, 6 % en 2029 et 12 % en 2030, avant le plein régime en 2031.",
+      "tags": [
+        "transition",
+        "réforme des retraites",
+        "pension",
+        "calendrier"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/d",
+        "locator": "Mesure n° 108 : Pouvoir partir dès 63 ans, à 65 ans pour un taux plein garanti (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "retailleau-retraite-04",
+      "theme": "retraite",
+      "title": "Ramener l'âge d'annulation de la décote de 67 à 65 ans",
+      "summary": "Ramener l'âge d'annulation de la décote de 67 à 65 ans, avec un départ au taux plein à 65 ans quelle que soit la durée de cotisation.",
+      "excerpt": "L'âge d'annulation de la décote sera ramené de 67 à 65 ans, et chacun partira au taux plein à 65 ans, quelle que soit sa durée de cotisation.",
+      "tags": [
+        "décote",
+        "67 ans",
+        "femmes",
+        "carrières hachées"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/supprimer-le-couperet-des-67-ans",
+        "locator": "Mesure n° 109 : Supprimer le couperet des 67 ans, en particulier pour les femmes (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-retraite-05",
+      "theme": "retraite",
+      "title": "Exonérer de cotisations ceux qui ont une carrière complète avant 63 ans",
+      "summary": "Exonérer de cotisations retraite et chômage le salaire de ceux qui ont 43 années cotisées avant 63 ans et continuent de travailler, soit environ 14 % de net en plus.",
+      "excerpt": "Celui qui a commencé tôt et réunit sa carrière complète avant 63 ans, soit 43 années cotisées, gagnera environ 14 % de salaire net en plus s'il continue de travailler. Son salaire ne paiera plus de cotisations retraite ni chômage, ce qui allège aussi le coût de son travail pour l'employeur.",
+      "tags": [
+        "carrière longue",
+        "cotisations",
+        "seniors",
+        "salaire net"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/rendre-le-travail-toujours-gagnant-pour-ceux-qui-ont",
+        "locator": "Mesure n° 110 : Rendre le travail toujours gagnant pour ceux qui ont commencé tôt (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-retraite-06",
+      "theme": "retraite",
+      "title": "Majorer la pension de 5 % par année travaillée après 65 ans",
+      "summary": "Après 65 ans et carrière complète, majorer la pension de 5 % par année travaillée, ou permettre le cumul pension et salaire jusqu'à 24 heures par semaine sans cotisations.",
+      "excerpt": "Celui qui continue à plein temps sans liquider sa retraite verra sa pension majorée de 5 % par année travaillée, pour toute sa retraite. Celui qui veut lever le pied pourra cumuler sa pension et un salaire, jusqu'à 24 heures par semaine, sans cotisations sociales et sans délai de carence.",
+      "tags": [
+        "surcote",
+        "cumul emploi-retraite",
+        "65 ans",
+        "pension"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/rendre-le-travail-toujours-gagnant-apres-65-ans",
+        "locator": "Mesure n° 111 : Rendre le travail toujours gagnant après 65 ans (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-retraite-07",
+      "theme": "retraite",
+      "title": "Confier la pénibilité aux branches professionnelles",
+      "summary": "Faire traiter la pénibilité par les partenaires sociaux branche par branche, chaque branche finançant les aménagements de fin de carrière à partir de 63 ans.",
+      "excerpt": "La pénibilité sera traitée branche par branche, métier par métier , par les partenaires sociaux, qui savent qui s'use vraiment au travail. Chaque branche financera les aménagements de fin de carrière à partir de 63 ans, qu'il s'agisse de temps partiel, d'adaptation des postes, de reconversion ou de rachats de décote pour partir plus tôt dans les métiers usants.",
+      "tags": [
+        "pénibilité",
+        "métiers usants",
+        "fin de carrière",
+        "branches"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/traiter-la-penibilite-metier-par-metier",
+        "locator": "Mesure n° 112 : Traiter la pénibilité métier par métier (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-retraite-08",
+      "theme": "retraite",
+      "title": "Créer un compte de retraite par capitalisation alimenté par 1 % du salaire",
+      "summary": "Alimenter un compte individuel de retraite par une cotisation de 1 % du salaire partagée entre salarié et employeur, soit 6 milliards d'euros à l'horizon 2032.",
+      "excerpt": "Le compte est alimenté par une cotisation de 1 % du salaire, dans la limite du plafond de la Sécurité sociale, versée pour moitié par le salarié et pour moitié par l'employeur , soit 6 milliards d'euros à l'horizon 2032.",
+      "tags": [
+        "capitalisation",
+        "épargne retraite",
+        "compte individuel",
+        "cotisation"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/donner-a-chaque-francais-un-capital-pour-sa-retraite",
+        "locator": "Mesure n° 113 : Donner à chaque salarié un capital pour sa retraite (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "retailleau-retraite-09",
+      "theme": "retraite",
+      "title": "Porter la déduction PER à 50 000 euros et créer un crédit d'impôt de 30 %",
+      "summary": "Porter la déduction des versements sur l'épargne retraite à 50 000 euros par an, créer un crédit d'impôt de 30 % pour les non-imposables et défiscaliser la rente à hauteur de 25 %.",
+      "excerpt": "Les versements volontaires garderont l'avantage fiscal du PER, avec une déduction portée à 50 000 euros par an et un crédit d'impôt de 30 % pour les non-imposables. La participation et l'intéressement iront par défaut sur le compte individuel de retraite, et la rente sera défiscalisée à hauteur de 25 %.",
+      "tags": [
+        "per",
+        "épargne retraite",
+        "crédit d'impôt",
+        "rente"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/preserver-et-renforcer-l-epargne-retraite-volontaire",
+        "locator": "Mesure n° 114 : Préserver et renforcer l'épargne retraite volontaire (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-famille-01",
+      "theme": "famille",
+      "title": "Verser un Revenu familial de 240 euros par mois et par enfant",
+      "summary": "Fusionner douze dispositifs en un Revenu familial de 240 euros par enfant et par mois dès le premier enfant, conditionné à la résidence régulière et à cinq ans d'activité.",
+      "excerpt": "Fusionner douze dispositifs en un Revenu familial de 240 euros par enfant , versé chaque mois à tous, dès le premier enfant, de la naissance à dix-huit ans. Le conditionner à une résidence régulière en France et à l'exercice d'une activité professionnelle depuis au moins cinq ans.",
+      "tags": [
+        "allocations familiales",
+        "enfant",
+        "revenu familial",
+        "caf"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/verser-240-euros-par-mois-par-enfant-mineur",
+        "locator": "Mesure n° 75 : Verser 240 euros par mois par enfant mineur (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-famille-02",
+      "theme": "famille",
+      "title": "Doubler le Revenu familial pour le troisième enfant",
+      "summary": "Doubler le Revenu familial pour le troisième enfant : 960 euros par mois pour trois enfants et 1 200 euros pour quatre.",
+      "excerpt": "Doubler automatiquement le Revenu familial pour le troisième enfant mineur à charge. Les parents de trois enfants percevront 240 euros pour chacun des deux premiers et 480 euros pour le troisième, soit 960 euros par mois . Les parents de quatre enfants percevront 1 200 euros par mois , avec 240 euros pour le quatrième enfant.",
+      "tags": [
+        "famille nombreuse",
+        "troisième enfant",
+        "allocations familiales",
+        "revenu familial"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/doubler-le-revenu-familial-pour-le-troisieme-enfant",
+        "locator": "Mesure n° 76 : Doubler le Revenu familial pour le troisième enfant (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-famille-03",
+      "theme": "famille",
+      "title": "Prolonger le congé de naissance jusqu'aux six mois de l'enfant",
+      "summary": "Étendre le congé de naissance jusqu'aux six mois de l'enfant après le congé maternité, au choix de l'un ou l'autre parent et de façon facultative.",
+      "excerpt": "Étendre le congé de naissance jusqu'aux six mois de l'enfant , à l'issue du congé maternité qui reste organisé selon les règles actuelles. Ce congé sera ouvert à l'un ou l'autre parent, selon leur choix, et restera facultatif .",
+      "tags": [
+        "congé de naissance",
+        "congé parental",
+        "bébé",
+        "parents"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/prolonger-le-conge-jusqu-aux-six-mois-de-l-enfant",
+        "locator": "Mesure n° 79 : Prolonger le congé jusqu'aux six mois de l'enfant (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-famille-04",
+      "theme": "famille",
+      "title": "Faciliter l'ouverture de micro-crèches",
+      "summary": "Aligner le régime des micro-crèches sur celui des maisons d'assistantes maternelles et imposer à la PMI d'autoriser une micro-crèche en entreprise en moins de six mois.",
+      "excerpt": "Aligner le régime des micro-crèches sur celui des maisons d'assistantes maternelles , dont la souplesse a fait la preuve de son efficacité, et imposer à la protection maternelle et infantile d'autoriser l'ouverture d'une micro-crèche en entreprise en moins de six mois .",
+      "tags": [
+        "crèche",
+        "garde d'enfants",
+        "micro-crèche",
+        "assistante maternelle"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/creer-plus-de-places-de-garde",
+        "locator": "Mesure n° 80 : Ouvrir plus de places de crèche (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "retailleau-famille-05",
+      "theme": "famille",
+      "title": "Porter à 7 000 euros l'aide exonérée de l'employeur pour la garde d'enfant",
+      "summary": "Supprimer le plafond de 500 000 euros du crédit d'impôt famille et porter de 2 421 à 7 000 euros par an et par salarié le plafond d'exonération de l'aide de l'employeur à la garde d'enfant.",
+      "excerpt": "Supprimer le plafond de 500 000 euros du crédit d'impôt famille. Porter de 2 421 à 7 000 euros par an et par salarié le plafond d'exonération de cotisations sociales et d'impôt sur le revenu applicable à l'aide versée par l'employeur pour la garde d'enfant.",
+      "tags": [
+        "garde d'enfants",
+        "crèche",
+        "employeur",
+        "crédit d'impôt"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/faire-de-l-entreprise-un-acteur-de-la-garde-d-enfants",
+        "locator": "Mesure n° 81 : Faire de l'entreprise un acteur de la garde d'enfants (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-etudes-01",
+      "theme": "études",
+      "title": "Augmenter le salaire des professeurs de 135 à 300 euros nets par mois",
+      "summary": "Aligner le début de carrière des professeurs sur la moyenne européenne, soit 135 euros nets de plus par mois, et combler au moins la moitié de l'écart en milieu de carrière, soit environ 300 euros.",
+      "excerpt": "Aligner intégralement le début de carrière sur la moyenne européenne, soit 135 euros nets de plus chaque mois , et combler au moins la moitié de l'écart au cœur de la carrière, soit environ 300 euros nets supplémentaires .",
+      "tags": [
+        "professeurs",
+        "enseignants",
+        "salaire",
+        "école"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/concentrer-le-primaire-et-le-college-sur-les-savoirs",
+        "locator": "Mesure n° 15 : Mieux payer les professeurs, sur la fiche de paie (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-etudes-02",
+      "theme": "études",
+      "title": "Créer des contrats de mission de cinq ans pour les professeurs",
+      "summary": "Ouvrir des contrats de mission de cinq ans, mieux rémunérés, pour affecter des professeurs sur les postes les plus difficiles.",
+      "excerpt": "Ouvrir des contrats de mission de cinq ans , mieux rémunérés, pour affecter les meilleurs professeurs là où la tâche est la plus rude, et en finir avec une gestion où le barème et l'ancienneté commandent tout .",
+      "tags": [
+        "professeurs",
+        "affectation",
+        "enseignants",
+        "mutation"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/concentrer-le-primaire-et-le-college-sur-les-savoirs",
+        "locator": "Mesure n° 15 : Mieux payer les professeurs, sur la fiche de paie (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-etudes-03",
+      "theme": "études",
+      "title": "Supprimer la carte scolaire",
+      "summary": "Supprimer la carte scolaire et mettre fin à la règle non écrite dite du 80-20.",
+      "excerpt": "Supprimer la carte scolaire et mettre fin à la règle non écrite du 80-20 , qui bride depuis quarante ans un enseignement de plus en plus demandé.",
+      "tags": [
+        "carte scolaire",
+        "école privée",
+        "choix de l'école",
+        "collège"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/instaurer-une-veritable-gestion-des-ressources-humaines-et",
+        "locator": "Mesure n° 13 : Rendre aux familles la liberté de choisir l'école de leurs enfants (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "retailleau-etudes-04",
+      "theme": "études",
+      "title": "Créer 1 000 établissements publics autonomes d'ici 2032",
+      "summary": "Créer d'ici 2032 1 000 écoles, collèges et lycées publics innovants disposant d'une liberté de recrutement et de pédagogie.",
+      "excerpt": "Créer 1 000 établissements publics innovants d'ici 2032 , écoles, collèges et lycées, dans les villes comme dans les campagnes et les quartiers.",
+      "tags": [
+        "autonomie",
+        "établissements",
+        "école publique",
+        "innovation"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/reconstruire-la-formation-et-le-recrutement-des-maitres",
+        "locator": "Mesure n° 14 : Créer mille écoles autonomes dans l'école publique (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "retailleau-etudes-05",
+      "theme": "études",
+      "title": "Proposer deux niveaux de mathématiques dès la seconde",
+      "summary": "Proposer deux niveaux de mathématiques dès la seconde, réserver la spécialité mathématiques au parcours renforcé et proposer un enseignement d'économie dès la seconde.",
+      "excerpt": "Dès la seconde, deux niveaux de mathématiques seront proposés avec passerelle possible; la spécialité mathématique sera réservée au parcours renforcé; un enseignement de l'économie sera proposé dès la seconde; les classes préparatoires et grandes écoles seront réhabilitées avec des internats développés.",
+      "tags": [
+        "lycée",
+        "mathématiques",
+        "seconde",
+        "classes préparatoires"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/refaire-un-lycee-de-l-excellence",
+        "locator": "Mesure n° 16 : Refaire un lycée de l'excellence (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-etudes-06",
+      "theme": "études",
+      "title": "Viser 100 % d'alternance dans la voie professionnelle",
+      "summary": "Confier la voie professionnelle aux régions, la rapprocher des CFA, ouvrir l'apprentissage dès la quatrième et viser 100 % d'alternance.",
+      "excerpt": "La voie professionnelle sera confiée aux Régions et rapprochée des CFA, avec apprentissage dès la quatrième et visée de 100% d'alternance, et les référentiels professionnels réécrits avec les branches.",
+      "tags": [
+        "lycée professionnel",
+        "apprentissage",
+        "alternance",
+        "régions"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/refaire-un-lycee-de-l-excellence",
+        "locator": "Mesure n° 16 : Refaire un lycée de l'excellence (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-etudes-07",
+      "theme": "études",
+      "title": "Instaurer un examen d'entrée en sixième",
+      "summary": "Instaurer un examen d'entrée en sixième qui affecte chaque collégien dans un groupe de niveau.",
+      "excerpt": "Instaurer un examen d'entrée en sixième qui déterminera l'affectation du collégien dans des groupes de niveau , pour y acquérir vraiment, consolider ou approfondir les acquis du primaire.",
+      "tags": [
+        "collège",
+        "sixième",
+        "groupes de niveau",
+        "examen"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/mettre-l-intelligence-artificielle-au-service-des",
+        "locator": "Mesure n° 17 : Tourner la page du collège unique (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "retailleau-etudes-08",
+      "theme": "études",
+      "title": "Consacrer quinze minutes par jour à la lecture",
+      "summary": "Consacrer chaque jour quinze minutes à la lecture, du primaire au collège.",
+      "excerpt": "Consacrer chaque jour quinze minutes à la lecture , à hauteur de chaque âge, du primaire au collège.",
+      "tags": [
+        "lecture",
+        "primaire",
+        "collège",
+        "école"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/liberer-les-etablissements-et-rendre-aux-familles-la",
+        "locator": "Mesure n° 18 : Transmettre : le savoir, rien que le savoir (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-etudes-09",
+      "theme": "études",
+      "title": "Réduire les vacances scolaires de seize à quatorze semaines",
+      "summary": "Allonger le temps scolaire en ramenant les vacances de seize à quatorze semaines.",
+      "excerpt": "Le temps scolaire sera par ailleurs étendu en ramenant les vacances de seize à quatorze semaines , à la moyenne des pays européens.",
+      "tags": [
+        "vacances scolaires",
+        "rythmes scolaires",
+        "école",
+        "calendrier scolaire"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/liberer-les-etablissements-et-rendre-aux-familles-la",
+        "locator": "Mesure n° 18 : Transmettre : le savoir, rien que le savoir (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-etudes-10",
+      "theme": "études",
+      "title": "Rétablir la note chiffrée",
+      "summary": "Rétablir la note chiffrée et répondre à chaque difficulté par une remise à niveau plutôt que par un passage automatique.",
+      "excerpt": "Rétablir la note chiffrée , claire et lisible. Répondre à chaque difficulté détectée par une remise à niveau et une remédiation , jamais par un passage automatique.",
+      "tags": [
+        "notes",
+        "évaluation",
+        "redoublement",
+        "école"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/evaluer-et-certifier-chaque-etablissement-decentraliser-et",
+        "locator": "Mesure n° 19 : Rétablir les notes chiffrées (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "retailleau-etudes-11",
+      "theme": "études",
+      "title": "Autoriser les universités à sélectionner leurs étudiants",
+      "summary": "Autoriser les universités à choisir leurs étudiants sur des critères transparents via un Parcoursup refondé intégrant les résultats du baccalauréat.",
+      "excerpt": "Les universités, enfin, seront autorisées à choisir leurs étudiants sur des critères transparents, par un Parcoursup refondé en outil d'information et de sélection, intégrant les résultats du baccalauréat qu'il ignore aujourd'hui.",
+      "tags": [
+        "université",
+        "parcoursup",
+        "sélection",
+        "étudiant"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/evaluer-et-certifier-chaque-etablissement-decentraliser-et",
+        "locator": "Mesure n° 19 : Rétablir les notes chiffrées (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "retailleau-etudes-12",
+      "theme": "études",
+      "title": "Créer au moins un internat disciplinaire par académie",
+      "summary": "Créer un réseau d'internats disciplinaires, au moins un par académie, avec scolarité complète et encadrement renforcé.",
+      "excerpt": "Créer un réseau d'internats disciplinaires, au moins un par académie : scolarité complète, internat, encadrement renforcé par des professeurs volontaires et mieux rémunérés, éducateurs, lien permanent avec la protection judiciaire de la jeunesse.",
+      "tags": [
+        "internat",
+        "discipline",
+        "collège",
+        "exclusion"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/retablir-l-evaluation-qui-dit-la-verite-et-la-selection-au",
+        "locator": "Mesure n° 20 : Créer des internats disciplinaires (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "retailleau-etudes-13",
+      "theme": "études",
+      "title": "Reconnaître le professeur comme dépositaire de l'autorité publique",
+      "summary": "Reconnaître le professeur comme dépositaire de l'autorité publique, avec peines aggravées pour ses agresseurs, et créer un service de protection juridique dans chaque rectorat.",
+      "excerpt": "Reconnaître le professeur dépositaire de l'autorité publique : il bénéficiera des mêmes peines aggravées que ceux qui font respecter la loi dans la rue ou au tribunal, et les parquets recevront instruction de poursuivre systématiquement ces agressions. Créer dans chaque rectorat un service de protection juridique .",
+      "tags": [
+        "professeurs",
+        "violence",
+        "autorité",
+        "rectorat"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/refonder-l-education-prioritaire-et-passer-de-l-inclusion",
+        "locator": "Mesure n° 21 : Protéger les professeurs et faire respecter la laïcité, sans rien céder (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "retailleau-etudes-14",
+      "theme": "études",
+      "title": "Contrôler tous les adultes au contact des enfants",
+      "summary": "Vérifier avant la prise de poste puis surveiller en permanence tout adulte au contact d'enfants, avec obligation pour l'employeur de signaler l'adulte écarté.",
+      "excerpt": "Aucun adulte n'approchera un enfant sans avoir été contrôlé : enseignant, animateur, vacataire, accompagnateur, bénévole . Sur le modèle du Disclosure and Barring Service britannique , une vérification avant la prise de poste, puis une surveillance permanente qui alerte l'employeur le jour même où tombe une condamnation, et l'obligation pour tout employeur de signaler l'adulte écarté.",
+      "tags": [
+        "périscolaire",
+        "protection de l'enfance",
+        "animateurs",
+        "école"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/refaire-de-l-ecole-un-sanctuaire-restaurer-l-autorite-et",
+        "locator": "Mesure n° 22 : Protéger nos enfants : aucun adulte sans contrôle, la priorité aux femmes dans le périscolaire (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "retailleau-etudes-15",
+      "theme": "études",
+      "title": "Créer une Réserve nationale des sciences",
+      "summary": "Créer une Réserve nationale des sciences sur le modèle de la réserve opérationnelle des armées.",
+      "excerpt": "Créer, sur le modèle de la réserve opérationnelle de nos armées , une Réserve nationale des sciences.",
+      "tags": [
+        "sciences",
+        "réserve",
+        "école",
+        "vocations"
+      ],
+      "source": {
+        "url": "https://www.avecretailleau.fr/projet/mesure/creer-une-reserve-nationale-des-sciences",
+        "locator": "Mesure n° 23 : Créer une Réserve nationale des sciences (L'engagement)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    }
+  ]
+}

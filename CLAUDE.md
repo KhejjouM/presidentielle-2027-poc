@@ -20,12 +20,15 @@ Le site ne recommande jamais un candidat. C'est la contrainte qui prime sur tout
 
 ```
 index.html, assets/        site statique, sans build
-data/candidates.json       candidats, domaines officiels, fichier de mesures ; "demo": true tant que les données sont fictives
+data/candidates.json       candidats suivis (règle d'inclusion, sources de presse, statut du programme, domaines et documents officiels), personnes écartées
+data/research/             recensement brut des candidats (sources de la règle d'inclusion)
 data/measures/<id>.json    mesures d'un candidat
 data/credibility.json      grille de l'indice (critères, poids, valeurs)
 data/themes.json           vocabulaire utilisé par la recherche locale
 data/verification.json     généré par scripts/verify_measures.py, ne pas éditer à la main
 scripts/validate_data.py   contrôles bloquants (CI)
+scripts/fetch_text.py      texte brut d'une page ou d'un PDF officiel, tel que le lit le robot : copier les extraits depuis cette sortie
+scripts/check_measures.py  contrôle d'un seul fichier de mesures, sans rien écrire
 scripts/verify_measures.py vérification quotidienne sur les sites officiels + archivage Wayback
 worker/                    Cloudflare Worker du mode IA : détient la clé API (secret), relit les extraits, prompt fixe
 ```
@@ -33,12 +36,12 @@ worker/                    Cloudflare Worker du mode IA : détient la clé API (
 ## Ajouter un candidat (procédure)
 
 1. Vérifier la candidature sur une source fiable et noter le site officiel de campagne ou du parti. Après le 12 mars 2027, se caler sur la liste officielle du Conseil constitutionnel.
-2. Ajouter l'entrée dans `data/candidates.json` avec `official_domains` (domaines nus, ex. `exemple-candidat.fr`).
+2. Ajouter l'entrée dans `data/candidates.json` avec deux `declaration_sources` (médias nationaux distincts), `official_domains` (domaines nus) et, si besoin, `official_documents` (URL exactes de documents liés depuis le site officiel mais hébergés chez un prestataire). Renseigner `program_status` : `programme`, `propositions`, `aucun` ou `inaccessible` (site qui bloque les robots : ne jamais contourner).
 3. Télécharger le programme depuis le site officiel (HTML ou PDF). Pour un PDF : `pdftotext -layout programme.pdf -` ou pdfplumber.
-4. Créer `data/measures/<id>.json`. Une mesure = un engagement précis. Pour chacune : `id` stable (`<candidat>-<theme>-<nn>`), `theme` présent dans `themes.json`, `title`, `summary`, `excerpt` exact, `tags`, `source.url` et `source.locator` (page ou section).
+4. Créer `data/measures/<id>.json`. Copier chaque extrait depuis la sortie de `scripts/fetch_text.py` (jamais depuis un résumé). Plafond : 15 mesures par thème et par candidat, les plus précises. Une mesure = un engagement précis. Pour chacune : `id` stable (`<candidat>-<theme>-<nn>`), `theme` présent dans `themes.json`, `title`, `summary`, `excerpt` exact, `tags`, `source.url` et `source.locator` (page ou section).
 5. Lancer `python scripts/validate_data.py` puis `python scripts/verify_measures.py --only <ids>`. Toute mesure qui n'est pas `verifie` doit être corrigée (extrait mal copié) avant commit.
 6. Indice de solidité : renseigner seulement les critères pour lesquels une source existe (tableau de chiffrage publié par le candidat, chiffrage d'un institut indépendant, analyse juridique publiée). Noter la source dans `source_url` et un résumé factuel dans `note`.
-7. Quand toutes les données de démonstration sont remplacées : supprimer les fichiers `demo-*`, passer `"demo": false` dans `candidates.json`, vider `data/verification.json` puis relancer la vérification.
+7. Précision : `chiffree_et_datee` = objectif chiffré et échéance ; `chiffree` = chiffré sans échéance ; `intention` sinon (une date ou une durée seule reste une intention). `chiffrage_candidat` = `cout_et_financement` seulement si un financement est rattaché à la mesure elle-même, sinon `cout_seul`.
 
 ## Commandes utiles
 

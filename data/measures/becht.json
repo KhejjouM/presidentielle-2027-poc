@@ -1,0 +1,1669 @@
+{
+  "candidate_id": "becht",
+  "measures": [
+    {
+      "id": "becht-sante-01",
+      "theme": "santé",
+      "title": "Garantir des délais et distances maximum d'accès aux soins",
+      "summary": "Chacun doit pouvoir consulter un médecin traitant à moins de 30 minutes sous 48 heures, un spécialiste à moins d'une heure sous 3 mois (15 jours en urgence) et passer un scanner ou une IRM en moins d'un mois.",
+      "excerpt": "Chacun doit pouvoir consulter un médecin traitant à moins de 30 minutes de chez lui, sous 48 heures. Chacun doit avoir accès à un spécialiste à moins d’une heure, sous 3 mois, 15 jours en cas d’urgence. Chacun doit pouvoir passer un scanner ou une IRM en moins d’un mois, en quelques heures s’il y a urgence.",
+      "tags": [
+        "médecin traitant",
+        "délai",
+        "désert médical",
+        "spécialiste",
+        "irm"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-6/",
+        "locator": "Partie 6 - Un nouveau modèle de santé, Un accès rapide aux soins pour tous"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "becht-sante-02",
+      "theme": "santé",
+      "title": "Augmenter de 20 % les quotas d'étudiants en santé",
+      "summary": "Les quotas d'étudiants en santé seraient augmentés de 20 % en plus de la hausse du numerus clausus de 2018, afin de ne plus envoyer d'étudiants se former à l'étranger faute de places.",
+      "excerpt": "La hausse du numerus clausus de 2018 produira ses premiers effets en 2028, mais il faudra encore augmenter de 20 % les quotas d’étudiants en santé, et cesser d’envoyer les nôtres étudier en Roumanie faute de places en France.",
+      "tags": [
+        "études de médecine",
+        "numerus clausus",
+        "soignants",
+        "médecin"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-6/",
+        "locator": "Partie 6 - Un nouveau modèle de santé, Un accès rapide aux soins pour tous"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "becht-sante-03",
+      "theme": "santé",
+      "title": "Créer une faculté de médecine dans presque chaque département",
+      "summary": "Une faculté de médecine adossée à un hôpital serait implantée dans presque chaque département pour que les médecins s'installent là où ils étudient.",
+      "excerpt": "Je veux une faculté de médecine dans presque chaque département, adossée à un hôpital, pour fixer les médecins là où ils étudient et font leur vie, plutôt que de concentrer la formation avant de les contraindre à déménager.",
+      "tags": [
+        "faculté de médecine",
+        "département",
+        "désert médical",
+        "médecin"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-6/",
+        "locator": "Partie 6 - Un nouveau modèle de santé, Un accès rapide aux soins pour tous"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-sante-04",
+      "theme": "santé",
+      "title": "Ramener les études de médecine générale à 8 ans",
+      "summary": "La durée des études de médecine générale pourrait passer de 10 à 8 ans pour permettre d'exercer plus tôt.",
+      "excerpt": "La durée des études de médecine générale pourrait même être ramenée à 8 ans au lieu de 10, pour exercer plus tôt.",
+      "tags": [
+        "médecine générale",
+        "études de médecine",
+        "généraliste",
+        "durée des études"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-6/",
+        "locator": "Partie 6 - Un nouveau modèle de santé, Un accès rapide aux soins pour tous"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "becht-sante-05",
+      "theme": "santé",
+      "title": "Porter progressivement la consultation de généraliste à 40 euros",
+      "summary": "Le prix de la consultation de médecine générale serait progressivement porté à 40 euros, prévention comprise.",
+      "excerpt": "La consultation sera progressivement portée à 40 euros, prévention comprise.",
+      "tags": [
+        "consultation",
+        "généraliste",
+        "médecin",
+        "tarif"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-6/",
+        "locator": "Partie 6 - Un nouveau modèle de santé, Un accès rapide aux soins pour tous"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "becht-sante-06",
+      "theme": "santé",
+      "title": "Créer un pharmacien traitant rémunéré au forfait",
+      "summary": "Chaque personne aurait un pharmacien traitant, rémunéré au forfait par patient, qui pourrait conseiller, renouveler certaines ordonnances et délivrer davantage de biosimilaires.",
+      "excerpt": "Chacun aura un pharmacien traitant, comme il a un médecin traitant, rémunéré au forfait par patient et non plus simplement à la boîte vendue, capable de conseiller, de renouveler certaines ordonnances et de délivrer davantage de biosimilaires.",
+      "tags": [
+        "pharmacie",
+        "pharmacien",
+        "ordonnance",
+        "médicament"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-6/",
+        "locator": "Partie 6 - Un nouveau modèle de santé, Un accès rapide aux soins pour tous"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-sante-07",
+      "theme": "santé",
+      "title": "Délivrer les médicaments à la dose",
+      "summary": "Les médicaments seraient délivrés à la dose et non en boîtes, et le patient serait informé du coût de son traitement pour la collectivité.",
+      "excerpt": "Car les médicaments seront enfin délivrés à la dose, et non en boîtes parfois trop pleines : le patient saura ce que son traitement coûte à la collectivité, et l’on cessera de gaspiller, chimiquement et financièrement.",
+      "tags": [
+        "médicament",
+        "pharmacie",
+        "gaspillage",
+        "remboursement"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-6/",
+        "locator": "Partie 6 - Un nouveau modèle de santé, Un accès rapide aux soins pour tous"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-sante-08",
+      "theme": "santé",
+      "title": "Remplacer la tarification à l'activité par un financement par parcours de soins",
+      "summary": "À l'hôpital, la tarification à l'activité serait remplacée par un financement par parcours de soins, réforme présentée comme rendant un tiers de temps soignant.",
+      "excerpt": "Surtout, la tarification à l’activité, qui contraint soignants et infirmières à passer plus du tiers de leur temps derrière un écran, laissera place à un financement par parcours de soins : cette seule réforme rendra un tiers de temps soignant.",
+      "tags": [
+        "hôpital",
+        "tarification à l'activité",
+        "soignants",
+        "financement"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-6/",
+        "locator": "Partie 6 - Un nouveau modèle de santé, Un accès rapide aux soins pour tous"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "becht-sante-09",
+      "theme": "santé",
+      "title": "Supprimer les agences régionales de santé",
+      "summary": "Les agences régionales de santé seraient supprimées, leurs missions confiées aux préfets en lien avec les élus, et leurs médecins réaffectés aux soins.",
+      "excerpt": "Les agences régionales de santé, elles, seront supprimées, leurs missions confiées aux préfets en lien avec les élus, et leurs nombreux médecins aujourd’hui dans les bureaux retourneront soigner les patients.",
+      "tags": [
+        "ars",
+        "agences régionales de santé",
+        "préfet",
+        "médecin"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-6/",
+        "locator": "Partie 6 - Un nouveau modèle de santé"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-sante-10",
+      "theme": "santé",
+      "title": "Adopter une loi de programmation en santé tous les 5 ans",
+      "summary": "Une loi de programmation fixerait les orientations de la politique de santé tous les 5 ans, sur le modèle de la défense.",
+      "excerpt": "Et tous les 5 ans, comme pour la défense, une loi de programmation fixera le cap.",
+      "tags": [
+        "loi de programmation",
+        "santé",
+        "hôpital",
+        "budget"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-6/",
+        "locator": "Partie 6 - Un nouveau modèle de santé"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "becht-sante-11",
+      "theme": "santé",
+      "title": "Créer un secrétariat d'État à la santé publique fusionnant cinq agences",
+      "summary": "Un secrétariat d'État à la santé publique fusionnerait les cinq grandes agences sous un même contrat d'objectifs et gérerait les stocks stratégiques de masques, respirateurs et médicaments.",
+      "excerpt": "Un secrétariat d’État à la santé publique fusionnera les cinq grandes agences sous un même contrat d’objectifs, et gérera les stocks stratégiques de masques, de respirateurs et de médicaments, car le Covid a montré, dans le pays de Pasteur, notre incapacité à produire vite un vaccin efficace.",
+      "tags": [
+        "santé publique",
+        "agences sanitaires",
+        "stocks",
+        "masques"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-6/",
+        "locator": "Partie 6 - Un nouveau modèle de santé"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "becht-sante-12",
+      "theme": "santé",
+      "title": "Prévoir des cours de santé à l'école et un infirmier par établissement du secondaire",
+      "summary": "Des cours d'hygiène et de santé seraient dispensés pendant la scolarité et chaque établissement du secondaire aurait à terme un infirmier, chargé aussi de la santé mentale des jeunes.",
+      "excerpt": "Des cours d’hygiène et de santé jalonneront la scolarité, contre la malbouffe, les addictions et les perturbateurs endocriniens, et chaque établissement du secondaire aura à terme un infirmier veillant aussi à la santé mentale des jeunes.",
+      "tags": [
+        "infirmier scolaire",
+        "santé mentale",
+        "prévention",
+        "collège",
+        "lycée"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-6/",
+        "locator": "Partie 6 - Un nouveau modèle de santé, Priorité à la prévention"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-sante-13",
+      "theme": "santé",
+      "title": "Rémunérer les actes de prévention comme les actes curatifs",
+      "summary": "La nomenclature des actes serait revue pour que les actes de prévention soient rémunérés au même niveau que les actes curatifs.",
+      "excerpt": "La nomenclature sera revue pour que les actes de prévention soient aussi bien rémunérés que les actes curatifs : quand on soigne bien une bouche, on n’a pas besoin d’y poser trop tôt une couronne.",
+      "tags": [
+        "prévention",
+        "remboursement",
+        "dentiste",
+        "soins"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-6/",
+        "locator": "Partie 6 - Un nouveau modèle de santé, Priorité à la prévention"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-sante-14",
+      "theme": "santé",
+      "title": "Investir 20 milliards d'euros sur 7 ans dans la recherche en santé",
+      "summary": "Une politique industrielle du médicament et du matériel médical prévoirait 20 milliards d'euros d'investissement dans la recherche en santé sur 7 ans, la revalorisation des chercheurs et une préférence européenne dans la commande publique.",
+      "excerpt": "Une nouvelle politique industrielle du médicament et du matériel nous libérera de notre dépendance aux puissances hors d’Europe, par 20 milliards d’investissement dans la recherche en santé sur 7 ans, la revalorisation des chercheurs et des médicaments les plus innovants, et une préférence européenne dans la commande publique.",
+      "tags": [
+        "médicament",
+        "recherche",
+        "pénurie",
+        "industrie pharmaceutique"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-6/",
+        "locator": "Partie 6 - Un nouveau modèle de santé, L’urgence, partout"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "becht-sante-15",
+      "theme": "santé",
+      "title": "Orienter les urgences non vitales vers les maisons de santé",
+      "summary": "Les maisons de santé deviendraient le premier recours pour les urgences non vitales, avec la possibilité de facturer la consultation aux urgences à qui s'y présente sans nécessité alors qu'une autre solution existe à proximité.",
+      "excerpt": "Les maisons de santé deviendront le premier réflexe pour les urgences non vitales, afin de désengorger l’hôpital, quitte à facturer la consultation à qui s’y présenterait pour un simple mal de gorge alors qu’une autre solution existe à proximité.",
+      "tags": [
+        "urgences",
+        "maison de santé",
+        "hôpital",
+        "consultation"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-6/",
+        "locator": "Partie 6 - Un nouveau modèle de santé, L’urgence, partout"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-retraite-01",
+      "theme": "retraite",
+      "title": "Soumettre une réforme des retraites à référendum après négociation",
+      "summary": "La réforme des retraites proposée serait négociée avec les partenaires sociaux puis soumise à référendum.",
+      "excerpt": "Après 10 ans de batailles et de réformes avortées, je propose une voie d’apaisement, qui sera négociée avec les partenaires sociaux puis soumise à référendum et qui marierait la liberté et la responsabilité.",
+      "tags": [
+        "retraite",
+        "référendum",
+        "réforme des retraites",
+        "partenaires sociaux"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-5/",
+        "locator": "Partie 5 - Un nouveau modèle social, Vivre et vieillir dans la dignité"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-retraite-02",
+      "theme": "retraite",
+      "title": "Instaurer une retraite par points avec âge de départ choisi",
+      "summary": "Chaque euro cotisé donnerait un point, chacun choisirait son âge de départ après un nombre de trimestres cotisés, et la pension varierait chaque mois selon le rapport entre actifs et retraités.",
+      "excerpt": "Le système serait simple : chaque euro cotisé donne un point. Chacun choisit l’âge de son départ après un certain nombre de trimestres cotisés. La pension dépend chaque mois du rapport entre actifs et retraités, augmentant quand le pays travaille davantage, baissant dans le cas contraire.",
+      "tags": [
+        "retraite par points",
+        "âge de départ",
+        "pension",
+        "cotisation"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-5/",
+        "locator": "Partie 5 - Un nouveau modèle social, Vivre et vieillir dans la dignité"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-retraite-03",
+      "theme": "retraite",
+      "title": "Permettre une épargne retraite par capitalisation abondée par la famille",
+      "summary": "La pension pourrait être complétée par une épargne de capitalisation que parents et grands-parents pourraient abonder en franchise d'impôt.",
+      "excerpt": "Chacun pourra compléter sa pension par une épargne de capitalisation, que parents et grands-parents pourront abonder en franchise d’impôt.",
+      "tags": [
+        "capitalisation",
+        "épargne retraite",
+        "pension",
+        "grands-parents"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-5/",
+        "locator": "Partie 5 - Un nouveau modèle social, Vivre et vieillir dans la dignité"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-retraite-04",
+      "theme": "retraite",
+      "title": "Ouvrir droit à 12 mois sabbatiques rémunérés au cours de la vie",
+      "summary": "L'allongement de la vie active serait compensé par la possibilité de prendre 12 mois sabbatiques rémunérés au cours de la vie.",
+      "excerpt": "L’allongement inévitable de la vie active, du fait de l’augmentation de l’espérance de vie, sera compensé par la possibilité de prendre 12 mois sabbatiques rémunérés tout au long de la vie.",
+      "tags": [
+        "année sabbatique",
+        "carrière",
+        "congé",
+        "retraite"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-5/",
+        "locator": "Partie 5 - Un nouveau modèle social, Vivre et vieillir dans la dignité"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "becht-retraite-05",
+      "theme": "retraite",
+      "title": "Garantir une retraite d'au moins 1 200 euros par mois pour une carrière complète",
+      "summary": "Un complément garantirait qu'aucune retraite pour une carrière complète ou un travail mené jusqu'à un âge avancé ne soit inférieure à 1 200 euros par mois.",
+      "excerpt": "Surtout, un complément de dignité garantira qu’aucune retraite, pour une carrière complète ou un travail mené jusqu’à un âge avancé, ne soit inférieure à 1 200 euros par mois, et toute pension demeurera nettement supérieure au minimum versé à celui qui n’a jamais travaillé, car le travail d’une vie doit toujours se voir reconnu.",
+      "tags": [
+        "minimum retraite",
+        "pension",
+        "petite retraite",
+        "carrière complète"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-5/",
+        "locator": "Partie 5 - Un nouveau modèle social, Vivre et vieillir dans la dignité"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "becht-retraite-06",
+      "theme": "retraite",
+      "title": "Créer un guichet unique de la dépendance et financer la cinquième branche",
+      "summary": "Un guichet unique et une autorité de coordination seraient créés pour la prise en charge de la dépendance, dont la branche serait financée par une dotation montant progressivement à plusieurs dizaines de milliards.",
+      "excerpt": "Il faudra surtout un guichet unique pour épargner aux familles le parcours du combattant, et une autorité chargée de coordonner au quotidien chaque prise en charge. Le financement de cette cinquième branche de la sécurité sociale sera assuré par une dotation montant progressivement à plusieurs dizaines de milliards.",
+      "tags": [
+        "dépendance",
+        "senior",
+        "aide à domicile",
+        "personnes âgées"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-5/",
+        "locator": "Partie 5 - Un nouveau modèle social, Vivre et vieillir dans la dignité"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-retraite-07",
+      "theme": "retraite",
+      "title": "Accorder des points de retraite aux bénévoles des Maisons de Vie",
+      "summary": "Les bénévoles des Maisons de Vie auraient un statut, une assurance et des points de retraite versés à la liquidation de leur pension ou ajoutés à celle des retraités.",
+      "excerpt": "Ceux qui s’y engageront deviendront des bénévoles dotés d’un vrai statut, d’une assurance et d’une reconnaissance en points de retraite, versés à la liquidation de leur pension ou venant abonder celle des retraités.",
+      "tags": [
+        "bénévolat",
+        "points de retraite",
+        "maisons de vie",
+        "pension"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-5/",
+        "locator": "Partie 5 - Un nouveau modèle social, Les Maisons de Vie"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-famille-01",
+      "theme": "famille",
+      "title": "Verser les allocations familiales dès le premier enfant",
+      "summary": "Les allocations familiales seraient versées dès le premier enfant et plafonnées au-delà du cinquième.",
+      "excerpt": "Nous soutiendrons la natalité par des allocations familiales dès le premier enfant, mais plafonnées au-delà du cinquième, pour qu’elles n’aient jamais à devenir un revenu.",
+      "tags": [
+        "allocations familiales",
+        "premier enfant",
+        "natalité",
+        "famille"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-5/",
+        "locator": "Partie 5 - Un nouveau modèle social, Une nouvelle politique familiale"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "becht-famille-02",
+      "theme": "famille",
+      "title": "Favoriser fiscalement les foyers recomposés et assouplir l'adoption",
+      "summary": "Une loi accorderait un avantage fiscal aux foyers qui se recomposent pour élever des enfants ou s'occuper d'un proche dépendant, et assouplirait les critères de l'adoption.",
+      "excerpt": "Une loi favorisera fiscalement les foyers qui se recomposent autour d’un même toit pour élever des enfants ou prendre soin d’un proche dépendant, et assouplira les critères de l’adoption.",
+      "tags": [
+        "famille recomposée",
+        "adoption",
+        "impôt",
+        "aidant"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-5/",
+        "locator": "Partie 5 - Un nouveau modèle social, Une nouvelle politique familiale"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-famille-03",
+      "theme": "famille",
+      "title": "Développer les crèches et rendre le périscolaire quasi gratuit",
+      "summary": "Un maillage de crèches, de relais d'assistantes maternelles et de structures périscolaires serait développé avec les collectivités, et le périscolaire deviendrait quasi gratuit hors repas, animé par des bénévoles formés.",
+      "excerpt": "Avec les collectivités, nous tisserons un nouveau maillage de crèches, de relais d’assistantes maternelles et de périscolaires, pour qu’un couple ou un parent isolé trouve toujours une solution de proximité ; et nous rendrons le périscolaire quasi gratuit, hors prix du repas, en l’animant avec des bénévoles formés, dans un cadre intergénérationnel.",
+      "tags": [
+        "crèche",
+        "garde d'enfants",
+        "périscolaire",
+        "assistante maternelle",
+        "parent isolé"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-5/",
+        "locator": "Partie 5 - Un nouveau modèle social, Une nouvelle politique familiale"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-famille-04",
+      "theme": "famille",
+      "title": "Prolonger l'aide sociale à l'enfance jusqu'à 25 ans",
+      "summary": "L'aide sociale à l'enfance serait prolongée jusqu'à 25 ans au lieu de s'arrêter à 18 ans.",
+      "excerpt": "L’aide sociale à l’enfance sera prolongée jusqu’à vingt-cinq ans, et non plus interrompue brutalement à dix-huit ans.",
+      "tags": [
+        "aide sociale à l'enfance",
+        "enfants placés",
+        "jeunes majeurs",
+        "ase"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-5/",
+        "locator": "Partie 5 - Un nouveau modèle social, Les Maisons de Vie"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "becht-famille-05",
+      "theme": "famille",
+      "title": "Aider les familles monoparentales pour la garde via les Maisons de Vie",
+      "summary": "Les Maisons de Vie auraient pour mission d'aider les familles monoparentales, notamment pour la garde des enfants.",
+      "excerpt": "Nous créerons, parmi les missions des Maisons de Vie, une aide aux familles monoparentales, notamment pour la garde.",
+      "tags": [
+        "famille monoparentale",
+        "garde d'enfants",
+        "parent isolé",
+        "maisons de vie"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-8/",
+        "locator": "Partie 8 - Un nouveau modèle d’organisation de la République et des Libertés, Le Pacte d’Inclusion"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-famille-06",
+      "theme": "famille",
+      "title": "Doter chaque commune d'un réseau d'appartements refuges",
+      "summary": "Chaque commune se doterait d'un réseau d'appartements ou de familles refuges pour accueillir en urgence une femme seule ou avec enfants fuyant son foyer.",
+      "excerpt": "Pour lutter contre les violences faites aux femmes et les violences intrafamiliales, chaque commune se dotera d’un réseau d’appartements ou de familles refuges, pour accueillir en urgence une femme seule ou avec enfants ayant dû fuir son foyer.",
+      "tags": [
+        "violences conjugales",
+        "violences intrafamiliales",
+        "hébergement d'urgence",
+        "femmes"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-8/",
+        "locator": "Partie 8 - Un nouveau modèle d’organisation de la République et des Libertés, Le Pacte d’Inclusion"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-log-01",
+      "theme": "logement",
+      "title": "Porter les places d'hébergement d'urgence au niveau des besoins",
+      "summary": "Les places d'hébergement d'urgence, y compris pour les femmes fuyant un conjoint violent, seraient portées au niveau des besoins, en mobilisant les logements vides des communes.",
+      "excerpt": "Les places d’hébergement d’urgence seront portées au niveau des besoins réels, comme celles, trop rares, destinées aux femmes qui fuient un conjoint violent, et nous nouerons des réseaux de solidarité avec les communes disposant de logements vides plutôt que de bâtir sans fin de nouveaux foyers, les Maisons de Vie aidant à trouver des hébergeurs volontaires.",
+      "tags": [
+        "hébergement d'urgence",
+        "sans-abri",
+        "logement vide",
+        "sdf"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-5/",
+        "locator": "Partie 5 - Un nouveau modèle social, Un toit pour chacun"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-log-02",
+      "theme": "logement",
+      "title": "Imposer que les logements neufs résistent aux aléas climatiques",
+      "summary": "L'habitat insalubre serait rénové et tout logement neuf devrait résister aux fortes chaleurs, aux vents violents et aux pluies diluviennes.",
+      "excerpt": "Il faut donc rénover l’existant pour faire disparaître l’insalubre, et construire du neuf, en tenant compte partout de la menace climatique : tout logement nouveau devra résister aux fortes chaleurs, aux vents violents, aux pluies diluviennes, et ménager une place pour les réserves de résilience en cas de crise.",
+      "tags": [
+        "logement neuf",
+        "insalubre",
+        "rénovation",
+        "canicule",
+        "construction"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-5/",
+        "locator": "Partie 5 - Un nouveau modèle social, Un toit pour chacun"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-log-03",
+      "theme": "logement",
+      "title": "Faciliter la transformation de friches et de bureaux en logements",
+      "summary": "Les procédures seraient facilitées pour réhabiliter les friches, reconvertir les bureaux, diviser les grandes maisons et développer l'habitat participatif et les résidences pour seniors, étudiants ou intergénérationnelles.",
+      "excerpt": "Pour y parvenir, largement avec le privé, nous faciliterons les procédures, la réhabilitation des friches, la reconversion des bureaux vidés par le télétravail, la division des grandes maisons, l’habitat participatif, les résidences pour seniors, étudiants ou intergénérationnelles.",
+      "tags": [
+        "construction",
+        "friches",
+        "bureaux",
+        "résidence étudiante",
+        "colocation"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-5/",
+        "locator": "Partie 5 - Un nouveau modèle social, Un toit pour chacun"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-log-04",
+      "theme": "logement",
+      "title": "Orienter les demandeurs de logement vers les communes où l'offre est excédentaire",
+      "summary": "Les demandeurs de logement seraient orientés vers les communes où l'offre est excédentaire, plutôt que de financer des nuits d'hôtel alors que des logements ruraux restent vides.",
+      "excerpt": "Nous veillerons aussi à l’équilibre du territoire, en orientant les demandeurs vers les communes où l’offre est excédentaire, et en mettant fin à cette absurdité qui nous fait payer des nuits d’hôtel quand, dans des territoires ruraux, des logements restent vides faute de preneurs : y ramener des habitants, c’est aussi y ramener la vie.",
+      "tags": [
+        "demande de logement",
+        "logement vide",
+        "rural",
+        "hôtel"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-5/",
+        "locator": "Partie 5 - Un nouveau modèle social, Un toit pour chacun"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-log-05",
+      "theme": "logement",
+      "title": "Privilégier les petites unités de logement social",
+      "summary": "Le logement social privilégierait les petites unités dispersées plutôt que les grands ensembles, quitte à réviser les critères de la loi pour laisser du temps aux communes.",
+      "excerpt": "Dans le logement social, nous préférerons partout les petites unités disséminées aux grands ensembles hérités des années soixante, quitte à réviser les critères de la loi pour en laisser le temps aux communes.",
+      "tags": [
+        "logement social",
+        "hlm",
+        "grands ensembles",
+        "communes"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-5/",
+        "locator": "Partie 5 - Un nouveau modèle social, Un toit pour chacun"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-log-06",
+      "theme": "logement",
+      "title": "Donner la priorité de logement aux travailleurs comme les soignants et pompiers",
+      "summary": "Une priorité de logement serait donnée aux personnes qui servent la société, comme les aides-soignantes, infirmières ou pompiers travaillant de nuit, pour qu'elles puissent se loger près de leur travail.",
+      "excerpt": "Et nous donnerons la priorité à ceux qui servent la société : il n’est pas normal qu’une aide-soignante, une infirmière, un pompier qui travaillent de nuit doivent faire de longs trajets faute de pouvoir se loger près de leur travail.",
+      "tags": [
+        "logement",
+        "soignants",
+        "pompier",
+        "trajet",
+        "priorité"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-5/",
+        "locator": "Partie 5 - Un nouveau modèle social, Un toit pour chacun"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-emploi-01",
+      "theme": "emploi",
+      "title": "Créer un CDI universel garanti par l'État",
+      "summary": "Via une Entreprise pour l'Emploi, l'État garantirait à chacun un contrat universel jamais rémunéré sous le salaire minimum, que le titulaire emporterait d'un employeur à l'autre.",
+      "excerpt": "Par une Entreprise pour l’Emploi, l’État garantit à chacun ce contrat universel, jamais rémunéré en deçà du salaire minimum. Le titulaire peut être embauché par une entreprise, qu’il a démarchée ou qu’on lui a proposée, sur un salaire supérieur à cette base, et emporter son contrat d’un employeur à l’autre.",
+      "tags": [
+        "cdi universel",
+        "contrat de travail",
+        "salaire minimum",
+        "emploi"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-5/",
+        "locator": "Partie 5 - Un nouveau modèle social, Le CDI universel"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-emploi-02",
+      "theme": "emploi",
+      "title": "Exiger formation ou 25 heures d'activité d'intérêt général sans emploi",
+      "summary": "Sans poste, le salaire de base serait maintenu mais la personne devrait se former ou consacrer 25 heures par semaine à une collectivité ou une association.",
+      "excerpt": "Sans poste, le salaire de base est maintenu, mais la personne doit alors se former, ou, si l’emploi tarde malgré tout, consacrer vingt-cinq heures par semaine au service d’une collectivité ou d’une association.",
+      "tags": [
+        "chômage",
+        "formation",
+        "activité",
+        "contrepartie",
+        "bénévolat"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-5/",
+        "locator": "Partie 5 - Un nouveau modèle social, Le CDI universel"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "becht-emploi-03",
+      "theme": "emploi",
+      "title": "Remplacer l'assurance chômage, le RSA et les aides au logement par le CDI universel",
+      "summary": "Le CDI universel remplacerait l'assurance chômage, le revenu de solidarité et les aides au logement, et sa rupture ou sa perte pour faute grave n'ouvrirait droit à aucune autre prestation.",
+      "excerpt": "Rompre ce contrat, ou le perdre pour faute grave, n’ouvre droit à aucune autre prestation, car le CDI universel remplace justement l’assurance chômage, le revenu de solidarité et les aides au logement.",
+      "tags": [
+        "assurance chômage",
+        "rsa",
+        "apl",
+        "cdi universel"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-5/",
+        "locator": "Partie 5 - Un nouveau modèle social, Le CDI universel"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-emploi-04",
+      "theme": "emploi",
+      "title": "Renforcer l'intéressement, la participation et l'actionnariat salarié",
+      "summary": "L'intéressement, la participation et l'actionnariat salarié seraient renforcés, avec une voix au conseil d'administration, et l'obligation de bloquer les fonds cinq ans serait levée.",
+      "excerpt": "Nous renforcerons l’intéressement et la participation, jusqu’à l’actionnariat salarié, sans droit de vote en assemblée pour sécuriser les PME mais avec une voix au conseil d’administration, et nous lèverons l’obligation de bloquer les fonds cinq ans.",
+      "tags": [
+        "intéressement",
+        "participation",
+        "actionnariat salarié",
+        "salaire"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-4/",
+        "locator": "Partie 4 - Un nouveau modèle économique, Augmenter le pouvoir d’achat de plus de 25 % en 10 ans"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "becht-emploi-05",
+      "theme": "emploi",
+      "title": "Doubler le nombre d'ingénieurs formés et former 1,5 million de techniciens par l'apprentissage",
+      "summary": "Un plan Ingénieurs ferait passer le nombre d'ingénieurs formés chaque année de 45 000 à 90 000 d'ici 7 ans, et un plan Techniciens formerait plus de 1,5 million de personnes par l'apprentissage en entreprise.",
+      "excerpt": "Avec le monde économique, l’État se dotera d’un vrai plan de prévision des compétences : un plan Ingénieurs pour doubler le nombre formé chaque année, de 45 000 à 90 000 d’ici 7 ans, et un plan Techniciens pour former par l’apprentissage, au sein même des entreprises, plus de 1,5 million de personnes dans les métiers dont elles ont besoin, les salariés les plus âgés ou en difficulté de santé y jouant un précieux rôle de transmission.",
+      "tags": [
+        "apprentissage",
+        "ingénieur",
+        "formation",
+        "technicien",
+        "compétences"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-4/",
+        "locator": "Partie 4 - Un nouveau modèle économique, Refonder l’école et la formation"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "becht-emploi-06",
+      "theme": "emploi",
+      "title": "Supprimer la moitié des normes et procédures en 2 ans",
+      "summary": "La moitié des normes et des procédures serait supprimée en 2 ans.",
+      "excerpt": "La moitié de ces normes et des procédures sera supprimée en 2 ans.",
+      "tags": [
+        "normes",
+        "simplification",
+        "entreprise",
+        "administration"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-4/",
+        "locator": "Partie 4 - Un nouveau modèle économique, Libérer les énergies du pays"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "becht-emploi-07",
+      "theme": "emploi",
+      "title": "Garantir l'égalité salariale femmes-hommes par une obligation de transparence",
+      "summary": "L'égalité salariale à fonction égale dans le privé serait garantie par une obligation de transparence dans les rapports annuels.",
+      "excerpt": "Nous garantirons l’égalité salariale à fonction égale dans le privé par une obligation de transparence dans les rapports annuels, à l’image de l’Islande où il est interdit de mieux payer un sexe que l’autre à travail égal.",
+      "tags": [
+        "égalité salariale",
+        "femmes",
+        "salaire",
+        "entreprise"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-8/",
+        "locator": "Partie 8 - Un nouveau modèle d’organisation de la République et des Libertés, Le Pacte d’Inclusion"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-emploi-08",
+      "theme": "emploi",
+      "title": "Conditionner les bonus des comités de direction à la parité",
+      "summary": "Les bonus des membres des comités de direction seraient conditionnés à la parité.",
+      "excerpt": "Nous conditionnerons les bonus des comités de direction à la parité.",
+      "tags": [
+        "parité",
+        "dirigeants",
+        "bonus",
+        "entreprise"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-8/",
+        "locator": "Partie 8 - Un nouveau modèle d’organisation de la République et des Libertés, Le Pacte d’Inclusion"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-pa-01",
+      "theme": "pouvoir d'achat",
+      "title": "Instaurer un bouclier travail laissant 60 % de toute hausse de revenu au salarié",
+      "summary": "Un « bouclier travail » garantirait que 60 % en net de toute augmentation de revenu revienne au salarié, contre 40 % selon le candidat aujourd'hui.",
+      "excerpt": "Nous instaurerons aussi un « bouclier travail » : toute augmentation de revenu devra bénéficier en net pour 60 % au salarié, et non 40 % comme aujourd’hui, car travailler plus doit toujours, et visiblement, signifier gagner plus.",
+      "tags": [
+        "salaire",
+        "net",
+        "augmentation",
+        "travail",
+        "cotisations"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-4/",
+        "locator": "Partie 4 - Un nouveau modèle économique, Augmenter le pouvoir d’achat de plus de 25 % en 10 ans"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "becht-pa-02",
+      "theme": "pouvoir d'achat",
+      "title": "Fusionner les primes de partage de la valeur et relever leur avantage fiscal",
+      "summary": "Les primes de partage de la valeur seraient fusionnées et leur avantage fiscal et social relevé jusqu'à plusieurs milliers d'euros par an, surtout pour les petits salaires.",
+      "excerpt": "Pour les entreprises qui ne peuvent ouvrir leur capital, les primes de partage de la valeur seront fusionnées et leur avantage fiscal et social relevé, jusqu’à plusieurs milliers d’euros par an, en faveur surtout des petits salaires.",
+      "tags": [
+        "prime",
+        "partage de la valeur",
+        "petits salaires",
+        "salaire"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-4/",
+        "locator": "Partie 4 - Un nouveau modèle économique, Augmenter le pouvoir d’achat de plus de 25 % en 10 ans"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-pa-03",
+      "theme": "pouvoir d'achat",
+      "title": "Viser une hausse du pouvoir d'achat de plus de 25 % en 10 ans",
+      "summary": "L'objectif affiché est une hausse du pouvoir d'achat de plus de 25 % en 10 ans par les revenus du travail.",
+      "excerpt": "Ainsi le pouvoir d’achat des Français pourra croître de plus de 25% en 10 ans, par les fruits de leur travail et non par la seule redistribution.",
+      "tags": [
+        "pouvoir d'achat",
+        "salaire",
+        "revenus",
+        "objectif"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-4/",
+        "locator": "Partie 4 - Un nouveau modèle économique, Augmenter le pouvoir d’achat de plus de 25 % en 10 ans"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "becht-pa-04",
+      "theme": "pouvoir d'achat",
+      "title": "Maintenir les taux d'imposition sans hausse ni baisse",
+      "summary": "Le taux des impôts ne serait ni augmenté ni baissé.",
+      "excerpt": "Nous aurons donc le courage de dire ce que personne n’a osé : le taux des impôts n’augmentera pas, mais ne baissera pas non plus.",
+      "tags": [
+        "impôt",
+        "taxe",
+        "fiscalité",
+        "stabilité"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-10/",
+        "locator": "Partie 10 - Un nouveau modèle pour redresser nos comptes publics, Ni hausse ni baisse d’impôt"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-etudes-01",
+      "theme": "études",
+      "title": "Porter le salaire des enseignants débutants à 1,8 et 2,3 SMIC",
+      "summary": "Le salaire de début de carrière serait porté à 1,8 SMIC pour un professeur des écoles et 2,3 SMIC pour un agrégé, contre 1,5 et 1,8 aujourd'hui.",
+      "excerpt": "Pour revaloriser la profession, leurs salaires retrouveront l’écart au salaire minimum d’il y a 30 ans, 1,8 SMIC pour un professeur des écoles et 2,3 pour un agrégé en début de carrière, contre 1,5 et 1,8 aujourd’hui, effort financé notamment par la baisse de la démographie scolaire.",
+      "tags": [
+        "salaire enseignant",
+        "professeur",
+        "revalorisation",
+        "smic"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-4/",
+        "locator": "Partie 4 - Un nouveau modèle économique, Refonder l’école et la formation"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "becht-etudes-02",
+      "theme": "études",
+      "title": "Recréer des écoles normales pour former les enseignants dès la licence",
+      "summary": "Les enseignants seraient formés dès la première année d'université dans des écoles normales recréées, et leur gestion serait décentralisée au niveau des territoires.",
+      "excerpt": "Ils seront formés dès la première année d’université dans de véritables écoles normales recréées, axées sur la pédagogie autant que sur les savoirs, leur gestion sera décentralisée au niveau des territoires.",
+      "tags": [
+        "formation des enseignants",
+        "écoles normales",
+        "professeur",
+        "université"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-4/",
+        "locator": "Partie 4 - Un nouveau modèle économique, Refonder l’école et la formation"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-etudes-03",
+      "theme": "études",
+      "title": "Remplacer le brevet des collèges par un brevet primaire",
+      "summary": "Le brevet des collèges serait remplacé par un brevet primaire vérifiant la maîtrise de la lecture, de l'écriture, du calcul et des valeurs de la République.",
+      "excerpt": "Parce que tout se joue dès l’école élémentaire, le brevet des collèges laissera place à un brevet primaire, garantissant que nul ne sorte du primaire sans savoir lire, écrire, compter et connaître les valeurs de la République.",
+      "tags": [
+        "brevet",
+        "école primaire",
+        "lire écrire compter",
+        "examen"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-4/",
+        "locator": "Partie 4 - Un nouveau modèle économique, Refonder l’école et la formation"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-etudes-04",
+      "theme": "études",
+      "title": "Créer une classe passerelle entre le CM2 et le collège",
+      "summary": "Une classe passerelle après le CM2 offrirait une année supplémentaire aux élèves qui en ont besoin avant d'entrer au collège.",
+      "excerpt": "Une classe passerelle, après le CM2, donnera à ceux qui en ont besoin une année entière pour entrer au collège sur de bonnes bases.",
+      "tags": [
+        "cm2",
+        "collège",
+        "classe passerelle",
+        "école"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-4/",
+        "locator": "Partie 4 - Un nouveau modèle économique, Refonder l’école et la formation"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-etudes-05",
+      "theme": "études",
+      "title": "Lancer un plan mathématiques et sciences avec un examen en fin de collège",
+      "summary": "Un plan mathématiques et sciences viserait à relever le niveau au collège et au lycée, avec un examen de sciences en fin de collège.",
+      "excerpt": "Un plan « mathématiques et sciences » relèvera le niveau au collège et au lycée, avec un examen de sciences en fin de collège.",
+      "tags": [
+        "mathématiques",
+        "sciences",
+        "collège",
+        "lycée",
+        "examen"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-4/",
+        "locator": "Partie 4 - Un nouveau modèle économique, Refonder l’école et la formation"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-etudes-06",
+      "theme": "études",
+      "title": "Supprimer Parcoursup au profit d'une épreuve complémentaire au baccalauréat",
+      "summary": "Parcoursup serait remplacé par une épreuve complémentaire au baccalauréat propre à chaque spécialité, conditionnant l'entrée dans le supérieur, avec des places ajustées aux besoins de l'emploi.",
+      "excerpt": "Parcoursup sera supprimé et remplacé par une épreuve complémentaire au baccalauréat, propre à chaque spécialité, conditionnant l’entrée à l’université, en grande école, en IUT ou en BTS, dont les places seront ajustées aux besoins réels de l’emploi, pour une sélection au mérite et non par un algorithme aux critères flous.",
+      "tags": [
+        "parcoursup",
+        "baccalauréat",
+        "université",
+        "sélection",
+        "bts"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-4/",
+        "locator": "Partie 4 - Un nouveau modèle économique, Refonder l’école et la formation"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-etudes-07",
+      "theme": "études",
+      "title": "Multiplier les classes Prépa-Talents et ouvrir les concours publics sans diplôme",
+      "summary": "Des classes Prépa-Talents seraient multipliées dans les quartiers prioritaires et tous les concours de la fonction publique seraient ouverts sans condition de diplôme.",
+      "excerpt": "Pour que l’excellence ne soit plus réservée à quelques-uns, des classes Prépa-Talents se multiplieront dans les quartiers prioritaires afin de préparer les jeunes de tous horizons aux concours des grandes écoles, et tous les concours de la fonction publique seront ouverts sans condition de diplôme, pour briser la dictature du diplôme et fonder la promotion sur la seule valeur, comme dans l’armée.",
+      "tags": [
+        "grandes écoles",
+        "concours",
+        "fonction publique",
+        "quartiers prioritaires",
+        "diplôme"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-4/",
+        "locator": "Partie 4 - Un nouveau modèle économique, Refonder l’école et la formation"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-etudes-08",
+      "theme": "études",
+      "title": "Donner aux classes préparatoires une équivalence avec l'année universitaire",
+      "summary": "Les classes préparatoires bénéficieraient d'une équivalence avec l'année universitaire pour que les élèves non admis aux concours poursuivent leur cursus.",
+      "excerpt": "Les classes préparatoires seront revalorisées par une équivalence avec l’année universitaire, afin que les non-reçus aux concours poursuivent leur cursus sans perdre de temps.",
+      "tags": [
+        "classes préparatoires",
+        "prépa",
+        "université",
+        "équivalence"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-4/",
+        "locator": "Partie 4 - Un nouveau modèle économique, Refonder l’école et la formation"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-etudes-09",
+      "theme": "études",
+      "title": "Accorder aux universités l'autonomie sur leur masse salariale et leurs recrutements",
+      "summary": "Les universités et leurs organismes de recherche recevraient une autonomie sur leur masse salariale, leurs recrutements et l'utilisation de leurs crédits, dans des budgets pluriannuels.",
+      "excerpt": "Vingt ans après la loi LRU, les universités recevront une autonomie réelle sur leur masse salariale, leurs recrutements et la fongibilité de leurs crédits, liberté étendue à leurs organismes de recherche, dont les directeurs fixeront les salaires des chercheurs dans des budgets enfin pluriannuels.",
+      "tags": [
+        "université",
+        "autonomie",
+        "recherche",
+        "recrutement"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-4/",
+        "locator": "Partie 4 - Un nouveau modèle économique, Refonder l’école et la formation"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-etudes-10",
+      "theme": "études",
+      "title": "Permettre aux établissements scolaires de recruter leurs enseignants",
+      "summary": "Les établissements scolaires pourraient recruter les enseignants selon leur projet pédagogique, afin qu'aucune classe ne reste sans professeur.",
+      "excerpt": "Les établissements seront dotés de l’autonomie de recruter les enseignants les plus motivés selon leur projet pédagogique, pour qu’aucune classe ne reste sans professeur compétent dans sa matière.",
+      "tags": [
+        "recrutement",
+        "enseignant",
+        "établissement",
+        "professeur absent"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-4/",
+        "locator": "Partie 4 - Un nouveau modèle économique, Refonder l’école et la formation"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-etudes-11",
+      "theme": "études",
+      "title": "Créer un service public numérique de l'éducation du CP à l'université",
+      "summary": "Un service public numérique de l'éducation, du CP à l'université, proposerait à chaque élève une leçon type pour chaque cours.",
+      "excerpt": "École publique comme privée veilleront à la mixité tout en visant l’excellence, et un service public numérique de l’éducation, du CP à l’université, offrira à chaque élève une leçon type pour chaque cours, afin de réviser, d’approfondir ou d’apprendre.",
+      "tags": [
+        "numérique",
+        "école",
+        "révision",
+        "cours en ligne"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-4/",
+        "locator": "Partie 4 - Un nouveau modèle économique, Refonder l’école et la formation"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-etudes-12",
+      "theme": "études",
+      "title": "Viser le top 10 du classement PISA",
+      "summary": "Le système d'éducation et de formation serait refondé avec pour objectif de placer la France parmi les 10 premiers pays du classement PISA.",
+      "excerpt": "Nous refonderons notre système d’éducation et de formation pour bâtir une économie de la connaissance et replacer la France dans les 10 premiers pays au classement PISA.",
+      "tags": [
+        "pisa",
+        "niveau scolaire",
+        "éducation",
+        "école"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-4/",
+        "locator": "Partie 4 - Un nouveau modèle économique, Refonder l’école et la formation"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "becht-etudes-13",
+      "theme": "études",
+      "title": "Généraliser un prêt étudiant garanti par l'État d'environ 50 000 euros",
+      "summary": "Chaque étudiant pourrait emprunter environ 50 000 euros sur cinq ans à taux très réduit, remboursables sur 15 ans après les études selon ses revenus.",
+      "excerpt": "Chaque étudiant qui le souhaite pourra emprunter de l’ordre de 50 000 euros sur cinq ans, à taux très réduit, remboursable sur 15 ans après les études selon ses revenus.",
+      "tags": [
+        "prêt étudiant",
+        "étudiant",
+        "précarité étudiante",
+        "bourse"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-5/",
+        "locator": "Partie 5 - Un nouveau modèle social, Une place pour tous dans la société"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "becht-etudes-14",
+      "theme": "études",
+      "title": "Revaloriser le statut des accompagnants d'élèves handicapés",
+      "summary": "Les enfants handicapés pouvant suivre une classe ordinaire ou Ulis resteraient scolarisés, avec des accompagnants au statut revalorisé et davantage de classes spécialisées.",
+      "excerpt": "Pour les enfants dont le handicap est compatible avec la classe ordinaire ou une classe Ulis, la scolarisation sera maintenue, avec des accompagnants au statut revalorisé et davantage de classes spécialisées.",
+      "tags": [
+        "école inclusive",
+        "aesh",
+        "handicap",
+        "ulis"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-5/",
+        "locator": "Partie 5 - Un nouveau modèle social, Une place pour tous dans la société"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-etudes-15",
+      "theme": "études",
+      "title": "Recréer des doctorats d'État avec des doctorants salariés",
+      "summary": "Des doctorats d'État seraient recréés, les doctorants étant salariés comme attachés de recherche, avec des bourses post-doctorales et un statut de chercheur-entrepreneur.",
+      "excerpt": "Enfin, nous recréerons des doctorats d’État, sur un temps long, en salariant les doctorants comme attachés de recherche pour permettre des thèses ambitieuses et de futurs prix Nobel, avec des bourses pour les post-doctorants afin de capter les talents, et un statut de chercheur-entrepreneur autorisant les allers-retours entre l’université et l’entreprise sans perte du statut public.",
+      "tags": [
+        "doctorat",
+        "thèse",
+        "recherche",
+        "université"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-4/",
+        "locator": "Partie 4 - Un nouveau modèle économique, Refonder l’école et la formation"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-transport-01",
+      "theme": "transport",
+      "title": "Lancer un plan ferroviaire de 10 milliards d'euros",
+      "summary": "Un plan ferroviaire de 10 milliards d'euros financerait l'entretien du réseau et le renouvellement des matériels, avec l'objectif de 95 % de trains à l'heure d'ici 7 ans.",
+      "excerpt": "Elle s’accompagnera d’un grand plan ferroviaire de 10 milliards d’euros pour entretenir le réseau et renouveler les matériels, avec l’objectif de 95 % des trains à l’heure d’ici 7 ans.",
+      "tags": [
+        "train",
+        "ponctualité",
+        "ferroviaire",
+        "réseau"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-8/",
+        "locator": "Partie 8 - Un nouveau modèle d’organisation de la République et des Libertés, Le Pacte des Territoires"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "becht-transport-02",
+      "theme": "transport",
+      "title": "Lancer un plan d'aménagement de 10 milliards d'euros sur 5 ans",
+      "summary": "Un plan d'aménagement de 10 milliards d'euros sur 5 ans, soit 100 millions par département, financerait des investissements de proximité dont routes et voies ferrées.",
+      "excerpt": "L’État, de son côté, lancera un grand plan d’aménagement de 10 milliards d’euros sur 5 ans, soit 100 millions par département, pour les investissements de proximité, routes, voies ferrées, santé, culture, sport.",
+      "tags": [
+        "routes",
+        "voies ferrées",
+        "département",
+        "rural"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-8/",
+        "locator": "Partie 8 - Un nouveau modèle d’organisation de la République et des Libertés, Le Pacte des Territoires"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "becht-transport-03",
+      "theme": "transport",
+      "title": "Rendre bus, trains et métros pleinement accessibles en 7 ans",
+      "summary": "Les bus, trains et métros seraient rendus pleinement accessibles aux personnes handicapées en 7 ans et les maisons départementales du handicap renforcées.",
+      "excerpt": "Mais un petit commerce qui ne peut installer de rampe pourra poser une sonnette, une école placer ses classes au rez-de-chaussée plutôt que de bâtir un ascenseur ; les bus, trains et métros, eux, seront rendus pleinement accessibles en 7 ans, et les maisons départementales du handicap renforcées pour traiter les dossiers bien plus vite.",
+      "tags": [
+        "accessibilité",
+        "handicap",
+        "bus",
+        "métro",
+        "train"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-5/",
+        "locator": "Partie 5 - Un nouveau modèle social, Une place pour tous dans la société"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "becht-env-01",
+      "theme": "environnement",
+      "title": "Investir près de 150 milliards d'euros sur 20 ans dans les carburants de synthèse",
+      "summary": "La production de masse de carburants de synthèse mobiliserait près de 150 milliards d'euros d'investissement sur 20 ans et un développement de la production électrique nucléaire et renouvelable.",
+      "excerpt": "C’est un effort colossal, qui mobilisera la Nation pendant 20 ans, près de 150 milliards d’investissement et un développement massif de notre production électrique, nucléaire et renouvelable.",
+      "tags": [
+        "carburants de synthèse",
+        "énergie",
+        "nucléaire",
+        "renouvelable",
+        "climat"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-4/",
+        "locator": "Partie 4 - Un nouveau modèle économique, Une énergie abondante et bon marché"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "becht-env-02",
+      "theme": "environnement",
+      "title": "Viser la neutralité carbone dès 2045",
+      "summary": "La neutralité carbone serait atteinte dès 2045, 5 ans avant l'échéance de l'accord de Paris.",
+      "excerpt": "Nous atteindrions aussi la neutralité carbone dès 2045, 5 ans avant l’échéance que s’est fixée le monde à Paris.",
+      "tags": [
+        "neutralité carbone",
+        "climat",
+        "2045",
+        "émissions"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-4/",
+        "locator": "Partie 4 - Un nouveau modèle économique, Une énergie abondante et bon marché"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "becht-env-03",
+      "theme": "environnement",
+      "title": "Lancer un plan de 30 milliards d'euros d'adaptation au changement climatique",
+      "summary": "Un plan national de 30 milliards d'euros viserait à protéger les Français des effets du changement climatique.",
+      "excerpt": "Le Pacte des Territoires s’accompagnera, dans toute la France, d’un plan national de 30 milliards d’euros pour protéger les Français du changement climatique.",
+      "tags": [
+        "adaptation",
+        "changement climatique",
+        "inondations",
+        "canicule"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-8/",
+        "locator": "Partie 8 - Un nouveau modèle d’organisation de la République et des Libertés, Le Pacte des Territoires"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "becht-env-04",
+      "theme": "environnement",
+      "title": "Se passer des pesticides d'ici 10 ans avec le plan Ambition Phyto Zéro",
+      "summary": "Un plan « Ambition Phyto Zéro » mené avec les agriculteurs viserait à se passer des pesticides d'ici 10 ans.",
+      "excerpt": "Enfin, pour la santé comme pour la Nature, nous lancerons, avec les agriculteurs, un grand plan « Ambition Phyto Zéro », visant à se passer des pesticides d’ici 10 ans, alors même que les mauvaises herbes y deviennent résistantes.",
+      "tags": [
+        "pesticides",
+        "agriculture",
+        "phytosanitaires",
+        "biodiversité"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-8/",
+        "locator": "Partie 8 - Un nouveau modèle d’organisation de la République et des Libertés, Le Pacte avec la Nature"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "becht-env-05",
+      "theme": "environnement",
+      "title": "Garantir l'accès à l'eau potable en outre-mer d'ici 5 ans",
+      "summary": "Des moyens supplémentaires seraient affectés à l'outre-mer pour que d'ici 5 ans plus personne n'y soit privé d'eau potable.",
+      "excerpt": "Le Pacte y sera appliqué avec des moyens supplémentaires pour rattraper le retard en eau potable, en équipements sportifs et en santé : d’ici 5 ans, plus personne ne devra être privé d’eau potable en outre-mer.",
+      "tags": [
+        "eau potable",
+        "outre-mer",
+        "eau",
+        "équipements"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-8/",
+        "locator": "Partie 8 - Un nouveau modèle d’organisation de la République et des Libertés, Le Pacte des Territoires"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "becht-env-06",
+      "theme": "environnement",
+      "title": "Protéger l'outre-mer des risques climatiques et viser son indépendance énergétique sur 20 ans",
+      "summary": "En outre-mer, la priorité irait à la protection contre les risques climatiques et naturels puis à un programme sur 20 ans pour l'indépendance énergétique de chaque territoire.",
+      "excerpt": "La priorité ira d’abord à la protection face aux risques climatiques et naturels, immeubles renforcés contre les cyclones, digues contre les submersions, alerte précoce face aux séismes et aux volcans, puis à une énergie abondante et décarbonée, avec un programme sur 20 ans pour l’indépendance énergétique de chaque territoire.",
+      "tags": [
+        "outre-mer",
+        "cyclones",
+        "énergie décarbonée",
+        "risques naturels"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-8/",
+        "locator": "Partie 8 - Un nouveau modèle d’organisation de la République et des Libertés, Le Pacte des Territoires"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "becht-env-07",
+      "theme": "environnement",
+      "title": "Interdire la détention d'animaux aux personnes condamnées pour maltraitance",
+      "summary": "Les personnes condamnées pour maltraitance ou abandon ne pourraient plus détenir d'animal et la vente en ligne d'animaux sans contact direct avec l'éleveur serait interdite.",
+      "excerpt": "Nous renforcerons d’abord la protection du bien-être animal : interdiction de détenir un animal pour les personnes condamnées pour maltraitance ou abandon, interdiction de la vente en ligne sans contact direct avec l’éleveur.",
+      "tags": [
+        "bien-être animal",
+        "maltraitance",
+        "animaux",
+        "vente en ligne"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-8/",
+        "locator": "Partie 8 - Un nouveau modèle d’organisation de la République et des Libertés, Le Pacte avec la Nature"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-env-08",
+      "theme": "environnement",
+      "title": "Interdire la chasse à la colle",
+      "summary": "La chasse serait préservée pour réguler les espèces mais des pratiques comme la chasse à la colle seraient interdites.",
+      "excerpt": "Si la chasse est la plus vieille activité humaine et doit être préservée pour réguler les espèces, nous veillerons au bien-être animal, notamment en interdisant des pratiques comme la chasse à la colle.",
+      "tags": [
+        "chasse",
+        "chasse à la colle",
+        "bien-être animal",
+        "oiseaux"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-8/",
+        "locator": "Partie 8 - Un nouveau modèle d’organisation de la République et des Libertés, Le Pacte avec la Nature"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-env-09",
+      "theme": "environnement",
+      "title": "Permettre aux collectivités d'interdire la chasse les jours fériés dans les zones de promenade",
+      "summary": "Hors domaines privés ou clos, les collectivités pourraient interdire la chasse dans les zones de promenade ouvertes au public les jours fériés et pendant les vacances scolaires.",
+      "excerpt": "En dehors des grands domaines de chasse privés ou clos, nous permettrons également aux collectivités d’interdire la chasse dans les zones de promenades ouvertes au public les jours fériés et les vacances scolaires afin d’éviter les accidents.",
+      "tags": [
+        "chasse",
+        "promenade",
+        "accidents",
+        "collectivités"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-8/",
+        "locator": "Partie 8 - Un nouveau modèle d’organisation de la République et des Libertés, Le Pacte avec la Nature"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-env-10",
+      "theme": "environnement",
+      "title": "Rémunérer l'entretien des sols, haies et bois par des contrats locaux",
+      "summary": "L'agriculture prendrait soin des sols, des haies et des bois, entretien qui pourrait être rémunéré par des contrats locaux.",
+      "excerpt": "Elle sera aussi régénératrice, soignant les sols, les haies et les bois par un entretien qui pourra être rémunéré par des contrats locaux.",
+      "tags": [
+        "haies",
+        "agriculture",
+        "sols",
+        "biodiversité"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-4/",
+        "locator": "Partie 4 - Un nouveau modèle économique, Reconquérir notre souveraineté"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "becht-env-11",
+      "theme": "environnement",
+      "title": "Déroger à la règle du zéro artificialisation nette pour de nouvelles activités",
+      "summary": "Des dérogations à la règle du zéro artificialisation nette seraient accordées pour installer de nouvelles activités.",
+      "excerpt": "Et là où il faudra installer de nouvelles activités, nous saurons déroger à la règle du zéro artificialisation nette, qui ne doit pas devenir le prétexte à tout interdire : protéger la terre agricole, oui, mais sans figer le pays ni l’empêcher de produire.",
+      "tags": [
+        "zéro artificialisation nette",
+        "zan",
+        "terres agricoles",
+        "urbanisme"
+      ],
+      "source": {
+        "url": "https://becht2027.fr/chapitre/partie-4/",
+        "locator": "Partie 4 - Un nouveau modèle économique, Reconquérir notre souveraineté"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    }
+  ]
+}

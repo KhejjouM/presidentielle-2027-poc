@@ -1,0 +1,2910 @@
+{
+  "candidate_id": "melenchon",
+  "measures": [
+    {
+      "id": "melenchon-log-01",
+      "theme": "logement",
+      "title": "Atteindre l'objectif « zéro sans-abri » d'ici la fin du quinquennat",
+      "summary": "Le candidat propose d'appliquer le droit inconditionnel à un hébergement d'urgence de qualité et d'atteindre l'objectif de zéro sans-abri à l'issue du quinquennat.",
+      "excerpt": "Faire appliquer le droit inconditionnel à un hébergement d’urgence de qualité et atteindre l’objectif de « zéro sans-abri » à l’issue du quinquennat",
+      "tags": [
+        "sans-abri",
+        "hébergement d'urgence",
+        "sdf",
+        "logement"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre3",
+        "locator": "Partie 5, chapitre 3 : Une France sans déserts de droits – Garantir le droit au logement"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+          "note": "Le document budgétaire de la campagne pour 2027 prévoit 3 milliards d'euros pour la création de logements d'urgence et la réquisition de logements vacants, dans un ensemble de dépenses financé par 106,4 milliards d'euros de recettes nouvelles. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "melenchon-log-02",
+      "theme": "logement",
+      "title": "Interdire les expulsions locatives sans relogement public",
+      "summary": "Le candidat propose d'interdire les expulsions locatives sans relogement public et d'abroger la loi dite Kasbarian.",
+      "excerpt": "Interdire les expulsions locatives sans relogement public et abroger la loi dite « Kasbarian »",
+      "tags": [
+        "expulsion",
+        "locataire",
+        "loi kasbarian",
+        "relogement"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre3",
+        "locator": "Partie 5, chapitre 3 : Une France sans déserts de droits – Garantir le droit au logement"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-log-03",
+      "theme": "logement",
+      "title": "Créer une garantie universelle des loyers",
+      "summary": "Le candidat propose une garantie universelle des loyers servant de filet de sécurité contre les impayés, pour les locataires comme pour les propriétaires.",
+      "excerpt": "Mettre en place une garantie universelle des loyers créant un filet de sécurité contre les impayés de loyers pour les locataires comme pour les propriétaires",
+      "tags": [
+        "loyer",
+        "impayés",
+        "garantie",
+        "propriétaire",
+        "locataire"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre3",
+        "locator": "Partie 5, chapitre 3 : Une France sans déserts de droits – Garantir le droit au logement"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-log-04",
+      "theme": "logement",
+      "title": "Produire 200 000 logements publics et 30 000 logements jeunes par an pendant 5 ans",
+      "summary": "Le candidat propose de produire chaque année, pendant cinq ans, 200 000 logements publics et 30 000 logements pour les jeunes, aux normes écologiques les plus exigeantes.",
+      "excerpt": "Produire 200 000 logements publics par an et 30 000 logements jeunes pendant 5 ans aux normes écologiques les plus ambitieuses",
+      "tags": [
+        "logement social",
+        "hlm",
+        "construction",
+        "logement jeunes"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre3",
+        "locator": "Partie 5, chapitre 3 : Une France sans déserts de droits – Garantir le droit au logement"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "melenchon-log-05",
+      "theme": "logement",
+      "title": "Atteindre 400 000 nouveaux logements abordables par an sur 5 ans",
+      "summary": "Le plan d'investissement BTP et logement fixe un objectif de 400 000 nouveaux logements abordables par an pendant cinq ans, dont 200 000 logements publics, par une planification pluriannuelle et territorialisée.",
+      "excerpt": "Atteindre 400 000 nouveaux logements abordables par an dans les 5 prochaines années, dont 200 000 logements publics, par le biais d’une planification pluriannuelle et territorialisée",
+      "tags": [
+        "construction",
+        "logement abordable",
+        "logement social",
+        "immobilier"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
+        "locator": "Plan d'investissement productif BTP et logement"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "melenchon-log-06",
+      "theme": "logement",
+      "title": "Prévoir des logements pour seniors, jeunes et hébergement d'urgence",
+      "summary": "Le plan prévoit chaque année 40 000 logements adaptés aux seniors, 30 000 pour les étudiants et jeunes actifs et 10 000 logements destinés à l'hébergement d'urgence.",
+      "excerpt": "Ces 400 000 nouveaux logements par an devront tous être des logements abordables. 200 000 d’entre eux seront des logements publics, dont 140 000 logements « très sociaux » (dits « PLAI ») comme le préconise la Fondation pour le logement des défavorisés. Nous prévoirons des logements adaptés aux séniors (40 000 par an), aux jeunes étudiant·es et jeunes actifs (30 000 par an) et des logements destinés à l’hébergement d’urgence (10 000 par an).",
+      "tags": [
+        "logement senior",
+        "logement étudiant",
+        "hébergement d'urgence",
+        "construction"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
+        "locator": "Plan d'investissement productif BTP et logement"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-log-07",
+      "theme": "logement",
+      "title": "Geler les loyers puis encadrer les loyers sur tout le territoire",
+      "summary": "Le candidat propose de geler les loyers le temps de déployer un encadrement des loyers partout sur le territoire, à la baisse dans les grandes villes.",
+      "excerpt": "Geler les loyers le temps de déployer un encadrement des loyers partout sur le territoire et à la baisse dans les grandes villes",
+      "tags": [
+        "loyer",
+        "encadrement des loyers",
+        "gel des loyers",
+        "locataire"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre3",
+        "locator": "Partie 5, chapitre 3 : Une France sans déserts de droits – Garantir le droit au logement"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-log-08",
+      "theme": "logement",
+      "title": "Relever à 30 % le seuil de logements sociaux de la loi SRU",
+      "summary": "Le candidat propose de porter à 30 % le seuil de logements sociaux exigé des villes par la loi SRU, de le calculer par arrondissement dans les grandes métropoles et d'aggraver les sanctions des communes qui ne le respectent pas.",
+      "excerpt": "Rehausser le seuil de logements sociaux à 30 % dans les villes (loi relative à la solidarité et au renouvellement urbain, dite « SRU »), le calculer par arrondissements pour les grandes métropoles et aggraver les sanctions contre les communes hors la loi",
+      "tags": [
+        "loi sru",
+        "logement social",
+        "hlm",
+        "communes"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre3",
+        "locator": "Partie 5, chapitre 3 : Une France sans déserts de droits – Garantir le droit au logement"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-log-09",
+      "theme": "logement",
+      "title": "Limiter les meublés touristiques à 60 jours de location par an",
+      "summary": "Le candidat propose de limiter les locations de meublés touristiques de type Airbnb à 60 jours par an, de fixer des quotas en zone tendue, de les interdire dans l'hypercentre des grandes métropoles et de supprimer leur niche fiscale.",
+      "excerpt": "Lutter contre la spéculation sur le logement en limitant les locations de meublés touristiques de type Airbnb à 60 jours par an, fixer un quota de locations touristiques dans les zones en tension, interdire la location de meublés touristiques dans l’hypercentre des grandes métropoles et supprimer leur niche fiscale",
+      "tags": [
+        "airbnb",
+        "meublé touristique",
+        "location",
+        "zone tendue"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre3",
+        "locator": "Partie 5, chapitre 3 : Une France sans déserts de droits – Garantir le droit au logement"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-log-10",
+      "theme": "logement",
+      "title": "Plafonner à 5 le nombre de logements transmissibles par héritage",
+      "summary": "Le candidat propose un plafond de 5 logements transmissibles par héritage, les biens au-delà étant réquisitionnés par l'État et redistribués entre le parc social et l'accession à la propriété via des organismes de foncier solidaire.",
+      "excerpt": "Limiter la concentration immobilière en instaurant un plafond de 5 logements transmissibles par héritage ; au-delà, les biens sont réquisitionnés par l’État et redistribués entre le parc social et des dispositifs d’accès à la propriété par des organismes de foncier solidaire",
+      "tags": [
+        "héritage",
+        "multipropriété",
+        "immobilier",
+        "propriétaire"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre3",
+        "locator": "Partie 5, chapitre 3 : Une France sans déserts de droits – Garantir le droit au logement"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-log-11",
+      "theme": "logement",
+      "title": "Revaloriser les APL de 10 %",
+      "summary": "Le candidat propose d'augmenter de 10 % les aides personnalisées au logement.",
+      "excerpt": "Revaloriser les aides pour le logement (APL) de 10 %",
+      "tags": [
+        "apl",
+        "aide au logement",
+        "loyer",
+        "allocation"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2",
+        "locator": "Partie 2, chapitre 2 : Partager les richesses – Créer un état d'urgence sociale"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+          "note": "Le document budgétaire de la campagne pour 2027 chiffre à 8 milliards d'euros l'indexation sur l'inflation et la hausse de 10 % des pensions, allocations familiales et APL, dans un ensemble de dépenses financé par 106,4 milliards d'euros de recettes nouvelles. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "melenchon-log-12",
+      "theme": "logement",
+      "title": "Imposer 100 % de logements accessibles dans les constructions neuves",
+      "summary": "Le candidat propose de revenir sur la loi ELAN pour imposer que tous les logements neufs soient accessibles et de faire participer l'État au financement de l'adaptation des logements anciens.",
+      "excerpt": "Revenir sur la loi portant évolution du logement, de l’aménagement et du numérique (dite loi « ELAN ») d’Emmanuel Macron pour imposer 100 % de logements accessibles dans les constructions neuves (comme le prévoit la loi de 2005) et faire participer l’État aux financements des travaux d’adaptation des logements anciens",
+      "tags": [
+        "handicap",
+        "accessibilité",
+        "logement neuf",
+        "loi elan"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre2",
+        "locator": "Partie 3, chapitre 2 : Une République de l'égalité réelle et des droits nouveaux – Lever les obstacles à l'autonomie des personnes en situation de handicap"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-log-13",
+      "theme": "logement",
+      "title": "Créer une Inspection du logement",
+      "summary": "Le candidat propose une Inspection du logement, sur le modèle de l'Inspection du travail, chargée de faire respecter les droits des locataires, de contrôler et sanctionner les bailleurs et de lutter contre la spéculation.",
+      "excerpt": "Créer une Inspection du logement, sur le modèle de l’Inspection du travail pour faire respecter les droits des locataires, contrôler les bailleurs, sanctionner les manquements et lutter contre la spéculation",
+      "tags": [
+        "locataire",
+        "bailleur",
+        "contrôle",
+        "logement indigne"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre3",
+        "locator": "Partie 5, chapitre 3 : Une France sans déserts de droits – Garantir le droit au logement"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-log-14",
+      "theme": "logement",
+      "title": "Conditionner toute mise en location à un permis de louer",
+      "summary": "Le candidat propose de soumettre toute mise en location à l'obtention d'un permis de louer et de lancer un plan de rénovation des logements pour lutter contre l'habitat indigne, insalubre et les passoires thermiques.",
+      "excerpt": "Lutter contre l’habitat indigne, l’habitat insalubre et les passoires thermiques : conditionner toute mise en location en France à l’obtention d’un permis de louer et lancer un grand plan de rénovation des logements",
+      "tags": [
+        "permis de louer",
+        "logement insalubre",
+        "passoire thermique",
+        "location"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre3",
+        "locator": "Partie 5, chapitre 3 : Une France sans déserts de droits – Garantir le droit au logement"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-log-15",
+      "theme": "logement",
+      "title": "Créer une taxe unique et progressive sur les logements vacants",
+      "summary": "Le candidat propose une taxe unique sur les logements vacants, progressive selon le nombre de logements vacants détenus.",
+      "excerpt": "Augmenter le nombre de logements disponibles par une taxe unique sur les logements vacants, progressive selon le nombre de logements vacants détenus",
+      "tags": [
+        "logement vacant",
+        "taxe",
+        "propriétaire",
+        "immobilier"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre3",
+        "locator": "Partie 5, chapitre 3 : Une France sans déserts de droits – Garantir le droit au logement"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-sante-01",
+      "theme": "santé",
+      "title": "Rembourser à 100 % les soins prescrits (« 100 % Sécu »)",
+      "summary": "Le candidat propose de rembourser à 100 % les soins de santé prescrits et d'intégrer les complémentaires santé dans la Sécurité sociale.",
+      "excerpt": "Instaurer le « 100 % Sécu » en remboursant à 100 % les soins de santé prescrits et en intégrant les assurances maladie complémentaires dans la Sécurité sociale",
+      "tags": [
+        "remboursement",
+        "mutuelle",
+        "sécurité sociale",
+        "soins"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+        "locator": "Partie 3, chapitre 1 : À chacun selon ses besoins – Construire la Sécurité sociale intégrale"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-sante-02",
+      "theme": "santé",
+      "title": "Supprimer les franchises médicales et participations forfaitaires",
+      "summary": "Le candidat propose de viser un reste à charge nul en supprimant les franchises médicales, les participations forfaitaires et les frais annexes comme le stationnement payant à l'hôpital.",
+      "excerpt": "Garantir le zéro reste à charge en supprimant les franchises médicales, les participations forfaitaires et les frais annexes (comme le stationnement payant à l’hôpital)",
+      "tags": [
+        "franchise médicale",
+        "reste à charge",
+        "remboursement",
+        "hôpital"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+        "locator": "Partie 3, chapitre 1 : À chacun selon ses besoins – Construire la Sécurité sociale intégrale"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-sante-03",
+      "theme": "santé",
+      "title": "Indemniser les arrêts maladie à 100 % et supprimer les jours de carence",
+      "summary": "Le candidat propose d'indemniser les arrêts maladie à 100 % du salaire, de supprimer les jours de carence et de permettre l'auto-déclaration pour les arrêts courts.",
+      "excerpt": "Garantir le droit à l’arrêt maladie par l’indemnisation à 100 % du salaire, la suppression des jours de carence et l’auto-déclaration pour les arrêts de courte durée",
+      "tags": [
+        "arrêt maladie",
+        "jour de carence",
+        "indemnisation",
+        "salaire"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+        "locator": "Partie 3, chapitre 1 : À chacun selon ses besoins – Construire la Sécurité sociale intégrale"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-sante-04",
+      "theme": "santé",
+      "title": "Rouvrir urgences, maternités et EHPAD publics à moins de 30 minutes",
+      "summary": "Le candidat propose de rouvrir progressivement des services d'urgence, des maternités et des EHPAD publics afin que chaque Français dispose d'un service public de santé à moins de 30 minutes.",
+      "excerpt": "Réouvrir progressivement des services d’urgence, des maternités et des établissements d’hébergement pour personnes âgées dépendantes (EHPAD) publics assurant un service public de santé de proximité à moins de 30 minutes de chaque Français",
+      "tags": [
+        "urgences",
+        "maternité",
+        "hôpital",
+        "désert médical"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre4",
+        "locator": "Partie 4, chapitre 4 : Faire de la santé un enjeu global – Faire passer la santé d'abord"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-sante-05",
+      "theme": "santé",
+      "title": "Recruter 100 000 soignants à l'hôpital et 300 000 dans le médico-social",
+      "summary": "Le plan santé prévoit un recrutement pluriannuel de 100 000 soignants et médecins supplémentaires à l'hôpital et de 300 000 dans le médico-social et les EHPAD, ainsi que des ratios minimum de soignants par patient.",
+      "excerpt": "Engager un plan de recrutement pluriannuel pour avoir 100 000 soignant·es et médecins supplémentaires à l’hôpital, 300 000 dans le secteur médico-social et les EHPAD. Rendre obligatoire des ratios minimum de soignant·es par patient·es afin d’en finir avec la maltraitance institutionnelle",
+      "tags": [
+        "soignants",
+        "recrutement",
+        "hôpital",
+        "infirmier",
+        "ehpad"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/plans-thematiques/sante/",
+        "locator": "Plan thématique santé – 3.2.5 Former, recruter et protéger les professionnel·les de santé"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-sante-06",
+      "theme": "santé",
+      "title": "Rembourser à 100 % les séances de psychologue au-delà de 12 par an",
+      "summary": "Le candidat propose d'élargir le conventionnement des psychologues par la Sécurité sociale au-delà de 12 séances par an, avec un remboursement à 100 %.",
+      "excerpt": "Élargir le conventionnement de psychologues par la Sécurité sociale, au-delà de 12 séances par an et avec un remboursement à 100 %",
+      "tags": [
+        "psychologue",
+        "santé mentale",
+        "remboursement",
+        "séances"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre4",
+        "locator": "Partie 4, chapitre 4 : Faire de la santé un enjeu global – Santé mentale"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-sante-07",
+      "theme": "santé",
+      "title": "Rembourser la psychothérapie pour les moins de 26 ans",
+      "summary": "Le candidat propose de rembourser les séances de psychothérapie pour les personnes de moins de 26 ans.",
+      "excerpt": "Rembourser les séances de psychothérapie pour les moins de 26 ans",
+      "tags": [
+        "psychothérapie",
+        "jeunes",
+        "santé mentale",
+        "remboursement"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre2",
+        "locator": "Partie 3, chapitre 2 : Une République de l'égalité réelle et des droits nouveaux – Construire l'autonomie des jeunes"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-sante-08",
+      "theme": "santé",
+      "title": "Créer 2 500 postes de psychologues dans les centres médico-psychologiques",
+      "summary": "Le plan santé prévoit de recruter des psychiatres et des soignants et de créer 2 500 postes de psychologues dans les centres médico-psychologiques pour réduire les délais d'attente.",
+      "excerpt": "Recruter des psychiatres et des soignant·es et créer 2 500 postes de psychologues dans les centres médico-psychologiques , pour réduire les délais d’attente et assurer la continuité des soins",
+      "tags": [
+        "psychologue",
+        "psychiatrie",
+        "cmp",
+        "santé mentale"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/plans-thematiques/sante/",
+        "locator": "Plan thématique santé – 3.1.3 Répondre à la crise de la psychiatrie"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-sante-09",
+      "theme": "santé",
+      "title": "Ouvrir au moins 360 lits de pédopsychiatrie",
+      "summary": "Le plan santé prévoit d'ouvrir au moins 360 lits de pédopsychiatrie avec les équipes nécessaires, pour mettre fin aux hospitalisations d'enfants dans des unités pour adultes.",
+      "excerpt": "Ouvrir au moins 360 lits en pédopsychiatrie , avec les équipes nécessaires, et organiser des prises en charge adaptées pour mettre fin aux hospitalisations d’enfants dans les unités pour adultes",
+      "tags": [
+        "pédopsychiatrie",
+        "enfants",
+        "santé mentale",
+        "hôpital"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/plans-thematiques/sante/",
+        "locator": "Plan thématique santé – 3.1.3 Répondre à la crise de la psychiatrie"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-sante-10",
+      "theme": "santé",
+      "title": "Conclure 10 000 contrats d'engagement de service public d'ici la fin du quinquennat",
+      "summary": "Le plan santé fixe l'objectif de 10 000 contrats d'engagement de service public conclus avec des étudiants en médecine à la fin du quinquennat.",
+      "excerpt": "Augmenter le recours au contrat d’engagement de service public (CESP) pour les étudiant·es en médecine avec un objectif de 10 000 contrats conclus à la fin du quinquennat",
+      "tags": [
+        "étudiants en médecine",
+        "désert médical",
+        "médecin",
+        "cesp"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/plans-thematiques/sante/",
+        "locator": "Plan thématique santé – 3.2.5 Former, recruter et protéger les professionnel·les de santé"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "melenchon-sante-11",
+      "theme": "santé",
+      "title": "Rouvrir des lits d'hôpital avec 20 % de lits vacants disponibles",
+      "summary": "Le plan santé prévoit de rouvrir progressivement des lits avec l'objectif de conserver 20 % de lits vacants disponibles pour absorber les variations d'activité.",
+      "excerpt": "Rouvrir progressivement des lits en fonction des capacités avec l’objectif de garder un taux de lits vacants disponibles de 20 % pour pouvoir gérer sans tension les variations d’activité",
+      "tags": [
+        "lits",
+        "hôpital",
+        "urgences",
+        "capacités"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/plans-thematiques/sante/",
+        "locator": "Plan thématique santé – 3.2.3 Refonder l'hôpital public"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-sante-12",
+      "theme": "santé",
+      "title": "Relocaliser 80 principes actifs de médicaments stratégiques en 5 ans",
+      "summary": "Le candidat propose de relocaliser en cinq ans la production de 80 principes actifs nécessaires à des médicaments stratégiques, en priorité antibiotiques, antidouleurs, antiépileptiques et spécialités de réanimation.",
+      "excerpt": "Relocaliser 80 principes actifs nécessaires pour des médicaments stratégiques en 5 ans en priorisant les antibiotiques, antidouleurs, antiépileptiques et spécialités de réanimation",
+      "tags": [
+        "médicament",
+        "pénurie",
+        "pharmacie",
+        "relocalisation"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre2",
+        "locator": "Partie 1, chapitre 2 : Produire nous-mêmes pour répondre aux besoins – Investir pour lancer la bifurcation de notre économie"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "melenchon-sante-13",
+      "theme": "santé",
+      "title": "Doubler le budget du programme de recherche environnement-santé-travail",
+      "summary": "Le candidat propose de doubler le budget du programme national de recherche « environnement – santé – travail » et de publier les résultats de ses enquêtes.",
+      "excerpt": "Doubler le budget du programme national de recherche « environnement – santé – travail » et publier le résultat de ses enquêtes",
+      "tags": [
+        "recherche",
+        "santé environnementale",
+        "pollution",
+        "maladie"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre4",
+        "locator": "Partie 4, chapitre 4 : Faire de la santé un enjeu global – S'organiser pour faire face aux maladies écologiques"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-sante-14",
+      "theme": "santé",
+      "title": "Mettre fin aux dépassements d'honoraires dans le secteur conventionné",
+      "summary": "Le candidat propose de supprimer les dépassements d'honoraires dans le secteur conventionné en révisant les inadéquations tarifaires.",
+      "excerpt": "Mettre fin aux dépassements d’honoraires dans le secteur conventionné en révisant les inadéquations tarifaires",
+      "tags": [
+        "dépassement d'honoraires",
+        "médecin",
+        "spécialiste",
+        "remboursement"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+        "locator": "Partie 3, chapitre 1 : À chacun selon ses besoins – Construire la Sécurité sociale intégrale"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-sante-15",
+      "theme": "santé",
+      "title": "Réguler l'installation des médecins",
+      "summary": "Le candidat propose de réguler l'installation des médecins et de généraliser les guichets uniques pour les démarches d'installation des soignants.",
+      "excerpt": "Réguler l’installation des médecins, généraliser les guichets uniques pour les démarches d’installation des soignants",
+      "tags": [
+        "désert médical",
+        "médecin",
+        "installation",
+        "généraliste"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre4",
+        "locator": "Partie 4, chapitre 4 : Faire de la santé un enjeu global – Actionner tous les leviers pour combattre les déserts médicaux"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-pa-01",
+      "theme": "pouvoir d'achat",
+      "title": "Porter immédiatement le SMIC à 1 700 euros net par mois",
+      "summary": "Le candidat propose de porter immédiatement le SMIC mensuel à 1 700 euros net et d'indexer les salaires sur l'inflation dans le privé et la fonction publique.",
+      "excerpt": "Porter immédiatement le SMIC mensuel à 1 700 euros net et indexer les salaires sur l’inflation dans le privé comme dans la fonction publique",
+      "tags": [
+        "smic",
+        "salaire",
+        "inflation",
+        "indexation"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2",
+        "locator": "Partie 2, chapitre 2 : Partager les richesses – Augmenter les salaires"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "melenchon-pa-02",
+      "theme": "pouvoir d'achat",
+      "title": "Créer une garantie d'autonomie portant chaque revenu au seuil de pauvreté",
+      "summary": "Le candidat propose une garantie d'autonomie qui porterait le revenu mensuel de chaque personne au niveau du seuil de pauvreté, soit 1 337 euros pour une personne seule.",
+      "excerpt": "Créer une garantie d’autonomie, qui permettra que nul ne soit privé de sa dignité pour vivre : le revenu mensuel de chaque personne atteindra le seuil de pauvreté (1 337 euros pour une personne seule)",
+      "tags": [
+        "pauvreté",
+        "revenu minimum",
+        "minima sociaux",
+        "garantie d'autonomie"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+        "locator": "Partie 3, chapitre 1 : À chacun selon ses besoins – Éradiquer la pauvreté"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-pa-03",
+      "theme": "pouvoir d'achat",
+      "title": "Bloquer le prix du carburant à 1,70 euro le litre",
+      "summary": "Le document budgétaire de la campagne annonce un décret de blocage des prix du carburant pour ramener le prix à la pompe à 1,70 euro par litre.",
+      "excerpt": "Dans le cadre de l’état d’urgence sociale, un décret de blocage des prix du carburant sera pris pour ramener le prix à la pompe à 1,70 euro par litre.",
+      "tags": [
+        "carburant",
+        "essence",
+        "prix",
+        "blocage des prix"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+        "locator": "Comment nous allons remettre de l'ordre dans les comptes publics, page 9 – Répondre aux urgences"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-pa-04",
+      "theme": "pouvoir d'achat",
+      "title": "Bloquer les prix des produits de première nécessité",
+      "summary": "Le candidat propose de bloquer et d'encadrer les prix de l'alimentation, de l'énergie et du carburant et d'interdire la réduflation.",
+      "excerpt": "Bloquer et encadrer les prix des produits de première nécessité (alimentation, énergie, carburant) et interdire la « réduflation » (réduction des quantités pour le même prix)",
+      "tags": [
+        "prix",
+        "courses",
+        "énergie",
+        "réduflation"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2",
+        "locator": "Partie 2, chapitre 2 : Partager les richesses – Créer un état d'urgence sociale"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-pa-05",
+      "theme": "pouvoir d'achat",
+      "title": "Rendre gratuite une première tranche d'électricité, de chaleur, d'eau et de gaz",
+      "summary": "Le candidat propose une première tranche de consommation gratuite pour l'électricité, la chaleur, l'eau et le gaz.",
+      "excerpt": "Instaurer une première tranche gratuite de consommation d’électricité, de chaleur, d’eau, de gaz",
+      "tags": [
+        "électricité",
+        "gaz",
+        "eau",
+        "facture",
+        "énergie"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+        "locator": "Partie 3, chapitre 1 : À chacun selon ses besoins – Éradiquer la pauvreté"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-pa-06",
+      "theme": "pouvoir d'achat",
+      "title": "Rétablir des tarifs réglementés de l'énergie",
+      "summary": "Le candidat propose de rétablir des tarifs réglementés de l'énergie calculés sur les coûts de production, pour les particuliers, les entreprises, les collectivités et les bailleurs sociaux, avec la gratuité des premières quantités indispensables.",
+      "excerpt": "Remettre en place des tarifs réglementés de l’énergie, calculés à partir des coûts de production, pour les particuliers comme pour les entreprises, les collectivités locales et les bailleurs sociaux, tout en y incluant des objectifs sociaux, comme la gratuité des premières quantités indispensables à une vie digne",
+      "tags": [
+        "électricité",
+        "gaz",
+        "tarif réglementé",
+        "facture"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "locator": "Partie 1, chapitre 3 : Les grands chantiers de la bifurcation écologique – Organiser le 100 % d'énergies renouvelables"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-pa-07",
+      "theme": "pouvoir d'achat",
+      "title": "Revaloriser de 10 % le point d'indice des fonctionnaires",
+      "summary": "Le candidat propose d'augmenter de 10 % la valeur du point d'indice des fonctionnaires, d'inscrire son dégel dans la loi et de compenser cette hausse pour les collectivités territoriales.",
+      "excerpt": "Revaloriser la valeur du point d’indice des fonctionnaires de 10 %, inscrire son dégel dans la loi et compenser intégralement cette augmentation pour les collectivités territoriales",
+      "tags": [
+        "fonctionnaire",
+        "point d'indice",
+        "salaire",
+        "fonction publique"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2",
+        "locator": "Partie 2, chapitre 2 : Partager les richesses – Créer un état d'urgence sociale"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+          "note": "Le document budgétaire de la campagne pour 2027 chiffre la hausse de 10 % des fonctionnaires à 17 milliards d'euros, dans un ensemble de dépenses financé par 106,4 milliards d'euros de recettes nouvelles. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "melenchon-pa-08",
+      "theme": "pouvoir d'achat",
+      "title": "Passer l'impôt sur le revenu à 14 tranches",
+      "summary": "Le candidat propose un barème de l'impôt sur le revenu à 14 tranches au lieu de 5 actuellement.",
+      "excerpt": "Rendre l’impôt sur le revenu plus progressif avec un barème à 14 tranches contre 5 aujourd’hui",
+      "tags": [
+        "impôt sur le revenu",
+        "tranches",
+        "fiscalité",
+        "impôt"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2",
+        "locator": "Partie 2, chapitre 2 : Partager les richesses – Faire la révolution fiscale"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-pa-09",
+      "theme": "pouvoir d'achat",
+      "title": "Exonérer de droits de succession les héritages de moins de 150 000 euros",
+      "summary": "Le candidat propose de ne plus appliquer de droits de succession aux héritages inférieurs à 150 000 euros.",
+      "excerpt": "Exonérer de droits de succession les héritages inférieurs à 150 000 euros",
+      "tags": [
+        "héritage",
+        "succession",
+        "impôt",
+        "taxe"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2",
+        "locator": "Partie 2, chapitre 2 : Partager les richesses – Faire la révolution fiscale"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-pa-10",
+      "theme": "pouvoir d'achat",
+      "title": "Rétablir une taxe d'habitation progressive dont 80 % des ménages seraient exonérés",
+      "summary": "Le candidat propose de rétablir une taxe d'habitation calculée selon les revenus des occupants et la valeur du logement, dont 80 % des ménages seraient exonérés.",
+      "excerpt": "Redonner des moyens aux communes en rétablissant une taxe d’habitation calculée selon un barème progressif en fonction des revenus des occupants et de la valeur du logement, dont 80 % des ménages seraient exonérés",
+      "tags": [
+        "taxe d'habitation",
+        "impôt local",
+        "communes",
+        "taxe"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre3",
+        "locator": "Partie 5, chapitre 3 : Une France sans déserts de droits – Une République affirmant le rôle central des communes"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-pa-11",
+      "theme": "pouvoir d'achat",
+      "title": "Revaloriser l'AAH au niveau du SMIC",
+      "summary": "Le candidat propose de porter l'allocation aux adultes handicapés au niveau du SMIC.",
+      "excerpt": "Assurer l’autonomie financière des personnes en situation de handicap en revalorisant l’allocation aux adultes handicapés (AAH) à hauteur du SMIC",
+      "tags": [
+        "aah",
+        "handicap",
+        "allocation",
+        "smic"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre2",
+        "locator": "Partie 3, chapitre 2 : Une République de l'égalité réelle et des droits nouveaux – Lever les obstacles à l'autonomie des personnes en situation de handicap"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-pa-12",
+      "theme": "pouvoir d'achat",
+      "title": "Bloquer le prix de cinq fruits et légumes de saison",
+      "summary": "Le candidat propose de garantir en permanence l'accès à cinq fruits et légumes de saison à prix bloqués.",
+      "excerpt": "Garantir en permanence l’accès à cinq fruits et légumes de saison à prix bloqués",
+      "tags": [
+        "fruits et légumes",
+        "prix",
+        "alimentation",
+        "courses"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre4",
+        "locator": "Partie 4, chapitre 4 : Faire de la santé un enjeu global – En finir avec la malbouffe"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-pa-13",
+      "theme": "pouvoir d'achat",
+      "title": "Plafonner les prix alimentaires et encadrer les marges",
+      "summary": "Le candidat propose de plafonner le prix des produits alimentaires par des coefficients multiplicateurs et d'encadrer les marges de l'agroalimentaire et de la grande distribution.",
+      "excerpt": "Plafonner le prix des produits alimentaires en fixant des coefficients multiplicateurs et en encadrant les marges des industries agroalimentaires et de la grande distribution",
+      "tags": [
+        "prix",
+        "alimentation",
+        "grande distribution",
+        "marges",
+        "courses"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "locator": "Partie 1, chapitre 3 : Les grands chantiers de la bifurcation écologique – Souveraineté alimentaire et révolution agricole"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-pa-14",
+      "theme": "pouvoir d'achat",
+      "title": "Plafonner strictement les frais d'incidents bancaires",
+      "summary": "Le candidat propose de plafonner strictement les frais d'incidents bancaires.",
+      "excerpt": "Plafonner strictement les frais d’incidents bancaires pour empêcher les banques de s’enrichir grâce à la pauvreté",
+      "tags": [
+        "banque",
+        "frais bancaires",
+        "incident",
+        "pauvreté"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+        "locator": "Partie 3, chapitre 1 : À chacun selon ses besoins – Éradiquer la pauvreté"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-pa-15",
+      "theme": "pouvoir d'achat",
+      "title": "Rendre gratuit le socle bancaire essentiel",
+      "summary": "Le candidat propose la gratuité du socle bancaire essentiel pour tous les titulaires d'un compte courant.",
+      "excerpt": "Garantir la gratuité du socle bancaire essentiel pour tous les titulaires d’un compte courant",
+      "tags": [
+        "banque",
+        "frais bancaires",
+        "compte courant",
+        "gratuité"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre3",
+        "locator": "Partie 2, chapitre 3 : Un pacte productif pour répondre aux besoins – Pour des banques au service de l'intérêt général"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-emploi-01",
+      "theme": "emploi",
+      "title": "Rétablir immédiatement les 35 heures et passer aux 32 heures dans les métiers pénibles",
+      "summary": "Le candidat propose de rétablir immédiatement la durée légale de 35 heures avec des heures supplémentaires majorées à 25 % puis 50 %, de passer aux 32 heures dans les métiers pénibles ou de nuit et d'en favoriser la généralisation par la négociation.",
+      "excerpt": "Rétablir immédiatement la durée légale hebdomadaire du temps de travail à 35 heures (en majorant les heures supplémentaires, cotisations incluses, à 25 % pour les quatre premières et 50 % au-delà), passer aux 32 heures dans les métiers pénibles ou de nuit et favoriser leur généralisation par la négociation collective",
+      "tags": [
+        "35 heures",
+        "temps de travail",
+        "heures supplémentaires",
+        "32 heures"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+        "locator": "Partie 3, chapitre 1 : À chacun selon ses besoins – Réduire le temps de travail"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "melenchon-emploi-02",
+      "theme": "emploi",
+      "title": "Limiter les contrats précaires à 10 % dans les PME et 5 % dans les grandes entreprises",
+      "summary": "Le candidat propose un quota maximal de contrats précaires fixé à 10 % des effectifs dans les PME et à 5 % dans les grandes entreprises.",
+      "excerpt": "Instaurer un quota maximal de contrats précaires dans les entreprises : 10 % pour les petites et moyennes entreprises (PME), 5 % pour les grandes entreprises",
+      "tags": [
+        "cdd",
+        "intérim",
+        "précarité",
+        "contrat"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+        "locator": "Partie 3, chapitre 1 : À chacun selon ses besoins – Un emploi stable pour chacun"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-emploi-03",
+      "theme": "emploi",
+      "title": "Généraliser une sixième semaine de congés payés",
+      "summary": "Le candidat propose une sixième semaine de congés payés pour tous les salariés.",
+      "excerpt": "Généraliser une sixième semaine de congés payés pour tous les salariés",
+      "tags": [
+        "congés payés",
+        "vacances",
+        "salariés",
+        "temps de travail"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+        "locator": "Partie 3, chapitre 1 : À chacun selon ses besoins – Réduire le temps de travail"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-emploi-04",
+      "theme": "emploi",
+      "title": "Créer une garantie d'emploi pour les chômeurs de longue durée",
+      "summary": "Le candidat propose que tout chômeur de longue durée puisse se voir proposer un emploi payé au moins au SMIC revalorisé dans un secteur d'urgence.",
+      "excerpt": "Créer une garantie d’emploi : tout chômeur de longue durée pourra se voir proposer d’être embauché au moins au SMIC revalorisé dans un secteur d’urgence",
+      "tags": [
+        "chômage",
+        "chômeur de longue durée",
+        "garantie d'emploi",
+        "smic"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+        "locator": "Partie 3, chapitre 1 : À chacun selon ses besoins – Établir la garantie d'emploi"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-emploi-05",
+      "theme": "emploi",
+      "title": "Annuler les réformes de l'assurance chômage",
+      "summary": "Le candidat propose d'annuler les réformes sur l'éligibilité, le calcul du montant et la durée de l'allocation chômage, pour indemniser selon les derniers salaires dès le premier jour de travail.",
+      "excerpt": "Annuler les réformes Macron sur l’éligibilité et les méthodes de calcul du montant et de la durée de l’allocation, de sorte à indemniser les chômeurs en fonction de leurs derniers salaires, grâce à une assurance calculée à partir du premier jour de travail",
+      "tags": [
+        "assurance chômage",
+        "allocation chômage",
+        "chômage",
+        "indemnisation"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+        "locator": "Partie 3, chapitre 1 : À chacun selon ses besoins – Rétablir une assurance chômage protectrice"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+          "note": "Le document budgétaire de la campagne pour 2027 chiffre l'abrogation des réformes de l'assurance chômage à 3 milliards d'euros, dans un ensemble de dépenses financé par 106,4 milliards d'euros de recettes nouvelles. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "melenchon-emploi-06",
+      "theme": "emploi",
+      "title": "Doubler les effectifs de l'inspection du travail",
+      "summary": "Le candidat propose de doubler les effectifs de l'inspection du travail et de l'autoriser à interrompre un chantier pour raison climatique.",
+      "excerpt": "Doubler les effectifs de l’inspection du travail et l’autoriser à interrompre un chantier pour raison climatique",
+      "tags": [
+        "inspection du travail",
+        "sécurité au travail",
+        "chantier",
+        "salariés"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+        "locator": "Partie 3, chapitre 1 : À chacun selon ses besoins – En finir avec la souffrance et la mort au travail"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-emploi-07",
+      "theme": "emploi",
+      "title": "Ouvrir un droit à 36 heures de formation par an pour chaque salarié",
+      "summary": "Le candidat propose que chaque salarié dispose de 36 heures de formation par an, utilisables dans le domaine de son choix.",
+      "excerpt": "Donner à chaque salarié le droit à 36 heures de formation par an, librement utilisables dans le domaine de son choix",
+      "tags": [
+        "formation",
+        "reconversion",
+        "salariés",
+        "compétences"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+        "locator": "Partie 3, chapitre 1 : À chacun selon ses besoins – Une Sécurité sociale professionnelle"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-emploi-08",
+      "theme": "emploi",
+      "title": "Créer un « emploi spécifique jeune » de cinq ans",
+      "summary": "Le candidat propose un emploi spécifique jeune d'une durée de cinq ans dans le secteur non marchand et public pour réduire le chômage des jeunes.",
+      "excerpt": "Instaurer un « emploi spécifique jeune » d’une durée de cinq ans dans le secteur non marchand et public pour éliminer le chômage des jeunes (trois fois supérieur à celui de leurs aînés à diplôme égal)",
+      "tags": [
+        "jeunes",
+        "chômage",
+        "emploi jeune",
+        "embauche"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre2",
+        "locator": "Partie 3, chapitre 2 : Une République de l'égalité réelle et des droits nouveaux – Construire l'autonomie des jeunes"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-emploi-09",
+      "theme": "emploi",
+      "title": "Instaurer une durée minimale de 3 heures de travail par jour dans certains secteurs",
+      "summary": "Le candidat propose une durée minimale quotidienne de travail de 3 heures dans les secteurs qui recourent massivement au temps partiel subi.",
+      "excerpt": "Lutter contre le temps partiel subi en instaurant une durée minimale quotidienne de travail de 3 heures dans les secteurs y recourant massivement",
+      "tags": [
+        "temps partiel",
+        "horaires",
+        "salariés",
+        "contrat"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2",
+        "locator": "Partie 2, chapitre 2 : Partager les richesses – Augmenter les salaires"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-emploi-10",
+      "theme": "emploi",
+      "title": "Limiter l'écart de salaires de 1 à 20 dans une entreprise",
+      "summary": "Le candidat propose un salaire maximal autorisé limitant à 1 à 20 l'écart entre le plus bas et le plus haut salaire d'une entreprise.",
+      "excerpt": "Fixer un salaire maximal autorisé pour limiter l’écart de 1 à 20 entre le salaire le plus bas et le salaire le plus haut dans une entreprise",
+      "tags": [
+        "salaire",
+        "salaire maximum",
+        "écart de salaires",
+        "entreprise"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2",
+        "locator": "Partie 2, chapitre 2 : Partager les richesses – Augmenter les salaires"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-emploi-11",
+      "theme": "emploi",
+      "title": "Former 250 000 salariés du BTP d'ici 2030",
+      "summary": "Le plan BTP et logement fixe l'objectif de former 250 000 salariés d'ici 2030 grâce à des filières de formation initiale et continue.",
+      "excerpt": "Nous nous fixerons comme priorité de structurer des filières de formation (initiale et continue) avec pour objectif la formation de 250 000 salarié·es d’ici 2030. Nous le ferons en sécurisant les débouchés professionnels sur le long terme et en soutenant directement la formation dans le secteur.",
+      "tags": [
+        "formation",
+        "btp",
+        "bâtiment",
+        "rénovation"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
+        "locator": "Plan d'investissement productif BTP et logement"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "melenchon-emploi-12",
+      "theme": "emploi",
+      "title": "Créer 500 000 emplois agricoles",
+      "summary": "Le candidat propose une agriculture relocalisée, diversifiée et écologique et la création de 500 000 emplois agricoles.",
+      "excerpt": "Instaurer une agriculture relocalisée, diversifiée et écologique et créer 500 000 emplois agricoles",
+      "tags": [
+        "agriculture",
+        "agriculteur",
+        "emploi agricole",
+        "paysan"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "locator": "Partie 1, chapitre 3 : Les grands chantiers de la bifurcation écologique – Souveraineté alimentaire et révolution agricole"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-emploi-13",
+      "theme": "emploi",
+      "title": "Titulariser les contractuels des trois fonctions publiques",
+      "summary": "Le candidat propose de titulariser les agents précaires des fonctions publiques d'État, territoriale et hospitalière.",
+      "excerpt": "Titulariser les précaires des trois fonctions publiques",
+      "tags": [
+        "fonction publique",
+        "contractuel",
+        "titularisation",
+        "précarité"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+        "locator": "Partie 3, chapitre 1 : À chacun selon ses besoins – Un emploi stable pour chacun"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-emploi-14",
+      "theme": "emploi",
+      "title": "Instaurer la présomption de salariat pour les travailleurs des plateformes",
+      "summary": "Le candidat propose de transposer la directive européenne sur la présomption de salariat afin d'empêcher les plateformes numériques de recourir à de faux indépendants.",
+      "excerpt": "Transposer dans le droit français la directive européenne sur la présomption de salariat empêchant les plateformes numériques (Uber, Deliveroo, etc.) d’avoir recours aux faux indépendants",
+      "tags": [
+        "uber",
+        "plateforme",
+        "indépendant",
+        "auto-entrepreneur",
+        "salariat"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+        "locator": "Partie 3, chapitre 1 : À chacun selon ses besoins – Un emploi stable pour chacun"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-emploi-15",
+      "theme": "emploi",
+      "title": "Interdire les licenciements dans les entreprises qui versent des dividendes",
+      "summary": "Le candidat propose d'interdire les licenciements boursiers et économiques dans les entreprises qui versent des dividendes ou reçoivent des aides de l'État.",
+      "excerpt": "Interdire les licenciements boursiers et économiques par les entreprises qui versent des dividendes ou bénéficient des aides de l’État",
+      "tags": [
+        "licenciement",
+        "dividendes",
+        "aides publiques",
+        "entreprise"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre3",
+        "locator": "Partie 2, chapitre 3 : Un pacte productif pour répondre aux besoins – Définanciariser l'économie réelle"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-etudes-01",
+      "theme": "études",
+      "title": "Descendre sous 19 élèves par classe",
+      "summary": "Le candidat propose de réduire les effectifs par classe en dessous de la moyenne européenne de 19 élèves, en priorité en maternelle et en éducation prioritaire.",
+      "excerpt": "Réduire partout les effectifs par classe pour faire mieux que la moyenne européenne de 19 élèves par classe en donnant la priorité aux maternelles et aux classes des actuels réseaux d’éducation prioritaire (REP)",
+      "tags": [
+        "classe",
+        "effectifs",
+        "école",
+        "maternelle",
+        "rep"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre2",
+        "locator": "Partie 4, chapitre 2 : Élever le niveau d'éducation et de savoirs – Reconstruire une école globale"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-etudes-02",
+      "theme": "études",
+      "title": "Étendre la scolarité obligatoire jusqu'à 18 ans",
+      "summary": "Le candidat propose de rendre la scolarité obligatoire jusqu'à 18 ans.",
+      "excerpt": "Étendre la scolarité obligatoire à 18 ans",
+      "tags": [
+        "scolarité obligatoire",
+        "lycée",
+        "école",
+        "jeunes"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre2",
+        "locator": "Partie 4, chapitre 2 : Élever le niveau d'éducation et de savoirs – Reconstruire une école globale"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-etudes-03",
+      "theme": "études",
+      "title": "Garantir une école publique à moins de 15 minutes du domicile",
+      "summary": "Le candidat propose de construire et maintenir des établissements publics à taille humaine afin que chacun ait une école publique à moins de 15 minutes de chez lui.",
+      "excerpt": "Construire et maintenir des écoles, collèges et lycées publics à taille humaine, afin de garantir l’accès à une école publique à moins de 15 minutes du domicile, et investir dans les équipements sportifs scolaires",
+      "tags": [
+        "école",
+        "collège",
+        "lycée",
+        "proximité"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre2",
+        "locator": "Partie 4, chapitre 2 : Élever le niveau d'éducation et de savoirs – Reconstruire une école globale"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-etudes-04",
+      "theme": "études",
+      "title": "Rendre gratuites la cantine, les fournitures et les activités périscolaires",
+      "summary": "Le candidat propose la gratuité de l'éducation publique, y compris cantine, transport, périscolaire, manuels et fournitures.",
+      "excerpt": "Assurer la gratuité réelle de l’éducation publique, y compris de la cantine, du transport, des activités périscolaires, des manuels et des fournitures",
+      "tags": [
+        "cantine",
+        "fournitures scolaires",
+        "gratuité",
+        "école"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre2",
+        "locator": "Partie 4, chapitre 2 : Élever le niveau d'éducation et de savoirs – Reconstruire une école globale"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-etudes-05",
+      "theme": "études",
+      "title": "Supprimer Parcoursup et ouvrir l'université sans sélection",
+      "summary": "Le candidat propose de garantir à tous les bacheliers l'accès sans sélection à la formation de leur choix en démantelant Parcoursup et de rétablir le droit à la poursuite d'études en master.",
+      "excerpt": "Garantir à tous les bacheliers l’accès sans sélection à la formation de leur choix en démantelant le système Parcoursup et restaurer le droit à la poursuite d’études en master",
+      "tags": [
+        "parcoursup",
+        "université",
+        "bac",
+        "master",
+        "sélection"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre2",
+        "locator": "Partie 4, chapitre 2 : Élever le niveau d'éducation et de savoirs – Refonder et ouvrir l'enseignement supérieur"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-etudes-06",
+      "theme": "études",
+      "title": "Créer 250 000 places dans l'enseignement supérieur public",
+      "summary": "Le plan enseignement supérieur prévoit 250 000 places supplémentaires dans les formations publiques et une plateforme nationale de candidatures fondée sur une sectorisation sans sélection.",
+      "excerpt": "Créer 250 000 places dans les formations de l’ESR public et établir une plateforme nationale centralisée pour les candidatures, fondée sur une sectorisation sans sélection, pour faciliter la lisibilité des formations disponibles, avec une attention particulière portée à l’Île-de-France pour contrer les inégalités existantes",
+      "tags": [
+        "université",
+        "places",
+        "parcoursup",
+        "étudiant"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/plans-thematiques/esr/",
+        "locator": "Plan thématique enseignement supérieur, recherche et formation continue"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+          "note": "Le document budgétaire de la campagne pour 2027 chiffre la création de 250 000 places à l'université à 3,5 milliards d'euros, dans un ensemble de dépenses financé par 106,4 milliards d'euros de recettes nouvelles. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "melenchon-etudes-07",
+      "theme": "études",
+      "title": "Rendre l'enseignement supérieur gratuit de la licence au doctorat",
+      "summary": "Le candidat propose la gratuité de l'enseignement supérieur de la licence au doctorat, quelle que soit la nationalité des étudiants.",
+      "excerpt": "Instaurer la gratuité de l’enseignement supérieur, de la licence au doctorat, quelle que soit la nationalité des étudiants",
+      "tags": [
+        "frais d'inscription",
+        "université",
+        "étudiant",
+        "gratuité"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre2",
+        "locator": "Partie 4, chapitre 2 : Élever le niveau d'éducation et de savoirs – Refonder et ouvrir l'enseignement supérieur"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-etudes-08",
+      "theme": "études",
+      "title": "Instaurer le repas à un euro au Crous pour tous les étudiants",
+      "summary": "Le candidat propose le repas à un euro dans les restaurants du Crous pour tous les étudiants et au moins un restaurant universitaire à proximité de chaque campus.",
+      "excerpt": "Instaurer réellement le repas à un euro dans les centres régionaux des œuvres universitaires et scolaires (Crous) pour tous les étudiants, en garantissant les financements nécessaires à un repas de qualité ainsi que l’obligation d’au moins un restaurant universitaire à proximité de chaque campus",
+      "tags": [
+        "crous",
+        "repas",
+        "étudiant",
+        "restaurant universitaire"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre2",
+        "locator": "Partie 3, chapitre 2 : Une République de l'égalité réelle et des droits nouveaux – Construire l'autonomie des jeunes"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-etudes-09",
+      "theme": "études",
+      "title": "Verser une garantie d'autonomie de 1 337 euros aux jeunes détachés du foyer parental",
+      "summary": "Le plan enseignement supérieur prévoit une garantie d'autonomie pour tous les jeunes détachés du foyer fiscal de leurs parents afin qu'aucun ne vive sous le seuil de pauvreté de 1 337 euros.",
+      "excerpt": "Créer une garantie d’autonomie pour tous les jeunes détaché·es du foyer fiscal de leurs parents afin qu’aucun·e ne vive en dessous du seuil de pauvreté (1 337 euros pour une personne seule)",
+      "tags": [
+        "étudiant",
+        "bourse",
+        "jeunes",
+        "garantie d'autonomie",
+        "pauvreté"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/plans-thematiques/esr/",
+        "locator": "Plan thématique enseignement supérieur, recherche et formation continue"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+          "note": "Le document budgétaire de la campagne pour 2027 chiffre la garantie d'autonomie des jeunes à 9,5 milliards d'euros, dans un ensemble de dépenses financé par 106,4 milliards d'euros de recettes nouvelles. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "melenchon-etudes-10",
+      "theme": "études",
+      "title": "Financer 8 000 contrats doctoraux supplémentaires par an",
+      "summary": "Le plan enseignement supérieur prévoit 8 000 contrats doctoraux supplémentaires par an, l'extension du contrat doctoral à quatre ans et davantage de contrats avec des missions d'enseignement.",
+      "excerpt": "Proposer 8 000 contrats doctoraux supplémentaires par an, avec l’extension du contrat doctoral à 4 ans, et augmenter le nombre de contrats avec des missions d’enseignement",
+      "tags": [
+        "doctorat",
+        "thèse",
+        "recherche",
+        "doctorant"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/plans-thematiques/esr/",
+        "locator": "Plan thématique enseignement supérieur, recherche et formation continue"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-etudes-11",
+      "theme": "études",
+      "title": "Recruter au moins 40 000 personnels statutaires dans le supérieur en 5 ans",
+      "summary": "Le plan enseignement supérieur prévoit un plan de recrutement d'au moins 40 000 personnels statutaires sur cinq ans pour accompagner la hausse des effectifs étudiants et les besoins de recherche.",
+      "excerpt": "Pour accompagner la progression des effectifs étudiants et répondre aux besoins de recherche, nous lancerons un plan pluriannuel de recrutement de 40 000 personnels statutaires à minima sur 5 ans. Ce plan inclura :",
+      "tags": [
+        "université",
+        "recrutement",
+        "enseignant-chercheur",
+        "recherche"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/plans-thematiques/esr/",
+        "locator": "Plan thématique enseignement supérieur, recherche et formation continue"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "melenchon-etudes-12",
+      "theme": "études",
+      "title": "Rétablir le bac professionnel en quatre ans",
+      "summary": "Le candidat propose de rétablir le baccalauréat professionnel en quatre ans, d'abroger les réformes du lycée professionnel et de remplacer les nouvelles périodes de stage par des cours en atelier.",
+      "excerpt": "Rétablir le baccalauréat professionnel en quatre ans, abroger les contre-réformes du lycée professionnel, renforcer les enseignements professionnels et généraux, supprimer les nouvelles périodes de stage pour privilégier les cours en atelier",
+      "tags": [
+        "bac pro",
+        "lycée professionnel",
+        "apprentissage",
+        "stage"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre2",
+        "locator": "Partie 4, chapitre 2 : Élever le niveau d'éducation et de savoirs – Qualifier tout le monde"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-etudes-13",
+      "theme": "études",
+      "title": "Porter l'effort de recherche à 3 % du PIB dont 1,5 % public en 2032",
+      "summary": "Le plan enseignement supérieur fixe l'objectif d'un effort de recherche et développement d'au moins 3 % du PIB, dont 1,5 % pour le secteur public, en 2032.",
+      "excerpt": "Nous porterons l’effort de recherche et développement (R&D) à au moins 3 % du PIB, dont 1,5 % pour le secteur public en 2032.",
+      "tags": [
+        "recherche",
+        "université",
+        "budget",
+        "r&d"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/plans-thematiques/esr/",
+        "locator": "Plan thématique enseignement supérieur, recherche et formation continue – introduction"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "melenchon-etudes-14",
+      "theme": "études",
+      "title": "Éradiquer l'illettrisme à l'horizon 2032",
+      "summary": "Le candidat propose d'éradiquer l'illettrisme chez les jeunes sortis du système scolaire et les adultes à l'horizon 2032.",
+      "excerpt": "Éradiquer l’illettrisme pour les jeunes sortis du système scolaire et les adultes à l’horizon 2032",
+      "tags": [
+        "illettrisme",
+        "lecture",
+        "formation",
+        "adultes"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre2",
+        "locator": "Partie 4, chapitre 2 : Élever le niveau d'éducation et de savoirs – Éradiquer l'illettrisme"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-etudes-15",
+      "theme": "études",
+      "title": "Supprimer la contribution de vie étudiante et de campus",
+      "summary": "Le candidat propose de supprimer la CVEC et de financer les Crous selon les besoins comme service public de la vie étudiante.",
+      "excerpt": "Supprimer la contribution de vie étudiante et de campus (CVEC) et financer à la hauteur des besoins les centres régionaux des œuvres universitaires et scolaires (Crous) comme service public de la vie étudiante",
+      "tags": [
+        "cvec",
+        "crous",
+        "étudiant",
+        "frais"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre2",
+        "locator": "Partie 4, chapitre 2 : Élever le niveau d'éducation et de savoirs – Refonder et ouvrir l'enseignement supérieur"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-retraite-01",
+      "theme": "retraite",
+      "title": "Abroger la retraite à 64 ans et revenir à 60 ans avec 40 annuités",
+      "summary": "Le candidat propose d'abroger le report de l'âge de départ à 64 ans puis d'abaisser l'âge de départ jusqu'à rétablir la retraite à 60 ans à taux plein pour 40 annuités de cotisation.",
+      "excerpt": "Abroger la réforme Macron passant l’âge de départ à la retraite à 64 ans, puis abaisser l’âge de départ jusqu’à restaurer le droit à la retraite à 60 ans à taux plein pour 40 annuités de cotisations",
+      "tags": [
+        "retraite",
+        "âge de départ",
+        "60 ans",
+        "64 ans",
+        "annuités"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+        "locator": "Partie 3, chapitre 1 : À chacun selon ses besoins – Garantir une retraite digne"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        },
+        "chiffrage_candidat": {
+          "value": "cout_seul",
+          "source_url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+          "note": "Le document budgétaire de la campagne pour 2027 chiffre l'abrogation de la réforme portant la retraite à 64 ans à 9 milliards d'euros, dans un ensemble de dépenses financé par 106,4 milliards d'euros de recettes nouvelles ; le retour à 60 ans n'y est pas chiffré. Le financement présenté par le candidat est global, il n'est pas rattaché à cette mesure."
+        }
+      }
+    },
+    {
+      "id": "melenchon-retraite-02",
+      "theme": "retraite",
+      "title": "Porter les pensions de carrière complète au niveau du SMIC",
+      "summary": "Le candidat propose de porter au moins au niveau du SMIC revalorisé toutes les pensions pour une carrière complète, y compris pour les indépendants et agriculteurs, et le minimum vieillesse au niveau du seuil de pauvreté.",
+      "excerpt": "Porter, a minima, toutes les pensions pour une carrière complète (salarié, indépendant, agriculteur) au niveau du SMIC revalorisé, et le minimum vieillesse au niveau du seuil de pauvreté",
+      "tags": [
+        "pension",
+        "minimum vieillesse",
+        "retraite",
+        "smic"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+        "locator": "Partie 3, chapitre 1 : À chacun selon ses besoins – Garantir une retraite digne"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-retraite-03",
+      "theme": "retraite",
+      "title": "Supprimer la décote sur les pensions",
+      "summary": "Le candidat propose de supprimer la décote appliquée aux pensions.",
+      "excerpt": "Supprimer la décote, qui représente une double peine pour les retraités, en particulier les femmes et les plus précaires",
+      "tags": [
+        "décote",
+        "pension",
+        "retraite",
+        "trimestres"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+        "locator": "Partie 3, chapitre 1 : À chacun selon ses besoins – Garantir une retraite digne"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-retraite-04",
+      "theme": "retraite",
+      "title": "Valider des trimestres de retraite pendant les périodes de RSA",
+      "summary": "Le candidat propose que les périodes de RSA permettent de valider des trimestres pour la retraite.",
+      "excerpt": "Comptabiliser le RSA pour valider des trimestres en vue de la retraite",
+      "tags": [
+        "rsa",
+        "trimestres",
+        "retraite",
+        "cotisation"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+        "locator": "Partie 3, chapitre 1 : À chacun selon ses besoins – Garantir une retraite digne"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-retraite-05",
+      "theme": "retraite",
+      "title": "Supprimer les avantages fiscaux de la retraite par capitalisation",
+      "summary": "Le candidat propose de supprimer les avantages fiscaux de la retraite par capitalisation pour financer le système par répartition.",
+      "excerpt": "Supprimer les avantages fiscaux de la retraite par capitalisation pour financer le système par répartition",
+      "tags": [
+        "capitalisation",
+        "épargne retraite",
+        "répartition",
+        "retraite"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+        "locator": "Partie 3, chapitre 1 : À chacun selon ses besoins – Garantir une retraite digne"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-retraite-06",
+      "theme": "retraite",
+      "title": "Compenser les exonérations de cotisations pour le financement des retraites",
+      "summary": "Le candidat propose de revenir sur la non-compensation des exonérations de cotisations, présentée comme pénalisant le financement des retraites.",
+      "excerpt": "Revenir sur la non-compensation des exonérations de cotisations, qui pénalisent le financement des retraites",
+      "tags": [
+        "cotisation",
+        "exonérations",
+        "financement",
+        "retraite"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+        "locator": "Partie 3, chapitre 1 : À chacun selon ses besoins – Garantir une retraite digne"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-retraite-07",
+      "theme": "retraite",
+      "title": "Interdire au Fonds de réserve pour les retraites d'investir dans les secteurs polluants",
+      "summary": "Le candidat propose d'interdire au Fonds de réserve pour les retraites d'investir dans des secteurs polluants.",
+      "excerpt": "Interdire au Fonds de réserve pour les retraites d’investir dans des secteurs polluants",
+      "tags": [
+        "fonds de réserve",
+        "retraite",
+        "placement",
+        "pollution"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+        "locator": "Partie 3, chapitre 1 : À chacun selon ses besoins – Garantir une retraite digne"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-retraite-08",
+      "theme": "retraite",
+      "title": "Prendre en compte la pénibilité dans les droits à la retraite",
+      "summary": "Le plan santé prévoit de reconnaître la pénibilité dans les carrières et les droits à la retraite en tenant compte des contraintes physiques, du travail de nuit et des horaires alternants.",
+      "excerpt": "Reconnaître la pénibilité du travail dans les carrières et les droits à la retraite, en prenant en compte les contraintes physiques, le travail de nuit et les horaires alternants.",
+      "tags": [
+        "pénibilité",
+        "travail de nuit",
+        "retraite",
+        "carrière"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/plans-thematiques/sante/",
+        "locator": "Plan thématique santé – 3.2.7 Protéger la santé au travail"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-retraite-09",
+      "theme": "retraite",
+      "title": "Réformer la protection sociale agricole pour les retraites des agriculteurs",
+      "summary": "Le candidat propose une réforme du système de protection sociale agricole pour garantir une retraite aux agricultrices et agriculteurs.",
+      "excerpt": "Garantir aux agricultrices et agriculteurs le droit à une retraite digne en engageant une réforme du système de protection sociale agricole",
+      "tags": [
+        "agriculteur",
+        "retraite agricole",
+        "pension",
+        "msa"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "locator": "Partie 1, chapitre 3 : Les grands chantiers de la bifurcation écologique – Souveraineté alimentaire et révolution agricole"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-retraite-10",
+      "theme": "retraite",
+      "title": "Créer 10 000 places par an en EHPAD publics pendant cinq ans",
+      "summary": "Le candidat propose de créer 10 000 places par an en EHPAD publics pendant cinq ans et de refonder le financement de ces établissements.",
+      "excerpt": "Créer 10 000 places par an en établissement d’hébergement pour personnes âgées dépendantes (EHPAD) publics pendant cinq ans, refonder le modèle de financement de ces établissements pour augmenter leurs moyens matériels et humains",
+      "tags": [
+        "ehpad",
+        "maison de retraite",
+        "personnes âgées",
+        "senior"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre2",
+        "locator": "Partie 3, chapitre 2 : Une République de l'égalité réelle et des droits nouveaux – Faire face collectivement à la perte d'autonomie"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "melenchon-famille-01",
+      "theme": "famille",
+      "title": "Créer un congé d'accueil de l'enfant de 20 semaines par parent",
+      "summary": "Le candidat propose de remplacer les congés paternité et maternité par un congé d'accueil de l'enfant identique et obligatoire pour les deux parents, de 20 semaines chacun.",
+      "excerpt": "Remplacer le congé paternité et le congé maternité actuels par un congé d’accueil de l’enfant, identique et obligatoire pour les deux parents, d’une durée de 20 semaines par parent",
+      "tags": [
+        "congé maternité",
+        "congé paternité",
+        "naissance",
+        "parent"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre3",
+        "locator": "Partie 3, chapitre 3 : Entrer pleinement dans l'ère de l'émancipation des femmes – Atteindre l'égalité salariale"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-famille-02",
+      "theme": "famille",
+      "title": "Ouvrir progressivement 500 000 places d'accueil pour les jeunes enfants",
+      "summary": "Le candidat propose de planifier l'ouverture progressive de 500 000 places d'accueil des jeunes enfants en crèches publiques, associatives, chez des assistantes maternelles et en jardins d'enfants.",
+      "excerpt": "Planifier l’ouverture progressive de 500 000 places pour l’accueil des jeunes enfants (crèches publiques, associatives, assistantes maternelles, jardins d’enfants)",
+      "tags": [
+        "crèche",
+        "garde d'enfant",
+        "assistante maternelle",
+        "petite enfance"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre3",
+        "locator": "Partie 3, chapitre 3 : Entrer pleinement dans l'ère de l'émancipation des femmes – Faire le service public de la petite enfance"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-famille-03",
+      "theme": "famille",
+      "title": "Rendre gratuites les crèches publiques",
+      "summary": "Le candidat propose la gratuité des crèches publiques.",
+      "excerpt": "Garantir la gratuité des crèches publiques",
+      "tags": [
+        "crèche",
+        "gratuité",
+        "garde d'enfant",
+        "bébé"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre3",
+        "locator": "Partie 3, chapitre 3 : Entrer pleinement dans l'ère de l'émancipation des femmes – Faire le service public de la petite enfance"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-famille-04",
+      "theme": "famille",
+      "title": "Viser 5 enfants par adulte dans l'accueil des jeunes enfants",
+      "summary": "Le candidat propose des normes d'encadrement visant un ratio moyen de 5 enfants d'âges mélangés par adulte.",
+      "excerpt": "Fixer des normes d’encadrement plus ambitieuses pour aller vers un ratio moyen d’encadrement de 5 enfants d’âges mélangés par adulte",
+      "tags": [
+        "crèche",
+        "encadrement",
+        "petite enfance",
+        "garde d'enfant"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre3",
+        "locator": "Partie 3, chapitre 3 : Entrer pleinement dans l'ère de l'émancipation des femmes – Faire le service public de la petite enfance"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-famille-05",
+      "theme": "famille",
+      "title": "Créer un service public de la petite enfance",
+      "summary": "Le candidat propose la création d'un service public de la petite enfance.",
+      "excerpt": "Créer un véritable service public de la petite enfance",
+      "tags": [
+        "petite enfance",
+        "crèche",
+        "service public",
+        "garde d'enfant"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre3",
+        "locator": "Partie 3, chapitre 3 : Entrer pleinement dans l'ère de l'émancipation des femmes – Faire le service public de la petite enfance"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-famille-06",
+      "theme": "famille",
+      "title": "Supprimer les aides publiques aux crèches privées lucratives",
+      "summary": "Le candidat propose de geler les ouvertures de places dans les crèches privées lucratives et de réorienter vers le public les financements en interdisant les aides publiques à ces crèches.",
+      "excerpt": "Geler les ouvertures de places du secteur privé lucratif et réorienter les financements vers l’ouverture de places dans le public par l’interdiction des aides publiques aux crèches privées lucratives",
+      "tags": [
+        "crèche privée",
+        "aides publiques",
+        "petite enfance",
+        "garde d'enfant"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre3",
+        "locator": "Partie 3, chapitre 3 : Entrer pleinement dans l'ère de l'émancipation des femmes – Faire le service public de la petite enfance"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-famille-07",
+      "theme": "famille",
+      "title": "Mailler le territoire de centres de PMI",
+      "summary": "Le candidat propose de mailler le territoire de centres de protection maternelle et infantile et de lieux ressources pour les parents, avec davantage de moyens.",
+      "excerpt": "Mailler le territoire de centres de protection maternelle et infantile (PMI) et de lieux ressources pour les parents ; renforcer leurs moyens humains et financiers, afin de développer l’accompagnement à la périnatalité et à la parentalité",
+      "tags": [
+        "pmi",
+        "parentalité",
+        "naissance",
+        "périnatalité"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre3",
+        "locator": "Partie 3, chapitre 3 : Entrer pleinement dans l'ère de l'émancipation des femmes – Faire le service public de la petite enfance"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-famille-08",
+      "theme": "famille",
+      "title": "Déconjugaliser et revaloriser l'allocation de soutien familial",
+      "summary": "Le candidat propose de déconjugaliser et revaloriser l'allocation de soutien familial, de défiscaliser les pensions alimentaires et de réduire les délais de la justice familiale.",
+      "excerpt": "Garantir le droit de partir et lutter contre la précarité des mères isolées : déconjugaliser et revaloriser l’allocation de soutien familial (ASF), défiscaliser les pensions alimentaires, réduire les délais de la justice familiale",
+      "tags": [
+        "famille monoparentale",
+        "pension alimentaire",
+        "allocation",
+        "mère isolée"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre2",
+        "locator": "Partie 3, chapitre 2 : Une République de l'égalité réelle et des droits nouveaux – Reconnaître toutes les familles"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-famille-09",
+      "theme": "famille",
+      "title": "Créer un statut « famille monoparentale » ouvrant des réductions de tarifs",
+      "summary": "Le candidat propose un statut de famille monoparentale, sur le modèle du statut de famille nombreuse, donnant droit à des réductions dans les transports et les services publics.",
+      "excerpt": "Créer un statut « famille monoparentale » sur le modèle du statut « famille nombreuse » ouvrant le droit à des réductions de tarifs dans les transports et les services publics",
+      "tags": [
+        "famille monoparentale",
+        "réduction",
+        "transport",
+        "parent seul"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre2",
+        "locator": "Partie 3, chapitre 2 : Une République de l'égalité réelle et des droits nouveaux – Reconnaître toutes les familles"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-famille-10",
+      "theme": "famille",
+      "title": "Créer un crédit d'impôt par enfant pour toutes les familles",
+      "summary": "Le candidat propose un crédit d'impôt par enfant pour toutes les familles.",
+      "excerpt": "Créer un crédit d’impôt par enfant pour toutes les familles",
+      "tags": [
+        "enfant",
+        "crédit d'impôt",
+        "famille",
+        "impôt"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2",
+        "locator": "Partie 2, chapitre 2 : Partager les richesses – Faire la révolution fiscale"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-famille-11",
+      "theme": "famille",
+      "title": "Ouvrir un congé de 7 jours pour le décès d'un proche",
+      "summary": "Le candidat propose un congé de 7 jours consécutifs en cas de décès d'un proche, membre de la famille ou ami.",
+      "excerpt": "Ouvrir un congé de 7 jours consécutifs pour le décès d’un proche (membre de la famille ou ami)",
+      "tags": [
+        "congé",
+        "décès",
+        "deuil",
+        "famille"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre2",
+        "locator": "Partie 3, chapitre 2 : Une République de l'égalité réelle et des droits nouveaux – Reconnaître toutes les familles"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-famille-12",
+      "theme": "famille",
+      "title": "Créer un statut d'aidant familial rémunéré",
+      "summary": "Le candidat propose un statut d'aidant familial avec une rémunération, une formation adaptée et des périodes de repos grâce à des heures d'aide extérieure.",
+      "excerpt": "Créer un véritable statut d’aidant familial, avec une rémunération réelle, une formation adaptée et l’organisation de périodes de repos en attribuant des heures d’aide extérieure",
+      "tags": [
+        "aidant familial",
+        "proche aidant",
+        "rémunération",
+        "dépendance"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre2",
+        "locator": "Partie 3, chapitre 2 : Une République de l'égalité réelle et des droits nouveaux – Faire face collectivement à la perte d'autonomie"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-famille-13",
+      "theme": "famille",
+      "title": "Accompagner jusqu'à 25 ans les jeunes sortant de l'aide sociale à l'enfance",
+      "summary": "Le candidat propose un accompagnement social et financier jusqu'à 25 ans pour les jeunes sortant de l'aide sociale à l'enfance.",
+      "excerpt": "Accompagner socialement et financièrement jusqu’à 25 ans les jeunes sortant de l’aide sociale à l’enfance (ASE)",
+      "tags": [
+        "ase",
+        "protection de l'enfance",
+        "jeunes",
+        "placement"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre2",
+        "locator": "Partie 3, chapitre 2 : Une République de l'égalité réelle et des droits nouveaux – Protéger les enfants"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-famille-14",
+      "theme": "famille",
+      "title": "Reconnaître un statut de beau-parent",
+      "summary": "Le candidat propose un statut de beau-parent, sous condition de l'intérêt de l'enfant et de la participation effective aux tâches éducatives.",
+      "excerpt": "Reconnaître un statut de beau-parent sous condition de l’intérêt supérieur de l’enfant et de la participation effective aux tâches éducatives",
+      "tags": [
+        "beau-parent",
+        "famille recomposée",
+        "enfant",
+        "parent"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre2",
+        "locator": "Partie 3, chapitre 2 : Une République de l'égalité réelle et des droits nouveaux – Reconnaître toutes les familles"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-famille-15",
+      "theme": "famille",
+      "title": "Accroître les moyens de la PMA et ouvrir davantage de centres",
+      "summary": "Le candidat propose d'accroître les moyens de la PMA et d'ouvrir des centres en nombre suffisant pour réduire les délais, harmoniser les pratiques et la rendre accessible aux personnes trans.",
+      "excerpt": "Accroître les moyens dédiés à la PMA et ouvrir des centres dédiés en nombre suffisant pour réduire les délais, harmoniser les pratiques à l’échelle nationale et rendre la PMA réellement accessible aux personnes trans",
+      "tags": [
+        "pma",
+        "procréation",
+        "naissance",
+        "parent"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre2",
+        "locator": "Partie 3, chapitre 2 : Une République de l'égalité réelle et des droits nouveaux – Reconnaître toutes les familles"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-transport-01",
+      "theme": "transport",
+      "title": "Créer un pôle public des transports et de la mobilité",
+      "summary": "Le candidat propose la création d'un pôle public des transports et de la mobilité.",
+      "excerpt": "Créer un pôle public des transports et de la mobilité",
+      "tags": [
+        "transport",
+        "mobilité",
+        "service public",
+        "train"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "locator": "Partie 1, chapitre 3 : Les grands chantiers de la bifurcation écologique – Développer les transports publics écologiques"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-transport-02",
+      "theme": "transport",
+      "title": "Renationaliser la SNCF et refuser la mise en concurrence des lignes",
+      "summary": "Le candidat propose de renationaliser la SNCF et de refuser la mise en concurrence des lignes de transport.",
+      "excerpt": "Renationaliser la Société nationale des chemins de fer français (SNCF) et refuser la mise en concurrence des lignes de transport",
+      "tags": [
+        "sncf",
+        "train",
+        "nationalisation",
+        "concurrence"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "locator": "Partie 1, chapitre 3 : Les grands chantiers de la bifurcation écologique – Développer les transports publics écologiques"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-transport-03",
+      "theme": "transport",
+      "title": "Rouvrir des lignes ferroviaires du quotidien et augmenter la fréquence des trains",
+      "summary": "Le candidat propose d'arrêter la suppression des lignes ferroviaires du quotidien, d'en rouvrir, d'augmenter le nombre et la fréquence des trains à tarifs accessibles et de maintenir des guichets en gare.",
+      "excerpt": "Stopper la suppression des lignes ferroviaires du quotidien et en réouvrir, augmenter le nombre et la fréquence des trains tout en garantissant des tarifs accessibles, maintenir et réimplanter des guichets physiques dans les gares",
+      "tags": [
+        "train",
+        "ligne ferroviaire",
+        "gare",
+        "rural"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "locator": "Partie 1, chapitre 3 : Les grands chantiers de la bifurcation écologique – Développer les transports publics écologiques"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-transport-04",
+      "theme": "transport",
+      "title": "Réduire le prix des billets de train",
+      "summary": "Le candidat propose de réduire le prix des billets de train, notamment en supprimant la tarification algorithmique.",
+      "excerpt": "Réduire le prix des billets de train, notamment en mettant fin à la gestion algorithmique des prix",
+      "tags": [
+        "billet de train",
+        "prix",
+        "sncf",
+        "train"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "locator": "Partie 1, chapitre 3 : Les grands chantiers de la bifurcation écologique – Développer les transports publics écologiques"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-transport-05",
+      "theme": "transport",
+      "title": "Supprimer les vols intérieurs quand le train fait moins de quatre heures",
+      "summary": "Le candidat propose de supprimer les lignes aériennes intérieures lorsqu'une alternative en train de moins de quatre heures existe.",
+      "excerpt": "Supprimer les lignes aériennes intérieures quand l’alternative en train est inférieure à quatre heures",
+      "tags": [
+        "avion",
+        "vols intérieurs",
+        "train",
+        "trajet"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "locator": "Partie 1, chapitre 3 : Les grands chantiers de la bifurcation écologique – Développer les transports publics écologiques"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-transport-06",
+      "theme": "transport",
+      "title": "Interdire les vols de nuit entre 23 h et 6 h",
+      "summary": "Le candidat propose d'interdire les vols de nuit entre 23 h et 6 h dans tous les aéroports français et de réduire le nombre de créneaux de décollage le reste du temps.",
+      "excerpt": "Interdire les vols de nuit dans tous les aéroports français entre 23 h et 6 h et réduire le nombre de créneaux de décollage disponibles le reste du temps",
+      "tags": [
+        "avion",
+        "aéroport",
+        "vols de nuit",
+        "bruit"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "locator": "Partie 1, chapitre 3 : Les grands chantiers de la bifurcation écologique – Développer les transports publics écologiques"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-transport-07",
+      "theme": "transport",
+      "title": "Orienter la production vers une voiture électrique à 10 000 euros",
+      "summary": "Le plan automobile vise une offre de véhicules électriques à 10 000 euros pour permettre à des ménages de classe moyenne d'acheter une voiture électrique neuve.",
+      "excerpt": "L’orientation de l’offre vers un véhicule électrique à 10 000 euros permettra à des millions de ménages de classe moyenne d’accéder à une voiture électrique neuve, alors que celles-ci sont aujourd’hui trop chères. Pour autant, cela ne suffira pas pour que tous les milieux populaires puissent changer de voiture. Aujourd’hui, 8 millions de Français parmi les plus pauvres ont un véhicule polluant âgé de plus de 10 ans.",
+      "tags": [
+        "voiture électrique",
+        "prix",
+        "automobile",
+        "achat"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/plans-investissement/automobile/",
+        "locator": "Plan d'investissement productif automobile"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-transport-08",
+      "theme": "transport",
+      "title": "Diffuser des voitures électriques légères par le leasing social",
+      "summary": "Le candidat propose d'utiliser la commande publique et le leasing social pour diffuser des voitures électriques légères et à prix modeste.",
+      "excerpt": "Utiliser la commande publique et le leasing social pour diffuser les voitures électriques légères et à prix modeste",
+      "tags": [
+        "leasing social",
+        "voiture électrique",
+        "location",
+        "voiture"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "locator": "Partie 1, chapitre 3 : Les grands chantiers de la bifurcation écologique – Développer les transports publics écologiques"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-transport-09",
+      "theme": "transport",
+      "title": "Instaurer un moratoire sur les zones à faibles émissions",
+      "summary": "Le candidat propose un moratoire sur les zones à faibles émissions dans leur conception actuelle, dont il estime que les critères induisent des inégalités sociales.",
+      "excerpt": "Décréter un moratoire sur les zones à faibles émissions (ZFE) dans leur conception actuelle, dont les critères induisent des inégalités sociales et une trop grande tolérance à l’égard de certains véhicules, notamment les SUV, qualifiés à tort de non-polluants",
+      "tags": [
+        "zfe",
+        "voiture",
+        "crit'air",
+        "pollution"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "locator": "Partie 1, chapitre 3 : Les grands chantiers de la bifurcation écologique – Développer les transports publics écologiques"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-transport-10",
+      "theme": "transport",
+      "title": "Soutenir les garages solidaires et l'aide à la réparation automobile",
+      "summary": "Le candidat propose de garantir le droit à la mobilité dans les territoires peu desservis en soutenant les garages solidaires et en aidant à la réparation dans le cadre du contrôle technique.",
+      "excerpt": "Garantir le droit à la mobilité et l’accès aux réseaux dans les collectivités peu dotées en transports collectifs par le soutien aux garages solidaires et une aide suffisante à la réparation dans le cadre du contrôle technique",
+      "tags": [
+        "voiture",
+        "rural",
+        "contrôle technique",
+        "réparation",
+        "campagne"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "locator": "Partie 1, chapitre 3 : Les grands chantiers de la bifurcation écologique – Développer les transports publics écologiques"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-transport-11",
+      "theme": "transport",
+      "title": "Développer les transports publics à la demande hors des zones denses",
+      "summary": "Le candidat propose de développer des transports publics à la demande en dehors des zones denses.",
+      "excerpt": "Développer les transports publics à la demande hors des zones denses en transport public",
+      "tags": [
+        "transport à la demande",
+        "rural",
+        "bus",
+        "campagne"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "locator": "Partie 1, chapitre 3 : Les grands chantiers de la bifurcation écologique – Développer les transports publics écologiques"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-transport-12",
+      "theme": "transport",
+      "title": "Rétablir le plan Vélo",
+      "summary": "Le candidat propose de rétablir le plan Vélo et d'augmenter les investissements pour la sécurité des cyclistes.",
+      "excerpt": "Rétablir le plan Vélo supprimé par la Macronie et porter les investissements à la hauteur des besoins pour assurer la sécurité des cyclistes",
+      "tags": [
+        "vélo",
+        "piste cyclable",
+        "sécurité",
+        "mobilité"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "locator": "Partie 1, chapitre 3 : Les grands chantiers de la bifurcation écologique – Développer les transports publics écologiques"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-transport-13",
+      "theme": "transport",
+      "title": "Limiter la taille et le poids des SUV vendus",
+      "summary": "Le candidat propose de limiter la taille, le poids et les dimensions des SUV autorisés à la vente.",
+      "excerpt": "Limiter la taille, le poids et les dimensions des SUV autorisés à la vente",
+      "tags": [
+        "suv",
+        "voiture",
+        "pollution",
+        "automobile"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "locator": "Partie 1, chapitre 3 : Les grands chantiers de la bifurcation écologique – Développer les transports publics écologiques"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-transport-14",
+      "theme": "transport",
+      "title": "Renationaliser les autoroutes",
+      "summary": "Le candidat propose de renationaliser les autoroutes en revenant sur les hausses de prix passées, ainsi que les aéroports stratégiques.",
+      "excerpt": "Renationaliser les autoroutes en revenant sur les hausses de prix passées, ainsi que les aéroports stratégiques",
+      "tags": [
+        "autoroute",
+        "péage",
+        "nationalisation",
+        "voiture"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "locator": "Partie 1, chapitre 3 : Les grands chantiers de la bifurcation écologique – Développer les transports publics écologiques"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-transport-15",
+      "theme": "transport",
+      "title": "Offrir le permis de conduire aux jeunes dans le cadre du service citoyen",
+      "summary": "Le candidat propose que chaque jeune bénéficie, dans le service citoyen obligatoire, d'un bilan de santé, d'une évaluation des savoirs de base et d'une formation gratuite à la conduite avec passage du permis.",
+      "excerpt": "Offrir à chaque jeune, dans le cadre du service citoyen obligatoire, un bilan de santé et une évaluation des capacités d’écriture, de lecture et de calcul, avec mise à niveau si nécessaire, ainsi qu’une formation gratuite à la conduite et le passage du permis de conduire",
+      "tags": [
+        "permis de conduire",
+        "jeunes",
+        "gratuité",
+        "service citoyen"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre2",
+        "locator": "Partie 3, chapitre 2 : Une République de l'égalité réelle et des droits nouveaux – Construire l'autonomie des jeunes"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-env-01",
+      "theme": "environnement",
+      "title": "Réduire de 65 % les émissions de gaz à effet de serre d'ici 2033",
+      "summary": "Le candidat propose de relever les objectifs climatiques de la France avec une baisse de 65 % des émissions de gaz à effet de serre d'ici 2033 et un bilan annuel public incluant les émissions importées.",
+      "excerpt": "Respecter au plus vite les engagements climatiques de la France, relever le niveau de ses ambitions, avec une baisse de 65 % des émissions de gaz à effet de serre (GES) d’ici 2033, et rendre public un bilan annuel incluant les émissions importées",
+      "tags": [
+        "climat",
+        "gaz à effet de serre",
+        "émissions",
+        "co2"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre1",
+        "locator": "Partie 1, chapitre 1 : Planification écologique – La bifurcation écologique pour une société de l'harmonie"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "melenchon-env-02",
+      "theme": "environnement",
+      "title": "Atteindre 100 % d'énergies renouvelables au plus tard en 2060",
+      "summary": "Le candidat propose d'atteindre 100 % d'énergies renouvelables au plus tard en 2060 en organisant la sortie des énergies fossiles avant 2050.",
+      "excerpt": "Atteindre le 100 % d’énergies renouvelables au plus tard en 2060, en commençant par organiser la sortie des énergies fossiles avant 2050 par la montée en puissance des énergies renouvelables, la sobriété et l’efficacité énergétiques",
+      "tags": [
+        "énergies renouvelables",
+        "énergie",
+        "fossiles",
+        "climat"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "locator": "Partie 1, chapitre 3 : Les grands chantiers de la bifurcation écologique – Organiser le 100 % d'énergies renouvelables"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "melenchon-env-03",
+      "theme": "environnement",
+      "title": "Fermer progressivement les centrales nucléaires et arrêter l'EPR2",
+      "summary": "Le candidat propose de fermer progressivement les centrales nucléaires sans prolonger leur durée de vie au-delà de 60 ans et d'arrêter le programme de nouveaux réacteurs EPR2.",
+      "excerpt": "Planifier la fermeture progressive des centrales nucléaires existantes en ne prolongeant pas au-delà de 60 ans leur durée de vie et arrêter le programme de nouveau nucléaire (EPR2)",
+      "tags": [
+        "nucléaire",
+        "centrale",
+        "epr",
+        "énergie"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "locator": "Partie 1, chapitre 3 : Les grands chantiers de la bifurcation écologique – Organiser le 100 % d'énergies renouvelables"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-env-04",
+      "theme": "environnement",
+      "title": "Isoler au moins 700 000 logements par an",
+      "summary": "Le candidat propose de refaire l'isolation d'au moins 700 000 logements chaque année.",
+      "excerpt": "Refaire l’isolation d’au moins 700 000 logements par an",
+      "tags": [
+        "isolation",
+        "rénovation",
+        "passoire thermique",
+        "logement"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "locator": "Partie 1, chapitre 3 : Les grands chantiers de la bifurcation écologique – Réussir la rénovation énergétique"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-env-05",
+      "theme": "environnement",
+      "title": "Tripler les effectifs de la police de l'eau",
+      "summary": "Le candidat propose de multiplier au moins par trois les effectifs de la police de l'eau et des inspecteurs de l'environnement et d'étendre leurs missions à tout le cycle de l'eau.",
+      "excerpt": "Multiplier au moins par trois les effectifs de la police de l’eau et des inspecteurs de l’environnement, étendre leurs missions au contrôle de tout le cycle et garantir leur autonomie face aux préfets et au ministère de l’Agriculture",
+      "tags": [
+        "eau",
+        "police de l'eau",
+        "pollution",
+        "contrôle"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre1",
+        "locator": "Partie 4, chapitre 1 : Les nouveaux droits de l'espèce – L'eau, enjeu central pour l'humanité"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-env-06",
+      "theme": "environnement",
+      "title": "Laisser en libre évolution au moins 25 % de la forêt",
+      "summary": "Le candidat propose de réserver au moins 25 % de la surface forestière française en libre évolution.",
+      "excerpt": "Laisser vieillir les forêts et réserver au moins 25 % de la surface de la forêt française en libre évolution",
+      "tags": [
+        "forêt",
+        "biodiversité",
+        "nature",
+        "arbres"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre1",
+        "locator": "Partie 4, chapitre 1 : Les nouveaux droits de l'espèce – Défendre la forêt"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-env-07",
+      "theme": "environnement",
+      "title": "Réduire de 50 % la consommation moyenne de protéines animales",
+      "summary": "Le candidat propose de réduire de 50 % la consommation moyenne de protéines animales (viande, poisson, produits laitiers, oeufs).",
+      "excerpt": "Contre les émissions de GES et la maltraitance animale, réduire de 50 % notre consommation moyenne de protéines animales (viande, poisson, produits laitiers, œufs)",
+      "tags": [
+        "viande",
+        "alimentation",
+        "élevage",
+        "climat"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "locator": "Partie 1, chapitre 3 : Les grands chantiers de la bifurcation écologique – Rompre avec la maltraitance animale"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "melenchon-env-08",
+      "theme": "environnement",
+      "title": "Augmenter de 75 % par an le réemploi des déchets de construction",
+      "summary": "Le plan BTP et logement fixe un objectif d'augmentation de 75 % par an de la quantité de déchets réemployés dans la construction sur le quinquennat.",
+      "excerpt": "Notre objectif sera de structurer une véritable filière du réemploi en le valorisant dans les critères de la commande publique. Nous fixerons, comme le prônent les acteurs du réemploi, un objectif d’augmentation de 75 % par an de la quantité de déchets réemployés dans les constructions sur le quinquennat.",
+      "tags": [
+        "déchets",
+        "réemploi",
+        "bâtiment",
+        "recyclage"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
+        "locator": "Plan d'investissement productif BTP et logement"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "melenchon-env-09",
+      "theme": "environnement",
+      "title": "Remplacer les chauffages au fioul et au gaz par des systèmes sans émissions",
+      "summary": "Le candidat propose de remplacer progressivement tous les chauffages au fioul et au gaz fossile par des systèmes sans émissions de gaz à effet de serre comme les pompes à chaleur.",
+      "excerpt": "Remplacer progressivement tous les chauffages au fioul et au gaz fossile par des systèmes n’émettant pas de GES comme des pompes à chaleur",
+      "tags": [
+        "chauffage",
+        "fioul",
+        "pompe à chaleur",
+        "gaz"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "locator": "Partie 1, chapitre 3 : Les grands chantiers de la bifurcation écologique – Réussir la rénovation énergétique"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-env-10",
+      "theme": "environnement",
+      "title": "Interdire réellement la location des passoires thermiques",
+      "summary": "Le candidat propose de privilégier les rénovations complètes, d'interdire effectivement la location des passoires thermiques et de renforcer leur détection.",
+      "excerpt": "Privilégier les rénovations complètes, interdire réellement la location des passoires thermiques, renforcer les programmes de détection des passoires énergétiques",
+      "tags": [
+        "passoire thermique",
+        "rénovation",
+        "location",
+        "isolation"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "locator": "Partie 1, chapitre 3 : Les grands chantiers de la bifurcation écologique – Réussir la rénovation énergétique"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-env-11",
+      "theme": "environnement",
+      "title": "Créer un droit opposable à la protection contre les fortes chaleurs",
+      "summary": "Le candidat propose un droit opposable obligeant les bailleurs à équiper les logements exposés à la surchauffe (volets, stores, brasseurs d'air, films solaires).",
+      "excerpt": "Créer un droit opposable à la protection contre les fortes chaleurs, qui oblige les bailleurs à équiper les logements présentant des risques de surchauffe pour les rendre habitables (volets, stores, brasseurs d’air, films solaires)",
+      "tags": [
+        "canicule",
+        "chaleur",
+        "logement",
+        "bailleur"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "locator": "Partie 1, chapitre 3 : Les grands chantiers de la bifurcation écologique – Réussir la rénovation énergétique"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-env-12",
+      "theme": "environnement",
+      "title": "Interdire immédiatement le glyphosate et les néonicotinoïdes",
+      "summary": "Le candidat propose de réduire progressivement les engrais et pesticides, d'interdire immédiatement les plus dangereux comme le glyphosate et les néonicotinoïdes, ainsi que l'importation de productions qui en contiennent.",
+      "excerpt": "Planifier la réduction progressive des doses d’engrais et de pesticides, interdire immédiatement les plus dangereux (glyphosate, néonicotinoïdes) et l’importation de productions qui en contiennent",
+      "tags": [
+        "pesticides",
+        "glyphosate",
+        "agriculture",
+        "pollution"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre1",
+        "locator": "Partie 4, chapitre 1 : Les nouveaux droits de l'espèce – Pollutions : désempoisonner le monde"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-env-13",
+      "theme": "environnement",
+      "title": "Instaurer un moratoire sur les méga-bassines",
+      "summary": "Le candidat propose un moratoire immédiat sur les méga-bassines pour protéger la ressource en eau.",
+      "excerpt": "Sanctuariser la ressource en eau en instaurant un moratoire immédiat sur les méga-bassines et en en finissant avec l’accaparement de l’eau",
+      "tags": [
+        "eau",
+        "méga-bassines",
+        "sécheresse",
+        "agriculture"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre1",
+        "locator": "Partie 4, chapitre 1 : Les nouveaux droits de l'espèce – L'eau, enjeu central pour l'humanité"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-env-14",
+      "theme": "environnement",
+      "title": "Rendre gratuits les premiers mètres cubes d'eau",
+      "summary": "Le candidat propose la gratuité des mètres cubes d'eau indispensables, la suppression de l'abonnement et une tarification progressive selon les usages.",
+      "excerpt": "Établir une tarification juste : gratuité des mètres cubes indispensables à une vie digne, suppression de l’abonnement, tarification progressive et différenciée selon les usages, fin des tarifs dégressifs",
+      "tags": [
+        "eau",
+        "facture d'eau",
+        "tarif",
+        "gratuité"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre1",
+        "locator": "Partie 4, chapitre 1 : Les nouveaux droits de l'espèce – L'eau, enjeu central pour l'humanité"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "melenchon-env-15",
+      "theme": "environnement",
+      "title": "Interdire réellement les plastiques à usage unique",
+      "summary": "Le candidat propose d'interdire immédiatement les plastiques à usage unique et de confier à l'ADEME le contrôle de l'application de cette interdiction.",
+      "excerpt": "Interdire immédiatement et réellement les plastiques à usage unique et charger l’Agence de la transition écologique (ADEME) de contrôler la bonne application de cette loi",
+      "tags": [
+        "plastique",
+        "déchets",
+        "emballage",
+        "pollution"
+      ],
+      "source": {
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "locator": "Partie 1, chapitre 3 : Les grands chantiers de la bifurcation écologique – Consommer autrement, organiser une France zéro déchet"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    }
+  ]
+}

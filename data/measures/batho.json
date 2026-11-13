@@ -1,0 +1,335 @@
+{
+  "candidate_id": "batho",
+  "measures": [
+    {
+      "id": "batho-env-01",
+      "theme": "environnement",
+      "title": "Retirer immédiatement les autorisations des pesticides les plus dangereux",
+      "summary": "La page prévoit le retrait immédiat des autorisations des pesticides cancérigènes, mutagènes, reprotoxiques et perturbateurs endocriniens.",
+      "excerpt": "Les autorisations des pesticides cancérigènes, mutagènes, reprotoxiques et perturbateurs endocriniens seront retirées immédiatement.",
+      "tags": [
+        "pesticides",
+        "agriculture",
+        "perturbateurs endocriniens",
+        "cancer"
+      ],
+      "source": {
+        "url": "https://delphinebatho.fr/priorites/la-pleine-sante/",
+        "locator": "Premières propositions, 01 « Sauver notre agriculture et sortir des pesticides en cinq ans »"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "batho-env-02",
+      "theme": "environnement",
+      "title": "Conditionner les aides agricoles au bio et à l'agroécologie au terme du quinquennat",
+      "summary": "La page prévoit qu'au terme du quinquennat les aides publiques agricoles soient conditionnées à l'agriculture biologique et à l'agroécologie régénérative.",
+      "excerpt": "Au terme du quinquennat, les aides publiques en agriculture seront conditionnées à l’agriculture biologique et à l’agroécologie régénérative, pour s’adapter au réchauffement climatique, créer des emplois agricoles dans les campagnes et protéger notre sécurité alimentaire.",
+      "tags": [
+        "agriculture bio",
+        "aides agricoles",
+        "agroécologie",
+        "agriculteurs"
+      ],
+      "source": {
+        "url": "https://delphinebatho.fr/priorites/la-pleine-sante/",
+        "locator": "Premières propositions, 01 « Sauver notre agriculture et sortir des pesticides en cinq ans »"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "batho-env-03",
+      "theme": "environnement",
+      "title": "Créer des conseils citoyens de l'eau dans un plan d'urgence pour l'eau",
+      "summary": "La page prévoit de retenir l'eau par le génie rural et l'hydrologie régénérative, d'agir à la source des pollutions et de créer des conseils citoyens de l'eau.",
+      "excerpt": "Nous devons retenir l’eau par tous les moyens par le génie rural et l’hydrologie régénérative, agir à la source des pollutions et créer dans les territoires des conseils citoyens de l’eau pour veiller sur la sécurité de l’eau potable, en qualité et en quantité.",
+      "tags": [
+        "eau potable",
+        "sécheresse",
+        "pollution de l'eau",
+        "eau"
+      ],
+      "source": {
+        "url": "https://delphinebatho.fr/priorites/la-pleine-sante/",
+        "locator": "Premières propositions, 02 « Déployer tambour battant un plan d'urgence pour l'eau »"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "batho-env-04",
+      "theme": "environnement",
+      "title": "Inscrire la pleine santé et l'habitabilité dans la Constitution",
+      "summary": "La page prévoit d'inscrire la pleine santé et le principe d'habitabilité dans la Constitution.",
+      "excerpt": "La pleine santé et le principe d’habitabilité seront inscrits dans la Constitution pour guider toutes les politiques publiques, reconnaître notre interdépendance à l’ensemble du vivant et empêcher l’adoption de lois toxiques.",
+      "tags": [
+        "constitution",
+        "écologie",
+        "santé environnementale",
+        "climat"
+      ],
+      "source": {
+        "url": "https://delphinebatho.fr/priorites/la-pleine-sante/",
+        "locator": "Premières propositions, 05 « Inscrire la pleine santé et le respect de l'habitabilité dans la Constitution »"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "batho-sante-01",
+      "theme": "santé",
+      "title": "Rendre le Nutri-Score obligatoire et interdire la publicité pour les produits nocifs",
+      "summary": "La page prévoit un Nutri-Score obligatoire et l'interdiction de la publicité pour les produits nocifs.",
+      "excerpt": "Le Nutriscore doit devenir obligatoire et la publicité interdite pour les produits nocifs.",
+      "tags": [
+        "nutriscore",
+        "malbouffe",
+        "publicité",
+        "alimentation"
+      ],
+      "source": {
+        "url": "https://delphinebatho.fr/priorites/la-pleine-sante/",
+        "locator": "Premières propositions, 03 « Faire du ministère de l'agriculture celui du bien-manger »"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "batho-sante-02",
+      "theme": "santé",
+      "title": "Interdire les ingrédients toxiques aux impacts sanitaires établis",
+      "summary": "La page prévoit que les ingrédients toxiques dont les impacts sanitaires sont établis ne soient plus autorisés.",
+      "excerpt": "Les ingrédients toxiques dont les impacts sanitaires sont établis ne doivent plus être autorisés.",
+      "tags": [
+        "additifs",
+        "alimentation",
+        "produits toxiques",
+        "santé"
+      ],
+      "source": {
+        "url": "https://delphinebatho.fr/priorites/la-pleine-sante/",
+        "locator": "Premières propositions, 03 « Faire du ministère de l'agriculture celui du bien-manger »"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "batho-sante-03",
+      "theme": "santé",
+      "title": "Réguler l'installation des médecins et créer des centres de santé",
+      "summary": "La page annonce qu'une proposition de loi pour réguler l'installation des médecins et créer des centres de santé deviendra loi.",
+      "excerpt": "Une proposition de loi détaillée est prête, pour réguler l’installation des médecins et créer des centres de santé, soutenue par 86 % de la population. Elle deviendra la loi de la République.",
+      "tags": [
+        "déserts médicaux",
+        "installation des médecins",
+        "centre de santé",
+        "médecin"
+      ],
+      "source": {
+        "url": "https://delphinebatho.fr/priorites/la-pleine-sante/",
+        "locator": "Premières propositions, 04 « Mettre fin aux déserts médicaux »"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "batho-sante-04",
+      "theme": "santé",
+      "title": "Créer un Défenseur de la santé humaine et animale",
+      "summary": "La page prévoit un Défenseur de la santé humaine et animale doté de pouvoirs d'enquête et pouvant être saisi par les citoyens.",
+      "excerpt": "Nous créerons une ou un Défenseur de la santé humaine et animale, doté de pouvoirs d’enquête, qui pourra être saisi par les citoyennes et citoyens.",
+      "tags": [
+        "santé environnementale",
+        "défenseur",
+        "pollution",
+        "santé"
+      ],
+      "source": {
+        "url": "https://delphinebatho.fr/priorites/la-pleine-sante/",
+        "locator": "Premières propositions, 05 « Inscrire la pleine santé et le respect de l'habitabilité dans la Constitution »"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "batho-etudes-01",
+      "theme": "études",
+      "title": "Garantir à chaque enfant des classes vertes et une éducation à la nature",
+      "summary": "La page prévoit de garantir à chaque enfant une éducation à la sensibilité, à la nature et à la culture, et des classes vertes.",
+      "excerpt": "Je veux aussi garantir à chaque enfant le droit à une éducation à la sensibilité, à la nature, à la culture, à des classes vertes dans les paysages de France.",
+      "tags": [
+        "classe verte",
+        "école",
+        "nature",
+        "enfants"
+      ],
+      "source": {
+        "url": "https://delphinebatho.fr/priorites/la-beaute-pour-vivre-mieux/",
+        "locator": "Premières propositions, 02 « Affirmer le droit au beau partout et pour tout le monde »"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "batho-env-05",
+      "theme": "environnement",
+      "title": "Remplacer les publicités dans l'espace public par des œuvres d'art",
+      "summary": "La page prévoit le remplacement progressif des publicités de l'espace public par des œuvres d'art, en commençant par la suppression des écrans publicitaires numériques.",
+      "excerpt": "Les publicités dans l’espace public seront remplacées progressivement par des œuvres d’art, en commençant par supprimer les écrans publicitaires numériques.",
+      "tags": [
+        "publicité",
+        "écrans publicitaires",
+        "paysage",
+        "pollution visuelle"
+      ],
+      "source": {
+        "url": "https://delphinebatho.fr/priorites/la-beaute-pour-vivre-mieux/",
+        "locator": "Premières propositions, 04 « Se libérer de la publicité et des frustrations qu'elle génère »"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "batho-env-06",
+      "theme": "environnement",
+      "title": "Instaurer la pluriannualité budgétaire pour la sortie des énergies fossiles",
+      "summary": "La page prévoit une pluriannualité budgétaire pour la sortie des énergies fossiles, l'adaptation au changement climatique et la souveraineté écologique.",
+      "excerpt": "J’instaurerai la pluriannualité budgétaire pour la sortie des énergies fossiles, l’adaptation au changement climatique et la souveraineté écologique, au même titre que la défense, la sécurité intérieure et la sécurité civile.",
+      "tags": [
+        "budget",
+        "énergies fossiles",
+        "adaptation",
+        "climat"
+      ],
+      "source": {
+        "url": "https://delphinebatho.fr/priorites/la-republique-terrestre/",
+        "locator": "Premières propositions, 03 « Assurer la stabilité par la pluriannualité budgétaire »"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "batho-env-07",
+      "theme": "environnement",
+      "title": "Créer un ministère de la sécurité civile et une loi de programmation pour les pompiers",
+      "summary": "La page prévoit une loi de programmation budgétaire pour les pompiers et un ministère régalien dédié à la sécurité civile.",
+      "excerpt": "Je donnerai aux pompiers la loi de programmation budgétaire qu’ils réclament et un ministère régalien dédié à la sécurité civile.",
+      "tags": [
+        "pompiers",
+        "sécurité civile",
+        "incendies",
+        "catastrophes"
+      ],
+      "source": {
+        "url": "https://delphinebatho.fr/priorites/la-securite-climatique-et-la-paix/",
+        "locator": "Premières propositions, 02 « Organiser notre résilience et créer un ministère régalien de la sécurité civile »"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "batho-env-08",
+      "theme": "environnement",
+      "title": "Développer la géothermie et l'autoconsommation collective",
+      "summary": "La page prévoit de développer la géothermie et l'autoconsommation collective pour le chauffage l'hiver et le rafraîchissement l'été.",
+      "excerpt": "Je veux développer massivement la géothermie et l’autoconsommation collective pour se chauffer l’hiver autant que se rafraîchir l’été.",
+      "tags": [
+        "géothermie",
+        "chauffage",
+        "autoconsommation",
+        "énergie"
+      ],
+      "source": {
+        "url": "https://delphinebatho.fr/priorites/la-securite-climatique-et-la-paix/",
+        "locator": "Premières propositions, 04 « Organiser une sécurité sociale climatique collective »"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "batho-env-09",
+      "theme": "environnement",
+      "title": "Créer une sécurité sociale climatique",
+      "summary": "La page prévoit d'engager la création d'une sécurité sociale climatique face aux inégalités liées aux dommages des catastrophes.",
+      "excerpt": "Face aux inégalités liées aux dommages des catastrophes, j’engagerai la création d’une sécurité sociale climatique.",
+      "tags": [
+        "catastrophe naturelle",
+        "assurance",
+        "sécurité sociale climatique",
+        "sinistrés"
+      ],
+      "source": {
+        "url": "https://delphinebatho.fr/priorites/la-securite-climatique-et-la-paix/",
+        "locator": "Premières propositions, 04 « Organiser une sécurité sociale climatique collective »"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "batho-emploi-01",
+      "theme": "emploi",
+      "title": "Mener une stratégie industrielle d'économie circulaire",
+      "summary": "La page présente une stratégie industrielle d'économie circulaire et anti-gaspillage qui, selon elle, peut créer 1 million d'emplois.",
+      "excerpt": "Une stratégie industrielle ambitieuse pour une économie de l’utile, résolument anti-gaspillage, robuste et souveraine, peut créer 1 million d’emplois durables et non délocalisables.",
+      "tags": [
+        "emplois",
+        "industrie",
+        "économie circulaire",
+        "réparation"
+      ],
+      "source": {
+        "url": "https://delphinebatho.fr/priorites/la-securite-climatique-et-la-paix/",
+        "locator": "Premières propositions, 05 « Une économie circulaire pour la souveraineté industrielle écologique »"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    }
+  ]
+}

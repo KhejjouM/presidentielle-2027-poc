@@ -1,0 +1,181 @@
+{
+  "candidate_id": "labib",
+  "measures": [
+    {
+      "id": "labib-pa-01",
+      "theme": "pouvoir d'achat",
+      "title": "Augmenter salaires et pensions de 400 euros par mois, sans revenu sous 2 000 euros net",
+      "summary": "La candidate demande une augmentation de 400 euros par mois des salaires et des pensions pour tous, et aucun revenu inférieur à 2 000 euros net.",
+      "excerpt": "Il faut augmenter les salaires et les pensions de 400 euros par mois pour tous et toutes. Il ne faut pas un seul revenu sous les 2000 euros net.",
+      "tags": [
+        "salaire",
+        "pension",
+        "augmentation",
+        "revenu minimum"
+      ],
+      "source": {
+        "url": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+        "locator": "Intervention de Selma Labib à la fête de l’Humanité 2026 (15 septembre 2026)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "labib-pa-02",
+      "theme": "pouvoir d'achat",
+      "title": "Indexer salaires et pensions sur l'inflation",
+      "summary": "La candidate présente un programme de lutte qui comprend des salaires et des pensions qui suivent l'inflation, l'interdiction des licenciements et l'ouverture des frontières.",
+      "excerpt": "Un programme de lutte pour l’ouverture des frontières, contre les fermetures d’entreprises et pour l’interdiction des licenciements, pour des salaires, des pensions, qui suivent l’inflation.",
+      "tags": [
+        "inflation",
+        "salaire",
+        "pension",
+        "indexation"
+      ],
+      "source": {
+        "url": "https://npa-revolutionnaires.org/articles/intervention-de-selma-conductrice-de-bus-31-ans-une-travailleuse-communiste-revolutionnaire-qui-portera-la-voix-de-celles-et-ceux-qui-ne-baisseront-jamais-la-tete-a-lelection-rein",
+        "locator": "Intervention de Selma Labib au meeting des rencontres d’été révolutionnaires (23 août 2026)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "labib-emploi-01",
+      "theme": "emploi",
+      "title": "Interdire les licenciements",
+      "summary": "La candidate appelle à imposer l'interdiction des licenciements face à la vague de licenciements.",
+      "excerpt": "Pour que la crise financière qui couve ne transforme pas la vague de licenciements en un tsunami, pour imposer l’interdiction des licenciements, c’est maintenant que ça se joue aussi.",
+      "tags": [
+        "licenciement",
+        "chômage",
+        "emploi",
+        "entreprise"
+      ],
+      "source": {
+        "url": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+        "locator": "Intervention de Selma Labib à la fête de l’Humanité 2026 (15 septembre 2026)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "labib-emploi-02",
+      "theme": "emploi",
+      "title": "Réduire le temps de travail sans perte de salaire",
+      "summary": "La candidate demande une forte diminution du temps de travail, sans perte de salaire ni hausse de la charge de travail, sous le contrôle des salariés.",
+      "excerpt": "Alors non, deux fois non : d’une, les 32 heures ne sont certainement pas un « horizon » désirable et de deux, oui il faut drastiquement diminuer le temps de travail sans perte de salaire et sans augmentation de la charge de travail, sous le contrôle des salariés eux-mêmes, et c’est une priorité de l’imposer au patronat licencieur !",
+      "tags": [
+        "temps de travail",
+        "32 heures",
+        "salaire",
+        "travail"
+      ],
+      "source": {
+        "url": "https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026",
+        "locator": "Intervention de Selma Labib à la fête de l’Humanité 2026 (15 septembre 2026)"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "labib-pa-03",
+      "theme": "pouvoir d'achat",
+      "title": "Augmenter et indexer sur les prix les salaires, pensions et allocations",
+      "summary": "Le document de campagne fixe comme premier objectif l'augmentation générale des salaires, des pensions et des allocations et leur indexation sur les prix.",
+      "excerpt": "L’augmentation massive, générale des salaires mais aussi des pensions et des allocations, et leur indexation sur les prix : c’est le premier objectif que doivent se fixer les travailleurs, c’est une urgence pour l’ensemble du monde du travail !",
+      "tags": [
+        "salaire",
+        "pension",
+        "allocations",
+        "indexation"
+      ],
+      "source": {
+        "url": "https://npa-revolutionnaires.org/wp-content/uploads/2026/09/260919_4p-campagne-A4.pdf",
+        "locator": "Quatre pages de campagne (septembre 2026), rubrique « Pour vivre et non survivre »"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "labib-emploi-03",
+      "theme": "emploi",
+      "title": "Interdire les licenciements et baisser le temps de travail sans perte de salaire",
+      "summary": "Le document de campagne demande l'interdiction des licenciements, l'arrêt des suppressions d'emplois et la baisse du temps de travail sans perte de salaire jusqu'à l'extinction du chômage.",
+      "excerpt": "Imposer l’interdiction des licenciements, l’arrêt de toutes les suppressions d’emplois et la baisse du temps de travail sans perte de salaire, jusqu’à l’extinction du chômage, c’est la seule manière de mettre fin au chômage de masse, pour les jeunes comme pour les anciens.",
+      "tags": [
+        "licenciement",
+        "chômage",
+        "temps de travail",
+        "salaire"
+      ],
+      "source": {
+        "url": "https://npa-revolutionnaires.org/wp-content/uploads/2026/09/260919_4p-campagne-A4.pdf",
+        "locator": "Quatre pages de campagne (septembre 2026), rubrique « Pour vivre et non survivre »"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "labib-emploi-04",
+      "theme": "emploi",
+      "title": "Faire recenser par les travailleurs les besoins d'embauche",
+      "summary": "Le document de campagne propose que les travailleurs recensent et chiffrent eux-mêmes les besoins en embauches dans les ateliers, services, écoles et hôpitaux.",
+      "excerpt": "Dans chaque atelier, dans tous les services, dans toutes les écoles et les hôpitaux, c’est à nous-mêmes de recenser et de chiffrer les besoins en embauches : nous sommes les mieux placés pour savoir de combien de bras on a besoin pour faire tourner correctement les entreprises !",
+      "tags": [
+        "embauches",
+        "services publics",
+        "hôpital",
+        "école"
+      ],
+      "source": {
+        "url": "https://npa-revolutionnaires.org/wp-content/uploads/2026/09/260919_4p-campagne-A4.pdf",
+        "locator": "Quatre pages de campagne (septembre 2026), rubrique « Imposer l'interdiction des licenciements et des embauches massives »"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "labib-env-01",
+      "theme": "environnement",
+      "title": "Exproprier les grandes entreprises pour décider de la production",
+      "summary": "Le document de campagne propose d'exproprier les grandes entreprises et de décider de la production en fonction des besoins et des contraintes environnementales, dans tous les secteurs.",
+      "excerpt": "Nous devons pour cela exproprier les grandes entreprises et prendre le pouvoir sur l’économie : que produit-on ? Pour qui ? Pour remplir quels besoins de la population ? En respectant quelles contraintes environnementales ? Et ce, dans tous les secteurs : logement, alimentation, énergie, transport, etc.",
+      "tags": [
+        "climat",
+        "expropriation",
+        "planification",
+        "énergie"
+      ],
+      "source": {
+        "url": "https://npa-revolutionnaires.org/wp-content/uploads/2026/09/260919_4p-campagne-A4.pdf",
+        "locator": "Quatre pages de campagne (septembre 2026), rubrique « Le monde brûle… mais ils préfèrent les Rafale aux Canadair ! »"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    }
+  ]
+}

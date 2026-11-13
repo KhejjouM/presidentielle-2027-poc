@@ -1,0 +1,94 @@
+{
+  "candidate_id": "lalanne",
+  "measures": [
+    {
+      "id": "lalanne-pa-01",
+      "theme": "pouvoir d'achat",
+      "title": "Baisser fortement les impôts et les taxes sur les carburants",
+      "summary": "Les impôts seraient fortement baissés, en particulier les taxes sur les carburants.",
+      "excerpt": "Baisse radicale des impôts et surtout des taxes sur les carburants.",
+      "tags": [
+        "impôt",
+        "carburant",
+        "essence",
+        "taxe"
+      ],
+      "source": {
+        "url": "https://dieudolalanne2027.com/programme",
+        "locator": "Le Projet 2027, 5. Stop Impôts !"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lalanne-transport-01",
+      "theme": "transport",
+      "title": "Rendre les transports publics gratuits",
+      "summary": "Les transports publics deviendraient gratuits.",
+      "excerpt": "Mise en place de la gratuité des transports publics.",
+      "tags": [
+        "transports gratuits",
+        "bus",
+        "train",
+        "métro"
+      ],
+      "source": {
+        "url": "https://dieudolalanne2027.com/programme",
+        "locator": "Le Projet 2027, 5. Stop Impôts !"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lalanne-emploi-01",
+      "theme": "emploi",
+      "title": "Baisser les charges des TPE, PME et artisans",
+      "summary": "Les TPE, PME et artisans bénéficieraient d'une forte baisse des charges, et le programme vise à mettre fin à ce qu'il qualifie de concurrence déloyale des multinationales.",
+      "excerpt": "Soutien aux TPE/PME et artisans : Baisse drastique des charges et fin de la concurrence déloyale des multinationales.",
+      "tags": [
+        "artisan",
+        "pme",
+        "charges",
+        "entreprise",
+        "indépendant"
+      ],
+      "source": {
+        "url": "https://dieudolalanne2027.com/programme",
+        "locator": "Le Projet 2027, 5. Stop Impôts !"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "lalanne-sante-01",
+      "theme": "santé",
+      "title": "Supprimer les obligations médicales et interdire les discriminations liées au statut médical",
+      "summary": "Les obligations médicales et le pass seraient supprimés et la Constitution interdirait toute discrimination fondée sur le statut médical.",
+      "excerpt": "Fin du pass et des obligations médicales : Interdiction constitutionnelle de toute discrimination basée sur le statut médical.",
+      "tags": [
+        "vaccination",
+        "obligation vaccinale",
+        "pass sanitaire",
+        "santé"
+      ],
+      "source": {
+        "url": "https://dieudolalanne2027.com/programme",
+        "locator": "Le Projet 2027, 3. Liberté !"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    }
+  ]
+}

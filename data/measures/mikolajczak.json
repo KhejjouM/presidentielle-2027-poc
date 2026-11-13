@@ -1,0 +1,1106 @@
+{
+  "candidate_id": "mikolajczak",
+  "measures": [
+    {
+      "id": "mikolajczak-log-01",
+      "theme": "logement",
+      "title": "Faciliter les habitats partagés et la colocation intergénérationnelle",
+      "summary": "Le programme prévoit de simplifier et d'encourager les initiatives de partage d'habitat (logements inclusifs, colocation intra- et intergénérationnelle) ainsi que de savoir-faire et de biens.",
+      "excerpt": "Les initiatives de partage d’habitats (logements inclusifs, colocation intra- et intergénérationnelle), de savoir-faire, de biens (ressourceries et recycleries) sont simplifiées et encouragées .",
+      "tags": [
+        "colocation",
+        "logement intergénérationnel",
+        "habitat partagé",
+        "logement inclusif"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/ne-laisser-personne-seul/",
+        "locator": "Ne laisser personne seul, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-pa-01",
+      "theme": "pouvoir d'achat",
+      "title": "Regrouper les aides sociales dans un organisme unique et les attribuer automatiquement",
+      "summary": "Le programme prévoit de regrouper la gestion des aides sociales dans un organisme unique pour faciliter leur attribution automatique, sans démarche obligatoire des bénéficiaires lorsque c'est possible.",
+      "excerpt": "La gestion des aides sociales est regroupée au sein d’un organisme unique , afin de faciliter leur attribution automatique à partir des informations disponibles, sans démarche obligatoire des bénéficiaires lorsque cela est possible.",
+      "tags": [
+        "aides sociales",
+        "caf",
+        "non-recours",
+        "allocation"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/sortir-du-labyrinthe-administratif/",
+        "locator": "Sortir du labyrinthe administratif, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-pa-02",
+      "theme": "pouvoir d'achat",
+      "title": "Reverser 80 % de la taxe carbone aux ménages par un revenu carbone mensuel",
+      "summary": "Le programme prévoit de redistribuer 80 % des recettes de la taxe carbone aux ménages sous forme d'un revenu carbone mensuel, avec un complément pour les ménages ruraux et modestes.",
+      "excerpt": "80% des bénéfices de cette taxe sont redistribués aux ménages sous forme d’un revenu carbone mensuel , indépendant de leurs propres émissions. Les ménages ruraux et les ménages modestes bénéficient d’un complément proportionnel de solidarité.",
+      "tags": [
+        "taxe carbone",
+        "revenu carbone",
+        "ménages modestes",
+        "rural"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/recompenser-les-menages-les-plus-sobres/",
+        "locator": "Récompenser les ménages les plus sobres, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-pa-03",
+      "theme": "pouvoir d'achat",
+      "title": "Poursuivre les expérimentations de sécurité sociale de l'alimentation",
+      "summary": "Le programme prévoit de poursuivre les expérimentations territoriales de sécurité sociale de l'alimentation, où chaque foyer reçoit une somme mensuelle à dépenser dans des commerces conventionnés et cotise selon ses moyens.",
+      "excerpt": "Les expérimentations territoriales de sécurité sociale de l’alimentation sont poursuivies . Chaque foyer d’un territoire reçoit chaque mois une somme à dépenser dans des commerces conventionnés par un comité citoyen animé par la collectivité, et tous les participants cotisent à la caisse selon leurs moyens.",
+      "tags": [
+        "alimentation",
+        "courses",
+        "sécurité sociale de l'alimentation",
+        "ménages modestes"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/une-alimentation-saine-locale-abordable/",
+        "locator": "Une alimentation saine, locale, abordable, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-pa-04",
+      "theme": "pouvoir d'achat",
+      "title": "Rendre transparentes les marges de la grande distribution et encadrer celles du bio et du local",
+      "summary": "Le programme prévoit une obligation de transparence sur les marges et approvisionnements de la grande distribution et un encadrement des marges sur les produits bio et locaux.",
+      "excerpt": "Obligation de transparence sur les marges et les approvisionnements de la grande distribution, encadrement des marges sur les produits bio & locaux",
+      "tags": [
+        "prix",
+        "grande distribution",
+        "marges",
+        "courses",
+        "bio"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/une-alimentation-saine-locale-abordable/",
+        "locator": "Une alimentation saine, locale, abordable, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-env-01",
+      "theme": "environnement",
+      "title": "Créer une Chambre citoyenne pour l'écologie de 150 citoyens tirés au sort",
+      "summary": "Le programme prévoit une Chambre citoyenne pour l'écologie, organisée par le CESE, composée de 150 citoyens tirés au sort, qui fixe des objectifs écologiques et formule des recommandations.",
+      "excerpt": "Une Chambre citoyenne pour l’écologie est organisée par le Conseil économique, social et environnemental (CESE). Guidée par la science et des experts, cette assemblée de 150 citoyens et citoyennes tirés au sort définit des objectifs écologiques, élabore des orientations sectorielles et des recommandations concrètes pour la France.",
+      "tags": [
+        "climat",
+        "écologie",
+        "tirage au sort",
+        "chambre citoyenne"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/proteger-le-climat-au-dela-dun-mandat/",
+        "locator": "Protéger le climat au-delà d'un mandat, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-env-02",
+      "theme": "environnement",
+      "title": "Donner à la Chambre citoyenne un droit de veto sur les lois",
+      "summary": "Le programme prévoit que la Chambre citoyenne dispose d'un droit de veto sur les lois votées pour obliger au réexamen d'une loi contraire à ses orientations.",
+      "excerpt": "Elle possède ainsi un droit de veto sur les lois votées, afin d’obliger le réexamen d’une loi contraire aux orientations indiquées par la Chambre.",
+      "tags": [
+        "climat",
+        "veto",
+        "loi",
+        "chambre citoyenne"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/proteger-le-climat-au-dela-dun-mandat/",
+        "locator": "Protéger le climat au-delà d'un mandat, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-env-03",
+      "theme": "environnement",
+      "title": "Organiser six conventions sectorielles sur la transition écologique",
+      "summary": "Le programme prévoit six conventions sectorielles successives : agroalimentaire et distribution, santé, énergie, construction, mines et minéraux, transport.",
+      "excerpt": "Six conventions sectorielles distinctes seront organisées successivement , sur les secteurs suivants : agroalimentaire et distribution, santé, énergie, construction, mines et minéraux, transport.",
+      "tags": [
+        "transition écologique",
+        "convention",
+        "énergie",
+        "transport"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/proteger-le-climat-au-dela-dun-mandat/",
+        "locator": "Protéger le climat au-delà d'un mandat, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-env-04",
+      "theme": "environnement",
+      "title": "Créer une taxe carbone sur carburant, fioul et gaz remplaçant les taxes existantes",
+      "summary": "Le programme prévoit de taxer les énergies fossiles selon leurs émissions, pour tous les utilisateurs, en visant le carburant, le fioul et le gaz, en remplacement des taxes carbone existantes.",
+      "excerpt": "Les énergies fossiles sont taxées selon leurs émissions de gaz à effet de serre , quel que soit leur utilisateur ou utilisatrice (entreprise, particulier, collectivité, etc.). Cela concerne le carburant, le fioul et le gaz , en remplaçant les taxes carbone existantes.",
+      "tags": [
+        "taxe carbone",
+        "carburant",
+        "fioul",
+        "gaz"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/recompenser-les-menages-les-plus-sobres/",
+        "locator": "Récompenser les ménages les plus sobres, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-env-05",
+      "theme": "environnement",
+      "title": "Viser un prix du carbone d'au moins 100 euros la tonne en 2030",
+      "summary": "Le programme prévoit d'ajuster progressivement le prix du carbone selon une trajectoire fixée démocratiquement, en visant au moins 100 euros par tonne d'équivalent CO2 à l'horizon 2030.",
+      "excerpt": "Le prix du carbone est progressivement ajusté pour suivre une trajectoire de réduction des émissions fixée démocratiquement , en visant a minima 100€/tCO2e à horizon 2030.",
+      "tags": [
+        "taxe carbone",
+        "prix du carbone",
+        "climat",
+        "2030"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/recompenser-les-menages-les-plus-sobres/",
+        "locator": "Récompenser les ménages les plus sobres, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree_et_datee"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-env-06",
+      "theme": "environnement",
+      "title": "Financer des prêts à taux zéro pour la rénovation via une Caisse de la transition énergétique",
+      "summary": "Le programme prévoit que 20 % de la taxe carbone financent une Caisse nationale de la transition énergétique permettant par exemple aux ménages d'emprunter à taux zéro pour des bornes de recharge, pompes à chaleur ou travaux d'isolation.",
+      "excerpt": "Les 20% restants servent à financer une Caisse Nationale de la Transition Énergétique qui facilite le financement des investissements nécessaires à la transition énergétique (rénovation thermique, électrification). Par exemple, un ménage peut emprunter à taux zéro auprès de cette Caisse pour financer des bornes de recharge, des pompes à chaleur, des travaux d’isolation, etc.",
+      "tags": [
+        "rénovation",
+        "isolation",
+        "pompe à chaleur",
+        "prêt à taux zéro"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/recompenser-les-menages-les-plus-sobres/",
+        "locator": "Récompenser les ménages les plus sobres, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-env-07",
+      "theme": "environnement",
+      "title": "Taxer les importations selon leur empreinte carbone",
+      "summary": "Le programme prévoit une taxation douanière des produits importés selon leur empreinte carbone, en cohérence avec le mécanisme d'ajustement carbone aux frontières de l'UE.",
+      "excerpt": "Les produits importés en France font l’objet d’une taxation douanière selon leur empreinte carbone , en cohérence avec le mécanisme d’ajustement carbone aux frontières déjà développé à l’échelle de l’UE.",
+      "tags": [
+        "importations",
+        "empreinte carbone",
+        "douane",
+        "climat"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/recompenser-les-menages-les-plus-sobres/",
+        "locator": "Récompenser les ménages les plus sobres, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-env-08",
+      "theme": "environnement",
+      "title": "Afficher systématiquement l'éco-score",
+      "summary": "Le programme prévoit l'affichage systématique de l'éco-score.",
+      "excerpt": "L’éco-score est systématiquement affiché pour permettre une bonne information de toutes et tous.",
+      "tags": [
+        "éco-score",
+        "affichage environnemental",
+        "consommation",
+        "étiquetage"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/recompenser-les-menages-les-plus-sobres/",
+        "locator": "Récompenser les ménages les plus sobres, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-env-09",
+      "theme": "environnement",
+      "title": "Faire respecter en France les recommandations de l'Anses et les interdictions européennes de pesticides",
+      "summary": "Le programme prévoit de respecter en France les recommandations de l'Anses et les interdictions européennes sur les pesticides, et de mettre fin aux dérogations d'urgence avec un accompagnement public de l'agriculture.",
+      "excerpt": "Les recommandations de l’Anses et les interdictions de l’Union européenne concernant les pesticides sont respectées en France. Les dérogations d’urgence accordées actuellement cessent grâce à un accompagnement public de la transition de notre modèle agricole en faveur d’une plus grande résilience.",
+      "tags": [
+        "pesticides",
+        "anses",
+        "agriculture",
+        "dérogations"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/prevenir-plutot-que-guerir/",
+        "locator": "Prévenir plutôt que guérir, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-env-10",
+      "theme": "environnement",
+      "title": "Installer les industries en priorité sur les friches",
+      "summary": "Le programme prévoit que l'installation d'industries se fasse en coordination avec les élus et en priorité sur les friches industrielles, pour limiter l'artificialisation.",
+      "excerpt": "L’installation d’industries dans les territoires se fait en coordination avec les élus, en priorité sur les friches industrielles , permettant de favoriser l’acceptabilité sociale et limiter l’artificialisation.",
+      "tags": [
+        "industrie",
+        "friches",
+        "artificialisation",
+        "élus locaux"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/reprendre-la-main-sur-notre-production/",
+        "locator": "Reprendre la main sur notre production, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-sante-01",
+      "theme": "santé",
+      "title": "Nommer un Défenseur de la santé pouvant suspendre des projets",
+      "summary": "Le programme prévoit un Défenseur de la santé chargé de la prise en compte de la santé globale dans les lois, pouvant suspendre des projets dont les effets sanitaires sont insuffisamment évalués ou trop importants.",
+      "excerpt": "Un Défenseur de la santé est nommé pour assurer la prise en compte des enjeux de santé globale dans toutes les nouvelles lois. Il peut suspendre des projets s’il considère que leurs répercussions sanitaires, notamment en termes de pollution de l’eau, de l’air et des sols, n’ont pas été suffisamment évaluées ou sont trop importantes (ex : grands travaux autoroutiers).",
+      "tags": [
+        "santé environnementale",
+        "pollution",
+        "défenseur de la santé",
+        "prévention"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/prevenir-plutot-que-guerir/",
+        "locator": "Prévenir plutôt que guérir, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-sante-02",
+      "theme": "santé",
+      "title": "Prendre en charge intégralement un bilan de prévention",
+      "summary": "Le programme prévoit un bilan de prévention entièrement pris en charge (entretien clinique, examen physique, rappel des vaccins et dépistages) à une fréquence variant selon l'âge et les facteurs de risque.",
+      "excerpt": "Il permet de faire un bilan de prévention entièrement pris en charge (entretien clinique, examen physique, rappel des vaccins et dépistages recommandés) à une fréquence qui varie selon l’âge et les facteurs de risque.",
+      "tags": [
+        "prévention",
+        "bilan de santé",
+        "dépistage",
+        "remboursement"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/prevenir-plutot-que-guerir/",
+        "locator": "Prévenir plutôt que guérir, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-sante-03",
+      "theme": "santé",
+      "title": "Interdire la publicité pour les aliments trop gras, salés, sucrés ou ultra-transformés",
+      "summary": "Le programme prévoit d'interdire, sur la base des recommandations de l'Anses, la publicité pour les produits alimentaires trop gras, salés, sucrés ou ultra-transformés, comme pour le tabac.",
+      "excerpt": "La publicité pour les produits alimentaires trop gras, salés, sucrés et/ou ultra-transformés est interdite (sur la base des recommandations de l’Anses), au même titre que celle pour le tabac.",
+      "tags": [
+        "publicité",
+        "malbouffe",
+        "ultra-transformés",
+        "alimentation"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/prevenir-plutot-que-guerir/",
+        "locator": "Prévenir plutôt que guérir, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-sante-04",
+      "theme": "santé",
+      "title": "Instaurer un prix minimum de l'alcool",
+      "summary": "Le programme prévoit un prix minimum de 0,5 euro pour 10 grammes d'alcool pur et un encadrement strict des marges des intermédiaires et distributeurs.",
+      "excerpt": "Un prix minimum de 0,5 euro pour 10 grammes d’alcool pur est instauré et les marges des intermédiaires et distributeurs sont strictement encadrées.",
+      "tags": [
+        "alcool",
+        "prix minimum",
+        "prévention",
+        "addiction"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/prevenir-plutot-que-guerir/",
+        "locator": "Prévenir plutôt que guérir, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-sante-05",
+      "theme": "santé",
+      "title": "Accompagner l'activité physique des seniors par des prescriptions sportives",
+      "summary": "Le programme prévoit d'accompagner l'activité physique des seniors, notamment pour réduire les chutes, via des prescriptions sportives.",
+      "excerpt": "L’activité physique est accompagnée chez les seniors, notamment pour réduire les chutes et leurs répercussions, via des prescriptions sportives.",
+      "tags": [
+        "seniors",
+        "sport sur ordonnance",
+        "chutes",
+        "prévention"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/prevenir-plutot-que-guerir/",
+        "locator": "Prévenir plutôt que guérir, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-sante-06",
+      "theme": "santé",
+      "title": "Créer une taxe santé sur les produits gras, salés, sucrés et rendre le Nutri-Score obligatoire",
+      "summary": "Le programme prévoit une taxe « santé » sur les produits gras, salés, sucrés, alcoolisés et ultra-transformés identifiés par le Nutri-Score, rendu obligatoire.",
+      "excerpt": "Mise en place d’une taxe « santé » sur les produits gras, salés, sucrés, alcoolisés et ultra-transformés, identifiés comme tels par le Nutri-Score, rendu obligatoire",
+      "tags": [
+        "nutri-score",
+        "taxe",
+        "alimentation",
+        "sucre"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/une-alimentation-saine-locale-abordable/",
+        "locator": "Une alimentation saine, locale, abordable, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-sante-07",
+      "theme": "santé",
+      "title": "Servir au moins deux repas végétariens par semaine en restauration collective",
+      "summary": "Le programme prévoit de porter à au moins deux le nombre de repas végétariens par semaine en restauration collective, en privilégiant le bio et le local.",
+      "excerpt": "Porter à un minimum de deux repas végétariens par semaine en restauration collective, sans sacrifier les apports protéiques et nutritifs, et en favorisant toujours plus de bio & local.",
+      "tags": [
+        "cantine",
+        "repas végétarien",
+        "restauration collective",
+        "bio"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/une-alimentation-saine-locale-abordable/",
+        "locator": "Une alimentation saine, locale, abordable, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-sante-08",
+      "theme": "santé",
+      "title": "Conditionner l'installation des médecins libéraux aux besoins prioritaires",
+      "summary": "Le programme prévoit de conditionner les installations de médecins libéraux aux besoins prioritaires de chaque territoire, établis après consultation des citoyens, professionnels et élus.",
+      "excerpt": "Dans chaque territoire, les installations de médecins libéraux sont conditionnées aux besoins prioritaires , établis à partir de la consultation des parties prenantes (citoyens, professionnels, élus, etc.).",
+      "tags": [
+        "déserts médicaux",
+        "installation des médecins",
+        "médecin",
+        "régulation"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/un-soignant-pres-de-chez-vous/",
+        "locator": "Un soignant près de chez vous, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-sante-09",
+      "theme": "santé",
+      "title": "Systématiser le contrat d'engagement de service public pour les étudiants en médecine",
+      "summary": "Le programme prévoit de faire du contrat d'engagement de service public le régime par défaut pour tous les étudiants en médecine, ceux-ci pouvant le refuser ou l'arrêter.",
+      "excerpt": "Le Contrat d’engagement de service public (CESP) est systématisé pour tous les étudiants en médecine , comme régime par défaut. Ceux (externes ou internes) qui le souhaitent peuvent le refuser ou l’arrêter en cours de formation.",
+      "tags": [
+        "études de médecine",
+        "cesp",
+        "déserts médicaux",
+        "étudiant"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/un-soignant-pres-de-chez-vous/",
+        "locator": "Un soignant près de chez vous, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-sante-10",
+      "theme": "santé",
+      "title": "Tripler le nombre de médicobus dans les zones sous-dotées",
+      "summary": "Le programme prévoit de multiplier les lieux de consultation flexibles dans les zones sous-dotées et de tripler le nombre de structures mobiles de type médicobus.",
+      "excerpt": "Les lieux de consultation flexibles sont multipliés dans les zones sous-dotées . Le nombre de structures mobiles, sur le modèle des médicobus, est triplé.",
+      "tags": [
+        "médicobus",
+        "déserts médicaux",
+        "consultation",
+        "rural"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/un-soignant-pres-de-chez-vous/",
+        "locator": "Un soignant près de chez vous, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-sante-11",
+      "theme": "santé",
+      "title": "Libérer du temps médical en supprimant les certificats abusifs et en déléguant des tâches",
+      "summary": "Le programme prévoit de libérer du temps médical par la fin des demandes abusives de certificats et le développement des délégations de compétences et coopérations entre professionnels de santé.",
+      "excerpt": "Les mesures visant à libérer du temps médical sont renforcées : fin des demandes abusives de certificats (prescriptions dématérialisées, renouvellement en ligne), développement des délégations de compétences et des coopérations interprofessionnelles (infirmiers en pratique avancée, pharmaciens, kinés, infirmiers scolaires et du travail).",
+      "tags": [
+        "médecin",
+        "temps médical",
+        "certificat",
+        "infirmier"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/un-soignant-pres-de-chez-vous/",
+        "locator": "Un soignant près de chez vous, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-sante-12",
+      "theme": "santé",
+      "title": "Développer la prescription sociale pour la santé mentale",
+      "summary": "Le programme prévoit de développer des programmes de « prescription sociale » vers le tissu associatif pour améliorer la santé mentale et réduire l'isolement.",
+      "excerpt": "Des programmes de « prescription sociale » orientés vers le tissu associatif (activités culturelles, sportives, jardinage…) sont développés pour améliorer la santé mentale et réduire l’isolement.",
+      "tags": [
+        "santé mentale",
+        "isolement",
+        "solitude",
+        "associations"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/ne-laisser-personne-seul/",
+        "locator": "Ne laisser personne seul, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-sante-13",
+      "theme": "santé",
+      "title": "Rendre tous les psychologues accessibles via Mon soutien psy",
+      "summary": "Le parti propose de faire connaître le dispositif « Mon soutien psy » permettant 12 séances remboursées par an et de rendre tous les psychologues accessibles par ce dispositif.",
+      "excerpt": "Faire connaître le dispositif déjà existant « Mon soutien psy » permettant d’accéder à 12 séances remboursées par an. Rendre tous les psychologues accessibles par ce dispositif (plus d’offre).",
+      "tags": [
+        "psychologue",
+        "mon soutien psy",
+        "santé mentale",
+        "remboursement"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/nos-reponses-aux-revendications-lyceennes/",
+        "locator": "Nos réponses aux revendications lycéennes, Santé mentale"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-emploi-01",
+      "theme": "emploi",
+      "title": "Conditionner les aides publiques aux entreprises",
+      "summary": "Le programme prévoit de soumettre les aides publiques aux entreprises à des conditions préalables (absence de condamnations environnementales ou pour fraude fiscale, activité en France) et, pour les aides ciblées, à des objectifs comme la création d'emplois.",
+      "excerpt": "L’octroi d’aides publiques aux entreprises est soumis à des conditions ex ante (absence de condamnations pour atteintes à l’environnement, fraude fiscale, activités en France, etc.) et ex post pour les aides ciblées (atteinte des objectifs de création d’emploi, maintien d’une activité, dépôt de brevet, etc.).",
+      "tags": [
+        "aides aux entreprises",
+        "entreprise",
+        "emploi",
+        "conditionnalité"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/reprendre-la-main-sur-notre-production/",
+        "locator": "Reprendre la main sur notre production, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-emploi-02",
+      "theme": "emploi",
+      "title": "Faciliter l'accès des PME locales à la commande publique",
+      "summary": "Le programme prévoit de faciliter l'accès des PME locales à la commande publique par des dispositifs administratifs (simplification, garanties Bpifrance) et matériels (légumeries centrales).",
+      "excerpt": "Les PME locales accèdent plus facilement à la commande publique grâce à des dispositifs administratifs (simplification des démarches, garanties de Bpifrance pour les groupements) et matériels (légumeries centrales pour la restauration publique par exemple).",
+      "tags": [
+        "pme",
+        "marchés publics",
+        "entreprise",
+        "local"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/reprendre-la-main-sur-notre-production/",
+        "locator": "Reprendre la main sur notre production, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-emploi-03",
+      "theme": "emploi",
+      "title": "Démultiplier les capacités de formation dans les secteurs stratégiques",
+      "summary": "Le programme prévoit de démultiplier les capacités de formation dans chaque secteur vital ou stratégique, les formations étant identifiées par les acteurs clés comme les OPCO.",
+      "excerpt": "Pour chaque secteur vital ou stratégique, les capacités de formation sont démultipliées . Ces formations sont identifiées par les acteurs clés concernés (ex : les Opérateurs de compétences – OPCO), dans le cadre des conventions sectorielles, pour répondre aux besoins de compétences du marché.",
+      "tags": [
+        "formation",
+        "opco",
+        "compétences",
+        "industrie"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/une-production-une-formation-un-emploi/",
+        "locator": "Une production, une formation, un emploi, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-emploi-04",
+      "theme": "emploi",
+      "title": "Soutenir l'apprentissage aux premiers niveaux de qualification",
+      "summary": "Le programme prévoit de soutenir l'apprentissage, en particulier aux premiers niveaux de qualification (CAP, bac pro).",
+      "excerpt": "L’apprentissage est soutenu, en particulier dans les premiers niveaux de qualification (ex : CAP, Bac pro).",
+      "tags": [
+        "apprentissage",
+        "cap",
+        "bac pro",
+        "alternance"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/une-production-une-formation-un-emploi/",
+        "locator": "Une production, une formation, un emploi, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-emploi-05",
+      "theme": "emploi",
+      "title": "Accompagner la reconversion vers les métiers essentiels et faciliter la VAE",
+      "summary": "Le programme prévoit d'accompagner spécifiquement la reconversion des travailleurs des secteurs en déclin vers les métiers essentiels et de faciliter la validation des acquis de l'expérience.",
+      "excerpt": "Enfin, la reconversion des travailleuses et travailleurs des secteurs en déclin vers les métiers essentiels est spécifiquement accompagnée , notamment par le Conseil en évolution professionnelle (CEP). La Validation des acquis de l’expérience (VAE) est facilitée, par exemple pour obtenir la capacité agricole.",
+      "tags": [
+        "reconversion",
+        "vae",
+        "formation",
+        "métiers"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/une-production-une-formation-un-emploi/",
+        "locator": "Une production, une formation, un emploi, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-emploi-06",
+      "theme": "emploi",
+      "title": "Orienter les certifications de France Compétences vers les compétences de demain",
+      "summary": "Le programme prévoit que France Compétences réserve une part significative des certifications accordées ou renouvelées aux formations visant les compétences de demain.",
+      "excerpt": "France Compétences, l’institution chargée de garantir la pertinence des certifications professionnelles avec les besoins de l’économie, réserve une part significative des certifications qu’elle accorde ou renouvelle aux formations qui ciblent le développement des compétences de demain.",
+      "tags": [
+        "france compétences",
+        "formation professionnelle",
+        "certification",
+        "compétences"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/une-production-une-formation-un-emploi/",
+        "locator": "Une production, une formation, un emploi, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-emploi-07",
+      "theme": "emploi",
+      "title": "Réserver le solde de la taxe d'apprentissage aux formations intégrant un socle commun sur les transitions",
+      "summary": "Le programme prévoit que seuls les établissements incluant le socle commun de compétences liées aux transitions dans leur offre puissent percevoir le solde de la taxe d'apprentissage.",
+      "excerpt": "Ne peuvent percevoir le solde de la taxe d’apprentissage que les établissements de formation qui incluent ce socle commun dans leur plaquette pédagogique.",
+      "tags": [
+        "taxe d'apprentissage",
+        "formation",
+        "transition écologique",
+        "établissement"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/une-production-une-formation-un-emploi/",
+        "locator": "Une production, une formation, un emploi, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-retraite-01",
+      "theme": "retraite",
+      "title": "Prendre en compte la pénibilité des métiers des secteurs vitaux dans les retraites",
+      "summary": "Le programme prévoit une attention particulière aux conditions de travail des métiers des secteurs vitaux et stratégiques et à la prise en compte de leur pénibilité dans le système des retraites.",
+      "excerpt": "Les métiers associés aux secteurs vitaux et stratégiques font l’objet d’une attention particulière en matière de conditions de travail et de prise en compte de la pénibilité dans le système des retraites.",
+      "tags": [
+        "retraite",
+        "pénibilité",
+        "conditions de travail",
+        "métiers"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/une-production-une-formation-un-emploi/",
+        "locator": "Une production, une formation, un emploi, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-famille-01",
+      "theme": "famille",
+      "title": "Soumettre à autorisation parentale les compagnons IA pour les moins de 16 ans",
+      "summary": "Le programme prévoit de soumettre à autorisation parentale l'usage des compagnons IA par les utilisateurs de moins de 16 ans.",
+      "excerpt": "L’usage des compagnons IA (chatbots spécifiquement conçus pour simuler une relation sociale) par les utilisateurs de moins de 16 ans est soumis à une autorisation parentale.",
+      "tags": [
+        "enfants",
+        "parents",
+        "intelligence artificielle",
+        "écrans"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/ne-laisser-personne-seul/",
+        "locator": "Ne laisser personne seul, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-etudes-01",
+      "theme": "études",
+      "title": "Valoriser les voies technologiques et professionnelles",
+      "summary": "Le programme prévoit de valoriser les voies technologiques et professionnelles, avec des stages et ateliers pratiques plus réguliers pour découvrir les métiers, notamment manuels.",
+      "excerpt": "Les voies technologiques et professionnelles sont davantage valorisées et mises en avant. Des stages et des ateliers pratiques plus réguliers permettent de découvrir une grande diversité de métiers, notamment manuels.",
+      "tags": [
+        "voie professionnelle",
+        "lycée professionnel",
+        "orientation",
+        "stage"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/une-production-une-formation-un-emploi/",
+        "locator": "Une production, une formation, un emploi, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-etudes-02",
+      "theme": "études",
+      "title": "Maintenir les recrutements de l'Éducation nationale malgré la baisse démographique",
+      "summary": "Le parti propose de maintenir un budget et des effectifs de recrutement constants dans l'Éducation nationale malgré la baisse démographique.",
+      "excerpt": "Maintenir un budget et des effectifs constants de recrutement au sein de l’Éducation nationale, malgré la baisse démographique.",
+      "tags": [
+        "enseignant",
+        "recrutement",
+        "éducation nationale",
+        "budget"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/nos-reponses-aux-revendications-lyceennes/",
+        "locator": "Nos réponses aux revendications lycéennes, Manque de personnels éducatifs"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-etudes-03",
+      "theme": "études",
+      "title": "Revoir le statut des AESH",
+      "summary": "Le parti propose de revoir le statut des AESH pour leur offrir des conditions de travail dignes et un salaire décent.",
+      "excerpt": "Revoir le statut des AESH pour leur offrir des conditions de travail dignes et un salaire décent.",
+      "tags": [
+        "aesh",
+        "handicap",
+        "école",
+        "salaire"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/nos-reponses-aux-revendications-lyceennes/",
+        "locator": "Nos réponses aux revendications lycéennes, Manque de personnels éducatifs"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-etudes-04",
+      "theme": "études",
+      "title": "Rendre l'algorithme de Parcoursup plus transparent",
+      "summary": "Le parti propose de rendre l'algorithme de Parcoursup plus transparent et d'étudier la réintroduction du classement des vœux.",
+      "excerpt": "Rendre l’algorithme plus transparent pour que les lycéens n’aient pas affaire à une boîte noire anxiogène, étudier la réintroduction du classement des vœux.",
+      "tags": [
+        "parcoursup",
+        "lycéen",
+        "vœux",
+        "orientation"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/nos-reponses-aux-revendications-lyceennes/",
+        "locator": "Nos réponses aux revendications lycéennes, Stress lié à Parcoursup"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-etudes-05",
+      "theme": "études",
+      "title": "Rétablir le certificat d'études et conditionner le passage de niveau aux examens",
+      "summary": "Le parti propose de rétablir le certificat d'études à la fin du primaire, de renforcer les exigences du brevet et du baccalauréat et de conditionner le passage de niveau à leur réussite.",
+      "excerpt": "Rétablir le certificat d’études à la fin de l’école primaire, renforcer les exigences du brevet et du baccalauréat et faire de la réussite à ces examens diplômants une condition sine qua non d’un passage de niveau.",
+      "tags": [
+        "certificat d'études",
+        "brevet",
+        "baccalauréat",
+        "redoublement"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/nos-reponses-aux-revendications-lyceennes/",
+        "locator": "Nos réponses aux revendications lycéennes, Stress lié à Parcoursup"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-etudes-06",
+      "theme": "études",
+      "title": "Garantir une place dans le supérieur à tous les bacheliers",
+      "summary": "Le parti propose de garantir une place dans l'enseignement supérieur à tous les bacheliers.",
+      "excerpt": "Garantir une place dans l’enseignement supérieur à tous les bacheliers.",
+      "tags": [
+        "bachelier",
+        "université",
+        "parcoursup",
+        "enseignement supérieur"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/nos-reponses-aux-revendications-lyceennes/",
+        "locator": "Nos réponses aux revendications lycéennes, Stress lié à Parcoursup"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-etudes-07",
+      "theme": "études",
+      "title": "Accorder une décharge aux professeurs principaux de terminale",
+      "summary": "Le parti propose d'accorder une décharge aux professeurs principaux qui suivent une classe de terminale.",
+      "excerpt": "Accorder une décharge aux professeurs principaux qui assurent le suivi d’une classe de terminales.",
+      "tags": [
+        "professeur principal",
+        "terminale",
+        "orientation",
+        "enseignant"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/nos-reponses-aux-revendications-lyceennes/",
+        "locator": "Nos réponses aux revendications lycéennes, Stress lié à Parcoursup"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-etudes-08",
+      "theme": "études",
+      "title": "Commencer les cours à 9 h au collège et au lycée",
+      "summary": "Le parti propose de décaler le début des cours à 9 h au collège et au lycée.",
+      "excerpt": "Décaler l’heure de début des cours à 9h au collège et au lycée.",
+      "tags": [
+        "rythmes scolaires",
+        "collège",
+        "lycée",
+        "emploi du temps"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/nos-reponses-aux-revendications-lyceennes/",
+        "locator": "Nos réponses aux revendications lycéennes, Emplois du temps inadaptés"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-etudes-09",
+      "theme": "études",
+      "title": "Réviser le calendrier scolaire en deux zones de vacances",
+      "summary": "Le parti propose de réviser le calendrier scolaire en deux zones de vacances avec un rythme plus équilibré.",
+      "excerpt": "Réviser le calendrier scolaire en deux zones de vacances, avec un rythme plus équilibré.",
+      "tags": [
+        "vacances scolaires",
+        "calendrier scolaire",
+        "rythmes scolaires",
+        "zones"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/nos-reponses-aux-revendications-lyceennes/",
+        "locator": "Nos réponses aux revendications lycéennes, Emplois du temps inadaptés"
+      },
+      "credibility": {
+        "precision": {
+          "value": "chiffree"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-etudes-10",
+      "theme": "études",
+      "title": "Réduire la durée des vacances d'été",
+      "summary": "Le parti propose de réduire la durée des vacances d'été.",
+      "excerpt": "En complément, nous proposons de réduire la durée des vacances d’été.",
+      "tags": [
+        "vacances d'été",
+        "calendrier scolaire",
+        "rythmes scolaires",
+        "école"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/nos-reponses-aux-revendications-lyceennes/",
+        "locator": "Nos réponses aux revendications lycéennes, Emplois du temps inadaptés"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-etudes-11",
+      "theme": "études",
+      "title": "Lancer un plan d'urgence de rénovation des bâtiments scolaires",
+      "summary": "Le parti propose un plan d'urgence de rénovation du bâti scolaire, en priorisant les sanitaires, avec un guichet unique et des procédures simplifiées.",
+      "excerpt": "Engager un plan d’urgence de rénovation du bâti scolaire , en priorisant les sanitaires avec un guichet unique et des procédures simplifiées.",
+      "tags": [
+        "bâtiments scolaires",
+        "rénovation",
+        "sanitaires",
+        "école"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/nos-reponses-aux-revendications-lyceennes/",
+        "locator": "Nos réponses aux revendications lycéennes, Bâtiments vétustes"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-etudes-12",
+      "theme": "études",
+      "title": "Investir massivement dans l'école maternelle et élémentaire",
+      "summary": "Le parti propose d'investir massivement dans le premier degré pour réduire les écarts de niveau dans les premières années.",
+      "excerpt": "Investir massivement dans le premier degré (écoles maternelles et élémentaires) pour réduire les écarts de niveau là où ils se jouent le plus : dans les premières années.",
+      "tags": [
+        "école primaire",
+        "maternelle",
+        "inégalités",
+        "investissement"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/nos-reponses-aux-revendications-lyceennes/",
+        "locator": "Nos réponses aux revendications lycéennes, Système à plusieurs vitesses"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    },
+    {
+      "id": "mikolajczak-etudes-13",
+      "theme": "études",
+      "title": "Intégrer la mobilité quotidienne à l'école maternelle et primaire",
+      "summary": "Le programme prévoit d'intégrer la mobilité quotidienne à l'école maternelle et primaire pour que les enfants ne passent plus presque toute la journée assis.",
+      "excerpt": "La mobilité quotidienne est intégrée à l’école maternelle et primaire, les enfants ne passent plus la quasi-totalité de leur journée assis.",
+      "tags": [
+        "activité physique",
+        "école primaire",
+        "maternelle",
+        "sport"
+      ],
+      "source": {
+        "url": "https://parti-equinoxe.fr/programme-2027/prevenir-plutot-que-guerir/",
+        "locator": "Prévenir plutôt que guérir, Nos propositions"
+      },
+      "credibility": {
+        "precision": {
+          "value": "intention"
+        }
+      }
+    }
+  ]
+}
