@@ -95,7 +95,16 @@ async function loadData() {
     STATE.themes[theme] = words.flatMap(tokenize);
   }
 
-  const files = await Promise.all(STATE.candidates.map((c) => fetchJSON(c.measures_file)));
+  /* Un fichier en échec (erreur passagère du serveur) est réessayé une fois, puis ignoré,
+     pour ne jamais bloquer l'affichage des autres candidats. */
+  const loadMeasures = (c) => fetchJSON(c.measures_file)
+    .catch(() => new Promise((r) => setTimeout(r, 800)).then(() => fetchJSON(c.measures_file)))
+    .catch(() => {
+      STATE.loadErrors = (STATE.loadErrors || 0) + 1;
+      return { candidate_id: c.id, measures: [] };
+    });
+  const files = await Promise.all(STATE.candidates.map(loadMeasures));
+  if (STATE.loadErrors) showError(`Les mesures de ${STATE.loadErrors} candidat(s) n'ont pas pu être chargées. Rechargez la page.`);
   STATE.measures = files.flatMap((file) =>
     file.measures.map((m) => {
       const indexText = [m.title, m.summary, m.excerpt, (m.tags || []).join(" "), m.theme].join(" ");
