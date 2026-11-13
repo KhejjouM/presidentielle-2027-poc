@@ -6,7 +6,7 @@ const CONFIG = {
   AI_CONTEXT_PER_CANDIDATE: 5,
   MIN_RELEVANCE: 2,
   /* URL du Worker Cloudflare qui détient la clé API (voir worker/). Vide = mode IA masqué. */
-  AI_PROXY_URL: "https://presidentielle-2027-ia.REMPLACER.workers.dev/explain",
+  AI_PROXY_URL: "https://presidentielle-2027-ia.colianos.workers.dev/explain",
 };
 
 const STATE = {
