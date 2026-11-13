@@ -1,0 +1,38 @@
+{
+  "demo": true,
+  "election": "Élection présidentielle des 18 avril et 2 mai 2027",
+  "updated_at": "2026-11-13",
+  "note": "Données de démonstration fictives. La liste officielle des candidats sera publiée par le Conseil constitutionnel après le 12 mars 2027.",
+  "candidates": [
+    {
+      "id": "demo-a",
+      "name": "Candidate A",
+      "party": "Mouvement fictif A",
+      "status": "demo",
+      "demo": true,
+      "official_domains": ["example.org"],
+      "program_url": "https://example.org/programme-a",
+      "measures_file": "data/measures/demo-a.json"
+    },
+    {
+      "id": "demo-b",
+      "name": "Candidat B",
+      "party": "Parti fictif B",
+      "status": "demo",
+      "demo": true,
+      "official_domains": ["example.net"],
+      "program_url": "https://example.net/projet-b.pdf",
+      "measures_file": "data/measures/demo-b.json"
+    },
+    {
+      "id": "demo-c",
+      "name": "Candidate C",
+      "party": "Union fictive C",
+      "status": "demo",
+      "demo": true,
+      "official_domains": ["example.com"],
+      "program_url": "https://example.com/programme-c",
+      "measures_file": "data/measures/demo-c.json"
+    }
+  ]
+}

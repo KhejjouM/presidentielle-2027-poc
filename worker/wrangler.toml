@@ -1,0 +1,22 @@
+name = "presidentielle-2027-ia"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+compatibility_flags = ["nodejs_compat"]
+
+# Aucune journalisation des requêtes (contrainte RGPD du projet).
+[observability]
+enabled = false
+
+[vars]
+# Site GitHub Pages d'où le Worker relit les extraits officiels.
+DATA_BASE_URL = "https://khejjoum.github.io/presidentielle-2027-poc/"
+# Origines autorisées à appeler le Worker (séparées par des virgules).
+ALLOWED_ORIGINS = "https://khejjoum.github.io,http://localhost:8000"
+
+# 5 requêtes par minute et par adresse IP. L'IP sert seulement de clé de comptage, elle n'est pas stockée.
+[[ratelimits]]
+name = "RATE_LIMITER"
+namespace_id = "2027"
+  [ratelimits.simple]
+  limit = 5
+  period = 60

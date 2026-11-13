@@ -1,0 +1,11 @@
+{
+  "logement": ["logement", "loyer", "locataire", "propriétaire", "appartement", "maison", "apl", "hlm", "immobilier", "acheter", "louer", "colocation", "hébergement"],
+  "santé": ["santé", "médecin", "hôpital", "urgences", "soins", "maladie", "mutuelle", "pharmacie", "généraliste", "spécialiste", "désert", "infirmier", "remboursement"],
+  "pouvoir d'achat": ["prix", "salaire", "smic", "facture", "énergie", "électricité", "carburant", "essence", "courses", "inflation", "impôt", "taxe", "tva", "payer", "argent", "cher"],
+  "emploi": ["emploi", "travail", "chômage", "licenciement", "entreprise", "indépendant", "freelance", "contrat", "cdi", "cdd", "embauche", "formation", "reconversion", "apprentissage", "boulot"],
+  "études": ["étudiant", "études", "université", "bourse", "école", "lycée", "collège", "enseignant", "professeur", "classe", "parcoursup", "master"],
+  "retraite": ["retraite", "pension", "senior", "départ", "cotisation", "carrière"],
+  "famille": ["enfant", "crèche", "garde", "parent", "naissance", "famille", "allocation", "congé", "parental", "monoparental", "bébé"],
+  "transport": ["transport", "voiture", "train", "bus", "métro", "vélo", "trajet", "rural", "campagne", "permis", "mobilité"],
+  "environnement": ["climat", "environnement", "écologie", "rénovation", "isolation", "chauffage", "pollution", "biodiversité", "eau"]
+}

@@ -1,0 +1,61 @@
+{
+  "candidate_id": "demo-a",
+  "demo": true,
+  "measures": [
+    {
+      "id": "demo-a-log-01",
+      "theme": "logement",
+      "title": "Plafonner les loyers dans les villes où ils ont le plus augmenté",
+      "summary": "Un plafond de loyer s'appliquerait dans les communes où les loyers ont progressé plus vite que les revenus sur cinq ans.",
+      "excerpt": "Dans les communes où les loyers ont progressé plus vite que les revenus depuis cinq ans, un plafond de loyer sera fixé chaque année par l'État.",
+      "tags": ["loyer", "locataire", "encadrement"],
+      "source": { "url": "https://example.org/programme-a#logement", "locator": "Section Logement, paragraphe 2" },
+      "credibility": {
+        "chiffrage_candidat": { "value": "aucun", "source_url": "https://example.org/programme-a#chiffrage", "note": "La mesure n'apparaît pas dans le tableau de chiffrage du programme." },
+        "precision": { "value": "intention" },
+        "faisabilite_juridique": { "value": "loi_ordinaire", "source_url": "https://example.org/analyse-juridique-fictive", "note": "Exemple fictif : un dispositif d'encadrement existe déjà par la loi." }
+      }
+    },
+    {
+      "id": "demo-a-sante-01",
+      "theme": "santé",
+      "title": "Ouvrir 500 centres de santé publics dans les zones sans médecin",
+      "summary": "500 centres de santé avec des médecins salariés seraient ouverts d'ici 2030 dans les territoires les moins bien dotés.",
+      "excerpt": "Nous ouvrirons 500 centres de santé publics avec des médecins salariés d'ici 2030, en priorité dans les territoires où l'accès à un généraliste est le plus difficile.",
+      "tags": ["médecin", "désert médical", "généraliste", "centre de santé"],
+      "source": { "url": "https://example.org/programme-a#sante", "locator": "Section Santé, paragraphe 1" },
+      "credibility": {
+        "chiffrage_candidat": { "value": "cout_et_financement", "source_url": "https://example.org/programme-a#chiffrage", "note": "Coût annoncé : 2 milliards d'euros par an, financé par redéploiement (exemple fictif)." },
+        "chiffrage_independant": { "value": "ecart_modere", "source_url": "https://example.org/institut-fictif", "note": "Estimation fictive d'un institut : 3,2 milliards par an." },
+        "precision": { "value": "chiffree_et_datee" },
+        "faisabilite_juridique": { "value": "reglementaire", "source_url": "https://example.org/analyse-juridique-fictive", "note": "Exemple fictif." }
+      }
+    },
+    {
+      "id": "demo-a-emploi-01",
+      "theme": "emploi",
+      "title": "Financer une reconversion pour chaque salarié après 15 ans de carrière",
+      "summary": "Chaque salarié disposerait d'un droit à une formation longue de reconversion, prise en charge, après 15 ans d'activité.",
+      "excerpt": "Après quinze ans de carrière, chaque salarié aura droit à une année de formation de reconversion rémunérée.",
+      "tags": ["reconversion", "formation", "salarié", "carrière"],
+      "source": { "url": "https://example.org/programme-a#travail", "locator": "Section Travail, paragraphe 4" },
+      "credibility": {
+        "chiffrage_candidat": { "value": "cout_seul", "source_url": "https://example.org/programme-a#chiffrage", "note": "Coût annoncé sans source de financement (exemple fictif)." },
+        "precision": { "value": "chiffree" },
+        "faisabilite_juridique": { "value": "loi_ordinaire", "source_url": "https://example.org/analyse-juridique-fictive", "note": "Exemple fictif." }
+      }
+    },
+    {
+      "id": "demo-a-famille-01",
+      "theme": "famille",
+      "title": "Garantir une place en crèche ou chez une assistante maternelle",
+      "summary": "Les parents auraient un droit opposable à un mode de garde pour les enfants de moins de 3 ans à partir de 2029.",
+      "excerpt": "À partir de 2029, chaque famille aura un droit opposable à un mode de garde pour ses enfants de moins de trois ans.",
+      "tags": ["crèche", "garde", "enfant", "parent", "bébé"],
+      "source": { "url": "https://example.org/programme-a#familles", "locator": "Section Familles, paragraphe 1" },
+      "credibility": {
+        "precision": { "value": "chiffree_et_datee" }
+      }
+    }
+  ]
+}

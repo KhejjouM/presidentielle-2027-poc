@@ -1,0 +1,62 @@
+{
+  "candidate_id": "demo-b",
+  "demo": true,
+  "measures": [
+    {
+      "id": "demo-b-log-01",
+      "theme": "logement",
+      "title": "Supprimer les frais de notaire sur le premier achat immobilier",
+      "summary": "Les droits de mutation seraient supprimés pour l'achat d'une résidence principale par un primo-accédant, sous plafond de prix.",
+      "excerpt": "Pour un premier achat de résidence principale d'un montant inférieur à 300 000 euros, les droits de mutation seront supprimés dès 2028.",
+      "tags": ["acheter", "propriétaire", "notaire", "primo-accédant", "immobilier"],
+      "source": { "url": "https://example.net/projet-b.pdf", "locator": "Page 12" },
+      "credibility": {
+        "chiffrage_candidat": { "value": "cout_et_financement", "source_url": "https://example.net/projet-b.pdf", "note": "Page 40 du document fictif : coût et compensation aux départements." },
+        "chiffrage_independant": { "value": "concordant", "source_url": "https://example.net/institut-fictif", "note": "Exemple fictif." },
+        "precision": { "value": "chiffree_et_datee" },
+        "faisabilite_juridique": { "value": "loi_ordinaire", "source_url": "https://example.net/analyse-juridique-fictive", "note": "Relève d'une loi de finances (exemple fictif)." }
+      }
+    },
+    {
+      "id": "demo-b-pa-01",
+      "theme": "pouvoir d'achat",
+      "title": "Baisser la TVA sur l'électricité et le gaz",
+      "summary": "Le taux de TVA appliqué aux factures d'énergie des ménages passerait à 5,5 %.",
+      "excerpt": "Nous ramènerons à 5,5 % le taux de TVA sur l'électricité et le gaz des ménages.",
+      "tags": ["facture", "électricité", "énergie", "tva", "prix"],
+      "source": { "url": "https://example.net/projet-b.pdf", "locator": "Page 8" },
+      "credibility": {
+        "chiffrage_candidat": { "value": "cout_seul", "source_url": "https://example.net/projet-b.pdf", "note": "Exemple fictif." },
+        "chiffrage_independant": { "value": "ecart_important", "source_url": "https://example.net/institut-fictif", "note": "Exemple fictif." },
+        "precision": { "value": "chiffree" },
+        "faisabilite_juridique": { "value": "loi_ordinaire", "source_url": "https://example.net/analyse-juridique-fictive", "note": "Exemple fictif : à vérifier au regard de la directive TVA." }
+      }
+    },
+    {
+      "id": "demo-b-retraite-01",
+      "theme": "retraite",
+      "title": "Indexer toutes les pensions sur l'inflation chaque année",
+      "summary": "Les pensions de retraite seraient revalorisées chaque 1er janvier au niveau de l'inflation constatée.",
+      "excerpt": "Chaque 1er janvier, toutes les pensions seront revalorisées au minimum du niveau de l'inflation constatée.",
+      "tags": ["retraite", "pension", "inflation", "senior"],
+      "source": { "url": "https://example.net/projet-b.pdf", "locator": "Page 21" },
+      "credibility": {
+        "precision": { "value": "chiffree_et_datee" },
+        "faisabilite_juridique": { "value": "loi_ordinaire", "source_url": "https://example.net/analyse-juridique-fictive", "note": "Exemple fictif." }
+      }
+    },
+    {
+      "id": "demo-b-transport-01",
+      "theme": "transport",
+      "title": "Financer le permis de conduire des jeunes en zone rurale",
+      "summary": "Une aide couvrirait une partie du coût du permis pour les jeunes de 17 à 25 ans vivant dans une commune rurale.",
+      "excerpt": "Les jeunes de 17 à 25 ans habitant une commune rurale recevront une aide de 1 000 euros pour passer leur permis de conduire.",
+      "tags": ["permis", "voiture", "rural", "jeune", "campagne"],
+      "source": { "url": "https://example.net/projet-b.pdf", "locator": "Page 27" },
+      "credibility": {
+        "chiffrage_candidat": { "value": "aucun", "source_url": "https://example.net/projet-b.pdf", "note": "Exemple fictif." },
+        "precision": { "value": "chiffree" }
+      }
+    }
+  ]
+}

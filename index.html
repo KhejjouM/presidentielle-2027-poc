@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Ce qu'ils proposent pour vous | Présidentielle 2027</title>
+  <meta name="description" content="Décrivez votre situation et consultez, candidat par candidat, les mesures des programmes officiels qui vous concernent, avec leur source et leur degré de vérification.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🗳️</text></svg>">
+</head>
+<body>
+  <div id="demo-banner" class="demo-banner" hidden>
+    <p><strong>Démonstration.</strong> Les candidats et les mesures affichés sont fictifs. Ils servent à tester l'outil avant l'intégration des programmes officiels.</p>
+  </div>
+
+  <header class="site-header">
+    <p class="site-name">Ce qu'ils proposent pour vous</p>
+    <nav aria-label="Navigation principale">
+      <a href="#methode">Méthode</a>
+      <a href="#confidentialite">Confidentialité</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="ask" aria-labelledby="ask-title">
+      <h1 id="ask-title">Décrivez votre situation. Voyez ce que chaque candidat propose.</h1>
+      <p class="lede">L'outil ne vous dit pas pour qui voter. Il retrouve, dans chaque programme officiel, les mesures liées à votre situation, avec leur source exacte.</p>
+
+      <form id="ask-form" class="ask-form" novalidate>
+        <label for="situation">Votre situation ou vos préoccupations</label>
+        <textarea id="situation" name="situation" rows="4" maxlength="1200"
+          placeholder="Exemple : je suis locataire à Lyon, mon loyer augmente chaque année et je n'arrive pas à trouver de médecin traitant."></textarea>
+        <p class="hint">Évitez d'indiquer votre nom, votre adresse ou des informations médicales précises : elles ne sont pas nécessaires.</p>
+
+        <div class="examples" aria-label="Exemples de situations">
+          <button type="button" class="chip" data-example="Je suis étudiant boursier et j'ai du mal à payer mon loyer.">Étudiant et loyer</button>
+          <button type="button" class="chip" data-example="Je vis à la campagne, je dépends de ma voiture et mes factures d'énergie augmentent.">Campagne et énergie</button>
+          <button type="button" class="chip" data-example="Je suis parent seul avec un bébé et je ne trouve pas de place en crèche.">Garde d'enfant</button>
+          <button type="button" class="chip" data-example="J'ai 58 ans, je m'inquiète pour ma retraite et je pense à une reconversion.">Retraite et reconversion</button>
+        </div>
+
+        <fieldset class="mode">
+          <legend>Mode d'analyse</legend>
+          <label class="mode-option">
+            <input type="radio" name="mode" value="local" checked>
+            <span><strong>Recherche locale.</strong> Rien ne quitte votre navigateur.</span>
+          </label>
+          <label class="mode-option" id="mode-ia-option">
+            <input type="radio" name="mode" value="ia">
+            <span><strong>Explication par IA.</strong> Votre texte est envoyé au modèle Claude d'Anthropic, qui explique le lien entre votre situation et les mesures.</span>
+          </label>
+        </fieldset>
+
+        <div id="ia-settings" class="ia-settings" hidden>
+          <label class="consent">
+            <input type="checkbox" id="ia-consent">
+            <span>J'accepte que le texte saisi soit transmis à Anthropic pour générer l'explication. Il n'est ni enregistré ni journalisé par ce site.</span>
+          </label>
+        </div>
+
+        <button type="submit" class="primary" id="submit-btn">Voir les propositions</button>
+        <p id="form-error" class="form-error" role="alert" hidden></p>
+      </form>
+    </section>
+
+    <section id="results" class="results" aria-live="polite" aria-busy="false" hidden>
+      <div class="results-head">
+        <h2>Les propositions qui vous concernent</h2>
+        <p id="results-meta" class="results-meta"></p>
+      </div>
+      <div id="ballots" class="ballots"></div>
+    </section>
+
+    <section id="methode" class="method" aria-labelledby="method-title">
+      <h2 id="method-title">Comment l'indice de solidité est calculé</h2>
+      <p id="method-principle"></p>
+      <div id="method-grid" class="method-grid"></div>
+      <p>Chaque mesure est rattachée à un extrait mot pour mot du programme officiel. Un robot vérifie chaque jour que cet extrait figure toujours sur le site du candidat ou du parti, et archive la page.</p>
+      <p>L'ordre des candidats est tiré au hasard à chaque recherche. Chaque candidat a le même nombre maximal de mesures affichées.</p>
+    </section>
+
+    <section id="confidentialite" class="method" aria-labelledby="privacy-title">
+      <h2 id="privacy-title">Confidentialité</h2>
+      <p>En recherche locale, votre texte est traité uniquement dans votre navigateur. Aucune donnée n'est collectée, stockée ou mesurée : ce site n'utilise ni cookie, ni outil d'audience.</p>
+      <p>En mode explication par IA, et uniquement après votre accord explicite, votre texte et les mesures sélectionnées transitent par un relais technique (Cloudflare Worker, sans journalisation) vers l'API d'Anthropic. Ni le relais ni ce site ne conservent votre texte. Vous dialoguez alors avec une intelligence artificielle : ses explications peuvent contenir des erreurs, seul l'extrait du programme fait foi.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Outil indépendant, sans lien avec un candidat ou un parti. Les mesures sont reprises des programmes officiels ; en cas de doute, le texte publié par le candidat fait foi.</p>
+    <p id="data-meta"></p>
+  </footer>
+
+  <template id="ballot-template">
+    <article class="ballot">
+      <header class="ballot-head">
+        <h3 class="ballot-name"></h3>
+        <p class="ballot-party"></p>
+      </header>
+      <div class="ballot-ai" hidden></div>
+      <ol class="measures"></ol>
+      <footer class="ballot-foot">
+        <a class="program-link" target="_blank" rel="noopener">Programme complet</a>
+      </footer>
+    </article>
+  </template>
+
+  <script src="assets/app.js" defer></script>
+</body>
+</html>

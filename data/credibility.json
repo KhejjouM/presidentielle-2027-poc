@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "principe": "Chaque critère repose sur un fait vérifiable et sourcé. Un critère sans élément sourcé n'est pas noté : il ne compte ni pour ni contre la mesure. Les poids sont publics et identiques pour tous les candidats.",
+  "min_criteres_pour_noter": 2,
+  "criteria": [
+    {
+      "id": "chiffrage_candidat",
+      "label": "Chiffrage par le candidat",
+      "question": "Le candidat publie-t-il le coût de la mesure et son financement ?",
+      "weight": 25,
+      "requires_source": true,
+      "values": {
+        "cout_et_financement": { "label": "Coût et financement publiés", "points": 1 },
+        "cout_seul": { "label": "Coût publié, financement non précisé", "points": 0.5 },
+        "aucun": { "label": "Ni coût ni financement publiés", "points": 0 }
+      }
+    },
+    {
+      "id": "chiffrage_independant",
+      "label": "Chiffrage indépendant",
+      "question": "Une estimation indépendante (institut, Cour des comptes, etc.) est-elle proche du chiffrage du candidat ?",
+      "weight": 20,
+      "requires_source": true,
+      "values": {
+        "concordant": { "label": "Écart inférieur à 25 %", "points": 1 },
+        "ecart_modere": { "label": "Écart entre 25 % et 100 %", "points": 0.5 },
+        "ecart_important": { "label": "Écart supérieur à 100 %", "points": 0.1 }
+      }
+    },
+    {
+      "id": "precision",
+      "label": "Précision de l'engagement",
+      "question": "La mesure fixe-t-elle un objectif chiffré et un calendrier ?",
+      "weight": 20,
+      "requires_source": false,
+      "values": {
+        "chiffree_et_datee": { "label": "Objectif chiffré et daté", "points": 1 },
+        "chiffree": { "label": "Objectif chiffré sans date", "points": 0.6 },
+        "intention": { "label": "Intention sans objectif chiffré", "points": 0.2 }
+      }
+    },
+    {
+      "id": "faisabilite_juridique",
+      "label": "Mise en œuvre juridique",
+      "question": "Quel texte faut-il pour appliquer la mesure ?",
+      "weight": 20,
+      "requires_source": true,
+      "values": {
+        "reglementaire": { "label": "Un décret suffit", "points": 1 },
+        "loi_ordinaire": { "label": "Une loi ordinaire", "points": 0.8 },
+        "loi_organique": { "label": "Une loi organique", "points": 0.6 },
+        "revision_constitutionnelle": { "label": "Une révision de la Constitution", "points": 0.3 },
+        "contraire_droit_ue": { "label": "Contraire au droit de l'UE en l'état", "points": 0.1 }
+      }
+    }
+  ],
+  "verification": {
+    "id": "source_verifiee",
+    "label": "Présence sur le site officiel",
+    "question": "Le texte de la mesure figure-t-il toujours sur la source officielle citée ?",
+    "weight": 15,
+    "statuses": {
+      "verifie": { "label": "Texte retrouvé sur la source officielle", "points": 1 },
+      "approchant": { "label": "Texte proche mais modifié", "points": 0.5 },
+      "introuvable": { "label": "Texte introuvable sur la source", "points": 0 },
+      "domaine_non_officiel": { "label": "Source hors des domaines officiels", "points": 0 },
+      "erreur": { "label": "Source inaccessible lors du dernier contrôle", "points": null },
+      "demo": { "label": "Donnée de démonstration", "points": null },
+      "non_verifie": { "label": "Pas encore contrôlée", "points": null }
+    }
+  }
+}

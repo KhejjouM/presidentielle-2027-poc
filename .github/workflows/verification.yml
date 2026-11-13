@@ -1,0 +1,46 @@
+name: Vérification des mesures
+
+on:
+  schedule:
+    - cron: "0 5 * * *"   # chaque jour à 5 h UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "data/candidates.json"
+      - "data/measures/**"
+      - "data/credibility.json"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: verification
+  cancel-in-progress: false
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+      - run: pip install -r scripts/requirements.txt
+      - name: Valider les données
+        run: python scripts/validate_data.py
+      - name: Vérifier les mesures sur les sites officiels et archiver
+        run: python scripts/verify_measures.py --archive
+      - name: Publier le résultat
+        run: |
+          git config user.name "verification-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/verification.json
+          if git diff --cached --quiet; then
+            echo "Aucun changement."
+          else
+            git commit -m "Vérification automatique des mesures"
+            git push
+          fi

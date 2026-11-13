@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-11-13T08:00:00Z",
+  "demo": true,
+  "results": {
+    "demo-a-log-01": { "status": "verifie", "similarity": 100, "checked_at": "2026-11-13T08:00:00Z", "url": "https://example.org/programme-a#logement", "archive_url": null, "demo": true },
+    "demo-a-sante-01": { "status": "verifie", "similarity": 98.7, "checked_at": "2026-11-13T08:00:00Z", "url": "https://example.org/programme-a#sante", "archive_url": null, "demo": true },
+    "demo-a-emploi-01": { "status": "approchant", "similarity": 86.2, "checked_at": "2026-11-13T08:00:00Z", "url": "https://example.org/programme-a#travail", "archive_url": null, "demo": true },
+    "demo-a-famille-01": { "status": "non_verifie", "demo": true },
+    "demo-b-log-01": { "status": "verifie", "similarity": 100, "checked_at": "2026-11-13T08:00:00Z", "url": "https://example.net/projet-b.pdf", "archive_url": null, "demo": true },
+    "demo-b-pa-01": { "status": "verifie", "similarity": 100, "checked_at": "2026-11-13T08:00:00Z", "url": "https://example.net/projet-b.pdf", "archive_url": null, "demo": true },
+    "demo-b-retraite-01": { "status": "introuvable", "similarity": 41.0, "checked_at": "2026-11-13T08:00:00Z", "url": "https://example.net/projet-b.pdf", "archive_url": null, "demo": true },
+    "demo-b-transport-01": { "status": "erreur", "checked_at": "2026-11-13T08:00:00Z", "url": "https://example.net/projet-b.pdf", "http_status": 503, "demo": true },
+    "demo-c-log-01": { "status": "verifie", "similarity": 100, "checked_at": "2026-11-13T08:00:00Z", "url": "https://example.com/programme-c/logement", "archive_url": null, "demo": true },
+    "demo-c-etudes-01": { "status": "verifie", "similarity": 97.4, "checked_at": "2026-11-13T08:00:00Z", "url": "https://example.com/programme-c/jeunesse", "archive_url": null, "demo": true },
+    "demo-c-sante-01": { "status": "verifie", "similarity": 100, "checked_at": "2026-11-13T08:00:00Z", "url": "https://example.com/programme-c/sante", "archive_url": null, "demo": true },
+    "demo-c-env-01": { "status": "approchant", "similarity": 88.9, "checked_at": "2026-11-13T08:00:00Z", "url": "https://example.com/programme-c/ecologie", "archive_url": null, "demo": true }
+  }
+}
