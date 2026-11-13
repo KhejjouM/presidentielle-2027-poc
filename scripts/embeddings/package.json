@@ -1,0 +1,8 @@
+{
+  "name": "programmes-2027-embeddings",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@huggingface/transformers": "4.3.1"
+  }
+}

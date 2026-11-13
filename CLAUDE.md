@@ -26,6 +26,7 @@ data/measures/<id>.json    mesures d'un candidat
 data/credibility.json      grille de l'indice (critères, poids, valeurs)
 data/themes.json           vocabulaire utilisé par la recherche locale
 data/verification.json     généré par scripts/verify_measures.py, ne pas éditer à la main
+data/embeddings.json       vecteurs des mesures pour la recherche sémantique, générés par scripts/embeddings/build_embeddings.mjs
 scripts/validate_data.py   contrôles bloquants (CI)
 scripts/fetch_text.py      texte brut d'une page ou d'un PDF officiel, tel que le lit le robot : copier les extraits depuis cette sortie
 scripts/check_measures.py  contrôle d'un seul fichier de mesures, sans rien écrire
@@ -39,7 +40,7 @@ worker/                    Cloudflare Worker du mode IA : détient la clé API (
 2. Ajouter l'entrée dans `data/candidates.json` avec deux `declaration_sources` (médias nationaux distincts), `official_domains` (domaines nus) et, si besoin, `official_documents` (URL exactes de documents liés depuis le site officiel mais hébergés chez un prestataire). Renseigner `program_status` : `programme`, `propositions`, `aucun` ou `inaccessible` (site qui bloque les robots : ne jamais contourner).
 3. Télécharger le programme depuis le site officiel (HTML ou PDF). Pour un PDF : `pdftotext -layout programme.pdf -` ou pdfplumber.
 4. Créer `data/measures/<id>.json`. Copier chaque extrait depuis la sortie de `scripts/fetch_text.py` (jamais depuis un résumé). Plafond : 15 mesures par thème et par candidat, les plus précises. Une mesure = un engagement précis. Pour chacune : `id` stable (`<candidat>-<theme>-<nn>`), `theme` présent dans `themes.json`, `title`, `summary`, `excerpt` exact, `tags`, `source.url` et `source.locator` (page ou section).
-5. Lancer `python scripts/validate_data.py` puis `python scripts/verify_measures.py --only <ids>`. Toute mesure qui n'est pas `verifie` doit être corrigée (extrait mal copié) avant commit.
+5. Recalculer les embeddings (`node scripts/embeddings/build_embeddings.mjs`), puis lancer `python scripts/validate_data.py` puis `python scripts/verify_measures.py --only <ids>`. Toute mesure qui n'est pas `verifie` doit être corrigée (extrait mal copié) avant commit.
 6. Indice de solidité : renseigner seulement les critères pour lesquels une source existe (tableau de chiffrage publié par le candidat, chiffrage d'un institut indépendant, analyse juridique publiée). Noter la source dans `source_url` et un résumé factuel dans `note`.
 7. Précision : `chiffree_et_datee` = objectif chiffré et échéance ; `chiffree` = chiffré sans échéance ; `intention` sinon (une date ou une durée seule reste une intention). `chiffrage_candidat` = `cout_et_financement` seulement si un financement est rattaché à la mesure elle-même, sinon `cout_seul`.
 
@@ -48,15 +49,15 @@ worker/                    Cloudflare Worker du mode IA : détient la clé API (
 ```bash
 python3 -m http.server 8000                       # site en local sur http://localhost:8000
 pip install -r scripts/requirements.txt
-python scripts/validate_data.py                   # contrôles bloquants
+python scripts/validate_data.py                   # contrôles bloquants (dont fraîcheur des embeddings)
+cd scripts/embeddings && npm install && node build_embeddings.mjs   # à relancer après tout ajout ou modification de mesure
 python scripts/verify_measures.py                 # vérification sur les sites officiels
 python scripts/verify_measures.py --archive       # idem, avec archivage Wayback Machine
 ```
 
 ## Pistes d'amélioration, par priorité
 
-1. Recherche sémantique locale (embeddings calculés au build, modèle multilingue exécuté dans le navigateur avec transformers.js) pour remplacer la correspondance par mots-clés.
-2. Page de mentions légales et d'information RGPD complète, mention de transparence IA.
-3. Vue par thème : toutes les mesures d'un thème, tous candidats, dans un ordre aléatoire.
-4. Tests end-to-end Playwright dans la CI.
-5. Audit d'accessibilité (RGAA).
+1. Page de mentions légales et d'information RGPD complète, mention de transparence IA.
+2. Vue par thème : toutes les mesures d'un thème, tous candidats, dans un ordre aléatoire.
+3. Tests end-to-end Playwright dans la CI.
+4. Audit d'accessibilité (RGAA).

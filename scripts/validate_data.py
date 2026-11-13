@@ -11,6 +11,7 @@ Bloque (code de sortie 1) si :
 """
 from __future__ import annotations
 
+import hashlib
 import json
 import sys
 from pathlib import Path
@@ -20,6 +21,11 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 REQUIRED = ["id", "theme", "title", "summary", "excerpt", "source"]
 MIN_EXCERPT = 30
+
+
+def passage_text(m: dict) -> str:
+    """Texte indexé pour la recherche sémantique (identique à scripts/embeddings/build_embeddings.mjs)."""
+    return f"{m['title']}. {m['summary']} {m['excerpt']}"
 
 
 def walk_strings(obj):
@@ -105,6 +111,20 @@ def main() -> int:
                     errors.append(f"{where} : valeur '{entry.get('value')}' invalide pour {crit_id}")
                 if crit.get("requires_source") and not entry.get("source_url"):
                     errors.append(f"{where} : {crit_id} exige une source (source_url)")
+
+    # Les vecteurs de la recherche sémantique doivent correspondre aux mesures publiées.
+    emb_path = DATA / "embeddings.json"
+    all_measures = [m for cand in meta["candidates"] if (ROOT / cand["measures_file"]).exists()
+                    for m in json.loads((ROOT / cand["measures_file"]).read_text(encoding="utf-8"))["measures"]]
+    if emb_path.exists():
+        emb = json.loads(emb_path.read_text(encoding="utf-8"))
+        expected = {m["id"]: hashlib.sha1(passage_text(m).encode("utf-8")).hexdigest()[:12] for m in all_measures}
+        actual = dict(zip(emb.get("ids", []), emb.get("hashes", [])))
+        if expected != actual:
+            stale = sorted(k for k in expected.keys() | actual.keys() if expected.get(k) != actual.get(k))
+            errors.append(f"data/embeddings.json n'est plus à jour ({len(stale)} mesures, ex. {stale[:3]}) : lancer node scripts/embeddings/build_embeddings.mjs")
+    elif all_measures:
+        errors.append("data/embeddings.json absent : lancer node scripts/embeddings/build_embeddings.mjs")
 
     for w in warnings:
         print("Avertissement :", w)

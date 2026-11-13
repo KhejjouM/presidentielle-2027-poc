@@ -63,6 +63,7 @@
         </div>
 
         <button type="submit" class="primary" id="submit-btn">Voir les propositions</button>
+        <p id="search-status" class="hint" aria-live="polite" hidden></p>
         <p id="form-error" class="form-error" role="alert" hidden></p>
       </form>
     </section>
@@ -102,7 +103,7 @@
 
     <section id="confidentialite" class="method" aria-labelledby="privacy-title">
       <h2 id="privacy-title">Confidentialité</h2>
-      <p>En recherche locale, votre texte est traité uniquement dans votre navigateur. Aucune donnée n'est collectée, stockée ou mesurée : ce site n'utilise ni cookie, ni outil d'audience.</p>
+      <p>En recherche locale, votre texte est traité uniquement dans votre navigateur, y compris la recherche par le sens : le modèle de langue (multilingual-e5-small, environ 120 Mo) est téléchargé une fois depuis Hugging Face et jsDelivr, puis exécuté sur votre appareil. Ces services voient votre adresse IP lors du téléchargement, jamais votre texte. Aucune donnée n'est collectée, stockée ou mesurée par ce site : il n'utilise ni cookie, ni outil d'audience.</p>
       <p>En mode explication par IA, et uniquement après votre accord explicite, votre texte et les mesures sélectionnées transitent par un relais technique (Cloudflare Worker, sans journalisation) vers l'API d'Anthropic. Ni le relais ni ce site ne conservent votre texte. Vous dialoguez alors avec une intelligence artificielle : ses explications peuvent contenir des erreurs, seul l'extrait du programme fait foi.</p>
     </section>
   </main>

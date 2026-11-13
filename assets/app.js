@@ -5,6 +5,12 @@ const CONFIG = {
   MAX_PER_CANDIDATE: 3,
   AI_CONTEXT_PER_CANDIDATE: 5,
   MIN_RELEVANCE: 2,
+  /* Recherche sémantique : modèle exécuté dans le navigateur (le texte ne quitte pas l'appareil).
+     Doit correspondre au modèle de scripts/embeddings/build_embeddings.mjs. */
+  TRANSFORMERS_URL: "https://cdn.jsdelivr.net/npm/@huggingface/transformers@4.3.1/+esm",
+  SEM_WEIGHT: 0.6, /* part du sens dans la pertinence ; le reste vient des mots en commun */
+  SEM_TOP_PCT: 0.99,
+  MIN_COMBINED: 0.6, /* pertinence minimale (0 à 1) pour qu'une mesure soit retenue */
   /* URL du Worker Cloudflare qui détient la clé API (voir worker/). Vide = mode IA masqué. */
   AI_PROXY_URL: "https://presidentielle-2027-ia.colianos.workers.dev/explain",
 };
@@ -132,18 +138,104 @@ function scoreMeasure(measure, queryTokens, themes) {
   return score;
 }
 
-function retrieve(query, limit) {
+/* ---------- Recherche sémantique ---------- */
+
+function setSearchStatus(text) {
+  const el = $("#search-status");
+  el.textContent = text || "";
+  el.hidden = !text;
+}
+
+/* Charge une seule fois les vecteurs des mesures et le modèle (mis en cache par le navigateur). */
+function ensureSemantic() {
+  if (STATE.sem) return STATE.sem;
+  STATE.sem = (async () => {
+    const files = new Map();
+    const progress = (e) => {
+      if (e.status !== "progress" || !e.total) return;
+      files.set(e.file, [e.loaded, e.total]);
+      let loaded = 0, total = 0;
+      for (const [l, t] of files.values()) { loaded += l; total += t; }
+      if (STATE.semWaiting) setSearchStatus(`Chargement du modèle de recherche : ${Math.round((100 * loaded) / total)} % (environ 120 Mo, une seule fois, ensuite gardé en cache).`);
+    };
+    const [emb, tf] = await Promise.all([fetchJSON("data/embeddings.json"), import(CONFIG.TRANSFORMERS_URL)]);
+    tf.env.allowLocalModels = false;
+    const extractor = await tf.pipeline("feature-extraction", emb.model, { dtype: emb.dtype, progress_callback: progress });
+    const bytes = Uint8Array.from(atob(emb.vectors), (c) => c.charCodeAt(0));
+    const vectors = new Int8Array(bytes.buffer);
+    const row = new Map(emb.ids.map((id, i) => [id, i]));
+    return { extractor, dim: emb.dim, vectors, row };
+  })();
+  STATE.sem.catch(() => {});
+  return STATE.sem;
+}
+
+/* Similarité de chaque mesure avec la requête, ou null si le modèle est indisponible. */
+async function semanticScores(query) {
+  try {
+    STATE.semWaiting = true;
+    const sem = await ensureSemantic();
+    const out = await sem.extractor("query: " + query, { pooling: "mean", normalize: true });
+    const q = out.data;
+    const sims = new Map();
+    for (const m of STATE.measures) {
+      const i = sem.row.get(m.id);
+      if (i === undefined) continue;
+      let dot = 0;
+      const base = i * sem.dim;
+      for (let k = 0; k < sem.dim; k++) dot += q[k] * sem.vectors[base + k];
+      sims.set(m.id, dot / 127);
+    }
+    return sims;
+  } catch (err) {
+    console.warn("Recherche sémantique indisponible :", err);
+    return null;
+  } finally {
+    STATE.semWaiting = false;
+    setSearchStatus("");
+  }
+}
+
+/* ---------- Recherche ---------- */
+
+/* Pertinence d'une mesure pour la situation (0 à 1) :
+   - avec le modèle : SEM_WEIGHT x similarité de sens (recalée entre la médiane et le
+     maximum de la recherche) + (1 - SEM_WEIGHT) x mots en commun (relatifs au maximum) ;
+   - sans le modèle : mots en commun seuls.
+   Les mesures sous le seuil sont écartées ; la pertinence finale est relative à la
+   meilleure mesure trouvée, tous candidats confondus. */
+function retrieve(query, limit, sims = null) {
   const qTokens = tokenize(query);
   const themes = detectThemes(qTokens);
+  const kw = new Map(STATE.measures.map((m) => [m.id, scoreMeasure(m, qTokens, themes)]));
+  const bestKw = Math.max(1, ...kw.values());
+
+  let combined;
+  if (sims && sims.size) {
+    const sorted = [...sims.values()].sort((a, b) => a - b);
+    const median = sorted[Math.floor(sorted.length / 2)];
+    /* Haut de l'échelle : 99e centile plutôt que le maximum, pour qu'une seule mesure
+       très proche n'écrase pas toutes les autres. */
+    const max = sorted[Math.floor((sorted.length - 1) * CONFIG.SEM_TOP_PCT)];
+    const span = Math.max(1e-6, max - median);
+    combined = new Map(STATE.measures.map((m) => {
+      const z = Math.min(1, Math.max(0, ((sims.get(m.id) ?? median) - median) / span));
+      return [m.id, CONFIG.SEM_WEIGHT * z + (1 - CONFIG.SEM_WEIGHT) * (kw.get(m.id) / bestKw)];
+    }));
+  } else {
+    combined = new Map(STATE.measures.map((m) => [m.id, kw.get(m.id) >= CONFIG.MIN_RELEVANCE ? kw.get(m.id) / bestKw : 0]));
+  }
+  const threshold = sims && sims.size ? CONFIG.MIN_COMBINED : 1e-9;
+
   const byCandidate = new Map(STATE.candidates.map((c) => [c.id, []]));
   let best = 0;
   for (const m of STATE.measures) {
-    const s = scoreMeasure(m, qTokens, themes);
-    if (s >= CONFIG.MIN_RELEVANCE) byCandidate.get(m.candidate_id)?.push({ measure: m, score: s });
-    if (s > best) best = s;
+    const r = combined.get(m.id);
+    if (r >= threshold) {
+      byCandidate.get(m.candidate_id)?.push({ measure: m, score: r });
+      if (r > best) best = r;
+    }
   }
-  /* Pertinence de chaque mesure pour cette recherche, relative à la meilleure mesure
-     trouvée tous candidats confondus (1 = aussi pertinente que la meilleure). */
   STATE.relevance = new Map();
   for (const list of byCandidate.values()) for (const x of list) STATE.relevance.set(x.measure.id, best ? x.score / best : 0);
   return shuffle(STATE.candidates).map((candidate) => ({
@@ -472,13 +564,16 @@ async function onSubmit(event) {
   results.setAttribute("aria-busy", "true");
 
   try {
+    button.textContent = "Recherche en cours…";
+    const sims = await semanticScores(query);
+    STATE.searchKind = sims ? "semantique" : "mots";
     if (mode === "local") {
-      const selection = retrieve(query, CONFIG.MAX_PER_CANDIDATE);
+      const selection = retrieve(query, CONFIG.MAX_PER_CANDIDATE, sims);
       renderBallots(selection, null);
       setResultsMeta(selection, false);
     } else {
       button.textContent = "Analyse en cours…";
-      const wide = retrieve(query, CONFIG.AI_CONTEXT_PER_CANDIDATE);
+      const wide = retrieve(query, CONFIG.AI_CONTEXT_PER_CANDIDATE, sims);
       const ai = wide.some(({ measures }) => measures.length) ? await askClaude(query, wide) : new Map();
       const selection = wide.map(({ candidate, measures }) => {
         const cited = ai.get(candidate.id)?.measures || [];
@@ -501,7 +596,10 @@ async function onSubmit(event) {
 
 function setResultsMeta(selection, ai) {
   const withHits = selection.filter((s) => s.measures.length).length;
-  $("#results-meta").textContent =
+  const kind = STATE.searchKind === "semantique"
+    ? "Recherche par le sens et par les mots, exécutée dans votre navigateur. "
+    : "Recherche par mots-clés (le modèle de recherche par le sens n'a pas pu être chargé). ";
+  $("#results-meta").textContent = kind +
     `${withHits} programme${withHits > 1 ? "s" : ""} sur ${selection.length} contien${withHits > 1 ? "nent" : "t"} des mesures liées à votre situation. ` +
     `Candidats classés par score : pour chaque mesure affichée (${CONFIG.MAX_PER_CANDIDATE} au plus), pertinence pour votre situation × indice de solidité. Égalités départagées au hasard. Ce score ne juge pas le fond des mesures.` +
     (ai ? " Les explications sont générées par IA et peuvent contenir des erreurs : seul l'extrait du programme fait foi." : "");
@@ -510,9 +608,13 @@ function setResultsMeta(selection, ai) {
 function init() {
   if (!aiAvailable()) $("#mode-ia-option").hidden = true;
   $("#ask-form").addEventListener("submit", onSubmit);
+  /* Le modèle (environ 120 Mo) n'est téléchargé qu'à la première interaction avec le formulaire. */
+  const warmUp = () => ensureSemantic();
+  $("#situation").addEventListener("focus", warmUp, { once: true });
   document.querySelectorAll(".chip").forEach((chip) =>
     chip.addEventListener("click", () => {
       $("#situation").value = chip.dataset.example;
+      ensureSemantic();
       $("#situation").focus();
     })
   );
