@@ -47,6 +47,8 @@ toute mesure non vérifiée, puis montre-moi un récapitulatif par candidat avan
 - **Recherche locale** (par défaut) : recherche par le sens (modèle multilingual-e5-small exécuté dans le navigateur avec transformers.js, environ 120 Mo téléchargés une fois) combinée aux mots-clés. Le texte saisi ne quitte pas l'appareil. Les vecteurs des mesures sont précalculés dans `data/embeddings.json` (`node scripts/embeddings/build_embeddings.mjs`).
 - **Explication par IA** : après accord explicite de l'utilisateur, le texte saisi et les identifiants des mesures sélectionnées sont envoyés à un Cloudflare Worker (`worker/`) qui détient la clé API Anthropic. Le Worker relit lui-même les extraits officiels depuis le site publié, applique un prompt système fixe et renvoie une explication neutre par candidat. Les identifiants renvoyés sont filtrés : un candidat ou une mesure absent de la sélection est ignoré. Aucune journalisation.
 
+- **Assistant pour préciser sa situation** : un court entretien (route `/clarify` du Worker) pose une ou deux questions à la fois, propose des réponses rapides et tient à jour un résumé de la situation, modifiable, qui sert ensuite à la recherche. Il a pour consigne de ne parler d'aucun candidat ni programme et de ne demander ni opinion politique ni donnée sensible. Consentement explicite requis, 20 échanges par minute et par IP au plus.
+
 ## Déployer le proxy IA (Cloudflare Worker)
 
 La clé API ne doit jamais apparaître dans le dépôt ni dans le site : GitHub Pages est public. Elle vit uniquement comme secret du Worker.

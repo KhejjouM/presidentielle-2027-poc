@@ -320,3 +320,27 @@ blockquote.excerpt {
 .ballot-none a { color: inherit; }
 .none-count { font-weight: 400; }
 .ballot-none .none-note { margin-top: 0.75rem; font-size: 0.85rem; opacity: 0.85; }
+
+/* ---------- Assistant (entretien) ---------- */
+.actions { display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center; }
+.secondary { font: inherit; font-weight: 700; background: transparent; color: var(--stamp); border: 1.5px solid var(--stamp); border-radius: var(--radius-ctrl); padding: 0.75rem 1.2rem; cursor: pointer; }
+.secondary:hover { background: var(--stamp-soft); }
+.chat { margin-top: 1.5rem; max-width: var(--measure); background: var(--slip); border: 1px solid var(--rule); border-radius: var(--radius-ctrl); padding: 1rem 1.25rem 1.25rem; }
+.chat-head { display: flex; justify-content: space-between; align-items: center; }
+.chat-head h2 { font-size: 1.2rem; margin: 0; }
+.chat-close { font: inherit; background: transparent; border: 0; color: var(--muted); cursor: pointer; font-size: 1.1rem; padding: 0.25rem 0.5rem; }
+.chat-disclaimer { font-size: 0.88rem; color: var(--muted); margin: 0.4rem 0 0; }
+.chat-log { list-style: none; margin: 1rem 0 0; padding: 0; display: flex; flex-direction: column; gap: 0.6rem; }
+.chat-msg { max-width: 85%; padding: 0.6rem 0.85rem; border-radius: 12px; line-height: 1.45; white-space: pre-wrap; }
+.chat-msg.assistant { background: var(--stamp-soft); align-self: flex-start; border-bottom-left-radius: 4px; }
+.chat-msg.user { background: var(--filled); color: var(--slip); align-self: flex-end; border-bottom-right-radius: 4px; }
+.chat-msg.pending { opacity: 0.7; font-style: italic; }
+.chat-suggestions { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0.75rem 0 0; }
+.chat-form { display: flex; gap: 0.6rem; align-items: flex-end; margin-top: 0.75rem; }
+.chat-form textarea { flex: 1; min-height: 2.8rem; }
+.chat-form .primary { padding: 0.7rem 1.1rem; }
+.chat-summary { margin-top: 1.1rem; padding-top: 1rem; border-top: 1px dashed var(--rule); }
+.chat-summary label { font-weight: 700; display: block; margin-bottom: 0.4rem; }
+.chat-summary.ready { background: var(--stamp-soft); margin-left: -1.25rem; margin-right: -1.25rem; padding: 1rem 1.25rem; border-top: 0; }
+.chat-summary textarea { min-height: 4.5rem; margin-bottom: 0.75rem; }
+.hint-inline { font-weight: 400; color: var(--muted); font-size: 0.88rem; }

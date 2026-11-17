@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/style.css?v=20261113b">
+  <link rel="stylesheet" href="assets/style.css?v=20261117a">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🗳️</text></svg>">
 </head>
 <body>
@@ -62,10 +62,38 @@
           </label>
         </div>
 
-        <button type="submit" class="primary" id="submit-btn">Voir les propositions</button>
+        <div class="actions">
+          <button type="submit" class="primary" id="submit-btn">Voir les propositions</button>
+          <button type="button" class="secondary" id="chat-open">Préciser ma situation avec l'assistant</button>
+        </div>
         <p id="search-status" class="hint" aria-live="polite" hidden></p>
         <p id="form-error" class="form-error" role="alert" hidden></p>
       </form>
+
+      <section id="chat" class="chat" aria-labelledby="chat-title" hidden>
+        <header class="chat-head">
+          <h2 id="chat-title">Préciser votre situation</h2>
+          <button type="button" class="chat-close" id="chat-close" aria-label="Fermer l'assistant">✕</button>
+        </header>
+        <p class="chat-disclaimer">Vous échangez avec une intelligence artificielle (Claude, d'Anthropic). Elle vous pose quelques questions pour mieux décrire votre situation. Elle ne parle d'aucun candidat et ne donne aucun conseil de vote.</p>
+        <label class="consent" id="chat-consent-label">
+          <input type="checkbox" id="chat-consent">
+          <span>J'accepte que mes messages soient transmis à Anthropic pour cet échange. Ils ne sont ni enregistrés ni journalisés par ce site. Évitez les informations médicales précises, votre nom ou votre adresse.</span>
+        </label>
+        <ol class="chat-log" id="chat-log" aria-live="polite"></ol>
+        <div class="chat-suggestions" id="chat-suggestions"></div>
+        <form class="chat-form" id="chat-form" novalidate>
+          <label for="chat-input" class="visually-hidden">Votre réponse</label>
+          <textarea id="chat-input" rows="2" maxlength="800" placeholder="Votre réponse…"></textarea>
+          <button type="submit" class="primary" id="chat-send">Envoyer</button>
+        </form>
+        <p id="chat-error" class="form-error" role="alert" hidden></p>
+        <div class="chat-summary" id="chat-summary-box" hidden>
+          <label for="chat-summary">Votre situation telle que je la comprends <span class="hint-inline">(vous pouvez la corriger)</span></label>
+          <textarea id="chat-summary" rows="3" maxlength="1200"></textarea>
+          <button type="button" class="primary" id="chat-search">Voir les propositions pour cette situation</button>
+        </div>
+      </section>
     </section>
 
     <section id="results" class="results" aria-live="polite" aria-busy="false" hidden>
@@ -104,6 +132,7 @@
     <section id="confidentialite" class="method" aria-labelledby="privacy-title">
       <h2 id="privacy-title">Confidentialité</h2>
       <p>En recherche locale, votre texte est traité uniquement dans votre navigateur, y compris la recherche par le sens : le modèle de langue (multilingual-e5-small, environ 120 Mo) est téléchargé une fois depuis Hugging Face et jsDelivr, puis exécuté sur votre appareil. Ces services voient votre adresse IP lors du téléchargement, jamais votre texte. Aucune donnée n'est collectée, stockée ou mesurée par ce site : il n'utilise ni cookie, ni outil d'audience.</p>
+      <p>Avec l'assistant qui vous aide à préciser votre situation, et uniquement après votre accord explicite, vos messages transitent par le même relais technique vers l'API d'Anthropic, sans être conservés. L'assistant reçoit pour consigne de ne parler d'aucun candidat et de ne demander ni opinion politique ni donnée sensible.</p>
       <p>En mode explication par IA, et uniquement après votre accord explicite, votre texte et les mesures sélectionnées transitent par un relais technique (Cloudflare Worker, sans journalisation) vers l'API d'Anthropic. Ni le relais ni ce site ne conservent votre texte. Vous dialoguez alors avec une intelligence artificielle : ses explications peuvent contenir des erreurs, seul l'extrait du programme fait foi.</p>
     </section>
   </main>
@@ -128,6 +157,6 @@
     </article>
   </template>
 
-  <script src="assets/app.js?v=20261113b" defer></script>
+  <script src="assets/app.js?v=20261117a" defer></script>
 </body>
 </html>

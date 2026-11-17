@@ -31,7 +31,7 @@ scripts/validate_data.py   contrôles bloquants (CI)
 scripts/fetch_text.py      texte brut d'une page ou d'un PDF officiel, tel que le lit le robot : copier les extraits depuis cette sortie
 scripts/check_measures.py  contrôle d'un seul fichier de mesures, sans rien écrire
 scripts/verify_measures.py vérification quotidienne sur les sites officiels + archivage Wayback
-worker/                    Cloudflare Worker du mode IA : détient la clé API (secret), relit les extraits, prompt fixe
+worker/                    Cloudflare Worker : /explain (explication par candidat) et /clarify (entretien pour préciser la situation, ne parle jamais de candidats) ; détient la clé API, prompts fixes
 ```
 
 ## Ajouter un candidat (procédure)

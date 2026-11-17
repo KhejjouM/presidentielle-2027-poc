@@ -535,6 +535,118 @@ async function askClaude(query, selection) {
   return out;
 }
 
+/* ---------- Assistant : entretien pour préciser la situation ---------- */
+
+const CHAT = { history: [], busy: false, opened: false };
+const CHAT_GREETING = "Bonjour. Décrivez en quelques mots votre situation ou ce qui vous préoccupe (logement, travail, famille, santé, trajets…). Je vous poserai ensuite une ou deux questions pour la préciser.";
+
+function chatUrl() {
+  return CONFIG.AI_PROXY_URL.replace(/\/explain$/, "/clarify");
+}
+
+function chatAdd(role, text, extraClass = "") {
+  const li = document.createElement("li");
+  li.className = `chat-msg ${role} ${extraClass}`.trim();
+  li.textContent = text;
+  $("#chat-log").appendChild(li);
+  li.scrollIntoView({ block: "nearest", behavior: "smooth" });
+  return li;
+}
+
+function chatError(message) {
+  const el = $("#chat-error");
+  el.textContent = message || "";
+  el.hidden = !message;
+}
+
+function chatSuggestions(list) {
+  const box = $("#chat-suggestions");
+  box.innerHTML = "";
+  for (const text of list || []) {
+    const b = document.createElement("button");
+    b.type = "button";
+    b.className = "chip";
+    b.textContent = text;
+    b.addEventListener("click", () => chatSend(text));
+    box.appendChild(b);
+  }
+}
+
+function openChat() {
+  const panel = $("#chat");
+  panel.hidden = false;
+  if (!CHAT.opened) {
+    CHAT.opened = true;
+    chatAdd("assistant", CHAT_GREETING);
+    const initial = $("#situation").value.trim();
+    if (initial) $("#chat-input").value = initial;
+  }
+  ensureSemantic();
+  panel.scrollIntoView({ behavior: "smooth", block: "start" });
+  $("#chat-input").focus();
+}
+
+async function chatSend(text) {
+  const content = String(text || "").trim();
+  if (!content || CHAT.busy) return;
+  chatError("");
+  if (!$("#chat-consent").checked) {
+    chatError("Cochez la case d'accord pour échanger avec l'assistant, ou utilisez directement « Voir les propositions ».");
+    return;
+  }
+  CHAT.busy = true;
+  $("#chat-send").disabled = true;
+  chatSuggestions([]);
+  chatAdd("user", content);
+  $("#chat-input").value = "";
+  CHAT.history.push({ role: "user", content });
+  const pending = chatAdd("assistant", "…", "pending");
+  try {
+    const res = await fetch(chatUrl(), { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ messages: CHAT.history.slice(-15) }) });
+    const data = await res.json().catch(() => ({}));
+    if (!res.ok) throw new Error(data.error || `L'assistant a répondu avec une erreur ${res.status}.`);
+    pending.remove();
+    chatAdd("assistant", data.reply);
+    CHAT.history.push({ role: "assistant", content: data.reply });
+    chatSuggestions(data.suggestions);
+    if (data.summary) {
+      const box = $("#chat-summary-box");
+      box.hidden = false;
+      $("#chat-summary").value = data.summary;
+      box.classList.toggle("ready", Boolean(data.ready));
+    }
+  } catch (err) {
+    pending.remove();
+    CHAT.history.pop(); /* le message n'a pas reçu de réponse : on pourra le renvoyer */
+    $("#chat-input").value = content;
+    chatError(err.message || "L'assistant est indisponible. Vous pouvez décrire votre situation directement dans le champ ci-dessus.");
+  } finally {
+    CHAT.busy = false;
+    $("#chat-send").disabled = false;
+  }
+}
+
+function chatSearch() {
+  const summary = $("#chat-summary").value.trim();
+  if (summary.length < 10) return chatError("Le résumé est trop court. Complétez-le ou continuez l'échange.");
+  $("#situation").value = summary;
+  $("#ask-form").requestSubmit();
+}
+
+function initChat() {
+  if (!aiAvailable()) {
+    $("#chat-open").hidden = true;
+    return;
+  }
+  $("#chat-open").addEventListener("click", openChat);
+  $("#chat-close").addEventListener("click", () => { $("#chat").hidden = true; });
+  $("#chat-form").addEventListener("submit", (e) => { e.preventDefault(); chatSend($("#chat-input").value); });
+  $("#chat-input").addEventListener("keydown", (e) => {
+    if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); chatSend($("#chat-input").value); }
+  });
+  $("#chat-search").addEventListener("click", chatSearch);
+}
+
 /* ---------- Interactions ---------- */
 
 function showError(message) {
@@ -607,6 +719,7 @@ function setResultsMeta(selection, ai) {
 
 function init() {
   if (!aiAvailable()) $("#mode-ia-option").hidden = true;
+  initChat();
   $("#ask-form").addEventListener("submit", onSubmit);
   /* Le modèle (environ 120 Mo) n'est téléchargé qu'à la première interaction avec le formulaire. */
   const warmUp = () => ensureSemantic();
